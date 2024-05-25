@@ -1,0 +1,1101 @@
+,ticker,date,time,headline,pred_label
+0,WBA,2021-01-07,07:00:00," Walgreens Expands Access To Covid Vaccinations Among Additional Vulnerable Populations  Walgreens Sees H1 Adj. EPS In Line With Prior View; Backs FY Profit View  Walgreens Boots Alliance, Inc. Q1 adjusted earnings Beat Estimates Walgreens Boots Alliance Q1 21 Earnings Conference Call At 8:30 AM ET ",1
+1,STZ,2021-01-07,08:00:00, Constellation Brands Q3 Profit Tops Estimates - Quick Facts ,1
+2,CAG,2021-01-07,07:30:00, Conagra Brands Guides Q3 Adj. EPS In Line With View; Reaffirms 2022 Outlook - Quick Facts  Conagra Brands Inc. Q2 adjusted earnings Beat Estimates,1
+3,LW,2021-01-07,08:30:00," Lamb Weston Says U.S. Shipments For First 4 Weeks Of Q3 At 85% Of Prior-year Levels  Lamb Weston Holdings, Inc. Profit Declines In Q2",0
+4,DAL,2021-01-14,07:00:00, Delta Air Lines Reports Adj. Pre-tax Loss In Q4 - Quick Facts  Delta Air Lines Inc Q4 adjusted earnings Miss Estimates Delta Air Lines Q4 20 Earnings Conference Call At 10:00 AM ET ,0
+5,BLK,2021-01-14,06:00:00," Blackrock Q4 20 Earnings Conference Call At 8:30 AM ET  BlackRock Q4 Profit Rises 19%, Results Top Estimates - Quick Facts  Blackrock Inc. Q4 adjusted earnings Beat Estimates",1
+6,WFC,2021-01-15,08:00:00," Wells Fargo Q4 Profit Tops View, But Revenues Miss  Wells Fargo & Co Bottom Line Rises In Q4 Wells Fargo Q4 20 Earnings Conference Call At 10:00 AM ET ",0.5
+7,JPM,2021-01-15,07:00:00, JPMorgan Chase & Co Q4 Profit Tops Estimates; Managed Net Revenue Up 3%  JPMorgan Chase & Co. Reveals Gain In Q4 Earnings JPMorgan Chase Q4 20 Earnings Conference Call At 8:30 AM ET ,1
+8,C,2021-01-15,08:00:00," Citigroup Q4 Profit Declines On Lower Revenues, Higher Expenses  Citigroup Inc. Q4 Profit Declines Citigroup Q4 20 Earnings Conference Call At 11:30 AM ET ",0
+9,PNC,2021-01-15,06:45:00, PNC Financial Services Group Inc. Reveals Rise In Q4 Bottom Line PNC Financial Services Group Q4 20 Earnings Conference Call At 11:00 AM ET ,1
+10,GS,2021-01-19,07:30:00, Goldman Sachs Q4 Profit More Than Doubles; Results Top Estimates  Goldman Sachs Group Inc. Reveals Gain In Q4 Bottom Line Goldman Sachs Group Q4 20 Earnings Conference Call At 9:30 AM ET ,1
+11,CMA,2021-01-19,06:00:00, Comerica Inc. Reveals Drop In Q4 Earnings Comerica Q4 20 Earnings Conference Call At 8:00 AM ET ,0
+12,BAC,2021-01-19,06:45:00," Bank Of America Q4 Profit Tops Estimates; Revenue Down 10%  Bank of America Corporation Announces Drop In Q4 Earnings Bank Of America Board Approves Stock Repurchase Plan, Declares Quarterly Dividend  Bank Of America Q4 20 Earnings Conference Call At 8:30 AM ET ",0.5
+13,HAL,2021-01-19,07:00:00, Halliburton Company Q4 adjusted earnings Beat Estimates Halliburton Q4 20 Earnings Conference Call At 9:00 AM ET ,1
+14,STT,2021-01-19,07:30:00," State Street Q4 Profit Declines, But Results Beat Estimates - Quick Facts  EARNINGS SUMMARY: Details of State Street Corp. Q4 Earnings Report State Street Q4 20 Earnings Conference Call At 10:00 AM ET ",0.5
+15,SCHW,2021-01-19,08:45:00,, 
+16,PG,2021-01-20,07:00:00, Procter & Gamble Raises FY21 Outlook - Quick Facts  Procter & Gamble Co. Q2 adjusted earnings Beat Estimates Procter & Gamble Q2 21 Earnings Conference Call At 8:30 AM ET ,1
+17,MS,2021-01-20,07:30:00, Morgan Stanley Q4 Results Beat View  Morgan Stanley Q4 adjusted earnings Beat Estimates Morgan Stanley Q4 20 Earnings Conference Call At 8:30 AM ET ,1
+18,USB,2021-01-20,06:45:00," U.S. Bancorp Q4 Profit Rises, Meets Estimates - Quick Facts  US Bancorp Q4 Profit Advances US Bancorp Q4 20 Earnings Conference Call At 9:00 AM ET ",1
+19,UNH,2021-01-20,08:00:00," UnitedHealth Group Reaffirms FY21 Outlook - Quick Facts  Unitedhealth Group, Inc. Q4 adjusted earnings Beat Estimates Unitedhealth Group Q4 20 Earnings Conference Call At 8:45 AM ET ",1
+0,BK,2021-01-20,06:30:00," BNY Mellon Q4 Profit Halves, But Results Top Estimates - Quick Facts  The Bank of New York Mellon Corp. Q4 adjusted earnings Beat Estimates The Bank Of New York Mellon Q4 20 Earnings Conference Call At 8:00 AM ET ",1
+1,FAST,2021-01-20,06:50:00, Fastenal Co. Reports Advance In Q4 Earnings Fastenal Q4 20 Earnings Conference Call At 10:00 AM ET ,1
+2,CFG,2021-01-20,07:00:00," Citizens Financial Board Approves $750 Mln Stock Repurchase Program - Quick Facts  EARNINGS SUMMARY: Details of Citizens Financial Group, Inc. Q4 Earnings Report Citizens Financial Group Q4 20 Earnings Conference Call At 8:00 AM ET ",1
+3,BKR,2021-01-21,07:00:00, Baker Hughes Company Q4 adjusted earnings Miss Estimates Baker Hughes Q4 20 Earnings Conference Call At 9:00 AM ET ,0
+4,TRV,2021-01-21,06:57:00," Travelers Q4 Profit Beats View, Revenue Matches Estimates - Quick Facts  The Travelers Companies  Inc. Q4 adjusted earnings Beat Estimates The Travelers Companies Q4 20 Earnings Conference Call At 9:00 AM ET ",1
+5,UNP,2021-01-21,08:00:00, Union Pacific Corp. Q4 adjusted earnings Beat Estimates Union Pacific Q4 20 Earnings Conference Call At 8:45 AM ET ,1
+6,NTRS,2021-01-21,07:30:00, Northern Trust Corp. Announces Fall In Q4 Earnings,0
+7,MTB,2021-01-21,08:00:00, M&T Bank Q4 20 Earnings Conference Call At 11:00 AM ET  M&T Bank Corp. Q4 adjusted earnings Beat Estimates,1
+8,KEY,2021-01-21,06:30:00, KeyCorp Earnings Advance In Q4 KeyCorp Q4 20 Earnings Conference Call At 10:00 AM ET ,1
+9,FITB,2021-01-21,06:00:00, Fifth Third Bancorp Q4 Income Drops,0
+10,TFC,2021-01-21,08:00:00, Truist Financial Q4 20 Earnings Conference Call At 8:00 AM ET  Truist Financial Q4 Results Top Estimates - Quick Facts  Truist Financial Corporation Q4 adjusted earnings of $1.18 per share,1
+11,SLB,2021-01-22,07:00:00, Schlumberger Ltd. Q4 adjusted earnings Beat Estimates Schlumberger Q4 20 Earnings Conference Call At 8:30 AM ET ,1
+12,HBAN,2021-01-22,08:00:00, Huntington Bancshares Issues Revenue Outlook; Declares Dividend  Huntington Bancshares Inc. Q4 Income Drops Huntington Bancshares Q4 20 Earnings Conference Call At 8:30 AM ET ,0
+13,RF,2021-01-22,08:00:00," Regions Financial Q4 Profit Rises 61%, Results Top Estimates - Quick Facts  Regions Financial Corp. Q4 Income Climbs Regions Financial Q4 20 Earnings Conference Call At 11:00 AM ET ",1
+14,KMB,2021-01-25,07:30:00, Kimberly-Clark Q4 Results Top Estimates; Boosts Dividend 6.5%  Kimberly-Clark Corp Q4 adjusted earnings Beat Estimates Kimberly-Clark Q4 20 Earnings Conference Call At 10:00 AM ET ,1
+15,JNJ,2021-01-26,07:00:00, Johnson & Johnson Projects 2021 Adjusted Operational EPS Growth Of 16.4% - Quick Facts  Johnson & Johnson Q4 adjusted earnings Beat Estimates Johnson & Johnson Q4 20 Earnings Conference Call At 8:30 AM ET ,1
+16,GE,2021-01-26,06:30:00," GE Q4 Profit Surges, Revenue Beats View  General Electric Co Q4 adjusted earnings Miss Estimates General Electric Q4 20 Earnings Conference Call At 8:00 AM ET ",1
+17,CCL,2021-01-26,08:00:00,, 
+18,VZ,2021-01-26,07:00:00, Verizon Issues FY21 Outlook - Quick Facts  Verizon Communications Q4 adjusted earnings Beat Estimates Verizon Communications Q4 20 Earnings Conference Call At 8:30 AM ET ,1
+19,MMM,2021-01-26,07:00:00, 3M Guides FY21 In Line With Estimates; Q4 Results Top View - Quick Facts  3M Co. Q4 adjusted earnings Beat Estimates 3M Co. Q4 20 Earnings Conference Call At 9:00 AM ET ,1
+0,LMT,2021-01-26,08:00:00, Lockheed Martin Issues 2021 Outlook - Quick Facts  Lockheed Martin Corp. Reports Increase In Q4 Profit Lockheed Martin Q4 20 Earnings Conference Call At 11:00 AM ET ,1.0
+1,FCX,2021-01-26,08:00:00, Freeport-McMoRan Q4 Profit Tops Estimates - Quick Facts  Freeport-McMoRan Inc. Q4 adjusted earnings Beat Estimates,1.0
+2,PCAR,2021-01-26,08:00:00,,0.5
+3,NEE,2021-01-26,08:00:00," NextEra Energy's Long-term Outlook Remains Unchanged - Quick Facts  NextEra Energy Q4 20 Earnings Conference Call At 9:00 AM ET  NextEra Energy, Inc. Q4 adjusted earnings Beat Estimates",1.0
+4,IVZ,2021-01-26,06:00:00, Invesco Ltd. Q4 adjusted earnings Beat Estimates,1.0
+5,DHI,2021-01-26,06:30:00, D R Horton Raises FY21 Outlook - Quick Facts  D R Horton Inc. Reveals Advance In Q1 Profit,1.0
+6,AXP,2021-01-26,07:00:00, American Express Co. Reports Retreat In Q4 Bottom Line American Express Q4 20 Earnings Conference Call At 8:30 AM ET ,0.0
+7,ADM,2021-01-26,08:00:00, Archer Daniels Midland Q4 20 Earnings Conference Call At 9:00 AM ET  Archer-Daniels-Midland Q4 adjusted earnings Beat Estimates,1.0
+8,ROK,2021-01-26,07:00:00, Rockwell Automation Q1 21 Earnings Conference Call At 8:30 AM ET  Rockwell Automation  Inc. Q1 adjusted earnings of $2.38 per share Rockwell Automation Updates FY21 Guidance - Quick Facts ,1.0
+9,RTX,2021-01-26,08:00:00, Raytheon Technologies Q4 20 Earnings Conference Call At 8:30 AM ET  Raytheon Technologies Guides FY21 Adj. EPS In Line With Estimates - Quick Facts  Raytheon Technologies Corporation Q4 adjusted earnings of $0.74 per share,1.0
+10,PLD,2021-01-26,08:00:00, Prologis Guides FY21 EPS Well Above Estimates - Quick Facts  ProLogis Q4 adjusted earnings of $0.95 per share,1.0
+11,T,2021-01-27,07:00:00, AT&T Posts Q4 Loss; But Results Beat Estimates  AT&T Sued For Allegedly Stealing Patented Twinning Technology  AT&T Inc. Q4 adjusted earnings Beat Estimates AT&T Q4 20 Earnings Conference Call At 8:30 AM ET ,1.0
+12,BA,2021-01-27,07:00:00, Boeing Q4 Loss Sharply Widens - Quick Facts  The Boeing Co. Q4 adjusted earnings Miss Estimates The Boeing Q4 20 Earnings Conference Call At 10:30 AM ET ,0.0
+13,GD,2021-01-27,08:00:00, General Dynamics Q4 20 Earnings Conference Call At 9:00 AM ET  General Dynamics Corp. Profit Drops In Q4,0.0
+14,ELV,2021-01-27,06:00:00,,0.5
+15,BX,2021-01-27,08:00:00, Blackstone Q4 Profit Tops Estimates ,1.0
+16,ABT,2021-01-27,08:00:00, Abbott Projects 2021 EPS Growth Of More Than 35% - Quick Facts  Abbott Laboratories Q4 adjusted earnings Beat Estimates Abbott Laboratories Q4 20 Earnings Conference Call At 9:00 AM ET ,1.0
+17,VFC,2021-01-27,06:55:00, VF Corp Q3 21 Earnings Conference Call At 8:30 AM ET  VF Corp. Boosts FY21 Outlook - Quick Facts  VF Corp Q3 adjusted earnings of $0.93 per share,1.0
+18,TXT,2021-01-27,06:30:00, Textron Q4 20 Earnings Conference Call At 8:00 AM ET  Textron Guides FY21 Adj. EPS Above Estimates - Quick Facts  Textron Inc. Q4 adjusted earnings Beat Estimates,1.0
+19,TEL,2021-01-27,08:00:00, TE Connectivity Q1 21 Earnings Conference Call At 8:30 AM ET  TE Connectivity Ltd. Q1 adjusted earnings Beat Estimates,1.0
+0,TDY,2021-01-27,07:30:00, Teledyne Issues Outlook - Quick Facts  Teledyne Technologies Inc Reports Gain In Q4 Bottom Line,1
+1,ROL,2021-01-27,07:30:00," Rollins, Inc. Profit Climbs In Q4",1
+2,PGR,2021-01-27,08:32:00,,0.5
+3,NSC,2021-01-27,08:00:00, Norfolk Southern Raises Dividend - Quick Facts  Norfolk Southern Q4 20 Earnings Conference Call At 8:45 AM ET ,1
+4,NDAQ,2021-01-27,07:00:00, Nasdaq Inc. Q4 adjusted earnings Beat Estimates Nasdaq Q4 20 Earnings Conference Call At 8:00 AM ET ,1
+5,HES,2021-01-27,07:30:00, Hess Corporation Q4 adjusted earnings Beat Estimates,1
+6,GLW,2021-01-27,07:15:00, Corning Inc. Q4 adjusted earnings Beat Estimates Corning Q4 20 Earnings Conference Call At 8:30 AM ET ,1
+7,APH,2021-01-27,08:00:00, Amphenol Board Approves 2-for-1 Stock Split - Quick Facts  Amphenol Corp. Q4 adjusted earnings Beat Estimates,1
+8,ADP,2021-01-27,08:00:00, Automatic Data Processing Raises FY21 Outlook - Quick Facts  Automatic Data Processing Inc. Q2 adjusted earnings Beat Estimates Automatic Data Processing Q2 21 Earnings Conference Call At 8:30 AM ET ,1
+9,MKTX,2021-01-27,06:30:00," MarketAxess Holdings Inc. Earnings Rise In Q4 MarketAxess Q4 Profit Tops Estimates, Revenues Up 32%; Announces Increase In Dividend ",1
+10,MCD,2021-01-28,08:30:00, McDonald's Q4 Profit Down; U.S. Comps. Up 5.5%  McDonalds Corp. Q4 adjusted earnings Miss Estimates McDonald's Q4 20 Earnings Conference Call At 8:30 AM ET ,0
+11,VLO,2021-01-28,06:30:00, Valero Energy Corp. Q4 adjusted earnings Beat Estimates,1
+12,NOC,2021-01-28,06:40:00, Northrop Grumman Initiates FY21 Outlook Below Estimates - Quick Facts ,0
+13,MO,2021-01-28,07:00:00, Altria Initiates FY21 Adj. EPS Outlook Below Estimates  - Quick Facts ,0
+14,MA,2021-01-28,08:00:00, Mastercard Incorporated Q4 adjusted earnings Beat Estimates Mastercard Q4 20 Earnings Conference Call At 9:00 AM ET ,1
+15,LUV,2021-01-28,08:00:00, Southwest Airlines Inc. Q4 adjusted earnings Beat Estimates Southwest Airlines Posts Adj. Loss In Q4; Operating Revenues Down 64.9%  Southwest Airlines Q4 20 Earnings Conference Call At 12:30 PM ET ,1
+16,CMCSA,2021-01-28,08:00:00, Comcast Hikes Dividend By 9% - Quick Facts  Comcast Corp. Q4 adjusted earnings Beat Estimates Comcast Q4 20 Earnings Conference Call At 8:30 AM ET ,1
+17,AAL,2021-01-28,07:00:00, American Airlines Group Posts Adj. Loss In Q4; Revenues	down 64.4%  American Airlines Group Inc Q4 adjusted earnings Beat Estimates American Airlines Group Q4 20 Earnings Conference Call 8:30 AM ET ,1
+18,XEL,2021-01-28,06:00:00, Xcel Energy Inc Reveals Fall In Q4 Profit,0
+19,WRK,2021-01-28,08:00:00, WestRock Q1 21 Earnings Conference Call At 8:30 AM ET  WestRock Company Q1 adjusted earnings Beat Estimates,1
+0,SWK,2021-01-28,08:00:00," Stanley Black & Decker Guides FY21 In Line With Estimates - Quick Facts  Stanley Black & Decker, Inc. Q4 adjusted earnings Beat Estimates Stanley Black & Decker Q4 20 Earnings Conference Call At 8:00 AM ET ",1.0
+1,SHW,2021-01-28,07:00:00, Sherwin-Williams Guides FY21 In Line With Estimates - Quick Facts  Sherwin-Williams Co Reports Gain In Q4 Profit,1.0
+2,PNR,2021-01-28,06:55:00, Pentair Introduces Q1 & FY21 Guidance - Quick Facts ,0.5
+3,PHM,2021-01-28,08:00:00," PulteGroup Commences Cash Tender Offer For Up To $300 Mln Senior Notes - Quick Facts  PulteGroup, Inc. Q4 adjusted earnings Beat Estimates",1.0
+4,NVR,2021-01-28,09:00:00,,0.5
+5,NUE,2021-01-28,08:00:00, Nucor Expects Q1 Earnings To Significantly Increase From Prior Quarter - Quick Facts  Nucor Corp. Q4 Earnings Rise,1.0
+6,MMC,2021-01-28,07:00:00, Marsh & McLennan Q4 20 Earnings Conference Call At 8:30 AM ET  Marsh & McLennan Companies Inc Q4 adjusted earnings Beat Estimates,1.0
+7,MKC,2021-01-28,06:30:00, McCormick Initiates FY21 Outlook In Line With Estimates - Quick Facts  McCormick & Co. Q4 Adjusted Earnings Miss Estimates  McCormick & Co. Q4 20 Earnings Conference Call At 8:00 AM ET ,0.0
+8,DOW,2021-01-28,06:00:00, Dow Inc. Q4 adjusted earnings Beat Estimates,1.0
+9,DOV,2021-01-28,07:00:00," Dover Sees FY21 Earnings, Revenue Growth Above Estimates - Quick Facts  Dover Corp Q4 adjusted earnings Beat Estimates",1.0
+10,DHR,2021-01-28,07:00:00, Danaher Corp. Q4 adjusted earnings Beat Estimates Danaher Q4 Results Beat View - Quick Facts ,1.0
+11,AOS,2021-01-28,08:00:00, A. O. Smith Issues FY21 Outlook - Quick Facts  A.O. Smith Corp Q4 adjusted earnings Beat Estimates,1.0
+12,TSCO,2021-01-28,06:05:00, Tractor Supply Sees FY EPS In Line With View  Tractor Supply Q4 adjusted earnings Beat Estimates Tractor Supply Q4 20 Earnings Conference Call At 10:00 AM ET ,1.0
+13,MSCI,2021-01-28,08:00:00, MSCI Inc. Q4 adjusted earnings Beat Estimates,1.0
+14,TROW,2021-01-28,07:30:00, T. Rowe Price Group Q4 adjusted earnings Beat Estimates,1.0
+15,CAT,2021-01-29,06:30:00," Caterpillar Q4 Profit Falls, But Beats Estimates - Quick Facts  Cat Financial Q4 Profit Down 8% - Quick Facts  Caterpillar Inc. Q4 adjusted earnings of $2.12 per share Caterpillar Q4 20 Earnings Conference Call At 8:30 AM ET ",1.0
+16,LLY,2021-01-29,08:00:00, Eli Lilly Q4 Results Top Estimates; Backs FY21 Outlook  Eli Lilly And Co. Q4 adjusted earnings Beat Estimates Eli Lilly And Co. Q4 20 Earnings Conference Call At 9:00 AM ET ,1.0
+17,HON,2021-01-29,07:00:00, Honeywell Issues 2021 Outlook - Quick Facts  Honeywell International Inc. Q4 adjusted earnings Beat Estimates Honeywell International Q4 20 Earnings Conference Call At 8:30 AM ET ,1.0
+18,CVX,2021-01-29,06:45:00, Chevron Posts Adj. Loss In Q4 - Quick Facts  Chevron Corp. Q4 adjusted earnings Miss Estimates Chevron Q4 20 Earnings Conference Call At 11:00 AM ET ,0.0
+19,WY,2021-01-29,03:05:00, Weyerhaeuser Co Q4 adjusted earnings Beat Estimates,1.0
+0,SYF,2021-01-29,06:30:00, Synchrony Financial Q4 20 Earnings Conference Call At 8:30 AM ET  Synchrony Financial Q4 Profit Down; To Buy Back Up To $1.6 Bln Of Shares  EARNINGS SUMMARY: Details of Synchrony Financial Q4 Earnings Report,0.0
+1,ROP,2021-01-29,06:55:00, Roper Technologies Q4 Profit Drops  Roper Technologies Inc. Q4 adjusted earnings Beat Estimates Roper Technologies Q4 20 Earnings Conference Call At 8:00 AM ET ,0.0
+2,PSX,2021-01-29,07:00:00, Phillips 66 Q4 adjusted earnings Miss Estimates Phillips 66 Q4 20 Earnings Conference Call At 12:00 PM ET ,0.0
+3,LYB,2021-01-29,08:00:00, LyondellBasell Industries N.V. Q4 adjusted earnings Beat Estimates,1.0
+4,JCI,2021-01-29,06:30:00, Johnson Controls To Achieving Net Zero Carbon Emissions Before 2040 - Quick Facts  Johnson Controls Guides FY21 In Line With Estimates - Quick Facts  Johnson Controls Inc Q1 adjusted earnings Beat Estimates Johnson Controls Q1 21 Earnings Conference Call At 7:30 AM ET ,1.0
+5,CL,2021-01-29,08:00:00, Colgate-Palmolive Guides FY21 Revenues In Line; Q4 Results Top View - Quick Facts  Colgate-Palmolive Co. Q4 adjusted earnings Beat Estimates Colgate-Palmolive Q4 20 Earnings Conference Call At 8:30 AM ET ,1.0
+6,CHTR,2021-01-29,07:00:00," Charter Communications Q4 20 Earnings Conference Call At 8:30 AM ET  Charter Communications, Inc. Q4 Earnings Climb",1.0
+7,CHD,2021-01-29,08:00:00, Church & Dwight Sees Q1 Earnings Below View; Hikes Dividend - Quick Facts  Church & Dwight Co Inc. Q4 adjusted earnings Beat Estimates,0.5
+8,LHX,2021-01-29,06:30:00," L3Harris Technologies Q4 20 Earnings Conference Call At 8:30 AM ET  L3Harris Technologies Board Hikes Dividend By 20%, Approves $6 Bln Share Buyback - Quick Facts  L3Harris Technologies, Inc. Q4 adjusted earnings Beat Estimates",1.0
+9,TMO,2021-02-01,06:00:00, Thermo Fisher Scientific Q4 adjusted earnings Beat Estimates Thermo Fisher Scientific Q4 20 Earnings Conference Call At 8:30 AM ET ,1.0
+10,OTIS,2021-02-01,06:08:00,,0.5
+11,ON,2021-02-01,08:00:00, ON Semiconductor Sees Q1 Revenue Above Estimates - Quick Facts  ON Semiconductor Corp. Q4 adjusted earnings Beat Estimates ON Semiconductor Q4 20 Earnings Conference Call At 9:00 AM ET ,1.0
+12,XOM,2021-02-02,08:00:00," Exxon Mobil Q4 20 Earnings Conference Call At 9:30 AM ET  Exxon Mobil Q4 Adj. Earnings Beat Estimates, But Revenues Miss - Quick Facts  Exxon Mobil Corp. Q4 adjusted earnings Beat Estimates",1.0
+13,UPS,2021-02-02,06:00:00, UPS Q4 Results Top Estimates - Quick Facts  United Parcel Service Q4 adjusted earnings Beat Estimates United Parcel Service Q4 20 Earnings Conference Call At 8:30 AM ET ,1.0
+14,PFE,2021-02-02,06:45:00, Pfizer Turns To Profit In Q4; Raises FY Profit View  Pfizer Inc. Q4 adjusted earnings of $0.42 per share,1.0
+15,MCK,2021-02-02,07:00:00, McKesson Boosts FY21 Adj. EPS Outlook; Authorizes $2 Bln Share Buyback - Quick Facts  McKesson Corp. Q3 adjusted earnings Beat Estimates McKesson Q3 21 Earnings Conference Call At 8:00 AM ET ,1.0
+16,SYY,2021-02-02,08:00:00, Sysco Corp. Q2 adjusted earnings Miss Estimates Sysco Q2 21 Earnings Conference Call At 10:00 AM ET ,0.0
+17,MPC,2021-02-02,08:00:00, Marathon Petroleum Projects Lower 2021 Capital Spending Of $1.4 Bln - Quick Facts  Marathon Petroleum Corporation Q4 adjusted earnings Beat Estimates Marathon Petroleum Q4 20 Earnings Conference Call At 11:00 AM ET ,1.0
+18,HUBB,2021-02-02,08:00:00,,0.5
+19,HCA,2021-02-02,07:30:00," HCA Healthcare Reinstates Quarterly Dividend Program - Quick Facts  HCA Healthcare, Inc. Reports Increase In Q4 Bottom Line",1.0
+0,ETN,2021-02-02,06:30:00," Eaton Guides Q1, FY21 Adj. EPS Well Above Estimates - Quick Facts  Eaton Corp. Q4 adjusted earnings Beat Estimates",1.0
+1,EMR,2021-02-02,08:00:00, Emerson Boosts FY21 Outlook - Quick Facts  Emerson Electric Co. Q1 adjusted earnings Beat Estimates,1.0
+2,CTLT,2021-02-02,07:15:00,,0.5
+3,COP,2021-02-02,08:00:00, ConocoPhillips Posts Adj. Loss In Q4 - Quick Facts  ConocoPhillips Q4 20 Earnings Conference Call At 12:00 PM ET ,0.0
+4,BR,2021-02-02,07:00:00," Broadridge Sees FY21 Recurring Revenue, Adjusted EPS Growth At High End Of Ranges  Broadridge Financial Solutions Inc. Q2 adjusted earnings Beat Estimates",1.0
+5,BEN,2021-02-02,08:00:00, Franklin Resources Inc. Q1 adjusted earnings Beat Estimates,1.0
+6,IDXX,2021-02-02,07:00:00," IDEXX Laboratories Q4 20 Earnings Conference Call At 8:30 AM ET  IDEXX Laboratories Sees FY21 Earnings, Revenue Above Estimates - Quick Facts  IDEXX Laboratories Inc Q4 Income Rises",1.0
+7,WAT,2021-02-02,08:00:00, Waters Corp. Issues Q1 & FY21 Outlook - Quick Facts  Waters Corp. Q4 adjusted earnings Beat Estimates,1.0
+8,TECH,2021-02-02,06:30:00, Bio-Techne Corp. Q2 Profit Tops Estimates; Organic Revenue Up 19% - Quick Facts ,1.0
+9,BIIB,2021-02-03,07:00:00, Biogen Guides FY21 Below Estimates; Q4 Results Top Estimates - Quick Facts  Biogen Inc. Q4 adjusted earnings Miss Estimates,0.5
+10,HUM,2021-02-03,06:30:00, Humana Q4 20 Earnings Conference Call At 9:00 AM ET  Humana Slips To Loss In Q4 On Higher Expenses  Humana Inc Q4 adjusted earnings Beat Estimates Humana Q4 20 Earnings Conference Call At 9:00 AM ET ,0.0
+11,ABBV,2021-02-03,07:00:00, AbbVie Q4 Results Top Estimates; Sees FY21 Profit Above View  AbbVie Q4 20 Earnings Conference Call At 9:00 AM ET  EARNINGS SUMMARY: Details of AbbVie Q4 Earnings Report,1.0
+12,HWM,2021-02-03,07:00:00,,0.5
+13,GWW,2021-02-03,08:00:00, Grainger (W.W.) Inc. Q4 adjusted earnings Miss Estimates,0.0
+14,BSX,2021-02-03,06:30:00," Boston Scientific Q4 20 Earnings Conference Call At 8:00 AM ET  Boston Scientific Sees Q1, FY21 Profit Below View  Boston Scientific Corp Q4 adjusted earnings Miss Estimates Boston Scientific Q4 20 Earnings Conference Call At 8:00 AM ET ",0.0
+15,AVY,2021-02-03,06:45:00, Avery Dennison Sees FY21 Profit Above View  Avery Dennison Corp. Q4 adjusted earnings Beat Estimates Avery Dennison Q4 20 Earnings Conference Call At 1:00 PM ET ,1.0
+16,APTV,2021-02-03,06:00:00, Aptiv Issues FY21 Outlook - Quick Facts  Aptiv PLC Q4 adjusted earnings Beat Estimates,1.0
+17,MRK,2021-02-04,06:45:00, Merck Issues FY21 Outlook; Elects Robert Davis As CEO  Merck Names Robert Davis CEO Effective July 1; Kenneth Frazier To Continue As Exe. Chairman ,1.0
+18,BMY,2021-02-04,07:00:00, Bristol-Myers Squibb Co. Q4 adjusted earnings Beat Estimates Bristol Myers Squibb Raises 2021 Adj. Earnings Guidance ,1.0
+19,YUM,2021-02-04,07:00:00, Yum! Brands Q4 Results Top Estimates  Yum! Brands Inc. Q4 adjusted earnings Beat Estimates Yum! Brands Q4 20 Earnings Conference Call At 8:15 AM ET ,1.0
+0,PM,2021-02-04,07:00:00, Philip Morris Issues FY21 Outlook - Quick Facts ,1
+1,CMI,2021-02-04,07:00:00, Cummins  Inc. Q4 adjusted earnings ,1
+2,CI,2021-02-04,06:00:00, Cigna Q4 20 Earnings Conference Call At 8:30 AM ET  Cigna Issues 2021 Outlook - Quick Facts  Cigna Corp. Q4 adjusted earnings Miss Estimates,0
+3,XYL,2021-02-04,06:55:00, Xylem Provides FY21 Guidance; Boosts Dividend 8% - Quick Facts  Xylem Inc. Q4 adjusted earnings Beat Estimates,1
+4,TPR,2021-02-04,07:00:00," Tapestry, Inc. Q2 adjusted earnings Beat Estimates",1
+5,RL,2021-02-04,08:00:00, Ralph Lauren Corp. Q3 Adjusted Earnings Beat Estimates ,1
+6,PH,2021-02-04,07:30:00, Parker Hannifin Raises FY21 Outlook - Quick Facts ,1
+7,ODFL,2021-02-04,07:00:00," Old Dominion Freight Line Q4 Profit Tops Estimates - Quick Facts  Old Dominion Freight Line, Inc. Profit Climbs In Q4",1
+8,IP,2021-02-04,08:00:00, International Paper Q4 adjusted earnings Miss Estimates,0
+9,ICE,2021-02-04,07:30:00, Intercontinental Exchange Boosts Quarterly Dividend By 10% - Quick Facts  IntercontinentalExchange Group Inc. Q4 adjusted earnings Beat Estimates,1
+10,HSY,2021-02-04,08:00:00, Hershey Q4 20 Earnings Conference Call At 8:30 AM ET  Hershey Sees FY21 Net Sales In Line With Estimates - Quick Facts  Hershey Co. Q4 adjusted earnings Beat Estimates,1
+11,CMS,2021-02-04,08:00:00, CMS Energy Raises 2021 Adjusted Earnings Guidance  CMS Energy Corp. Q4 adjusted earnings Beat Estimates,1
+12,CLX,2021-02-04,08:00:00, Clorox Boosts FY21 Outlook - Quick Facts  Clorox Co. Q2 Profit Rises,1
+13,BDX,2021-02-04,06:00:00," Becton, Dickinson And Co. Q1 21 Earnings Conference Call At 8:00 AM ET  Becton, Dickinson Raises FY21 Outlook - Quick Facts  Becton, Dickinson and Company Q1 adjusted earnings Beat Estimates",1
+14,BAX,2021-02-04,07:15:00, Baxter International Q4 20 Earnings Conference Call At 8:30 AM ET  Baxter Issues Q1 & FY21 Guidance - Quick Facts  Baxter International Inc. Q4 adjusted earnings Beat Estimates,1
+15,APD,2021-02-04,06:00:00, Air Products And Chemicals Inc. Q1 adjusted earnings Miss Estimates Air Products And Chemicals Q1 21 Earnings Conference Call At 10:00 AM ET ,0
+16,AME,2021-02-04,06:55:00," AMETEK Guides Q1, FY21 Adj. EPS In Line With Estimates - Quick Facts  Ametek Inc. Q4 adjusted earnings Beat Estimates",1
+17,WEC,2021-02-04,07:00:00, WEC Energy Group Profit Drops In Q4,0
+18,SNA,2021-02-04,08:00:00, Snap-On Inc. Q4 adjusted earnings Beat Estimates,1
+19,DGX,2021-02-04,06:45:00, Quest Diagnostics Q4 20 Earnings Conference Call At 8:30 AM ET  Quest Diagnostics Q4 adjusted earnings Beat Estimates Quest Increases Dividend ,1
+0,COR,2021-02-04,06:30:00,,0.5
+1,CAH,2021-02-05,08:00:00, Cardinal Health Raises FY21 Adj. Earnings Outlook - Quick Facts  Cardinal Health Inc Q2 adjusted earnings Beat Estimates Cardinal Health Q2 21 Earnings Conference Call At 8:30 AM ET ,1
+2,TT,2021-02-05,07:00:00,,0.5
+3,REGN,2021-02-05,08:00:00, Regeneron Pharmaceuticals Q4 adjusted earnings Beat Estimates Regeneron Pharmaceuticals Q4 20 Earnings Conference Call At 8:30 AM ET ,1
+4,ITW,2021-02-05,08:00:00, Illinois Tool Works Sees FY21 Profit In Line With View  Illinois Tool Works Inc Announces Gain In Q4 Profit Illinois Tool Works Q4 20 Earnings Conference Call At 11:00 AM ET ,1
+5,EL,2021-02-05,06:45:00, Estée Lauder Guides Q3 Below Estimates - Quick Facts  The Estée Lauder Companies Inc. Q2 adjusted earnings Beat Estimates The Estée Lauder Companies Q2 21 Earnings Conference Call At 9:30 AM ET ,0
+6,AON,2021-02-05,06:00:00, Aon plc Q4 adjusted earnings Beat Estimates Aon Plc Q4 20 Earnings Conference Call At 8:30 AM ET ,1
+7,ZBH,2021-02-05,06:30:00, Zimmer Biomet Holdings Q4 20 Earnings Conference Call At 8:30 AM ET  Zimmer Biomet To Spin-off Spine And Dental Businesses Into Publicly Traded Company  Zimmer Biomet Plans To Spin Off Spine And Dental Businesses - Quick Facts  Zimmer Biomet Holdings Inc. Q4 adjusted earnings Beat Estimates,1
+8,LIN,2021-02-05,06:00:00,,0.5
+9,CBOE,2021-02-05,07:30:00," Cboe Global Markets Targets Mid-term Organic Net Revenue Growth 4 - 6 Percentage Points  CBOE Global Markets, Inc. Q4 adjusted earnings Miss Estimates CBOE Global Markets Q4 20 Earnings Conference Call At 8:30 AM ET ",0
+10,GPN,2021-02-08,07:00:00," Global Payments, Google Form Multi-year Strategic Partnership - Quick Facts  Global Payments Guides FY21 In Line With Estimates - Quick Facts  Global Payments Inc. Q4 adjusted earnings Beat Estimates Global Payments Q4 20 Earnings Conference Call At 8:00 AM ET ",1
+11,L,2021-02-08,08:00:00, Loews Corp. Profit Advances In Q4 Loews Q4 20 Earnings Conference Call At 10:00 AM ET ,1
+12,HAS,2021-02-08,08:00:00, Hasbro Inc. Q4 adjusted earnings of $1.27 per share Hasbro Q4 20 Earnings Conference Call At 8:30 AM ET ,1
+13,FOXA,2021-02-09,07:30:00, Fox Corp. Q2 Results Beat View  Fox Corporation Q2 adjusted earnings Beat Estimates Twenty-First Century Fox Q2 21 Earnings Conference Call At 8:30 AM ET ,1
+14,DD,2021-02-09,06:00:00," DuPont Q4 Results Top Estimates; Sees Q1, FY21 Above View  EI DuPont De Nemours & Co. Q4 adjusted earnings Beat Estimates EI DuPont De Nemours & Co. Q4 20 Earnings Conference Call At 8:00 AM ET ",1
+15,CNC,2021-02-09,06:00:00, Centene Q4 20 Earnings Conference Call At 8:30 AM ET  Centene Corp. Issues 2021 Outlook - Quick Facts  Centene Corporation Q4 adjusted earnings Miss Estimates,0
+16,TDG,2021-02-09,08:00:00, TransDigm Group Incorporated Q1 adjusted earnings Miss Estimates,0
+17,SPGI,2021-02-09,07:15:00, S&P Global Issues 2021 Outlook - Quick Facts  S&P Global Q4 20 Earnings Conference Call At 8:30 AM ET  S&P Global Inc. Q4 adjusted earnings Beat Estimates,1
+18,J,2021-02-09,08:00:00, Jacobs Engineering Lifts Midpoint Of FY21 Adj. EPS Outlook - Quick Facts  Jacobs Engineering Group Inc. Q1 adjusted earnings Beat Estimates,1
+19,WTW,2021-02-09,06:00:00, Willis Towers Watson Public Limited Company Q4 adjusted earnings Beat Estimates,1
+0,MAS,2021-02-09,07:00:00, Masco Corp. Q4 adjusted earnings Beat Estimates Masco Q4 20 Earnings Conference Call At 8:00 AM ET ,1
+1,IT,2021-02-09,08:00:00," Gartner, Inc. Q4 adjusted earnings Beat Estimates Gartner Q4 20 Earnings Conference Call At 8:00 AM ET ",1
+2,FIS,2021-02-09,08:00:00, Fidelity National Information Services Q4 adjusted earnings Beat Estimates,1
+3,MLM,2021-02-09,06:50:00," Martin Marietta Materials, Inc. Bottom Line Advances In Q4",1
+4,INCY,2021-02-09,07:00:00, Incyte Q4 Results Top Estimates - Quick Facts  Incyte Corporation Q4 adjusted earnings Beat Estimates Incyte Q4 20 Earnings Conference Call At 8:00 AM ET ,1
+5,FOX,2021-02-09,08:00:00, Fox Corp. Q2 Results Beat View  Fox Corporation Q2 adjusted earnings Beat Estimates Twenty-First Century Fox Q2 21 Earnings Conference Call At 8:30 AM ET ,1
+6,CARR,2021-02-09,08:00:00,,0
+7,KO,2021-02-10,06:55:00," Coca-Cola Q4 Profit Tops Estimates, Organic Revenue Down 3%; Reinstates Guidance  The Coca-Cola Company Q4 adjusted earnings Beat Estimates The Coca-Cola Q4 20 Earnings Conference Call At 8:30 AM ET ",1
+8,GM,2021-02-10,07:30:00, General Motors Q4 Profit Tops Estimates; Issues FY21 Earnings Outlook  General Motors Company Q4 adjusted earnings Beat Estimates General Motors Q4 20 Earnings Conference Call At 10:00 AM ET ,1
+9,CDW,2021-02-10,07:00:00, CDW Corp. Board Approves $1.25 Bln Share Repurchase Increase; Hikes Dividend - Quick Facts  CDW Corporation Q4 adjusted earnings Beat Estimates,1
+10,BG,2021-02-10,06:00:00, Bunge Q4 Adj. Profit Rises ,1
+11,IQV,2021-02-10,07:00:00, IQVIA Holdings Boosts FY21 Outlook - Quick Facts  IQVIA Holdings Inc. Q4 adjusted earnings Beat Estimates,1
+12,CME,2021-02-10,07:00:00," CME Group, Inc. Q4 adjusted earnings Beat Estimates CME Group Q4 20 Earnings Conference Call At 8:30 AM ET ",1
+13,TYL,2021-02-10,06:46:00, Tyler Technologies To Acquire NIC For About $2.3 Bln - Quick Facts ,0.5
+14,IPG,2021-02-10,07:00:00, Interpublic Group Board Hikes Quarterly Dividend By 6% - Quick Facts  Interpublic Group Of Companies Inc. Q4 adjusted earnings Beat Estimates Interpublic Group Of Companies Q4 20 Earnings Conference Call At 8:30 AM ET ,1
+15,PEP,2021-02-11,06:00:00, PepsiCo Q4 Results Top Estimates; Boosts Dividend 5%  Pepsico Inc Q4 adjusted earnings Beat Estimates Pepsico Q4 20 Earnings Conference Call At 8:15 AM ET ,1
+16,TSN,2021-02-11,07:30:00, Tyson Foods Q1 Adj. EPS Tops Estimates; Backs FY21 Sales Outlook - Quick Facts  Tyson Foods Q1 21 Earnings Conference Call At 8:00 AM ET ,1
+17,TAP,2021-02-11,07:00:00, Molson Coors Brewing Company Q4 Earnings Retreat,0
+18,KHC,2021-02-11,08:00:00, The Kraft Heinz Q4 20 Earnings Conference Call At 9:00 AM ET  Kraft Heinz To Sell Planters Snack Nut Portfolio To Hormel Foods For $3.35 Mln Cash - Quick Facts  Kraft Heinz Continues To Expect FY21 Performance Ahead Of Strategic Plan - Quick Facts  The Kraft Heinz Company Q4 adjusted earnings Beat Estimates,1
+19,K,2021-02-11,08:00:00," Kellogg Board Plans To Hike Quarterly Dividend In Q2, Resume Share Buyback - Quick Facts  Kellogg Company Q4 adjusted earnings of $0.86 per share Kellogg Q4 20 Earnings Conference Call At 9:30 AM ET ",1
+0,HII,2021-02-11,08:00:00," Huntington Ingalls Q4 Adj. Profit Rises - Quick Facts  Huntington Ingalls Industries, Inc. Q4 adjusted earnings of $4.35 per share",1
+1,DUK,2021-02-11,07:00:00, Duke Energy Corp Q4 adjusted earnings Inline With Estimates Duke Energy Slips To Loss In Q4 - Quick Facts ,0
+2,BWA,2021-02-11,06:30:00, BorgWarner Issues 2021 Guidance - Quick Facts  Borg Warner Inc. Bottom Line Advances In Q4 Borg Warner Q4 20 Earnings Conference Call At 9:30 AM ET ,1
+3,ZBRA,2021-02-11,07:00:00, Zebra Technologies Sees Q1 Earnings Above Estimates - Quick Facts  Zebra Technologies Corporation Q4 adjusted earnings Beat Estimates,1
+4,LH,2021-02-11,06:45:00, Laboratory Corporation Of America Holdings Q4 20 Earnings Conference Call At 9:00 AM ET  Labcorp Issues Outlook - Quick Facts  Laboratory Corporation Of America Holdings Q4 adjusted earnings Beat Estimates,1
+5,KIM,2021-02-11,08:00:00, Kimco Realty Guides FY21 EPS In Line With Estimates - Quick Facts  Kimco Realty Q4 20 Earnings Conference Call At 8:30 AM ET  Kimco Realty Corp. Q4 adjusted earnings Beat Estimates,1
+6,GNRC,2021-02-11,06:00:00,,0.5
+7,POOL,2021-02-11,07:00:00," Pool Corp Q4 Profit Surges, Results Beat View - Quick Facts ",1
+8,MCO,2021-02-12,08:00:00, Moody's Q4 Profit Down 12.5%; Sees 2021 Profit In Line With View  Moodys Corp. Q4 adjusted earnings Miss Estimates Moody's Q4 20 Earnings Conference Call At 11:30 AM ET ,0
+9,D,2021-02-12,07:30:00," Dominion Energy, Inc. Announces Decline In Q4 Profit Dominion Energy Initiates Operating Earnings Guidance - Quick Facts  Dominion Energy Q4 20 Earnings Conference Call At 10:00 AM ET ",0
+10,CVS,2021-02-16,06:30:00, CVS Health Q4 Results Top Estimates  CVS Health Corp. Q4 adjusted earnings Beat Estimates CVS Health Q4 20 Earnings Conference Call At 8:00 AM ET ,1
+11,ZTS,2021-02-16,07:00:00, Zoetis Inc. Q4 adjusted earnings Beat Estimates Zoetis Q4 Results Beat Estimates; Guides FY21 Above View - Quick Facts ,1
+12,EXPD,2021-02-16,08:30:00, Expeditors International of Washington Inc. Earnings Advance In Q4,1
+13,VMC,2021-02-16,07:30:00, Vulcan Materials Q4 Profit Tops Estimates  Vulcan Materials Co. Q4 adjusted earnings Beat Estimates,1
+14,ECL,2021-02-16,08:00:00, Ecolab Inc. Q4 adjusted earnings of $1.23 per share,1
+15,ALLE,2021-02-16,05:30:00, Allegion Guides FY21 Adj. EPS In Line With Estimates - Quick Facts  Allegion Q4 adjusted earnings Beat Estimates,1
+16,NI,2021-02-17,06:30:00, NiSource Inc. Q4 adjusted earnings Beat Estimates NiSource Turns To Profit In Q4; Reaffirms FY Outlook  NiSource Q4 20 Earnings Conference Call At 11:00 AM ET ,1
+17,HSIC,2021-02-17,07:00:00, Henry Schein Sees 2021 Adj. EPS To Be At Or Above 2019  Henry Schein Inc. Q4 adjusted earnings Beat Estimates,1
+18,HLT,2021-02-17,06:00:00," Hilton Slips To Loss In Q4, Results Miss Estimates  Hilton Worldwide Holdings, Inc. Q4 adjusted earnings Miss Estimates",0
+19,GPC,2021-02-17,08:20:00, Genuine Parts Reinstates Full-year Outlook - Quick Facts  Genuine Parts Co Q4 adjusted earnings of $1.52 per share Genuine Parts Q4 20 Earnings Conference Call At 11:00 AM ET ,1
+0,CRL,2021-02-17,08:00:00, Charles River Q4 Profit Tops Estimates; To Acquire Cognate BioServices ,1
+1,ADI,2021-02-17,08:00:00, Analog Devices Guides Q2 Earnings In Line With Estimates - Quick Facts  Analog Devices Q1 adjusted earnings Beat Estimates Analog Devices Q1 21 Earnings Conference Call At 10:00 AM ET ,1
+2,GRMN,2021-02-17,08:00:00, Garmin Issues 2021 Outlook; Proposes Dividend Increase - Quick Facts  Garmin Ltd Q4 adjusted earnings Beat Estimates Garmin Q4 20 Earnings Conference Call At 10:30 AM ET ,1
+3,EQT,2021-02-17,06:30:00, EQT Corp. Q4 Adj. EBITDA Declines - Quick Facts ,0
+4,WMT,2021-02-18,07:00:00," Walmart Q4 Profit Misses View, But Revenues Top  Walmart Inc. Q4 adjusted earnings Miss Estimates",0
+5,WM,2021-02-18,07:30:00," Waste Management Q4 Profit Declines, But Results Beat Estimates - Quick Facts  Waste Management Inc Q4 adjusted earnings Beat Estimates Waste Management Q4 20 Earnings Conference Call At 10:00 AM ET ",1
+6,WAB,2021-02-18,06:30:00, Wabtec Sees FY21 Earnings Below Estimates - Quick Facts  Wabtec Corporation Q4 adjusted earnings of $0.98 per share,0
+7,SO,2021-02-18,06:00:00, Southern Co. Q4 adjusted earnings Beat Estimates Southern Co. Q4 20 Earnings Conference Call At 1:00 PM ET ,1
+8,PPL,2021-02-18,08:00:00, PPL Corporation Q4 adjusted earnings Miss Estimates PPL Corp. Q4 20 Earnings Conference Call At 11:00 AM ET ,0
+9,OMC,2021-02-18,08:00:00, Omnicom Group Inc. Bottom Line Declines In Q4 Omnicom Group Q4 20 Earnings Conference Call At 8:30 AM ET ,1
+10,NEM,2021-02-18,06:30:00, Newmont Mining Corp. Q4 adjusted earnings Beat Estimates,1
+11,MAR,2021-02-18,07:00:00, Marriott Says Adds Nearly 63000 Rooms Globally During 2020 - Quick Facts  Marriott International Inc. Q4 adjusted earnings of $0.12 per share Marriott International Q4 20 Earnings Conference Call At 8:30 AM ET ,1
+12,LKQ,2021-02-18,06:00:00, LKQ Guides FY21 Adj. EPS In Line With Estimates - Quick Facts ,1
+13,HRL,2021-02-18,08:00:00, Hormel Foods Corp Announces Decline In Q1 Bottom Line Hormel Foods Guides FY21 In Line With Estimates - Quick Facts  Hormel Foods Q1 21 Earnings Conference Call At 9:00 AM ET ,0
+14,FE,2021-02-18,08:00:00, FirstEnergy Corp. Q4 adjusted earnings Miss Estimates FirstEnergy Q4 20 Earnings Conference Call At 9:00 AM ET ,0
+15,WST,2021-02-18,08:00:00,,0.5
+16,TRGP,2021-02-18,06:00:00,,0.5
+17,EPAM,2021-02-18,06:00:00,,0.5
+18,VTR,2021-02-18,07:00:00, Ventas Issues Q1 Outlook - Quick Facts  Ventas Inc. Q4 adjusted earnings Beat Estimates,1
+19,DE,2021-02-19,06:45:00, Deere And Co Bottom Line Rises In Q1 Deere & Company Q1 Profit Tops Estimates  Deere And Co Q1 21 Earnings Conference Call At 10:00 AM ET ,1
+0,DTE,2021-02-19,08:00:00, DTE Energy Q4 Profit Beats View; Reaffirms FY21 Earnings Outlook - Quick Facts  DTE Energy Co Q4 adjusted earnings Beat Estimates DTE Energy Q4 20 Earnings Conference Call At 9:00 AM ET ,1
+1,WBD,2021-02-22,07:00:00,, 
+2,RCL,2021-02-22,08:00:00, Royal Caribbean Group Posts Adj. Loss In Q4 ,0
+3,HD,2021-02-23,06:00:00," Home Depot Raises Dividend - Quick Facts  The Home Depot, Inc. Bottom Line Advances In Q4",1
+4,MDT,2021-02-23,08:00:00, Medtronic Q3 Earnings Beat Estimates- Quick Facts  Medtronic plc Q3 Income Falls Medtronic Q3 21 Earnings Conference Call At 8:00 AM ET ,1
+5,CBRE,2021-02-23,06:55:00," CBRE Group, Inc. Q4 adjusted earnings Beat Estimates CBRE Group Q4 20 Earnings Conference Call At 8:30 AM ET ",1
+6,LDOS,2021-02-23,08:00:00," Leidos Holdings Q4 20 Earnings Conference Call At 8:00 AM ET  Leidos Q4 Earnings Beat Estimates, Full-year Outlook Falls Short Of The Street View-Quick Facts  Leidos Holdings, Inc. Q4 adjusted earnings Beat Estimates",1
+7,PARA,2021-02-24,08:00:00,, 
+8,TJX,2021-02-24,09:30:00," TJX Companies Q4 Results Miss Estimates - Quick Facts  The TJX Companies, Inc. Reveals Fall In Q4 Earnings The TJX Companies Q4 21 Earnings Conference Call At 11:00 AM ET ",0
+9,EXC,2021-02-24,08:00:00," Exelon Q4 Earnings, Revenue Beat Estimates- Quick Facts  Exelon Corp Q4 adjusted earnings of $0.76 per share",1
+10,PNW,2021-02-24,08:40:00, EARNINGS SUMMARY: Details of Pinnacle West Capital Corp. Q4 Earnings Report,1
+11,IRM,2021-02-24,06:00:00, Iron Mountain In Joint Venture With India's Web Werks- Quick Facts  Iron Mountain Guides FY21 Revenue In Line With Estimates - Quick Facts  Iron Mountain Inc Q4 adjusted earnings Miss Estimates,0
+12,ETR,2021-02-24,06:30:00, Entergy Guides FY21 Adj. EPS In Line With Estimates - Quick Facts  Entergy Corp Q4 adjusted earnings Beat Estimates ,1
+13,LOW,2021-02-24,06:00:00, Lowe's Q4 Results Surpass Estimates- Quick Facts  Lowe's Cos. Q4 adjusted earnings Beat Estimates Lowe''s Q4 20 Earnings Conference Call At 9:00 AM ET ,1
+14,SRE,2021-02-25,07:00:00, Sempra Energy Q4 Earnings Surpass Estimates- Quick Facts  Sempra Energy Q4 adjusted earnings Beat Estimates ,1
+15,SJM,2021-02-25,07:00:00, J.M. Smucker Posts Upbeat Q3 Results; Raises Full-year View- Quick Facts  The J. M. Smucker Company Q3 adjusted earnings Beat Estimates The J. M. Smucker Q3 21 Earnings Conference Call At 8:30 AM ET ,1
+16,PCG,2021-02-25,08:20:00, PG&E Corp. Issues Earnings Guidance , 
+17,KDP,2021-02-25,06:30:00, Keurig Dr Pepper Inc. Q4 adjusted earnings Miss Estimates,0
+18,CNP,2021-02-25,06:00:00, CenterPoint Energy Q4 Profit Rises - Quick Facts  CenterPoint Energy Inc Profit Rises In Q4,1
+19,BBY,2021-02-25,08:00:00, Best Buy Issues Outlook; Increases Quarterly Dividend  Best Buy Co Inc. Q4 adjusted earnings Beat Estimates Best Buy Co Q4 21 Earnings Conference Call At 8:00 AM ET ,1
+0,AMT,2021-02-25,07:00:00, American Tower Initiates FY21 Financial Guidance - Quick Facts  American Tower Corp. Q4 adjusted earnings of $2.07 per share,1.0
+1,AES,2021-02-25,06:00:00, AES Sees FY Profit In Line With View  The AES Corporation Q4 adjusted earnings Beat Estimates,1.0
+2,AEP,2021-02-25,06:57:00, American Electric Power Co Inc Q4 adjusted earnings Beat Estimates American Electric Power Raises Earnings Guidance  American Electric Power Co Q4 20 Earnings Conference Call At 9:00 AM ET ,1.0
+3,TFX,2021-02-25,06:30:00, Teleflex Inc Q4 adjusted earnings Beat Estimates Teleflex Issues 2021 Outlook - Quick Facts ,1.0
+4,NCLH,2021-02-25,07:00:00, Norwegian Cruise Line Holdings Ltd. Q4 adjusted earnings Miss Estimates,0.0
+5,DPZ,2021-02-25,07:30:00, Domino's Pizza Issues Outlook - Quick Facts  Dominos Pizza Inc. Bottom Line Rises In Q4,1.0
+6,PWR,2021-02-25,06:55:00," Quanta Services Quarterly Earnings Rise, Above Estimates- Quick Facts  Quanta Services Inc. Q4 adjusted earnings Beat Estimates",1.0
+7,MRNA,2021-02-25,07:00:00, Moderna Q4 Loss Widens ,0.0
+8,DOC,2021-02-25,08:00:00,,0.5
+9,BLDR,2021-02-26,06:00:00,,0.5
+10,PEG,2021-02-26,08:00:00, Public Service Enterprise Guides FY21 Operating Earnings In Line With View - Quick Facts  Public Service Enterprise Group Inc Q4 adjusted earnings Inline With Estimates,1.0
+11,EVRG,2021-02-26,06:00:00," Evergy Guides FY21 Adj. EPS In Line With Estimates - Quick Facts  Evergy, Inc. Q4 adjusted earnings Beat Estimates",1.0
+12,XRAY,2021-03-01,07:00:00," Dentsply Sirona Q4 Results Top Street View; Expects FY21 Earnings, Sales Above Market- Quick Facts  Dentsply Sirona Inc Q4 adjusted earnings Beat Estimates",1.0
+13,NRG,2021-03-01,07:00:00, NRG Energy Q4 20 Earnings Conference Call At 9:00 AM ET ,0.5
+14,TGT,2021-03-02,07:00:00, Target Q4 Comparable Sales Up 20.5% - Quick Facts  Target Corp. Q4 adjusted earnings Beat Estimates Target Corp. Q4 20 Earnings Conference Call At 9:00 AM ET ,1.0
+15,AZO,2021-03-02,06:55:00, AutoZone Q2 Results Top Estimates - Quick Facts  AutoZone Inc. Profit Climbs In Q2 AutoZone Q2 21 Earnings Conference Call At 10:00 AM ET ,1.0
+16,DLTR,2021-03-03,07:30:00," Dollar Tree, Wendy's Q4 Revenues Miss Estimates  Dollar Tree Inc. Q4 adjusted earnings Beat Estimates Dollar Tree Q4 20 Earnings Conference Call At 9:00 AM ET ",1.0
+17,KR,2021-03-04,08:00:00, Kroger Co. Q4 adjusted earnings Beat Estimates Kroger Q4 20 Earnings Conference Call At 10:00 AM ET ,1.0
+18,CPB,2021-03-10,07:00:00, Campbell Soup Company Q2 Profit Matches Estimates; Net Sales Up 5%  Campbell Soup Co. Q2 adjusted earnings Inline With Estimates Campbell Soup Q2 21 Earnings Conference Call At 8:00 AM ET ,1.0
+19,JBL,2021-03-16,08:00:00, Jabil Q2 Results Beat View; Raises FY Outlook  Jabil Inc. Q2 adjusted earnings Beat Estimates Jabil Q2 21 Earnings Conference Call At 8:30 AM ET ,1.0
+0,GEN,2021-03-16,08:00:00,,
+1,CTAS,2021-03-17,08:00:00, Cintas Corporation Reveals Advance In Q3 Bottom Line Cintas Q3 21 Earnings Conference Call At 10:00 AM ET ,1.0
+2,DG,2021-03-18,06:55:00, Dollar General Projects Same-store Sales Decline Of 4% To 6% For FY21  Dollar General Corporation Bottom Line Advances In Q4,1.0
+3,ACN,2021-03-18,06:45:00, Accenture Boosts FY21 Outlook; Raises Dividend 10% - Quick Facts  Accenture plc Q2 adjusted earnings Beat Estimates,1.0
+4,GIS,2021-03-24,07:00:00, General Mills Issues FY21 Outlook - Quick Facts  General Mills Q3 adjusted earnings Miss Estimates General Mills Q3 21 Earnings Conference Call At 9:00 AM ET ,0.0
+5,DRI,2021-03-25,07:00:00, Darden Restaurants Issues Q4 Guidance  Darden Restaurants Guides Q4 Above View; Declares Qtly Dividend - Quick Facts  Darden Restaurants Inc. Earnings Drop In Q3 Darden Restaurants Q3 21 Earnings Conference Call At 8:30 AM ET ,0.0
+6,MKC,2021-03-30,07:00:00, McCormick Boosts FY21 Outlook - Quick Facts  McCormick & Co. Q1 adjusted earnings Beat Estimates McCormick & Co. Q1 21 Earnings Conference Call At 8:00 AM ET ,1.0
+7,FDS,2021-03-30,07:00:00, FactSet Q2 Profit Misses Estimates; Revenue Up 6% ,0.0
+8,WBA,2021-03-31,07:00:00," Walgreens Boots Alliance Raises Earnings Guidance  Walgreens Boots Alliance, Inc. Q2 adjusted earnings Beat Estimates Walgreens Boots Alliance Q2 21 Earnings Conference Call At 8:30 AM ET ",1.0
+9,KMX,2021-04-01,06:50:00, Stock Alert: CarMax Down 3% In Pre Market  CarMax To Acquire Edmunds - Quick Facts  CarMax Inc. Reports Decline In Q4 Profit CarMax Q4 21 Earnings Conference Call At 9:00 AM ET ,0.0
+10,PAYX,2021-04-06,08:30:00, Paychex Improves FY21 Outlook - Quick Facts  Paychex Inc. Q3 adjusted earnings Beat Estimates Paychex Q3 21 Earnings Conference Call At 9:30 AM ET ,1.0
+11,CCL,2021-04-07,08:00:00, Carnival Cruise Informs Guests Of Cancellations; May Move Ships Out Of US Ports ,0.0
+12,LW,2021-04-07,08:30:00," EARNINGS SUMMARY: Details of Lamb Weston Holdings, Inc. Q3 Earnings Report Lamb Weston Holdings Q3 21 Earnings Conference Call At 10:00 AM ET ",
+13,STZ,2021-04-08,07:30:00, Constellation Brands Q4 Profit Tops Estimates; Issues FY22 Guidance  Constellation Brands Inc Q4 adjusted earnings Beat Estimates Constellation Brands Q4 21 Earnings Conference Call At 11:30 AM ET ,1.0
+14,CAG,2021-04-08,07:30:00, Conagra Brands Sees Q4 Profit In Line With View - Quick Facts  Conagra Brands Inc. Q3 adjusted earnings Beat Estimates Conagra Brands Q3 21 Earnings Conference Call At 9:30 AM ET ,1.0
+15,FAST,2021-04-13,06:50:00, Fastenal Co. Profit Climbs In Q1,1.0
+16,WFC,2021-04-14,08:00:00," Wells Fargo Q1 Profit Soars Seven-fold, Results Top Estimates - Quick Facts  Wells Fargo & Co Q1 Profit Advances Wells Fargo Q1 21 Earnings Conference Call At 10:00 AM ET ",1.0
+17,JPM,2021-04-14,07:00:00," JPMorgan Q1 Profit Soars, Results Top Estimates  JPMorgan Chase & Co. Reveals Gain In Q1 Profit JPMorgan Chase & Co. Q1 21 Earnings Conference Call At 8:30 AM ET ",1.0
+18,GS,2021-04-14,07:30:00, Goldman Sachs Group Inc. Reports Rise In Q1 Bottom Line Goldman Sachs Group Q1 21 Earnings Conference Call At 9:30 AM ET ,1.0
+19,PEP,2021-04-15,06:00:00, PepsiCo Q1 Profit Beats Estimates; Affirms Outlook  Pepsico Inc Q1 adjusted earnings Beat Estimates Pepsico Q1 21 Earnings Conference Call At 8:15 AM ET ,1.0
+0,DAL,2021-04-15,08:45:00, Delta Air Lines Q1 21 Earnings Conference Call At 10:00 AM ET ,0
+1,C,2021-04-15,08:00:00, Citigroup Inc. Q1 Profit Advances Citigroup Q1 21 Earnings Conference Call At 10:00 AM ET ,1
+2,BAC,2021-04-15,06:45:00," Bank Of America Q1 Profit Climbs, Tops View; Plans $25 Bln Stock Repurchase - Quick Facts  Bank of America Corporation Q1 Earnings Climb Bank Of America Q1 21 Earnings Conference Call At 9:00 AM ET ",1
+3,USB,2021-04-15,06:45:00, US Bancorp Q1 Earnings Climb US Bancorp Q1 21 Earnings Conference Call At 11:00 AM ET ,1
+4,UNH,2021-04-15,05:55:00," UnitedHealth Group Raises Full Year Earnings Outlook - Quick Facts  Unitedhealth Group, Inc. Q1 adjusted earnings Beat Estimates Unitedhealth Group Q1 21 Earnings Conference Call At 8:45 AM ET ",1
+5,BLK,2021-04-15,08:00:00, Blackrock Inc. Q1 adjusted earnings Beat Estimates Blackrock Q1 21 Earnings Conference Call At 8:30 AM ET ,1
+6,SCHW,2021-04-15,08:45:00,,0
+7,TFC,2021-04-15,08:00:00, Truist Financial Corporation Q1 adjusted earnings of $1.18 per share,1
+8,PGR,2021-04-15,08:30:00,,0
+9,MS,2021-04-16,07:30:00, Morgan Stanley Q1 Profit Beats Estimates  Morgan Stanley Q1 Earnings Climb Morgan Stanley Q1 21 Earnings Conference Call At 8:30 AM ET ,1
+10,PNC,2021-04-16,06:45:00, PNC Financial Services Group Inc. Announces Increase In Q1 Bottom Line PNC Financial Services Group Q1 21 Earnings Conference Call At 9:00 AM ET ,1
+11,BK,2021-04-16,06:30:00, The Bank of New York Mellon Corp. Q1 Income Drops The Bank Of New York Mellon Q1 21 Earnings Conference Call At 8:00 AM ET ,0
+12,STT,2021-04-16,07:30:00, Invesco To Adopt State Street Alpha  State Street Corp. Bottom Line Drops In Q1 State Street Q1 21 Earnings Conference Call At 10:00 AM ET ,0
+13,CFG,2021-04-16,07:00:00," Citizens Financial Group, Inc. Profit Rises In Q1 Citizens Financial Group Q1 21 Earnings Conference Call At 8:00 AM ET ",1
+14,KO,2021-04-19,08:30:00," Coca-Cola Q1 Profit Declines 19%, But Results Top Estimates  Coca-Cola Company Plans To Sell Portion Of Shareholding In Coca-Cola Beverages Africa Via IPO  The Coca-Cola Company Q1 adjusted earnings Beat Estimates The Coca-Cola Q1 21 Earnings Conference Call At 8:30 AM ET ",0.5
+15,MTB,2021-04-19,05:40:00, M&T Bank Corp. Bottom Line Climbs In Q1 M&T Bank Q1 21 Earnings Conference Call At 11:00 AM ET ,1
+16,PLD,2021-04-19,08:00:00, Prologis Boosts FY21 Outlook - Quick Facts  ProLogis Q1 adjusted earnings Beat Estimates Prologis Q1 21 Earnings Conference Call At 12:00 PM ET ,1
+17,PG,2021-04-20,07:00:00, Procter & Gamble To Hike Baby And Feminine Care Product Prices  Procter & Gamble Maintains 2021 Outlook; To Pay More Than $8 Bln In Dividends  Procter & Gamble Co. Q3 adjusted earnings  Procter & Gamble Q3 21 Earnings Conference Call At 8:30 AM ET ,0.5
+18,JNJ,2021-04-20,07:00:00, EMA Says J&J Covid Vaccine's Benefits Outweigh Rare Blood Clot Risks  Johnson & Johnson Q1 Results Top Estimates  Johnson & Johnson Q1 adjusted earnings Beat Estimates Johnson & Johnson Q1 21 Earnings Conference Call At 8:30 AM ET ,1
+19,CMA,2021-04-20,06:40:00, EARNINGS SUMMARY: Details of Comerica Inc. Q1 Earnings Report Comerica Q1 21 Earnings Conference Call At 8:00 AM ET ,1
+0,TRV,2021-04-20,06:57:00," The Travelers Companies Q1 21 Earnings Conference Call At 9:00 AM ET  Travelers Cos. Boosts Qtly. Dividend 4%, Authorizes Addl. $5 Bln Share Buyback - Quick Facts  The Travelers Companies  Inc. Q1 adjusted earnings Beat Estimates",1
+1,PM,2021-04-20,07:00:00, Philip Morris Boosts FY21 Earnings Outlook - Quick Facts  Philip Morris International Q1 adjusted earnings Beat Estimates Philip Morris International Q1 21 Earnings Conference Call At 9:00 AM ET ,1
+2,LMT,2021-04-20,08:00:00, Lockheed Martin Boosts FY21 Outlook - Quick Facts  Lockheed Martin Corp. Bottom Line Rises In Q1 Lockheed Martin Q1 21 Earnings Conference Call At 11:00 AM ET ,1
+3,ABT,2021-04-20,07:30:00, Abbott Laboratories Backs FY21 Outlook - Quick Facts  Abbott Laboratories Q1 21 Earnings Conference Call At 9:30 AM ET ,1
+4,NTRS,2021-04-20,08:00:00, Northern Trust Q1 21 Earnings Conference Call At 9:00 AM ET  Northern Trust Corp. Profit Climbs In Q1,1
+5,FITB,2021-04-20,06:00:00, Fifth Third Bancorp Earnings Advance In Q1,1
+6,DOV,2021-04-20,07:00:00, Dover Boosts FY21 Outlook - Quick Facts  Dover Corp Q1 adjusted earnings Beat Estimates Dover Corp. Q1 21 Earnings Conference Call At 10:00 AM ET ,1
+7,OMC,2021-04-20,06:40:00, Omnicom Group Q1 21 Earnings Conference Call At 8:30 AM ET  Omnicom Group Inc. Earnings Advance In Q1,1
+8,KEY,2021-04-20,06:30:00, KeyCorp Q1 Earnings Rise,1
+9,BKR,2021-04-21,06:30:00, Baker Hughes Company Q1 adjusted earnings Beat Estimates Baker Hughes Q1 21 Earnings Conference Call At 8:00 AM ET ,1
+10,VZ,2021-04-21,07:00:00, Verizon Q1 Results Top Estimates  Verizon Communications Q1 adjusted earnings Beat Estimates Verizon Communications Q1 21 Earnings Conference Call At 8:30 AM ET ,1
+11,HAL,2021-04-21,06:45:00," Halliburton Swings To Profit In Q1, Results Top Estimates - Quick Facts  Halliburton Company Q1 adjusted earnings of $0.19 per share Halliburton Q1 21 Earnings Conference Call At 9:00 AM ET ",1
+12,ELV,2021-04-21,06:00:00,, 
+13,TEL,2021-04-21,06:00:00, TE Connectivity Ltd. Q2 adjusted earnings Beat Estimates TE Connectivity Q2 21 Earnings Conference Call At 8:30 AM ET ,1
+14,NEE,2021-04-21,08:00:00," NextEra Energy Q1 21 Earnings Conference Call At 9:00 AM ET  NextEra Energy Maintains FY21 Adj. EPS Outlook - Quick Facts  NextEra Energy, Inc. Q1 adjusted earnings Beat Estimates",1
+15,NDAQ,2021-04-21,07:00:00," Nasdaq Q1 Results Top Estimates, Boosts Dividend 10 % - Quick Facts  Nasdaq Inc. Q1 adjusted earnings Beat Estimates Nasdaq Q1 21 Earnings Conference Call At 8:00 AM ET ",1
+16,NVR,2021-04-21,09:00:00,, 
+17,T,2021-04-22,07:00:00, AT&T Q1 Profit Climbs On Revenue Strength  AT&T Inc. Q1 adjusted earnings Beat Estimates AT&T Q1 21 Earnings Conference Call At 8:30 AM ET ,1
+18,BIIB,2021-04-22,07:00:00, Biogen Boosts FY21 Adj. EPS Outlook; Q1 Results Top Estimates - Quick Facts  Biogen Q1 21 Earnings Conference Call At 8:00 AM ET ,1
+19,VLO,2021-04-22,06:25:00, Valero Energy Corp. Q1 adjusted earnings Beat Estimates,1
+0,LUV,2021-04-22,06:30:00, Southwest Airlines Posts Wider Adj. Loss In Q1  Southwest Airlines Q1 21 Earnings Conference Call At 12:30 PM ET ,0
+1,FCX,2021-04-22,08:00:00, Freeport-McMoRan Inc. Q1 adjusted earnings Inline With Estimates,1
+2,BX,2021-04-22,06:50:00, Blackstone Q1 Profit Tops Estimates ,1
+3,AAL,2021-04-22,07:00:00, American Airlines Sees Signs Of Continued Recovery In Demand; Stock Up  American Airlines Group Inc Q1 adjusted earnings Miss Estimates American Airlines Group Q1 21 Earnings Conference Call At 8:30 AM ET ,0.5
+4,UNP,2021-04-22,08:00:00, Union Pacific Corp. Reveals Fall In Q1 Earnings,0
+5,ODFL,2021-04-22,07:00:00," Old Dominion Freight Line, Inc. Reveals Increase In Q1 Bottom Line",1
+6,NUE,2021-04-22,08:00:00, Nucor Q1 21 Earnings Conference Call At 2:00 PM ET  Nucor Corp. Reports Increase In Q1 Bottom Line,1
+7,IQV,2021-04-22,07:00:00, IQVIA Holdings Q1 21 Earnings Conference Call At 9:00 AM ET  IQVIA Holdings Inc. Q1 adjusted earnings Beat Estimates,1
+8,HCA,2021-04-22,07:30:00," HCA Healthcare Boosts FY21 Outlook - Quick Facts  HCA Healthcare, Inc. Q1 adjusted earnings Beat Estimates",1
+9,HBAN,2021-04-22,07:00:00, Huntington Bancshares Q1 Profit Rises - Quick Facts ,1
+10,GPC,2021-04-22,08:20:00, Genuine Parts Lifts 2021 Outlook  Genuine Parts Co Announces Rise In Q1 Profit,1
+11,DOW,2021-04-22,06:00:00, Dow Inc. Q1 Earnings Climb Dow Inc. Q1 21 Earnings Conference Call At 8:00 AM ET ,1
+12,DHR,2021-04-22,06:00:00, Danaher Q1 21 Earnings Conference Call At 8:00 AM ET  Danaher Corp. Q1 adjusted earnings Beat Estimates,1
+13,DHI,2021-04-22,08:00:00, D R Horton Boosts FY21 Outlook - Quick Facts ,1
+14,AEP,2021-04-22,06:57:00, American Electric Power Reaffirms FY21 Adj. EPS Outlook - Quick Facts  American Electric Power Co Inc Q1 adjusted earnings Miss Estimates American Electric Power Q1 21 Earnings Conference Call At 9:00 AM ET ,0.5
+15,TSCO,2021-04-22,06:05:00, Tractor Supply Company Raises Guidance ,1
+16,SNA,2021-04-22,06:30:00, Snap-On Inc. Q1 adjusted earnings Beat Estimates,1
+17,POOL,2021-04-22,07:00:00, Pool Raises FY21 Earnings Outlook - Quick Facts ,1
+18,PNR,2021-04-22,06:55:00, Pentair Plc Updates Guidance  Pentair plc Q1 adjusted earnings Beat Estimates Pentair Q1 21 Earnings Conference Call At 9:00 AM ET ,1
+19,MKTX,2021-04-22,06:30:00, MarketAxess Q1 Adj. Profit Rises; Revenues Up 16% - Quick Facts ,1
+0,DGX,2021-04-22,06:45:00, Quest Diagnostics Q1 21 Earnings Conference Call At 8:30 AM ET  Quest Diagnostics Lifts HY Outlook  Quest Diagnostics Q1 adjusted earnings Beat Estimates,1.0
+1,ALLE,2021-04-22,05:30:00, Allegion Q1 adjusted earnings Beat Estimates,1.0
+2,HON,2021-04-23,06:30:00, Honeywell Boosts FY21 Outlook - Quick Facts  Honeywell International Inc. Q1 adjusted earnings Beat Estimates Honeywell International Q1 21 Earnings Conference Call At 8:30 AM ET ,1.0
+3,SLB,2021-04-23,07:00:00, Schlumberger Ltd. Q1 adjusted earnings Beat Estimates Schlumberger Q1 21 Earnings Conference Call At 9:30 AM ET ,1.0
+4,KMB,2021-04-23,07:30:00, Kimberly-Clark Trims FY21 Outlook - Quick Facts  Kimberly-Clark Corp Q1 adjusted earnings Miss Estimates Kimberly-Clark Q1 21 Earnings Conference Call At 10:00 AM ET ,0.0
+5,AXP,2021-04-23,07:00:00, American Express Co. Announces Gain In Q1 Bottom Line American Express Q1 21 Earnings Conference Call At 8:30 AM ET ,1.0
+6,RF,2021-04-23,06:00:00, Regions Financial Corp. Q1 Earnings Rise Regions Financial Q1 21 Earnings Conference Call At 10:00 AM ET ,1.0
+7,OTIS,2021-04-26,06:14:00,,0.5
+8,UPS,2021-04-27,06:00:00," United Parcel Service Q1 21 Earnings Conference Call At 8:30 AM ET  United Parcel Service Q1 Earnings Rise, Beat Estimates  United Parcel Service Q1 adjusted earnings of $2.77 per share",1.0
+9,GE,2021-04-27,06:30:00," General Electric Q1 Profit Beats Estimates, Industrial Organic Revenues Down 10%; Reiterates Outlook  General Electric Co Q1 adjusted earnings of $0.03 per share General Electric Q1 21 Earnings Conference Call At 8:00 AM ET ",0.5
+10,MMM,2021-04-27,07:00:00, 3M Co. Q1 adjusted earnings of $2.77 per share 3M Co. Q1 21 Earnings Conference Call At 9:00 AM ET ,1.0
+11,LLY,2021-04-27,08:00:00, Lilly Q1 Profit Down; Cuts FY Profit View  Eli Lilly And Co. Q1 adjusted earnings of $1.87 per share Eli Lilly And Co. Q1 21 Earnings Conference Call At 9:00 AM ET ,0.0
+12,CNC,2021-04-27,06:00:00, Centene Q1 21 Earnings Conference Call At 8:30 AM ET  Centene Corporation Profit Rises In Q1 Centene Raises Guidance ,1.0
+13,WM,2021-04-27,07:10:00, Waste Management Boost FY21 Revenue Growth Outlook - Quick Facts  Waste Management Inc Q1 adjusted earnings Beat Estimates,1.0
+14,SYF,2021-04-27,06:30:00, Synchrony Financial Q1 21 Earnings Conference Call At 8:30 AM ET  Synchrony Financial Earnings Rise In Q1,1.0
+15,SHW,2021-04-27,07:00:00, Sherwin-Williams Backs FY21 Outlook - Quick Facts  Sherwin-Williams Co Q1 adjusted earnings Beat Estimates,1.0
+16,ROP,2021-04-27,06:55:00, Roper Technologies Increases 2021 Guidance ,1.0
+17,PHM,2021-04-27,06:30:00," PulteGroup Q1 21 Earnings Conference Call At 8:30 AM ET  PulteGroup Board Approves Increase To Share Purchase Authorization - Quick Facts  PulteGroup, Inc. Q1 adjusted earnings Beat Estimates",1.0
+18,PCAR,2021-04-27,08:00:00, Paccar Inc. Q1 Earnings Advance,1.0
+19,MMC,2021-04-27,07:00:00, Marsh & McLennan Q1 21 Earnings Conference Call At 8:30 AM ET  Marsh & McLennan Companies Inc Q1 adjusted earnings Beat Estimates,1.0
+0,IVZ,2021-04-27,06:55:00, Invesco Ltd. Q1 adjusted earnings of $0.68 per share,1
+1,HUBB,2021-04-27,08:00:00,, 
+2,HAS,2021-04-27,08:00:00, Hasbro Q1 21 Earnings Conference Call At 8:30 AM ET  Hasbro Q1 Adj. EPS Tops Estimates - Quick Facts  Hasbro Inc. Q1 adjusted earnings Beat Estimates,1
+3,GLW,2021-04-27,07:15:00, Corning Inc. Q1 adjusted earnings Beat Estimates Corning Q1 21 Earnings Conference Call At 8:30 AM ET ,1
+4,DTE,2021-04-27,07:00:00, DTE Energy Boosts FY21 Operating Earnings Outlook - Quick Facts ,1
+5,ADM,2021-04-27,08:00:00, Archer-Daniels-Midland Q1 21 Earnings Conference Call At 9:00 AM ET  Archer-Daniels-Midland Q1 adjusted earnings Beat Estimates,1
+6,MSCI,2021-04-27,06:45:00, MSCI Inc. Q1 adjusted earnings Beat Estimates,1
+7,ECL,2021-04-27,08:30:00,, 
+8,RTX,2021-04-27,06:55:00, Raytheon Technologies Q1 21 Earnings Conference Call At 8:30 AM ET  Raytheon Technologies Boosts FY21 Outlook - Quick Facts  Raytheon Technologies Corporation Q1 adjusted earnings of $0.90 per share,1
+9,BA,2021-04-28,07:00:00, Boeing Q1 Loss Narrows  The Boeing Co. Q1 adjusted earnings Miss Estimates The Boeing Q1 21 Earnings Conference Call At 10:30 AM ET  Boeing Gets Order For 777 Freighters From Silk Way West Airlines - Quick Facts ,0
+10,YUM,2021-04-28,07:00:00, Yum! Brands Inc. Q1 adjusted earnings Beat Estimates Yum! Brands Q1 21 Earnings Conference Call At 8:15 AM ET ,1
+11,GD,2021-04-28,08:00:00," General Dynamics Q1 Profit Edges Up, Results Top Estimates - Quick Facts  General Dynamics Corp. Q1 Profit Advances General Dynamics Q1 21 Earnings Conference Call At 9:00 AM ET ",1
+12,WBD,2021-04-28,07:00:00,, 
+13,TDY,2021-04-28,06:55:00, Teledyne Technologies Raises FY21 Adj. Earnings Outlook - Quick Facts  Teledyne Technologies Inc Q1 adjusted earnings Beat Estimates,1
+14,SWK,2021-04-28,06:00:00," Stanley Black & Decker Q1 21 Earnings Conference Call At 8:00 AM ET  Stanley Black & Decker, Inc. Q1 adjusted earnings Beat Estimates",1
+15,ROL,2021-04-28,07:30:00," Rollins, Inc. Q1 adjusted earnings Beat Estimates",1
+16,ROK,2021-04-28,07:00:00, Rockwell Automation Q2 21 Earnings Conference Call At 8:30 AM ET  Rockwell Automation  Inc. Q2 adjusted earnings of $2.41 per share,1
+17,NSC,2021-04-28,08:00:00, Norfolk Southern Corp Q1 adjusted earnings , 
+18,MCO,2021-04-28,07:00:00, Moodys Corp. Q1 adjusted earnings of $4.06 per share Moody's Updates Outlook - Quick Facts ,1
+19,HUM,2021-04-28,06:30:00, Humana Q1 21 Earnings Conference Call At 9:00 AM ET  Humana Inc Q1 adjusted earnings Beat Estimates,1
+0,HES,2021-04-28,07:30:00, Hess Corporation Q1 adjusted earnings Beat Estimates,1
+1,ETR,2021-04-28,06:30:00, Entergy Corp Q1 adjusted earnings Beat Estimates,1
+2,CME,2021-04-28,07:00:00," CME Group, Inc. Q1 adjusted earnings Beat Estimates CME Group Q1 21 Earnings Conference Call At 8:30 AM ET ",1
+3,BSX,2021-04-28,06:30:00," Boston Scientific Sees Q2 Profit Above View; Lifts FY Outlook  Boston Scientific Boosts FY21 Outlook, Sees Q2 Above View - Quick Facts  Boston Scientific Corp Q1 adjusted earnings Beat Estimates Boston Scientific Q1 21 Earnings Conference Call At 8:00 AM ET ",1
+4,AVY,2021-04-28,06:45:00, Avery Dennison Raises FY21 Adj. Earnings Outlook - Quick Facts  Avery Dennison Corp. Q1 adjusted earnings Beat Estimates,1
+5,APH,2021-04-28,08:00:00, Amphenol Corp. Q1 adjusted earnings of $0.52 per share Amphenol Guides Q2 Above Estimates - Quick Facts ,1
+6,ADP,2021-04-28,08:00:00, Automatic Data Processing Raises FY21 Outlook  Automatic Data Processing Q3 21 Earnings Conference Call At 8:30 AM ET  Automatic Data Processing Inc. Q3 adjusted earnings Beat Estimates,1
+7,MAS,2021-04-28,07:00:00, Masco Corp. Q1 adjusted earnings of $0.89 per share,1
+8,IPG,2021-04-28,07:00:00,,0.5
+9,GRMN,2021-04-28,07:00:00, Garmin Ltd Q1 Profit Climbs,1
+10,MRK,2021-04-29,06:45:00, Merck Q1 Adj. Profit Declines  Merck & Co Q1 21 Earnings Conference Call At 8:00 AM ET ,0
+11,MCD,2021-04-29,07:00:00," McDonald's Q4 Profit Rises 39%, Tops Estimates  McDonalds Corp. Profit Climbs In Q1 McDonald's Q1 21 Earnings Conference Call At 8:30 AM ET ",1
+12,CAT,2021-04-29,06:30:00, Caterpillar Inc. Q1 Income Climbs Caterpillar Q1 21 Earnings Conference Call At 8:30 AM ET ,1
+13,BMY,2021-04-29,07:00:00, Bristol Myers Squibb Q1 Profit Misses Estimates ,0
+14,NOC,2021-04-29,06:40:00, Northrop Grumman Boosts FY21 Outlook - Quick Facts ,1
+15,MO,2021-04-29,07:00:00, Altria Reaffirms FY21 Adj. EPS Outlook - Quick Facts ,0.5
+16,MA,2021-04-29,08:00:00, Mastercard Incorporated Q1 adjusted earnings Beat Estimates Mastercard Q1 21 Earnings Conference Call At 9:00 AM ET ,1
+17,CMCSA,2021-04-29,07:00:00, Comcast Q1 Profit Beats Estimates  Comcast Q1 21 Earnings Conference Call At 8:30 AM ET ,1
+18,XEL,2021-04-29,06:00:00," Xcel Energy Backs Earnings View For FY21, Long Term  Xcel Energy Inc Q1 Earnings Climb",1
+19,WAB,2021-04-29,06:30:00, Wabtec Q1 21 Earnings Conference Call At 8:30 AM ET  Wabtec Corporation Q1 adjusted earnings Beat Estimates,1
+0,TXT,2021-04-29,07:00:00, Textron Q1 21 Earnings Conference Call At 8:00 AM ET  Textron Increases Earnings Outlook  Textron Inc. Q1 adjusted earnings Beat Estimates,1.0
+1,TMO,2021-04-29,06:00:00, Thermo Fisher Scientific Q1 21 Earnings Conference Call At 8:30 AM ET  Thermo Fisher Scientific Q1 adjusted earnings Beat Estimates,1.0
+2,TAP,2021-04-29,07:00:00, Molson Coors Brewing Company Q1 adjusted earnings Beat Estimates,1.0
+3,SPGI,2021-04-29,07:15:00, S&P Global Q1 21 Earnings Conference Call At 8:30 AM ET  S&P Global Inc. Q1 adjusted earnings Beat Estimates,1.0
+4,SO,2021-04-29,06:00:00, Southern Co. Q1 adjusted earnings Beat Estimates,1.0
+5,RCL,2021-04-29,08:00:00, Royal Caribbean Cruises Ltd. Q1 adjusted earnings Beat Estimates,1.0
+6,PH,2021-04-29,07:30:00, Parker Hannifin Boosts FY21 Outlook - Quick Facts  Parker Hannifin Corp. Q3 adjusted earnings of $4.11 per share,1.0
+7,PCG,2021-04-29,08:20:00, PG&E Corp. Maintains FY21 Adj. EPS Outlook - Quick Facts  PG&E Corp. Q1 adjusted earnings Miss Estimates,0.0
+8,NEM,2021-04-29,07:00:00, Newmont Mining Corp. Q1 adjusted earnings of $0.74 per share,1.0
+9,LKQ,2021-04-29,06:00:00, LKQ Corp Q1 adjusted earnings Beat Estimates,1.0
+10,KHC,2021-04-29,08:00:00, The Kraft Heinz Q1 21 Earnings Conference Call At 9:00 AM ET  The Kraft Heinz Company Q1 Earnings Rise,1.0
+11,KDP,2021-04-29,06:30:00, Keurig Dr Pepper Q1 21 Earnings Conference Call At 8:00 AM ET  Keurig Dr Pepper Backs FY21 Earnings Growth View; Raises Sales Forecast  Keurig Dr Pepper Inc. Q1 adjusted earnings Beat Estimates,1.0
+12,IP,2021-04-29,07:00:00, International Paper Q1 adjusted earnings Beat Estimates,1.0
+13,ICE,2021-04-29,07:30:00, IntercontinentalExchange Group Inc. Q1 adjusted earnings of $1.34 per share,1.0
+14,HSY,2021-04-29,07:00:00, Hershey Q1 21 Earnings Conference Call At 8:30 AM ET  Hershey Raises Outlook - Quick Facts  Hershey Co. Q1 adjusted earnings Beat Estimates,1.0
+15,CMS,2021-04-29,08:00:00, CMS Energy Reaffirms FY21 Adjusted Earnings Outlook - Quick Facts  CMS Energy Q1 21 Earnings Conference Call At 9:30 AM ET  CMS Energy Corp. Q1 adjusted earnings Beat Estimates,1.0
+16,CHD,2021-04-29,08:00:00, Church & Dwight Co Inc. Q1 adjusted earnings Beat Estimates,1.0
+17,CBRE,2021-04-29,06:55:00," CBRE Group Q1 21 Earnings Conference Call At 8:30 AM ET  CBRE Group, Inc. Q1 adjusted earnings Beat Estimates",1.0
+18,BAX,2021-04-29,07:15:00, Baxter Sees Q2 Profit Below View  Baxter International Inc. Q1 adjusted earnings Beat Estimates Baxter International Q1 21 Earnings Conference Call At 8:30 AM ET ,0.5
+19,AOS,2021-04-29,06:50:00, A.O. Smith Corp Reveals Gain In Q1 Bottom Line,1.0
+0,AMT,2021-04-29,07:00:00," American Tower Raises FY21 Earnings, AFFO View; Cuts  Property Revenue Outlook  American Tower Q1 21 Earnings Conference Call At 8:30 AM ET  American Tower Corp. Q1 adjusted earnings Beat Estimates",1.0
+1,WTW,2021-04-29,06:00:00, Willis Towers Watson Q1 Profit Beats Estimates  Willis Towers Watson Public Limited Company Q1 adjusted earnings Beat Estimates,1.0
+2,WST,2021-04-29,06:00:00,,0.0
+3,TROW,2021-04-29,07:00:00, T. Rowe Price Group Q1 adjusted earnings Beat Estimates,1.0
+4,TFX,2021-04-29,06:30:00,,0.0
+5,LH,2021-04-29,06:45:00, Laboratory Corporation Of America Holdings Q1 21 Earnings Conference Call At 9:00 AM ET  Laboratory Corporation Of America Holdings Q1 adjusted earnings Beat Estimates,1.0
+6,GNRC,2021-04-29,06:00:00,,0.0
+7,DPZ,2021-04-29,07:30:00, Dominos Pizza Inc. Q1 Profit Declines,0.0
+8,COR,2021-04-29,06:30:00,,0.0
+9,KIM,2021-04-29,07:00:00,,0.0
+10,CARR,2021-04-29,06:30:00,,0.0
+11,XOM,2021-04-30,08:00:00, Exxon Mobil Swings To Profit In Q1; Results Top Estimates - Quick Facts  Exxon Mobil Corp. Q1 adjusted earnings Beat Estimates Exxon Mobil Q1 21 Earnings Conference Call At 9:30 AM ET ,1.0
+12,CVX,2021-04-30,06:45:00," Chevron Q1 Adj. EPS Meets Estimates, Revenues Top - Quick Facts  Chevron Corp. Q1 adjusted earnings Inline With Estimates Chevron Q1 21 Earnings Conference Call At 11:00 AM ET ",0.5
+13,ABBV,2021-04-30,08:00:00, AbbVie Q1 adjusted earnings Beat Estimates,1.0
+14,PSX,2021-04-30,07:00:00, Phillips 66 Q1 adjusted earnings of -$1.16 per share Phillips 66 Q1 21 Earnings Conference Call At 12:00 PM ET ,0.0
+15,LYB,2021-04-30,08:00:00, LyondellBasell Industries N.V. Q1 adjusted earnings of $3.18 per share,1.0
+16,JCI,2021-04-30,06:30:00, Johnson Controls Boost FY21 Outlook - Quick Facts  Johnson Controls Inc Q2 adjusted earnings Beat Estimates Johnson Controls Q2 21 Earnings Conference Call At 8:30 AM ET ,1.0
+17,ITW,2021-04-30,08:00:00, Illinois Tool Works Boosts FY21 Outlook - Quick Facts  Illinois Tool Works Inc Earnings Climb In Q1,1.0
+18,GWW,2021-04-30,08:00:00, EARNINGS SUMMARY: Details of Grainger (W.W.) Inc. Q1 Earnings Report Grainger Q1 Results Top Estimates; Sees 2021 Above View ,1.0
+19,CLX,2021-04-30,06:30:00, Clorox Slashes FY21 Earnings Outlook - Quick Facts  Clorox Co. Q3 adjusted earnings Beat Estimates,0.0
+0,CL,2021-04-30,08:00:00, Colgate-Palmolive Q1 Results Beat View  Colgate-Palmolive Co. Profit Retreats In Q1 Colgate-Palmolive Q1 21 Earnings Conference Call At 8:30 AM ET ,1.0
+1,CHTR,2021-04-30,07:00:00," Charter Communications Q1 21 Earnings Conference Call At 8:30 AM ET  Charter Communications, Inc. Reports Rise In Q1 Profit",1.0
+2,AON,2021-04-30,06:00:00, Aon Plc Q1 21 Earnings Conference Call At 8:30 AM ET  Aon plc Q1 adjusted earnings Beat Estimates,1.0
+3,WY,2021-04-30,03:05:00," Weyerhaeuser Q1 21 Earnings Conference Call At 10:00 AM ET  Weyerhaeuser To Sell 145,000 Acres Of Timberlands In Washington For $266 Mln  Weyerhaeuser Co Q1 adjusted earnings Miss Estimates",0.0
+4,LHX,2021-04-30,08:00:00," L3Harris Technologies Boosts FY21 Adj. EPS Outlook - Quick Facts  L3Harris Technologies, Inc. Q1 adjusted earnings Beat Estimates",1.0
+5,CBOE,2021-04-30,07:30:00," CBOE Global Markets, Inc. Q1 adjusted earnings Beat Estimates",1.0
+6,EL,2021-05-03,06:45:00, Estée Lauder Reinitiates FY21 Outlook In Line With Estimates - Quick Facts  The Estée Lauder Companies Inc. Q3 adjusted earnings Beat Estimates The Estée Lauder Companies Q3 21 Earnings Conference Call At 9:30 AM ET ,1.0
+7,WEC,2021-05-03,07:00:00, WEC Energy Group Profit Advances In Q1 WEC Energy Group Q1 21 Earnings Conference Call At 2:00 PM ET ,1.0
+8,ON,2021-05-03,08:00:00, ON Semiconductor Corp. Q1 adjusted earnings Beat Estimates ON Semiconductor Q1 21 Earnings Conference Call At 9:00 AM ET ,1.0
+9,L,2021-05-03,06:30:00, Loews Q1 21 Earnings Conference Call At 10:00 AM ET  EARNINGS SUMMARY: Details of Loews Corp. Q1 Earnings Report,0.5
+10,PFE,2021-05-04,06:45:00, Pfizer Q1 Profit Rises; Lifts FY Outlook  Pfizer Inc. Q1 adjusted earnings of $0.93 per share Pfizer Q1 21 Earnings Conference Call At 10:00 AM ET ,1.0
+11,CVS,2021-05-04,08:00:00, CVS Health Offers No-cost Heart Health Screenings During National Women's Health Week  CVS Health Raises Earnings Guidance  CVS Health Corp. Q1 adjusted earnings Beat Estimates CVS Health Q1 21 Earnings Conference Call At 8:00 AM ET ,1.0
+12,BG,2021-05-04,08:00:00, Bunge Q1 Adj. Profit Rises; Increases Earnings Outlook ,1.0
+13,DD,2021-05-04,06:00:00, DuPont Sees Q2 Results Above Market View; Lifts FY21 Outlook  EI DuPont De Nemours & Co. Q1 adjusted earnings of $0.91 per share EI DuPont De Nemours & Co. Q1 21 Earnings Conference Call At 8:00 AM ET ,1.0
+14,CMI,2021-05-04,07:30:00, Cummins Raises Full Year Outlook  Cummins  Inc. Reveals Rise In Q1 Profit,1.0
+15,XYL,2021-05-04,06:55:00, Xylem Boosts FY21 Guidance - Quick Facts  Xylem Inc. Q1 adjusted earnings Beat Estimates,1.0
+16,SYY,2021-05-04,08:00:00, Sysco Corp. Q3 adjusted earnings Beat Estimates Sysco Q3 21 Earnings Conference Call At 10:00 AM ET ,1.0
+17,MPC,2021-05-04,06:30:00, Marathon Petroleum Corporation Q1 adjusted earnings Beat Estimates Marathon Petroleum Q1 21 Earnings Conference Call At 11:00 AM ET ,1.0
+18,MLM,2021-05-04,06:50:00," Martin Marietta Materials, Inc. Announces Gain In Q1 Bottom Line",1.0
+19,HSIC,2021-05-04,07:00:00, Henry Schein Boosts FY21 Adj. EPS Outlook - Quick Facts  Henry Schein Inc. Q1 adjusted earnings Beat Estimates,1.0
+0,EXPD,2021-05-04,08:00:00, Expeditors International Of Washington Q1 Profit Surges  Expeditors International of Washington Inc. Q1 Earnings Climb,1
+1,ETN,2021-05-04,06:30:00, Eaton Corp. Q1 adjusted earnings Beat Estimates,1
+2,D,2021-05-04,07:30:00," Dominion Energy, Inc. Q1 adjusted earnings of $1.09 per share",1
+3,CTLT,2021-05-04,07:15:00,,0.5
+4,CRL,2021-05-04,07:00:00, Charles River Labs Boosts FY21 Outlook - Quick Facts ,1
+5,COP,2021-05-04,08:00:00, ConocoPhillips Q1 adjusted earnings Beat Estimates ConocoPhillips Q1 21 Earnings Conference Call At 12:00 PM ET ,1
+6,BR,2021-05-04,07:00:00, Broadridge Financial Solutions Inc. Q3 adjusted earnings Beat Estimates,1
+7,BEN,2021-05-04,08:30:00, Franklin Resources Inc. Q2 adjusted earnings Beat Estimates,1
+8,AME,2021-05-04,06:55:00, AMETEK Raises Guidance; Acquires NSI-MI Technologies - Quick Facts  Ametek Inc. Q1 adjusted earnings Beat Estimates Ametek Q1 21 Earnings Conference Call At 8:30 AM ET ,1
+9,ZBRA,2021-05-04,06:30:00, Zebra Technologies Boosts FY21 Sales Outlook; Guides Q2 Above Estimates - Quick Facts ,1
+10,ZBH,2021-05-04,06:30:00, Zimmer Biomet Holdings Q1 21 Earnings Conference Call At 8:30 AM ET  Zimmer Biomet Reinitiates FY21 Outlook - Quick Facts  Zimmer Biomet Holdings Inc. Q1 adjusted earnings of $1.71 per share,1
+11,VMC,2021-05-04,07:30:00, Vulcan Materials Co. Q1 adjusted earnings Beat Estimates,1
+12,LDOS,2021-05-04,07:00:00," Leidos Q1 Profit Beats Estimates, Lifts Earnings Guidance; Names Christopher Cage CFO ",1
+13,IT,2021-05-04,08:00:00," Gartner Q1 21 Earnings Conference Call At 8:00 AM ET  Gartner, Inc. Q1 adjusted earnings Beat Estimates",1
+14,IDXX,2021-05-04,07:00:00, IDEXX Laboratories Q1 21 Earnings Conference Call At 8:30 AM ET  IDEXX Laboratories Inc Earnings Climb In Q1,1
+15,GPN,2021-05-04,06:55:00, Global Payments To Buy Zego From Vista Equity For $925 Mln Cash  Global Payments Inc. Q1 adjusted earnings Beat Estimates Global Payments Q1 21 Earnings Conference Call At 8:00 AM ET ,1
+16,INCY,2021-05-04,07:00:00, Incyte Corporation Q1 adjusted earnings Beat Estimates,1
+17,GM,2021-05-05,07:30:00," Chevrolet Silverado Electric Pickup Truck To Be Built At Factory ZERO Plant  GM Q1 Profit Tops View, But Revenues Miss  General Motors Company Q1 adjusted earnings Beat Estimates General Motors Q1 21 Earnings Conference Call At 10:00 AM ET ",1
+18,WRK,2021-05-05,06:30:00, WestRock Q2 21 Earnings Conference Call At 8:30 AM ET  WestRock Company Q2 adjusted earnings Miss Estimates,0
+19,WAT,2021-05-05,06:50:00, Waters Corp. Q1 21 Earnings Conference Call At 8:00 AM ET  Waters Corp. Q1 adjusted earnings Beat Estimates,1
+0,TT,2021-05-05,06:30:00,,0.5
+1,SRE,2021-05-05,07:00:00, Sempra Energy Affirms FY21 Adj. EPS Outlook - Quick Facts  Sempra Energy Q1 adjusted earnings of $2.95 per share,1
+2,PNW,2021-05-05,08:40:00, Pinnacle West Capital Corp. Reveals Increase In Q1 Bottom Line,1
+3,NI,2021-05-05,06:30:00, NiSource Boosts FY21 Adj. EPS Outlook - Quick Facts  NiSource Inc. Q1 adjusted earnings Inline With Estimates NiSource Q1 21 Earnings Conference Call At 11:00 AM ET ,1
+4,HLT,2021-05-05,06:00:00," Hilton Worldwide Holdings, Inc. Q1 adjusted earnings Miss Estimates",0
+5,EXC,2021-05-05,08:00:00, Exelon Corp Q1 adjusted earnings Miss Estimates,0
+6,EMR,2021-05-05,06:55:00, Emerson Electric Q2 21 Earnings Conference Call At 9:30 AM ET  Emerson Electric Boosts FY21 Outlook - Quick Facts ,1
+7,CDW,2021-05-05,07:00:00, CDW Corp. Q1 21 Earnings Conference Call At 8:30 AM ET  CDW Corp. CFO Collin Kebo To Retire - Quick Facts  CDW Corporation Q1 adjusted earnings Beat Estimates,1
+8,BWA,2021-05-05,06:30:00, Borg Warner Inc. Q1 adjusted earnings Beat Estimates Borg Warner Q1 21 Earnings Conference Call At 9:00 AM ET ,1
+9,PEG,2021-05-05,08:00:00, Public Service Enterprise Reaffirms FY21 Operating Earnings Outlook - Quick Facts  Public Service Enterprise Group Inc Q1 adjusted earnings Beat Estimates Public Service Enterprise To Sell Solar Source Portfolio To Affiliate Of LS Power ,1
+10,DOC,2021-05-05,08:00:00,,0.5
+11,PARA,2021-05-06,07:00:00,,0.5
+12,CAH,2021-05-06,06:45:00, Cardinal Health Narrows FY21 Adj. EPS Outlook As Q3 Results Miss View - Quick Facts  Cardinal Health Inc Q3 adjusted earnings Miss Estimates,0
+13,ZTS,2021-05-06,07:00:00, Zoetis Boosts FY21 Outlook - Quick Facts ,1
+14,TPR,2021-05-06,07:00:00," EARNINGS SUMMARY: Details of Tapestry, Inc. Q3 Earnings Report",0.5
+15,REGN,2021-05-06,06:30:00, Regeneron Pharmaceuticals Q1 adjusted earnings Miss Estimates,0
+16,PPL,2021-05-06,08:00:00, EARNINGS SUMMARY: Details of PPL Corporation Q1 Earnings Report PPL Corporation Q1 adjusted earnings of $0.28 per share,0.5
+17,K,2021-05-06,08:00:00, Kellogg Boosts FY21 Outlook As Q1 Results Top View - Quick Facts  Kellogg Company Q1 adjusted earnings Beat Estimates,1
+18,HWM,2021-05-06,07:00:00,,0.5
+19,HII,2021-05-06,08:00:00, Huntington Ingalls Industries Q1 Profit Declines ,0
+0,CNP,2021-05-06,06:00:00, CenterPoint Energy Inc Q1 adjusted earnings of $0.59 per share,1
+1,BLDR,2021-05-06,07:00:00,, 
+2,BDX,2021-05-06,06:00:00," BD To Spin Off Diabetes Care Business - Quick Facts  Becton, Dickinson and Company Announces Increase In Q2 Earnings",1
+3,AES,2021-05-06,06:00:00, AES Corp. Slips To Loss In Q1; Adj. EPS Misses View; Confirms FY21 Outlook ,0
+4,XRAY,2021-05-06,07:00:00, Dentsply Sirona Boosts FY21 Adj. EPS Outlook - Quick Facts ,1
+5,TRGP,2021-05-06,06:00:00,, 
+6,PWR,2021-05-06,06:55:00," Quanta Services Lifts FY21 Earnings, Revenue Outlook  Quanta Services Inc. Q1 adjusted earnings Beat Estimates",1
+7,NRG,2021-05-06,07:00:00, NRG Energy Appoints Alberto Fornaro CFO - Quick Facts  EARNINGS SUMMARY: Details of NRG Energy Inc Q1 Earnings Report,0.5
+8,NCLH,2021-05-06,07:00:00,, 
+9,IRM,2021-05-06,06:00:00, Iron Mountain Raises 2021 Guidance - Quick Facts  Iron Mountain Inc Q1 Earnings Retreat,0.5
+10,EPAM,2021-05-06,06:00:00,, 
+11,TECH,2021-05-06,06:30:00, Bio-Techne Q3 Profit Tops Estimates ,1
+12,MRNA,2021-05-06,07:00:00, Moderna Q1 Profit Tops View; Raises FY COVID-19 Vaccine Sales Outlook  Moderna Reaches Supply Agreement With Switzerland For 7 Mln Booster Vaccine Doses In 2022 ,1
+13,LIN,2021-05-06,06:00:00,, 
+14,FIS,2021-05-06,07:00:00, Fidelity National Information Services Q1 adjusted earnings Beat Estimates,1
+15,EVRG,2021-05-06,06:00:00," Evergy Affirms FY21 Adj. EPS Outlook - Quick Facts  Evergy, Inc. Q1 adjusted earnings Beat Estimates",1
+16,APTV,2021-05-06,06:45:00, Aptiv PLC Q1 adjusted earnings Beat Estimates,1
+17,CI,2021-05-07,06:00:00, Cigna Q1 Results Beat Estimates- Quick Facts  Cigna Corp. Q1 adjusted earnings Beat Estimates,1
+18,VTR,2021-05-07,06:55:00, Ventas Guides Q2 In Line With Estimates - Quick Facts ,0.5
+19,TSN,2021-05-10,06:25:00," Tyson Foods Q1 Profit Spikes, Tops Estimates ",1
+0,MAR,2021-05-10,07:00:00, Marriott International Slips To Loss In Q1  Marriott International Inc. Q1 adjusted earnings Beat Estimates,0
+1,DUK,2021-05-10,07:00:00, Duke Energy Reaffirms FY21 Outlook - Quick Facts ,0.5
+2,APD,2021-05-10,06:00:00," Air Products Q2 Adj. EPS Misses View; Sees Q3 Earnings Above Market, Higher Earnings In FY21 ",0.5
+3,J,2021-05-10,08:00:00, Jacobs Engineering Boosts FY21 Adj. EPS Outlook - Quick Facts  Jacobs Engineering Group Inc. Q2 adjusted earnings Beat Estimates,1
+4,ES,2021-05-10,06:30:00, Eversource Energy Reaffirms FY21 Recurring Earnings Outlook - Quick Facts  Eversource Energy Profit Rises In Q1,0.5
+5,VTRS,2021-05-10,07:55:29," Viatris Reaffirms FY21 Revenue Outlook, Declares Dividend - Quick Facts  EARNINGS SUMMARY: Details of Viatris Inc. Q1 Earnings Report",0.5
+6,TDG,2021-05-11,08:00:00,, 
+7,WMT,2021-05-18,06:00:00," Walmart Q1 Profit Declines, But Results Top Estimates ",0.5
+8,HD,2021-05-18,06:00:00," The Home Depot, Inc. Earnings Climb In Q1",1
+9,TGT,2021-05-19,07:00:00, Target Q1 Results Top Estimates - Quick Facts  Target Corp. Reports Advance In Q1 Earnings,1
+10,TJX,2021-05-19,09:30:00, TJX Companies Q1 Results Top Estimates - Quick Facts ,1
+11,LOW,2021-05-19,06:00:00, Lowe's Says Confident In Strong FY21 Results - Quick Facts  Lowe's Cos. Bottom Line Advances In Q1,0.5
+12,ADI,2021-05-19,07:00:00," Analog Devices Guides Q3 In Line With Estimates, Declares Dividend - Quick Facts ",0.5
+13,RL,2021-05-20,09:00:00," Ralph Lauren Guides Q1, FY22 Revenue Growth; Reinstates Dividend - Quick Facts  Ralph Lauren Corp. Q4 adjusted earnings Beat Estimates",1
+14,HRL,2021-05-20,08:00:00," Hormel Foods Boosts FY21 Net Sales Outlook, While Reaffirming EPS - Quick Facts ",1
+15,DE,2021-05-21,06:45:00," Deere Q2 Profit Climbs, Tops Market View; Lifts FY21 Earnings View - Quick Facts ",1
+16,VFC,2021-05-21,06:55:00, VF Corp. Guides FY22 Above Estimates - Quick Facts ,1
+17,AZO,2021-05-25,06:55:00, AutoZone Q3 Results Top Estimates - Quick Facts ,1
+18,MDT,2021-05-27,06:00:00, Medtronic Guides FY22 Adj. EPS In Line With Estimates; Boosts Dividend 9% - Quick Facts  Medtronic plc Q4 adjusted earnings Beat Estimates,1
+19,DLTR,2021-05-27,07:00:00, Dollar Tree Inc. Q1 Income Rises Dollar Tree Q1 21 Earnings Conference Call At 9:00 AM ET ,1
+0,DG,2021-05-27,06:55:00," Dollar General To Open 1,000 New Stores  Dollar General Boosts FY21 Outlook; Q1 Results Top Estimates - Quick Facts  Dollar General Corporation Q1 Profit Rises Dollar General Q1 21 Earnings Conference Call At 10:00 AM ET ",1.0
+1,BBY,2021-05-27,08:00:00, Best Buy Raises FY20 Comp Sales Outlook; Q1 Results Top Estimates - Quick Facts  Best Buy Co Inc. Q1 adjusted earnings Beat Estimates Best Buy Co Q1 22 Earnings Conference Call At 8:00 AM ET ,1.0
+2,SJM,2021-06-03,07:00:00, J. M. Smucker Guides FY22 Above Estimates - Quick Facts  The J. M. Smucker Company Q4 adjusted earnings Beat Estimates The J. M. Smucker Q4 21 Earnings Conference Call At 8:30 AM ET ,1.0
+3,CPB,2021-06-09,07:15:00, Campbell Soup Trims FY21 Outlook - Quick Facts  Campbell Soup Co. Q3 adjusted earnings Miss Estimates Campbell Soup Q3 21 Earnings Conference Call At 8:00 AM ET ,0.0
+4,KR,2021-06-17,08:00:00, Kroger Co. Q1 adjusted earnings Beat Estimates Kroger Q1 21 Earnings Conference Call At 10:00 AM ET ,1.0
+5,JBL,2021-06-17,07:45:00, Jabil Guides Q4 Above Estimates; Boosts FY21 Outlook - Quick Facts  Jabil Q3 21 Earnings Conference Call At 8:30 AM ET ,1.0
+6,CCL,2021-06-24,08:00:00, Carnival Shares Down 3% ,0.0
+7,DRI,2021-06-24,07:00:00, Darden Restaurants Guides FY22 In Line With View; Raises Dividend 25% - Quick Facts  Darden Restaurants Inc. Q4 adjusted earnings Beat Estimates Darden Restaurants Q4 21 Earnings Conference Call At 8:30 AM ET ,1.0
+8,ACN,2021-06-24,06:45:00, Accenture Boosts FY21 Outlook; Raises Dividend 10% - Quick Facts  Accenture plc Reveals Increase In Q3 Earnings Accenture Q3 21 Earnings Conference Call At 8:00 AM ET ,1.0
+9,KMX,2021-06-25,06:50:00, CarMax Inc. Reveals Increase In Q1 Bottom Line CarMax Q1 22 Earnings Conference Call At 9:00 AM ET ,1.0
+10,PAYX,2021-06-25,08:30:00, Paychex Inc. Q4 adjusted earnings Beat Estimates Paychex Q4 21 Earnings Conference Call At 9:30 AM ET ,1.0
+11,FDS,2021-06-29,07:00:00,,0.5
+12,GIS,2021-06-30,07:00:00," General Mills Q4 Profit Declines, But Results Top Estimates  General Mills Q4 adjusted earnings Beat Estimates General Mills Q4 21 Earnings Conference Call At 9:00 AM ET ",1.0
+13,STZ,2021-06-30,07:30:00, Constellation Brands Boosts FY22 Comparable EPS Outlook - Quick Facts  Constellation Brands Inc Q1 adjusted earnings Beat Estimates Constellation Brands Q1 22 Earnings Conference Call At 11:30 AM ET ,1.0
+14,WBA,2021-07-01,07:00:00," Walgreens Boots Alliance Boosts FY21 Adj. EPS Growth Outlook - Quick Facts  Walgreens Boots Alliance, Inc. Q3 adjusted earnings Beat Estimates Walgreens Boots Alliance Q3 21 Earnings Conference Call At 8:30 AM ET ",1.0
+15,MKC,2021-07-01,06:30:00, McCormick Boosts FY21 Outlook - Quick Facts  McCormick & Co. Q2 adjusted earnings Beat Estimates McCormick & Co. Q2 21 Earnings Conference Call At 8:00 AM ET ,1.0
+16,PEP,2021-07-13,06:00:00," Pepsico Q2 Profit Climbs, Tops Estimates; Lifts FY21 View - Quick Facts  Pepsico Inc Q2 adjusted earnings Beat Estimates",1.0
+17,JPM,2021-07-13,06:52:00," JPMorgan Q2 Profit Soar 155%, Results Top Estimates - Quick Facts  JPMorgan Chase & Co. Q2 Income Rises JPMorgan Chase & Co. Q2 21 Earnings Conference Call At 8:30 AM ET ",1.0
+18,GS,2021-07-13,07:30:00, Goldman Sachs Q2 Profit Tops View; Hikes Dividend  Goldman Sachs Group Inc. Bottom Line Climbs In Q2 Goldman Sachs Group Q2 21 Earnings Conference Call At 9:30 AM ET ,1.0
+19,CAG,2021-07-13,07:30:00, Conagra Brands Trims FY22 Outlook; Boosts Dividend 14% - Quick Facts  Conagra Brands Inc. Q4 adjusted earnings Beat Estimates Conagra Brands Q4 21 Earnings Conference Call At 9:30 AM ET ,0.5
+0,FAST,2021-07-13,06:50:00, EARNINGS SUMMARY: Details of Fastenal Co. Q2 Earnings Report,0.5
+1,WFC,2021-07-14,08:00:00, Wells Fargo Turns To Profit In Q2 - Quick Facts  EARNINGS SUMMARY: Details of Wells Fargo & Co Q2 Earnings Report Wells Fargo Q2 21 Earnings Conference Call At 11:30 AM ET ,1
+2,DAL,2021-07-14,07:30:00," Delta Airlines CEO Says No Impact Of Delta Variant On Future Bookings  Delta Air Lines Q2 Profit Declines, Results Come In Above Estimates - Quick Facts  Delta Air Lines Q2 21 Earnings Conference Call At 10:00 AM ET ",0.5
+3,C,2021-07-14,08:00:00, Citigroup Inc. Reveals Increase In Q2 Earnings Citigroup Q2 21 Earnings Conference Call At 10:00 AM ET ,1
+4,BAC,2021-07-14,06:45:00," Bank Of America Q2 Profit Surges, Tops View; But Revenues Down  Bank of America Corporation Reports Increase In Q2 Profit Bank Of America Q2 21 Earnings Conference Call At 9:00 AM ET ",1
+5,BLK,2021-07-14,06:15:00," BlackRock Q2 Earnings Higher, Above Consensus  Blackrock Inc. Q2 adjusted earnings Beat Estimates Blackrock Q2 21 Earnings Conference Call At 8:30 AM ET ",1
+6,PNC,2021-07-14,06:45:00, PNC Financial Services Group Q2 21 Earnings Conference Call At 10:00 AM ET  PNC Financial Services Group Inc. Q2 Earnings Fall,0
+7,MS,2021-07-15,07:30:00, Morgan Stanley Q2 Results Top Estimates; Doubles Dividend  EARNINGS SUMMARY: Details of Morgan Stanley Q2 Earnings Report Morgan Stanley Q2 21 Earnings Conference Call At 8:30 AM ET ,1
+8,USB,2021-07-15,06:45:00, US Bancorp Announces Increase In Q2 Earnings US Bancorp Q2 21 Earnings Conference Call At 9:00 AM ET ,1
+9,UNH,2021-07-15,05:55:00," UnitedHealth Lifts FY21 Earnings View Above Market As Q2 Adj. EPS Tops Estimate  Unitedhealth Group Q2 21 Earnings Conference Call At 8:45 AM ET  Unitedhealth Group, Inc. Q2 adjusted earnings Beat Estimates",1
+10,BK,2021-07-15,06:30:00," BNY Mellon Q2 Profit Up 10%, Results Top Estimates - Quick Facts  The Bank of New York Mellon Corp. Profit Climbs In Q2 The Bank Of New York Mellon Q2 21 Earnings Conference Call At 8:00 AM ET ",1
+11,CTAS,2021-07-15,08:30:00, Cintas Corporation Q4 Profit Rises,1
+12,PGR,2021-07-15,08:30:00, Progressive Corp. Q2 Profit Declines 56% - Quick Facts ,0
+13,TFC,2021-07-15,05:45:00, Truist Financial Q2 21 Earnings Conference Call At 8:00 AM ET  Truist Financial Corporation Q2 adjusted earnings of $1.55 per share,1
+14,SCHW,2021-07-16,08:45:00,,0.5
+15,STT,2021-07-16,07:30:00," State Street Q2 Profit Up 10%, Results Top Estimates - Quick Facts  State Street Corp. Q2 Income Advances State Street Q2 21 Earnings Conference Call At 10:00 AM ET ",1
+16,TSCO,2021-07-19,07:05:00, Tractor Supply Boosts FY21 Outlook - Quick Facts ,1
+17,PLD,2021-07-19,08:00:00, Prologis Again Boosts FY21 Outlook - Quick Facts  ProLogis Q2 adjusted earnings Beat Estimates Prologis Q2 21 Earnings Conference Call At 12:00 PM ET ,1
+18,TRV,2021-07-20,07:00:00, Travelers Cos. Declares Qtly. Dividend Of $0.88 Per Share - Quick Facts  The Travelers Companies  Inc. Q2 adjusted earnings Beat Estimates The Travelers Companies Q2 21 Earnings Conference Call At 9:00 AM ET ,1
+19,PM,2021-07-20,07:00:00, Philip Morris International Q2 adjusted earnings Beat Estimates Philip Morris International Q2 21 Earnings Conference Call At 9:00 AM ET ,1
+0,HAL,2021-07-20,06:45:00, Halliburton Swings To Profit In Q2 - Quick Facts  EARNINGS SUMMARY: Details of Halliburton Company Q2 Earnings Report Halliburton Q2 21 Earnings Conference Call At 9:00 AM ET ,1.0
+1,SYF,2021-07-20,06:00:00, Synchrony Financial Q2 21 Earnings Conference Call At 8:00 AM ET  Synchrony Financial Announces Gain In Q2 Profit,1.0
+2,OMC,2021-07-20,06:40:00, Omnicom Group Q2 21 Earnings Conference Call At 8:30 AM ET  EARNINGS SUMMARY: Details of Omnicom Group Inc. Q2 Earnings Report,0.5
+3,HCA,2021-07-20,07:30:00," HCA Healthcare, Inc. Q2 adjusted earnings Beat Estimates",1.0
+4,CFG,2021-07-20,06:20:00," Citizens Financial Group Q2 21 Earnings Conference Call At 9:00 AM ET  Citizens Financial Declare Q4 Dividend Of $0.39 Per Share - Quick Facts  Citizens Financial Group, Inc. Q2 Income Rises",1.0
+5,KEY,2021-07-20,06:30:00, KeyCorp Bottom Line Climbs In Q2,1.0
+6,DOV,2021-07-20,07:00:00, Dover Raises 2021 Outlook  Dover Corp Q2 adjusted earnings Beat Estimates Dover Q2 21 Earnings Conference Call At 10:00 AM ET ,1.0
+7,KO,2021-07-21,06:55:00, Coca-Cola Boost FY21 Outlook As Q2 Results Top Estimates - Quick Facts  The Coca-Cola Company Q2 adjusted earnings Beat Estimates The Coca-Cola Q2 21 Earnings Conference Call At 8:30 AM ET ,1.0
+8,JNJ,2021-07-21,06:25:00," Johnson & Johnson, Drug Distributors Settle $26 Bln Opioid Deal  Johnson & Johnson Raises FY21 View Above Market As Q2 Results Top Estimates  Johnson & Johnson Q2 adjusted earnings Beat Estimates Johnson & Johnson Q2 21 Earnings Conference Call At 8:30 AM ET ",1.0
+9,CMA,2021-07-21,06:40:00, Comerica Inc. Bottom Line Rises In Q2 Comerica Q2 21 Earnings Conference Call At 8:00 AM ET ,1.0
+10,BKR,2021-07-21,07:00:00, Baker Hughes Q2 21 Earnings Conference Call At 8:30 AM ET  Baker Hughes Company Q2 adjusted earnings Miss Estimates,0.0
+11,VZ,2021-07-21,07:00:00, Verizon Raises FY Profit View  Verizon Communications Q2 adjusted earnings Beat Estimates Verizon Communications Q2 21 Earnings Conference Call At 8:30 AM ET ,1.0
+12,STX,2021-07-21,08:00:00, Seagate Q4 Results Top Estimates - Quick Facts  Seagate Technology Q4 21 Earnings Conference Call At 9:00 AM ET ,1.0
+13,ELV,2021-07-21,06:00:00,,0.0
+14,NTRS,2021-07-21,08:00:00, Northern Trust Corp. Q2 Profit Rises,1.0
+15,NDAQ,2021-07-21,07:00:00, Nasdaq Q2 Results Top Estimates - Quick Facts  Nasdaq Inc. Q2 adjusted earnings Beat Estimates Nasdaq Q2 21 Earnings Conference Call At 8:00 AM ET ,1.0
+16,MTB,2021-07-21,06:41:00, M&T Bank Corp. Earnings Advance In Q2,1.0
+17,NVR,2021-07-21,09:00:00,,0.0
+18,MKTX,2021-07-21,06:30:00," MarketAxess Q2 Profit Declines, But Tops Estimates - Quick Facts ",0.0
+19,IPG,2021-07-21,07:00:00, Interpublic Q2 Results Top Estimates - Quick Facts  Interpublic Group Of Companies Q2 21 Earnings Conference Call At 8:30 AM ET  Interpublic Group Of Companies Inc. Q2 adjusted earnings Beat Estimates,1.0
+0,T,2021-07-22,06:30:00, AT&T Q2 Results Top Estimates; Updates FY21 Outlook  AT&T Inc. Q2 adjusted earnings Beat Estimates AT&T Q2 21 Earnings Conference Call At 8:30 AM ET ,1.0
+1,BIIB,2021-07-22,07:00:00, Biogen Boosts FY21 Revenue Outlook; Q2 Results Top Estimates - Quick Facts  Biogen Q2 21 Earnings Conference Call At 8:00 AM ET ,1.0
+2,LUV,2021-07-22,06:30:00, Southwest Airlines Turns To Profit In Q2 - Quick Facts  Southwest Airlines Inc. Q2 adjusted earnings Miss Estimates Southwest Airlines Q2 21 Earnings Conference Call At 12:30 PM ET ,0.5
+3,FCX,2021-07-22,08:00:00, Freeport-McMoRan Inc. Q2 adjusted earnings Beat Estimates,1.0
+4,BX,2021-07-22,06:50:00, Blackstone Group Q2 Profit Climbs ,1.0
+5,ABT,2021-07-22,07:15:00, Abbott Laboratories Maintains FY21 Outlook - Quick Facts  Abbott Laboratories Q2 Income Advances Abbott Laboratories Q2 21 Earnings Conference Call At 9:00 AM ET ,1.0
+6,AAL,2021-07-22,07:00:00," American Airlines Cash Burn Rate Turns Positive; Warns On Q3 Revenue, Capacity  American Airlines Group Inc Q2 adjusted earnings Beat Estimates American Airlines Group Q2 21 Earnings Conference Call At 8:30 AM ET ",1.0
+7,UNP,2021-07-22,08:00:00, Union Pacific Corp. Reports Advance In Q2 Earnings Union Pacific Q2 21 Earnings Conference Call At 8:45 AM ET ,1.0
+8,NUE,2021-07-22,08:00:00, Nucor Sees Highest Quarterly Earnings In Its History In Q3 - Quick Facts  Nucor Corp. Announces Advance In Q2 Profit Nucor Q2 21 Earnings Conference Call At 2:00 PM ET ,1.0
+9,NEM,2021-07-22,07:00:00, Newmont Mining Corp. Q2 adjusted earnings Beat Estimates,1.0
+10,MMC,2021-07-22,07:00:00, Marsh & McLennan Q2 21 Earnings Conference Call At 8:30 AM ET  Marsh & McLennan Companies Inc Q2 adjusted earnings Beat Estimates,1.0
+11,FITB,2021-07-22,06:00:00, Fifth Third Bancorp Profit Climbs In Q2,1.0
+12,DOW,2021-07-22,06:00:00, Dow Inc. Q2 21 Earnings Conference Call At 8:00 AM ET  Dow Inc. Q2 adjusted earnings Beat Estimates,1.0
+13,DHR,2021-07-22,06:00:00, Danaher Q2 21 Earnings Conference Call At 8:00 AM ET  Danaher Corp. Bottom Line Rises In Q2,1.0
+14,DHI,2021-07-22,06:30:00, D.R. Horton Q3 Earnings Surpass Estimates On Higher Revenue; Sees Annual Sales Above View ,1.0
+15,DGX,2021-07-22,06:45:00, Quest Diagnostics Q2 21 Earnings Conference Call At 8:30 AM ET  Quest Diagnostics Initiates FY21 Outlook - Quick Facts  Quest Diagnostics Q2 adjusted earnings Beat Estimates,1.0
+16,AEP,2021-07-22,06:57:00, American Electric Power Again Reaffirms FY21 Adj. EPS Outlook - Quick Facts  American Electric Power Co Inc Q2 adjusted earnings Beat Estimates American Electric Power Co Q2 21 Earnings Conference Call At 9:00 AM ET ,1.0
+17,SNA,2021-07-22,06:30:00, Snap-on Q2 Profit Rises  Snap-On Inc. Q2 adjusted earnings Beat Estimates,1.0
+18,POOL,2021-07-22,07:00:00," Pool Corp. Q2 Net Leaps On Sales Growth, Beats Estimates; Ups Guidance Above View ",1.0
+19,GPC,2021-07-22,08:30:00, Genuine Parts Co Q2 adjusted earnings Beat Estimates Genuine Parts Q2 21 Earnings Conference Call At 11:00 AM ET ,1.0
+0,DPZ,2021-07-22,08:00:00, EARNINGS SUMMARY: Details of Dominos Pizza Inc. Q2 Earnings Report Domino's Pizza Q2 21 Earnings Conference Call At 10:00 AM ET , 
+1,ALLE,2021-07-22,05:30:00, Allegion Q2 21 Earnings Conference Call At 8:00 AM ET  Allegion Lifts FY21 Earnings View Above Market - Quick Facts  Allegion Q2 adjusted earnings Beat Estimates,1
+2,HON,2021-07-23,06:50:00, Honeywell Again Boosts FY21 Outlook - Quick Facts  Honeywell International Inc. Q2 adjusted earnings Beat Estimates Honeywell International Q2 21 Earnings Conference Call At 8:30 AM ET ,1
+3,SLB,2021-07-23,06:50:00, Schlumberger Ltd. Q2 adjusted earnings Beat Estimates Schlumberger Q2 21 Earnings Conference Call At 9:30 AM ET ,1
+4,ROP,2021-07-23,06:55:00, Roper Technologies Boosts FY21 Outlook - Quick Facts  Roper Technologies Inc. Q2 adjusted earnings Beat Estimates Roper Technologies Q2 21 Earnings Conference Call At 8:00 AM ET ,1
+5,NEE,2021-07-23,07:30:00," NextEra Energy Q2 21 Earnings Conference Call At 9:00 AM ET  NextEra Energy Maintains FY21 Adj. EPS Outlook - Quick Facts  NextEra Energy, Inc. Q2 adjusted earnings Beat Estimates",1
+6,KMB,2021-07-23,07:30:00, Kimberly-Clark Slashes FY21 Outlook - Quick Facts  Kimberly-Clark Corp Q2 adjusted earnings Miss Estimates Kimberly-Clark Q2 21 Earnings Conference Call At 10:00 AM ET ,0
+7,AXP,2021-07-23,07:00:00, American Express Says Confident To Be Within High End Range Of FY20 Earnings View In FY22  American Express Co. Announces Advance In Q2 Bottom Line American Express Q2 21 Earnings Conference Call At 8:30 AM ET ,1
+8,RF,2021-07-23,06:00:00, EARNINGS SUMMARY: Details of Regions Financial Corp. Q2 Earnings Report Regions Financial Q2 21 Earnings Conference Call At 10:00 AM ET , 
+9,LMT,2021-07-26,08:00:00, Lockheed Martin Lifts FY Profit View - Quick Facts  Lockheed Martin Corp. Profit Climbs In Q2 Lockheed Martin Q2 21 Earnings Conference Call At 11:00 AM ET ,1
+10,HAS,2021-07-26,06:30:00, Hasbro Inc. Q2 adjusted earnings Beat Estimates Hasbro Q2 21 Earnings Conference Call At 8:30 AM ET ,1
+11,RVTY,2021-07-26,06:31:00, PerkinElmer Boosts FY21 Outlook - Quick Facts  PerkinElmer Q2 adjusted earnings Beat Estimates,1
+12,OTIS,2021-07-26,06:00:00,, 
+13,UPS,2021-07-27,06:00:00," UPS Q2 Earnings And Sales Rise, Above Consensus  United Parcel Service Q2 adjusted earnings of $3.06 per share Amended: United Parcel Service Q2 21 Earnings Conference Call At 8:30 AM ET ",1
+14,GE,2021-07-27,06:30:00," GE Q2 Loss Narrows; Backs FY21 EPS View, Lifts Free Cash Flow Target  General Electric Co Q2 adjusted earnings Beat Estimates General Electric Q2 21 Earnings Conference Call At 8:00 AM ET ",1
+15,MMM,2021-07-27,06:30:00, 3M Co. Q2 adjusted earnings of $2.59 per share 3M Co. Q2 21 Earnings Conference Call At 9:00 AM ET ,1
+16,CNC,2021-07-27,06:00:00, Centene Q2 21 Earnings Conference Call At 8:30 AM ET  Centene Reports Loss In Q2; Misses Estimates  Centene Corporation Q2 adjusted earnings Miss Estimates,0
+17,WM,2021-07-27,07:12:00, Waste Management Boost FY21 Revenue Growth Outlook - Quick Facts  Waste Management Inc Q2 adjusted earnings Beat Estimates Waste Management Q2 21 Earnings Conference Call At 10:00 AM ET ,1
+18,SWK,2021-07-27,06:00:00," Stanley Black & Decker Q2 21 Earnings Conference Call At 8:00 AM ET  Stanley Black & Decker Lifts FY21 Earnings View  Stanley Black & Decker, Inc. Q2 adjusted earnings Beat Estimates",1
+19,ROK,2021-07-27,07:00:00, Rockwell Automation Q3 21 Earnings Conference Call At 8:30 AM ET  Rockwell Automation Boosts FY21 Outlook - Quick Facts  Rockwell Automation  Inc. Q3 adjusted earnings of $2.31 per share,1
+0,PNR,2021-07-27,06:55:00, Pentair Q2 21 Earnings Conference Call At 9:00 AM ET  Pentair Boosts FY21 Outlook - Quick Facts  Pentair plc Q2 adjusted earnings Beat Estimates,1
+1,IQV,2021-07-27,07:00:00, IQVIA Holdings Q2 21 Earnings Conference Call At 9:00 AM ET  IQVIA Holdings Boosts FY21 Outlook - Quick Facts  IQVIA Holdings Inc. Q2 adjusted earnings Beat Estimates,1
+2,HUBB,2021-07-27,07:30:00,, 
+3,GLW,2021-07-27,07:30:00, Corning Guides Q3 In Line With Estimates - Quick Facts  Corning Inc. Q2 adjusted earnings Beat Estimates Corning Q2 21 Earnings Conference Call At 8:30 AM ET ,1
+4,DTE,2021-07-27,07:00:00, DTE Energy Q2 Profit Falls; Raises FY21 Outlook  DTE Energy Q2 21 Earnings Conference Call At 9:00 AM ET  DTE Energy Co Q2 adjusted earnings Beat Estimates,1
+5,BSX,2021-07-27,06:30:00, Boston Scientific Sees Q3 Profit In Line With View; Updates FY Outlook  Boston Scientific Corp Q2 adjusted earnings Beat Estimates Boston Scientific Q2 21 Earnings Conference Call At 8:00 AM ET ,1
+6,ADM,2021-07-27,07:00:00, Archer-Daniels-Midland Q2 21 Earnings Conference Call At 9:00 AM ET  Archer-Daniels-Midland Q2 adjusted earnings Beat Estimates,1
+7,SHW,2021-07-27,07:00:00, Sherwin-Williams Co Q2 adjusted earnings Miss Estimates,0
+8,ECL,2021-07-27,08:30:00, Ecolab Sees Sequential EPS Improvement In Q3 - Quick Facts  Ecolab Q2 21 Earnings Conference Call At 1:00 PM ET ,1
+9,RTX,2021-07-27,06:55:00, Raytheon Technologies Q2 21 Earnings Conference Call At 8:30 AM ET  Raytheon Technologies Again Boosts FY21 Outlook - Quick Facts  Raytheon Technologies Corporation Q2 adjusted earnings Beat Estimates,1
+10,LW,2021-07-27,08:30:00, Lamb Weston Drops 12% On Weaker Full Year Outlook ,0
+11,PFE,2021-07-28,06:45:00, Pfizer Lifts FY21 Outlook On Updated Covid Vaccine Expectations  Pfizer Inc. Q2 adjusted earnings of $1.07 per share Pfizer Q2 21 Earnings Conference Call At 10:00 AM ET ,1
+12,MCD,2021-07-28,07:00:00," McDonald's Q2 Profit Soars, Results Top Estimates - Quick Facts  McDonalds Corp. Q2 adjusted earnings Beat Estimates McDonald's Q2 21 Earnings Conference Call At 8:30 AM ET ",1
+13,BMY,2021-07-28,07:00:00, Bristol-Myers Squibb Co. Q2 adjusted earnings Beat Estimates Bristol-Myers Squibb Reaffirms FY21 Adj. EPS Outlook - Quick Facts  Bristol-Myers Squibb Q2 21 Earnings Conference Call At 8:00 AM ET ,1
+14,BG,2021-07-28,06:00:00, Bunge Beats Estimates; Raises Guidance ,1
+15,BA,2021-07-28,07:30:00, Boeing Q2 Profit Tops View  The Boeing Co. Q2 adjusted earnings Beat Estimates The Boeing Q2 21 Earnings Conference Call At 10:30 AM ET ,1
+16,GD,2021-07-28,07:00:00, General Dynamics Corp. Profit Climbs In Q2 General Dynamics Q2 21 Earnings Conference Call At 9:00 AM ET ,1
+17,TMO,2021-07-28,06:00:00," Thermo Fisher Scientific Q2 21 Earnings Conference Call At 8:30 AM ET  Thermo Fisher Scientific Raises FY21 Earnings, Revenue View Above Market  Thermo Fisher Scientific Q2 adjusted earnings Beat Estimates",1
+18,TEL,2021-07-28,06:00:00," TE Connectivity Q3 21 Earnings Conference Call At 8:30 AM ET  TE Connectivity Sees Higher Results In Q4, FY21 Above Market  TE Connectivity Ltd. Q3 adjusted earnings Beat Estimates",1
+19,TDY,2021-07-28,06:55:00, Teledyne Technologies Boosts FY21 Outlook - Quick Facts  Teledyne Technologies Inc Q2 adjusted earnings Beat Estimates,1
+0,ROL,2021-07-28,07:30:00," Rollins, Inc. Q2 adjusted earnings Beat Estimates",0.5
+1,ODFL,2021-07-28,07:00:00," Old Dominion Freight Line Quarterly Earnings Rise Above Estimates On Sales Growth  Old Dominion Freight Line, Inc. Announces Increase In Q2 Earnings",1
+2,NSC,2021-07-28,08:00:00, Norfolk Southern Corp Earnings Advance In Q2 Norfolk Southern Q2 21 Earnings Conference Call At 8:45 AM ET ,1
+3,MCO,2021-07-28,07:00:00, Moody's Boosts FY21 Outlook - Quick Facts  Moodys Corp. Q2 adjusted earnings Beat Estimates Moody's Q2 21 Earnings Conference Call At 11:30 AM ET ,1
+4,HUM,2021-07-28,06:30:00, Humana Backs FY21 Adj. EPS Outlook - Quick Facts  Humana Inc Q2 adjusted earnings Beat Estimates Humana Q2 21 Earnings Conference Call At 9:00 AM ET ,1
+5,HES,2021-07-28,07:30:00, Hess Corporation Q2 adjusted earnings Beat Estimates,0.5
+6,CME,2021-07-28,07:00:00," CME Group, Inc. Q2 adjusted earnings Beat Estimates CME Group Q2 21 Earnings Conference Call At 8:30 AM ET ",1
+7,AVY,2021-07-28,06:45:00, Avery Dennison Lifts FY21 Outlook  Avery Dennison Corp. Q2 adjusted earnings Beat Estimates,1
+8,APH,2021-07-28,08:00:00, Amphenol Corp. Q2 adjusted earnings Beat Estimates,1
+9,ADP,2021-07-28,07:00:00, Automatic Data Processing Initiates FY21 Outlook - Quick Facts  Automatic Data Processing Inc. Q4 adjusted earnings Beat Estimates Automatic Data Processing Q4 21 Earnings Conference Call At 8:30 AM ET ,1
+10,GRMN,2021-07-28,07:00:00, Garmin Raises FY21 Outlook  Garmin Ltd Q2 adjusted earnings Beat Estimates,1
+11,GNRC,2021-07-28,06:00:00,, 
+12,MRK,2021-07-29,06:30:00, Merck Q2 Profit Down; Cuts FY21 Outlook Below Market Estimates  Merck & Co Inc. Q2 adjusted earnings of $1.31 per share Merck & Co Q2 21 Earnings Conference Call At 8:00 AM ET ,0
+13,YUM,2021-07-29,07:00:00, Yum! Brands Inc. Q2 adjusted earnings Beat Estimates,1
+14,VLO,2021-07-29,06:25:00, Valero Energy Corp. Q2 adjusted earnings Miss Estimates,0
+15,NOC,2021-07-29,06:40:00," Northrop Grumman Q2 21 Earnings Conference Call At 9:00 AM ET  Northrop Grumman Corp. Bottom Line Climbs In Q2 Northrop Grumman Q2 Results Rise, Top Estimates; Lifts FY21 Outlook - Quick Facts ",1
+16,MO,2021-07-29,07:00:00, Altria Group Q2 21 Earnings Conference Call At 9:00 AM ET  Altria Raises FY21 Adj. Earnings View Above Market As Q2 Results Top Estimates ,1
+17,MA,2021-07-29,08:00:00, Mastercard Incorporated Q2 adjusted earnings Beat Estimates Mastercard Q2 21 Earnings Conference Call At 9:00 AM ET ,1
+18,CMCSA,2021-07-29,07:00:00," Comcast Q2 Profit Up 25%, Results Top Estimates - Quick Facts  Comcast Corp. Q2 adjusted earnings Beat Estimates Comcast Q2 21 Earnings Conference Call At 8:30 AM ET ",1
+19,XEL,2021-07-29,06:00:00, Xcel Energy Inc Profit Advances In Q2,1
+0,WAB,2021-07-29,06:30:00, Wabtec Q2 21 Earnings Conference Call At 8:30 AM ET  Wabtec Corporation Q2 adjusted earnings of $1.06 per share,1
+1,TXT,2021-07-29,06:30:00, Textron Q2 21 Earnings Conference Call At 8:00 AM ET  Textron Inc. Q2 adjusted earnings Beat Estimates,1
+2,TROW,2021-07-29,07:00:00, T. Rowe Price Group Q2 adjusted earnings Beat Estimates,1
+3,TAP,2021-07-29,07:00:00, Molson Coors Brewing Company Reports Gain In Q2 Bottom Line,1
+4,SPGI,2021-07-29,07:15:00, S&P Global Inc. Q2 adjusted earnings Beat Estimates,1
+5,SO,2021-07-29,06:15:00, Southern Co. Q2 adjusted earnings Beat Estimates,1
+6,PCG,2021-07-29,08:20:00,, 
+7,MLM,2021-07-29,06:50:00," Martin Marietta Materials Boosts FY21 Revenue Outlook - Quick Facts  Martin Marietta Materials, Inc. Q2 adjusted earnings Miss Estimates",0
+8,LKQ,2021-07-29,06:00:00, LKQ Corp Q2 21 Earnings Conference Call At 8:00 AM ET  LKQ Corp Q2 adjusted earnings Beat Estimates,1
+9,KDP,2021-07-29,06:30:00, Keurig Dr Pepper Confirms FY21 Earnings Growth View; Raises Sales Forecast  Keurig Dr Pepper Inc. Q2 adjusted earnings Beat Estimates Keurig Dr Pepper Q2 21 Earnings Conference Call At 8:00 AM ET ,1
+10,IP,2021-07-29,07:00:00, International Paper Q2 adjusted earnings Inline With Estimates International Paper Q2 21 Earnings Conference Call At 10:00 AM ET ,1
+11,ICE,2021-07-29,07:30:00, IntercontinentalExchange Group Inc. Q2 adjusted earnings of $1.16 per share IntercontinentalExchange Group Q2 21 Earnings Conference Call At 8:30 AM ET ,1
+12,HSY,2021-07-29,07:00:00, Hershey Q2 21 Earnings Conference Call At 8:30 AM ET  Hershey Boosts FY21 Net Sales Outlook - Quick Facts  Hershey Co. Q2 adjusted earnings Beat Estimates,1
+13,HLT,2021-07-29,06:00:00," Hilton Worldwide Holdings, Inc. Q2 adjusted earnings Beat Estimates",1
+14,HBAN,2021-07-29,07:00:00, Huntington Bancshares Q2 21 Earnings Conference Call At 8:30 AM ET ,1
+15,CMS,2021-07-29,08:00:00," CMS Energy Confirms Adj. Earnings View For FY21, FY22 - Quick Facts  CMS Energy Q2 21 Earnings Conference Call At 9:30 AM ET  CMS Energy Corp. Q2 adjusted earnings Beat Estimates",1
+16,CBRE,2021-07-29,06:55:00," CBRE Group Q2 21 Earnings Conference Call At 8:30 AM ET  CBRE Group, Inc. Q2 adjusted earnings Beat Estimates",1
+17,BAX,2021-07-29,07:15:00, Baxter International Boosts FY21 Adj. EPS Outlook - Quick Facts  Baxter International Inc. Q2 adjusted earnings Beat Estimates Baxter International Q2 21 Earnings Conference Call At 8:30 AM ET ,1
+18,AOS,2021-07-29,06:55:00, A.O. Smith Corp Q2 adjusted earnings Beat Estimates,1
+19,AMT,2021-07-29,07:00:00, American Tower Corp. Q2 adjusted earnings Beat Estimates American Tower Q2 21 Earnings Conference Call At 8:30 AM ET ,1
+0,WST,2021-07-29,06:00:00,,0.5
+1,TFX,2021-07-29,08:00:00, Teleflex Q2 21 Earnings Conference Call At 8:00 AM ET  Teleflex Inc Q2 adjusted earnings Beat Estimates,1
+2,MAS,2021-07-29,07:00:00, Masco Boosts FY21 Adj. EPS Outlook; Declares Dividend - Quick Facts  Masco Corp. Q2 adjusted earnings Beat Estimates Masco Q2 21 Earnings Conference Call At 8:00 AM ET ,1
+3,LH,2021-07-29,06:45:00, Labcorp Q2 21 Earnings Conference Call At 9:00 AM ET  Laboratory Corporation Of America Holdings Q2 adjusted earnings Beat Estimates,1
+4,KIM,2021-07-29,07:00:00, Kimco Realty Q2 21 Earnings Conference Call At 8:30 AM ET  Kimco Realty Corp. Q2 adjusted earnings Beat Estimates,1
+5,COR,2021-07-29,08:00:00,,0.5
+6,CARR,2021-07-29,06:30:00,,0.5
+7,XOM,2021-07-30,07:30:00, Exxon Mobil Corp. Q2 adjusted earnings Beat Estimates Exxon Mobil Q2 21 Earnings Conference Call At 9:30 AM ET ,1
+8,PG,2021-07-30,07:00:00," Procter & Gamble Q4 Results Top View, Guides FY22 In Line  Procter & Gamble Co. Q4 adjusted earnings  Amended: Procter & Gamble Q4 21 Earnings Conference Call At 8:30 AM ET ",1
+9,CAT,2021-07-30,06:30:00, Caterpillar Inc. Q2 adjusted earnings of $2.60 per share Caterpillar Q2 21 Earnings Conference Call At 8:30 AM ET ,1
+10,CVX,2021-07-30,06:00:00, Chevron Corp. Q2 adjusted earnings of $1.71 per share Chevron Q2 21 Earnings Conference Call At 11:00 AM ET ,1
+11,ABBV,2021-07-30,07:44:00, AbbVie Lifts FY Adj. Profit View  AbbVie Q2 21 Earnings Conference Call At 9:00 AM ET  AbbVie Q2 adjusted earnings Beat Estimates,1
+12,WY,2021-07-30,03:05:00, Weyerhaeuser Co Q2 Income Climbs,1
+13,LYB,2021-07-30,06:30:00, LyondellBasell Industries N.V. Q2 adjusted earnings of $6.13 per share,1
+14,JCI,2021-07-30,07:00:00," Johnson Controls Issues Q4 Earnings View, Raises FY21 Forecast - Quick Facts  Johnson Controls Inc Q3 adjusted earnings Inline With Estimates Johnson Controls Q3 21 Earnings Conference Call At 8:30 AM ET ",1
+15,ITW,2021-07-30,08:00:00, Illinois Tool Works Again Boosts FY21 Outlook - Quick Facts  Illinois Tool Works Inc Bottom Line Climbs In Q2 Illinois Tool Works Q2 21 Earnings Conference Call At 10:00 AM ET ,1
+16,GWW,2021-07-30,08:00:00, W.W. Grainger Maintains FY21 Outlook - Quick Facts  Grainger (W.W.) Inc. Q2 adjusted earnings Miss Estimates,0.5
+17,CL,2021-07-30,08:00:00, Colgate-Palmolive Backs FY21 Outlook; Q2 Results Top View - Quick Facts  Colgate-Palmolive Co. Announces Increase In Q2 Earnings Colgate-Palmolive Q2 21 Earnings Conference Call At 8:30 AM ET ,1
+18,CHTR,2021-07-30,07:00:00, Charter Communications Q2 21 Earnings Conference Call At 8:30 AM ET ,0.5
+19,CHD,2021-07-30,06:55:00, Church & Dwight Co Inc. Q2 Profit Rises Church & Dwight Co Q2 21 Earnings Conference Call At 10:00 AM ET ,1
+0,AON,2021-07-30,06:00:00, Aon Plc Q2 21 Earnings Conference Call At 8:30 AM ET  Aon plc Q2 adjusted earnings Beat Estimates,1
+1,IDXX,2021-07-30,06:30:00, IDEXX Labs Raises FY21 View Above Market - Quick Facts  IDEXX Laboratories Inc Bottom Line Climbs In Q2 IDEXX Laboratories Q2 21 Earnings Conference Call At 8:30 AM ET ,1
+2,LIN,2021-07-30,06:00:00," Linde Plc Q2 21 Earnings Conference Call At 9:00 AM ET  Linde Q2 Profit Climbs; Sees Higher Q3 Results, Raises FY21 Earnings View - Quick Facts ",1
+3,CBOE,2021-07-30,08:00:00," CBOE Global Markets, Inc. Q2 adjusted earnings Beat Estimates CBOE Global Markets Q2 21 Earnings Conference Call At 8:30 AM ET ",1
+4,L,2021-08-02,06:00:00, EARNINGS SUMMARY: Details of Loews Corp. Q2 Earnings Report Loews Q2 21 Earnings Conference Call At 10:00 AM ET ,0
+5,GPN,2021-08-02,06:55:00, Global Payments Boosts FY21 Outlook - Quick Facts  Global Payments Inc. Q2 adjusted earnings Beat Estimates Global Payments Q2 21 Earnings Conference Call At 8:00 AM ET ,1
+6,ON,2021-08-02,08:00:00, ON Semiconductor Guides Q3 Well Above Estimates - Quick Facts  ON Semiconductor Corp. Q2 adjusted earnings Beat Estimates ON Semiconductor Q2 21 Earnings Conference Call At 9:00 AM ET ,1
+7,LLY,2021-08-03,06:25:00," Lilly Q2 Profit Down; Cuts FY21 EPS, Margin View; Backs Adj. Earnings Forecast  Lilly, Incyte: Baricitinib Reduced Deaths In COVID-19 Patients Under Invasive Mechanical Ventilation  Eli Lilly And Co. Q2 adjusted earnings of $1.87 per share Eli Lilly And Co. Q2 21 Earnings Conference Call At 9:00 AM ET ",0
+8,DD,2021-08-03,06:00:00, DuPont Sees Q3 Results Above Market; Raises FY21 View Above Estimates  EI DuPont De Nemours & Co. Q2 adjusted earnings of $1.06 per share EI DuPont De Nemours & Co. Q2 21 Earnings Conference Call At 8:00 AM ET ,1
+9,CMI,2021-08-03,07:00:00, Cummins  Inc. Bottom Line Advances In Q2 Cummins Q2 21 Earnings Conference Call At 10:00 AM ET ,1
+10,XYL,2021-08-03,06:55:00, Xylem Boosts FY21 Guidance - Quick Facts  Xylem Inc. Q2 adjusted earnings Beat Estimates,1
+11,WBD,2021-08-03,07:00:00,,0
+12,RL,2021-08-03,08:00:00, Ralph Lauren Corp. Q1 adjusted earnings Beat Estimates Ralph Lauren Q1 22 Earnings Conference Call At 9:00 AM ET ,1
+13,PSX,2021-08-03,07:00:00, Phillips 66 Q2 adjusted earnings Miss Estimates Phillips 66 Q2 21 Earnings Conference Call At 1:00 PM ET ,0
+14,MAR,2021-08-03,07:00:00, Marriott International Inc. Q2 adjusted earnings Beat Estimates Marriott International Q2 21 Earnings Conference Call At 8:30 AM ET ,1
+15,J,2021-08-03,06:40:00, Jacobs Engineering Boosts FY21 Adj. EPS Outlook - Quick Facts  Jacobs Engineering Group Inc. Q3 adjusted earnings Beat Estimates,1
+16,IT,2021-08-03,06:00:00," Gartner, Inc. Q2 adjusted earnings Beat Estimates Gartner Q2 21 Earnings Conference Call At 8:00 AM ET ",1
+17,INCY,2021-08-03,07:00:00," Incyte Corporation Q2 adjusted earnings Beat Estimates Lilly, Incyte: Baricitinib Reduced Deaths In COVID-19 Patients Under Invasive Mechanical Ventilation ",1
+18,HSIC,2021-08-03,06:30:00, Henry Schein Inc. Q2 adjusted earnings Beat Estimates,1
+19,EXPD,2021-08-03,08:00:00, Expeditors International of Washington Inc. Reveals Advance In Q2 Earnings,1
+0,ETN,2021-08-03,06:30:00, Eaton Boosts FY21 Adj. EPS Outlook - Quick Facts  Eaton Corp. Q2 21 Earnings Conference Call At 11:00 AM ET ,1
+1,COP,2021-08-03,07:00:00, ConocoPhillips Q2 adjusted earnings Beat Estimates ConocoPhillips Q2 21 Earnings Conference Call At 12:00 PM ET ,1
+2,CLX,2021-08-03,06:30:00, Clorox Guides FY22 Well Below Estimates - Quick Facts  Clorox Co. Q4 Profit Declines Clorox Co. Q4 adjusted earnings Miss Estimates,0
+3,BEN,2021-08-03,08:30:00, Franklin Resources Inc. Q3 adjusted earnings Beat Estimates,1
+4,AME,2021-08-03,06:55:00, Ametek Inc. Q2 adjusted earnings Beat Estimates Ametek Q2 21 Earnings Conference Call At 8:30 AM ET ,1
+5,ZBRA,2021-08-03,06:30:00, Zebra Technologies Boosts FY21 Sales Growth Outlook - Quick Facts  Zebra Technologies Q2 21 Earnings Conference Call 8:30 AM ET  Zebra Technologies Corporation Q2 adjusted earnings Beat Estimates,1
+6,ZBH,2021-08-03,06:30:00, Zimmer Biomet Holdings Q2 21 Earnings Conference Call At 8:30 AM ET  Zimmer Biomet Holdings Inc. Q2 adjusted earnings Beat Estimates,1
+7,WTW,2021-08-03,06:00:00, Willis Towers Watson Public Q2 21 Earnings Conference Call At 9:00 AM ET  Willis Towers Watson Public Limited Company Q2 adjusted earnings Beat Estimates,1
+8,WEC,2021-08-03,07:00:00, WEC Energy Group Q2 21 Earnings Conference Call At 2:00 PM ET , 
+9,WAT,2021-08-03,06:50:00, Waters Corp. Q2 21 Earnings Conference Call At 8:00 AM ET  Waters Corp. Q2 adjusted earnings Beat Estimates,1
+10,PEG,2021-08-03,07:30:00, Public Service Enterprise Group Raises FY21 Outlook  Public Service Enterprise Group Inc Q2 adjusted earnings Beat Estimates Public Service Enterprise Group Q2 21 Earnings Conference Call At 11:00 AM ET ,1
+11,LDOS,2021-08-03,06:00:00, Leidos Holdings Q2 21 Earnings Conference Call At 8:00 AM ET  Leidos Q2 Profit Misses Estimates ,0
+12,FIS,2021-08-03,07:00:00, Fidelity National Information Services Q2 21 Earnings Conference Call At 8:30 AM ET  Fidelity National Information Services Q2 adjusted earnings Beat Estimates,1
+13,LHX,2021-08-03,06:30:00," L3Harris Technologies Q2 21 Earnings Conference Call At 8:30 AM ET  L3Harris Technologies, Inc. Q2 adjusted earnings Beat Estimates",1
+14,GM,2021-08-04,07:30:00," General Motors Invests $55 Mln In Fort Wayne Plant To Boost Production  General Motors Q2 Profit Beats Estimates, Sees FY21 Profit Below Market; Stock Down  General Motors Company Q2 adjusted earnings Beat Estimates General Motors Q2 21 Earnings Conference Call At 10:00 AM ET ",1
+15,CVS,2021-08-04,06:30:00, CVS Health To Raise Minimum Hourly Wage To $15/hour Effective July 2022  CVS Health Q2 Profit Beats Estimates; Sees FY21 Result Above Market  CVS Health Q2 21 Earnings Conference Call At 8:00 AM ET ,1
+16,TT,2021-08-04,07:00:00,, 
+17,RCL,2021-08-04,08:00:00, Royal Caribbean Cruises Ltd. Q2 adjusted earnings Beat Estimates,1
+18,NI,2021-08-04,06:30:00, NiSource Backs FY21 Adj. EPS Outlook - Quick Facts  NiSource Inc. Q2 adjusted earnings Inline With Estimates,0.5
+19,MPC,2021-08-04,06:30:00, Marathon Petroleum Corporation Q2 adjusted earnings Beat Estimates Marathon Petroleum Q2 21 Earnings Conference Call At 11:00 AM ET ,1
+0,KHC,2021-08-04,07:00:00, The Kraft Heinz Company Q2 adjusted earnings Beat Estimates The Kraft Heinz Q2 21 Earnings Conference Call At 9:00 AM ET ,1
+1,CI,2021-08-05,06:00:00, Cigna Sees FY21 Profit Below Market; Stock Down  Cigna Corp. Q2 adjusted earnings Beat Estimates Cigna Q2 21 Earnings Conference Call At 8:30 AM ET ,0.5
+2,CAH,2021-08-05,06:45:00, Cardinal Health Sees FY22 Adj. Earnings Below Market; Raises Enterprise Cost Savings Target  Cardinal Health Inc Q4 adjusted earnings Miss Estimates Cardinal Health Q4 21 Earnings Conference Call At 8:30 AM ET ,0
+3,ZTS,2021-08-05,07:00:00, Zoetis Q2 21 Earnings Conference Call At 8:30 AM ET  Zoetis Inc. Q2 adjusted earnings Beat Estimates,1
+4,WRK,2021-08-05,06:30:00, WestRock Q3 21 Earnings Conference Call At 8:30 AM ET  WestRock Company Q3 adjusted earnings Beat Estimates,1
+5,SRE,2021-08-05,07:00:00, Sempra Energy Q2 adjusted earnings Beat Estimates,1
+6,REGN,2021-08-05,06:30:00, Regeneron/Sanofi's Libtayo Combined With Chemo Reduced Death By 29% In Non-small Cell Lung Cancer  Regeneron Pharma Q2 21 Earnings Conference Call At 8:30 AM ET  Regeneron Pharmaceuticals Q2 adjusted earnings Beat Estimates,1
+7,PPL,2021-08-05,08:00:00, PPL Corporation Q2 adjusted earnings of $0.19 per share PPL Corp. Q2 21 Earnings Conference Call At 11:00 AM ET ,0.5
+8,PNW,2021-08-05,08:40:00, Pinnacle West Capital Corp. Q2 Income Rises,1
+9,PH,2021-08-05,07:30:00, Parker Hannifin Corp. Q4 adjusted earnings of $4.38	 per share,1
+10,NRG,2021-08-05,08:00:00, NRG Energy Q2 21 Earnings Conference Call At 9:00 AM ET  NRG Energy Inc Q2 Profit Climbs,1
+11,K,2021-08-05,08:00:00, Kellogg Reaffirms FY21 Adj. EPS Outlook; Q2 Results Top Estimates - Quick Facts  Kellogg Company Q2 Income Rises Kellogg Q2 21 Earnings Conference Call At 9:30 AM ET ,1
+12,HII,2021-08-05,08:00:00," Huntington Ingalls Industries Q2 21 Earnings Conference Call At 9:00 AM ET  Huntington Ingalls Industries, Inc. Q2 adjusted earnings Beat Estimates",1
+13,DUK,2021-08-05,07:00:00, Duke Energy Corp Q2 adjusted earnings Beat Estimates,1
+14,CNP,2021-08-05,06:30:00, CenterPoint Energy Q2 21 Earnings Conference Call At 8:00 AM ET  CenterPoint Energy Inc Q2 adjusted earnings Beat Estimates,1
+15,BLDR,2021-08-05,07:00:00,,0.5
+16,BDX,2021-08-05,06:00:00," BD Q3 Profit Climbs, Tops Estimates; Raises FY21 View; CFO Christopher Reidy To Retire  Becton, Dickinson and Company Q3 adjusted earnings Beat Estimates Becton, Dickinson And Co. Q3 21 Earnings Conference Call At 8:00 AM ET ",1
+17,AES,2021-08-05,06:00:00, The AES Corp. Q2 21 Earnings Conference Call At 9:00 AM ET ,0.5
+18,TRGP,2021-08-05,08:00:00, EARNINGS SUMMARY: Details of Targa Resources Corp. Q2 Earnings Report,0.5
+19,IRM,2021-08-05,08:00:00, Iron Mountain Q2 21 Earnings Conference Call At 8:30 AM ET  Iron Mountain Increases Midpoint Of 2021 Guidance  Iron Mountain Inc Q2 adjusted earnings Beat Estimates,1
+0,EPAM,2021-08-05,06:00:00,,0.5
+1,TECH,2021-08-05,06:30:00,,0.5
+2,PWR,2021-08-05,06:55:00, Quanta Services Q2 21 Earnings Conference Call At 9:00 AM ET  Quanta Services Inc. Q2 adjusted earnings Beat Estimates,1
+3,MRNA,2021-08-05,06:30:00, Amended: Moderna Q2 Results Top Estimates; Boosts FY21 COVID-19 Vaccine Sales Outlook ,1
+4,EVRG,2021-08-05,06:00:00," Evergy, Inc. Q2 adjusted earnings Beat Estimates Evergy Inc. Q2 21 Earnings Conference Call At 8:00 AM ET ",1
+5,APTV,2021-08-05,06:45:00, Aptiv Boosts FY21 Outlook - Quick Facts  Aptiv PLC Q2 21 Earnings Conference Call At 8:00 AM ET  Aptiv PLC Q2 adjusted earnings Miss Estimates,1
+6,D,2021-08-06,07:30:00," Dominion Energy Affirms FY21 Operating Earnings Outlook - Quick Facts  Dominion Energy, Inc. Q2 adjusted earnings of $0.76 per share Dominion Energy Q2 21 Earnings Conference Call At 10:00 AM ET ",1
+7,VTR,2021-08-06,06:55:00, Ventas Inc. Q2 adjusted earnings Beat Estimates Ventas Q2 21 Earnings Conference Call At 10:00 AM ET ,1
+8,NCLH,2021-08-06,07:00:00, Norwegian Cruise Line Q2 Adj. Loss Narrower Than Estimates - Quick Facts  Norwegian Cruise Line Holdings Ltd. Q2 adjusted earnings Beat Estimates,1
+9,TSN,2021-08-09,07:30:00, Tyson Foods Q3 Results Top Estimates; Boosts FY21 Sales Outlook - Quick Facts  Tyson Foods Q3 21 Earnings Conference Call At 9:00 AM ET ,1
+10,APD,2021-08-09,06:00:00, Air Products And Chemicals Issues Q4 View; Cuts FY21 Earnings Forecast Below Market  Air Products And Chemicals Inc. Q3 adjusted earnings Miss Estimates Air Products And Chemicals Q3 21 Earnings Conference Call At 8:30 AM ET ,0
+11,VTRS,2021-08-09,06:59:00," Viatris Boosts FY21 Revenue Outlook, Declares Dividend - Quick Facts  EARNINGS SUMMARY: Details of Viatris Inc. Q2 Earnings Report Viatris Q2 21 Earnings Conference Call At 10:00 AM ET ",1
+12,SYY,2021-08-10,08:00:00, Sysco Guides FY22 EPS Above Estimates - Quick Facts  Sysco Corp. Q4 adjusted earnings Beat Estimates Sysco Q4 21 Earnings Conference Call At 10:00 AM ET ,1
+13,TDG,2021-08-10,07:00:00, TransDigm Executive Chairman Nicholas Howley Transition To Non-executive Chairman - Quick Facts  TransDigm Group Incorporated Q3 adjusted earnings Beat Estimates,1
+14,BR,2021-08-12,07:00:00, Broadridge Financial Solutions Q4 21 Earnings Conference Call At 8:30 AM ET  Broadridge Financial Sees 11%-15% Growth In FY Adj. EPS; Hikes Dividend  Broadridge Financial Solutions Inc. Q4 adjusted earnings Inline With Estimates,1
+15,WMT,2021-08-17,07:00:00," Walmart Q2 Profit Declines 34%, But Results Top Estimates  Walmart Inc. Q2 adjusted earnings Beat Estimates Walmart Q2 22 Earnings Conference Call At 8:00 AM ET ",1
+16,HD,2021-08-17,06:00:00," The Home Depot, Inc. Announces Rise In Q2 Profit, Beats estimates The Home Depot Q2 21 Earnings Conference Call At 9:00 AM ET ",1
+17,TGT,2021-08-18,06:30:00," Lowe's, Target And TJX Q2 Profit Tops View  Target Q2 Profit Tops Estimates; Board Authorizes $15 Bln Share Buyback  Target Q2 21 Earnings Conference Call At 8:00 AM ET  Target Corp. Q2 adjusted earnings Beat Estimates",1
+18,TJX,2021-08-18,09:30:00," Lowe's, Target And TJX Q2 Profit Tops View  The TJX Companies, Inc. Q2 Earnings Summary The TJX Companies Q2 22 Earnings Conference Call At 11:00 AM ET ",1
+19,LOW,2021-08-18,06:00:00," Lowe's, Target And TJX Q2 Profit Tops View  Lowe's Raises FY21 Revenue View Above Market, Despite Weak Q2 Comps  Lowe's Cos. Q2 adjusted earnings ",1
+0,ADI,2021-08-18,07:00:00, Analog Devices Q3 adjusted earnings Beat Estimates Analog Devices Q3 21 Earnings Conference Call At 10:00 AM ET ,1
+1,TPR,2021-08-19,07:00:00," Tapestry Sees Higher Earnings In FY22, But Below Market View; Declares Dividend  Tapestry, Inc. Q4 adjusted earnings Beat Estimates Tapestry Q4 21 Earnings Conference Call At 8:00 AM ET ",1
+2,EL,2021-08-19,07:00:00, Estée Lauder Guides FY22 Adj. EPS Above Estimates - Quick Facts  The Estée Lauder Companies Inc. Q4 adjusted earnings Beat Estimates The Estée Lauder Companies Q4 21 Earnings Conference Call At 9:30 AM ET ,1
+3,DE,2021-08-20,06:05:00," Deere And Co Q3 21 Earnings Conference Call At 10:00 AM ET  Deere And Co Reveals Gain In Q3 Bottom Line, Beats estimates Deere Q3 Profit Tops Estimates; Lifts FY Profit View  John Deere Recalls Compact Utility Tractors ",1
+4,MDT,2021-08-24,06:45:00, Medtronic Boosts FY22 Adj. EPS - Quick Facts  Medtronic plc Q1 adjusted earnings Beat Estimates Medtronic Q1 22 Earnings Conference Call At 8:00 AM ET ,1
+5,BBY,2021-08-24,07:00:00, Best Buy Q2 Profit Tops Estimates; Raises FY22 Enterprise Comps. Growth Outlook  Best Buy Co Inc. Q2 adjusted earnings Beat Estimates,1
+6,SJM,2021-08-26,07:00:00, J. M. Smucker Boosts FY22 Adj. EPS Outlook - Quick Facts  The J. M. Smucker Company Q1 adjusted earnings Beat Estimates The J. M. Smucker Q1 22 Earnings Conference Call At 9:00 AM ET ,1
+7,DLTR,2021-08-26,07:30:00," Dollar Tree Inc. Q2 Earnings Climb, Beats estimates Dollar Tree Q2 21 Earnings Conference Call At 9:00 AM ET ",1
+8,DG,2021-08-26,07:00:00," Dollar General Q2 Comps. Down 4.7%; Updates FY21 Guidance - Quick Facts  Dollar General Corporation Profit Retreats In Q2,but beats estimates Dollar General Q2 21 Earnings Conference Call At 10:00 AM ET ",0.5
+9,CTLT,2021-08-30,08:00:00, Catalent Q4 Profit Tops Estimates; Announces Acquisition Of Bettera Holdings ,1
+10,CPB,2021-09-01,07:15:00, Campbell Soup Q4 Profit Beats Estimates; Issues FY22 Outlook  Campbell Soup Co. Q4 adjusted earnings Beat Estimates Campbell Soup Q4 21 Earnings Conference Call At 8:00 AM ET ,1
+11,HRL,2021-09-02,06:30:00," Hormel Foods Boosts FY21 Net Sales Outlook, While Trimming EPS - Quick Facts  Hormel Foods Corp Q3 adjusted earnings Inline With Estimates Hormel Foods Q3 21 Earnings Conference Call At 9:00 AM ET ",1
+12,KR,2021-09-10,08:00:00," Kroger Co. Q2 Profit Beats Estimates, Raises 2021 Guidance  Kroger Co. Q2 adjusted earnings Beat Estimates Kroger Q2 21 Earnings Conference Call At 10:00 AM ET ",1
+13,AZO,2021-09-21,06:55:00," AutoZone Q4 Results Top Estimates - Quick Facts  AutoZone Inc. Q4 Profit Rises, Beats estimates AutoZone Q4 21 Earnings Conference Call At 10:00 AM ET ",1
+14,GIS,2021-09-22,07:00:00, General Mills Q1 Profit Beats Estimates; Reaffirms FY22 Targets  General Mills Q1 adjusted earnings Beat Estimates General Mills Q1 22 Earnings Conference Call At 9:00 AM ET ,1
+15,DRI,2021-09-23,07:00:00, Darden Restaurants Boosts FY22 Outlook - Quick Facts  Darden Restaurants Inc. Q1 adjusted earnings  Darden Restaurants Q1 22 Earnings Conference Call At 8:30 AM ET ,1
+16,ACN,2021-09-23,06:45:00, Accenture Guides FY22 Above Estimates; Raises Dividend 10% - Quick Facts  Accenture plc Q4 adjusted earnings  Accenture Q4 21 Earnings Conference Call At 8:00 AM ET ,1
+17,CCL,2021-09-24,09:15:00,,0
+18,FDS,2021-09-28,07:00:00, FactSet Guides FY22 Well Above Estimates As Q4 Results To View - Quick Facts ,1
+19,JBL,2021-09-29,07:45:00, Jabil Guides Q1 Above Estimates - Quick Facts  Jabil Inc. Q4 adjusted earnings Beat Estimates Jabil Q4 21 Earnings Conference Call At 8:30 AM ET ,1
+0,CTAS,2021-09-29,08:30:00," Cintas Raises FY22 Guidance; Q1 Profit Beats Estimates - Quick Facts  Cintas Corporation Q1 Profit Rises, Beats estimates Cintas Q1 22 Earnings Conference Call At 10:00 AM ET ",1
+1,KMX,2021-09-30,06:50:00," CarMax Inc. Earnings Fall In Q2, misses estimates CarMax Q2 22 Earnings Conference Call At 9:00 AM ET ",0
+2,PAYX,2021-09-30,08:30:00, Paychex Inc. Q1 adjusted earnings Beat Estimates Paychex Q1 22 Earnings Conference Call At 9:30 AM ET ,1
+3,MKC,2021-09-30,06:30:00, McCormick & Company Lowers FY21 Adj. Operating Income Outlook - Quick Facts  McCormick & Co. Q3 adjusted earnings Beat Estimates McCormick & Co. Q3 21 Earnings Conference Call At 8:00 AM ET ,1
+4,PEP,2021-10-05,06:00:00, PepsiCo Q3 Profit Tops Estimates; Raises Guidance  Pepsico Inc Q3 adjusted earnings Beat Estimates Pepsico Q3 21 Earnings Conference Call At 8:15 AM ET ,1
+5,STZ,2021-10-06,07:30:00, Constellation Brands Raises FY Comparable EPS Outlook  Constellation Brands Inc Q2 adjusted earnings Miss Estimates Constellation Brands Q2 22 Earnings Conference Call At 10:30 AM ET ,0
+6,CAG,2021-10-07,07:30:00," Conagra Brands Q1 Profit Tops Estimates, Reaffirms FY22 Earnings View  Conagra Brands Inc. Q1 adjusted earnings Beat Estimates Conagra Brands Q1 22 Earnings Conference Call At 9:30 AM ET ",1
+7,LW,2021-10-07,08:30:00," Lamb Weston Holdings, Inc. Announces Drop In Q1 Bottom Line, misses estimates Lamb Weston Holdings Q1 22 Earnings Conference Call At 10:00 AM ET ",0
+8,FAST,2021-10-12,06:50:00, Fastenal Co. Q3 earnings increase in line with estimate Fastenal Q3 21 Earnings Conference Call At 10:00 AM ET ,1
+9,JPM,2021-10-13,06:52:00," JPMorgan Q3 Profit Up 24%, Results Top Estimates  JPMorgan Chase & Co. Announces Rise In Q3 Bottom Line, Beats estimates JPMorgan Chase Q3 21 Earnings Conference Call At 8:30 AM ET ",1
+10,DAL,2021-10-13,07:30:00, Delta Air Lines Posts Adj. Profit In Q3 - Quick Facts  Delta Air Lines Inc Earnings Retreat In Q3 Delta Air Lines Q3 21 Earnings Conference Call At 10:00 AM ET ,0.5
+11,BLK,2021-10-13,06:15:00, BlackRock Q3 Profit Tops Estimates; Revenue Up 16% - Quick Facts  Blackrock Inc. Q3 adjusted earnings Beat Estimates Blackrock Q3 21 Earnings Conference Call At 8:30 AM ET ,1
+12,WFC,2021-10-14,08:00:00, Wells Fargo Reports Improved Earnings In Q3  Wells Fargo & Co Bottom Line Climbs In Q3 Wells Fargo & Co Q3 21 Earnings Conference Call At 11:30 AM ET ,1
+13,MS,2021-10-14,07:30:00, Morgan Stanley Q3 Profit Rises 36%  Morgan Stanley Profit Advances In Q3 Morgan Stanley Q3 21 Earnings Conference Call At 8:30 AM ET ,1
+14,C,2021-10-14,08:00:00, Citigroup Q3 Net Income Rises On Credit Benefit; Adj. Revenues Up 3%  Citigroup Inc. Earnings Climb In Q3 Citigroup Q3 21 Earnings Conference Call At 10:00 AM ET ,1
+15,BAC,2021-10-14,06:45:00," Bank Of America Q3 Profit Up 58%, Results Top Estimates - Quick Facts  Bank of America Corporation Reveals Gain In Q3 Earnings, Beats estimates Bank Of America Q3 21 Earnings Conference Call At 9:00 AM ET ",1
+16,WBA,2021-10-14,07:00:00," Walgreens Boots Alliance Invests $5.2 Bln In VillageMD, Increases Stake To 63%  Walgreens Boots Alliance, Inc. Q4 adjusted earnings Beat Estimates Walgreens Boots Alliance Q4 21 Earnings Conference Call At 8:30 AM ET ",1
+17,USB,2021-10-14,06:45:00," US Bancorp Reports Rise In Q3 Earnings, Beats estimates US Bancorp Q3 21 Earnings Conference Call At 8:00 AM ET ",1
+18,UNH,2021-10-14,05:55:00," UnitedHealth Group Increases Full Year Earnings Outlook; Q3 Profit Beats Estimates  Unitedhealth Group, Inc. Q3 adjusted earnings Beat Estimates Unitedhealth Group Q3 21 Earnings Conference Call At 8:45 AM ET ",1
+19,DPZ,2021-10-14,07:30:00," Domino's Pizza Q3 Global Retail Sales Up 10.0%  Dominos Pizza Inc. Announces Advance In Q3 Bottom Line, Beats estimates Domino's Pizza Q3 21 Earnings Conference Call At 10:00 AM ET  Domino's Pizza Group: Trading Remains In-line With Expectations - Quick Facts ",1
+0,PGR,2021-10-14,08:10:00, Progressive Corp. Q3 Profit Plummets - Quick Facts  Progressive Corp. Reveals Decline In Q3 Bottom Line,0
+1,GS,2021-10-15,08:30:00," Goldman Sachs Group Inc. Earnings Climb In Q3, Beats estimates Goldman Sachs Group Q3 21 Earnings Conference Call At 10:30 AM ET ",1
+2,PNC,2021-10-15,06:45:00, PNC Financial Services Group Inc. Q3 adjusted earnings Beat Estimates PNC Financial Services Group Q3 21 Earnings Conference Call At 9:00 AM ET ,1
+3,SCHW,2021-10-15,08:45:00,,0
+4,JBHT,2021-10-15,07:00:00," JB Hunt Transport Services Inc. Q3 Profit Climbs, Beats estimates J.B. Hunt Transport Services Q3 21 Earnings Conference Call At 10:00 AM ET ",1
+5,TFC,2021-10-15,05:45:00, Truist Financial Q3 21 Earnings Conference Call At 8:00 AM ET  Truist Financial Corporation Q3 adjusted earnings Beat Estimates,1
+6,PLD,2021-10-15,08:05:00, Prologis Raises FY21 Earnings Guidance  ProLogis Q3 adjusted earnings Beat Estimates Prologis Q3 21 Earnings Conference Call At 12:00 PM ET ,1
+7,STT,2021-10-18,07:30:00," State Street Corp. Reports Increase In Q3 Earnings, Beats estimates State Street Q3 21 Earnings Conference Call At 10:00 AM ET ",1
+8,PG,2021-10-19,07:00:00," Procter & Gamble Q1 Results Top Estimates; Backs FY22 Outlook - Quick Facts  Procter & Gamble Co. Profit Retreats In Q1,but beats estimates Procter & Gamble Q1 22 Earnings Conference Call At 8:30 AM ET ",0
+9,JNJ,2021-10-19,06:30:00, Will FDA Allow 'mix And Match' Of Covid Booster Shots?  Johnson & Johnson Q3 Earnings Top Estimates; Lifts FY21 View Above Market  Johnson & Johnson Q3 adjusted earnings Beat Estimates Johnson & Johnson Q3 21 Earnings Conference Call At 8:30 AM ET ,1
+10,TRV,2021-10-19,06:57:00, The Travelers Companies  Inc. Q3 adjusted earnings Beat Estimates The Travelers Companies Q3 21 Earnings Conference Call At 9:00 AM ET ,1
+11,PM,2021-10-19,06:59:00, Philip Morris International Q3 adjusted earnings Beat Estimates Philip Morris International Q3 21 Earnings Conference Call At 9:00 AM ET ,1
+12,BK,2021-10-19,06:30:00," The Bank of New York Mellon Corp. Earnings Climb In Q3, Beats estimates The Bank Of New York Mellon Q3 21 Earnings Conference Call At 8:00 AM ET ",1
+13,SYF,2021-10-19,06:00:00, Synchrony Financial Q3 21 Earnings Conference Call At 8:00 AM ET  Synchrony Financial Q3 Earnings Advance,1
+14,FITB,2021-10-19,06:30:00," Fifth Third Bancorp Announces Advance In Q3 Bottom Line, Beats estimates Fifth Third Bancorp Q3 21 Earnings Conference Call At 9:00 AM ET ",1
+15,DOV,2021-10-19,06:30:00, Dover Raises Full Year EPS Guidance - Quick Facts  Dover Corp Q3 adjusted earnings Beat Estimates Dover Corp. Q3 21 Earnings Conference Call At 10:00 AM ET ,1
+16,HAL,2021-10-19,06:45:00, Halliburton Q3 Profit Tops Estimates  Halliburton Company Q3 adjusted earnings Beat Estimates Halliburton Q3 21 Earnings Conference Call At 9:00 AM ET ,1
+17,BIIB,2021-10-20,07:00:00, Biogen Raises FY21 Guidance - Quick Facts  Biogen Inc. Q3 Profit Declines Biogen Q3 21 Earnings Conference Call At 8:00 AM ET ,0
+18,VZ,2021-10-20,07:30:00, Verizon Q3 Profit Tops Estimates; Raises 2021 Guidance  Verizon Communications Q3 adjusted earnings Beat Estimates Verizon Communications Q3 21 Earnings Conference Call At 8:30 AM ET ,1
+19,ELV,2021-10-20,06:00:00,,0
+0,CMA,2021-10-20,06:40:00, Comerica Inc. Bottom Line Climbs In Q3 Comerica Q3 21 Earnings Conference Call At 8:00 AM ET ,1
+1,ABT,2021-10-20,07:30:00, Abbott Laboratories Boosts FY21 Outlook - Quick Facts  Abbott Laboratories Q3 adjusted earnings Beat Estimates Abbott Laboratories Q3 21 Earnings Conference Call At 9:00 AM ET ,1
+2,NTRS,2021-10-20,08:00:00," Northern Trust Q3 Results Rise, Top Estimates - Quick Facts ",1
+3,NEE,2021-10-20,07:30:00," NextEra Energy Q3 21 Earnings Conference Call At 9:00 AM ET  NextEra Energy, Inc. Q3 adjusted earnings Beat Estimates",1
+4,NDAQ,2021-10-20,07:00:00, Nasdaq Q3 Results Top Estimates - Quick Facts  Nasdaq Inc. Q3 adjusted earnings Beat Estimates Nasdaq Q3 21 Earnings Conference Call At 8:00 AM ET ,1
+5,MTB,2021-10-20,06:46:00," M&T Bank Corp. Announces Gain In Q3 Earnings, Beats estimates",1
+6,CFG,2021-10-20,06:25:00," Citizens Financial Group, Inc. Q3 Earnings Advance, Beats estimates",1
+7,BKR,2021-10-20,07:00:00, Baker Hughes Company Q3 adjusted earnings Miss Estimates Baker Hughes Q3 21 Earnings Conference Call At 8:30 AM ET ,0
+8,MKTX,2021-10-20,06:30:00," MarketAxess Q3 Profit Declines, But Tops Estimates - Quick Facts  MarketAxess Holdings Inc. Reports Drop In Q3 Earnings,but beats estimates",0
+9,T,2021-10-21,07:00:00, AT&T Q3 Profit Beats Estimates; Revenues Up 4.7% On Comparable Basis  AT&T Inc. Q3 adjusted earnings Beat Estimates AT&T Q3 21 Earnings Conference Call At 8:30 AM ET ,1
+10,VLO,2021-10-21,06:30:00, Valero Energy Corp. Q3 adjusted earnings Beat Estimates,1
+11,LUV,2021-10-21,06:30:00, Southwest Airlines Posts Narrower Than Expected Adj. Loss In Q3; Warns On Q4  Southwest Airlines Inc. Q3 adjusted earnings Beat Estimates Southwest Airlines Q3 21 Earnings Conference Call At 12:30 PM ET ,1
+12,FCX,2021-10-21,08:00:00, Freeport-McMoRan Inc. Q3 adjusted earnings Beat Estimates,1
+13,BX,2021-10-21,06:50:00, The Blackstone Group L.P. Q3 Profit Advances,1
+14,AAL,2021-10-21,07:00:00, American Airlines Q3 Results Better Than Estimates  American Airlines Group Inc Q3 adjusted earnings Beat Estimates American Airlines Group Q3 21 Earnings Conference Call At 8:30 AM ET ,1
+15,UNP,2021-10-21,08:00:00," Union Pacific Corp. Q3 Earnings Climb, Beats estimates Union Pacific Q3 21 Earnings Conference Call At 8:45 AM ET ",1
+16,NUE,2021-10-21,08:00:00, Nucor Corp. Q3 earnings increase in line with estimate Nucor Q3 21 Earnings Conference Call At 2:00 PM ET ,1
+17,MMC,2021-10-21,07:00:00, Marsh & McLennan Q3 21 Earnings Conference Call At 8:30 AM ET  Marsh & McLennan Companies Inc Q3 adjusted earnings Beat Estimates,1
+18,KEY,2021-10-21,06:30:00," KeyCorp Announces Increase In Q3 Profit, Beats estimates KeyCorp Q3 21 Earnings Conference Call At 10:00 AM ET ",1
+19,IQV,2021-10-21,07:00:00, IQVIA Raises Annual Outlook Better Than Analysts' View - Update  IQVIA Holdings Inc. Q3 adjusted earnings Beat Estimates,1
+0,DOW,2021-10-21,06:00:00, Dow Q3 Profit Beats Estimates  Dow Inc. Q3 21 Earnings Conference Call At 8:00 AM ET ,1
+1,DHR,2021-10-21,06:00:00, Danaher Q3 21 Earnings Conference Call At 8:00 AM ET  Danaher Sees Growth In Q4 Core Revenues; Updates FY21 View - Quick Facts  Danaher Corp. Q3 adjusted earnings Beat Estimates,1
+2,TSCO,2021-10-21,07:05:00," Tractor Supply Boosts FY21 Outlook As Q3 Results Top Estimates - Quick Facts  Tractor Supply Q3 Profit Advances, Beats estimates Tractor Supply Q3 21 Earnings Conference Call At 10:00 AM ET ",1
+3,SNA,2021-10-21,06:30:00, Snap-On Inc. Q3 adjusted earnings Beat Estimates Snap-On Q3 21 Earnings Conference Call At 10:00 AM ET ,1
+4,POOL,2021-10-21,07:00:00, Pool Corp Boosts FY21 Outlook As Q3 Results Top Estimates - Quick Facts ,1
+5,NVR,2021-10-21,09:00:00,, 
+6,IPG,2021-10-21,07:00:00," Interpublic Lifts FY21 Organic Growth, Margin Targets - Quick Facts  Interpublic Group Of Companies Inc. Q3 adjusted earnings Beat Estimates Interpublic Group Of Companies Q3 21 Earnings Conference Call At 8:30 AM ET ",1
+7,GPC,2021-10-21,08:30:00, Genuine Parts Boosts FY21 Outlook - Quick Facts  Genuine Parts Co Q3 adjusted earnings Beat Estimates Genuine Parts Q3 21 Earnings Conference Call At 11:00 AM ET ,1
+8,DGX,2021-10-21,06:45:00, Quest Diagnostics Q3 21 Earnings Conference Call At 8:30 AM ET  Quest Diagnostics Boosts FY21 Outlook - Quick Facts  Quest Diagnostics Q3 adjusted earnings Beat Estimates,1
+9,ALLE,2021-10-21,05:30:00, Allegion Q3 21 Earnings Conference Call At 8:00 AM ET  Allegion Q3 adjusted earnings Beat Estimates,1
+10,STX,2021-10-22,08:00:00, Seagate Technology PLC Q1 Earnings Climb Seagate Technology Q1 22 Earnings Conference Call At 9:00 AM ET ,1
+11,HON,2021-10-22,06:30:00, Honeywell Updates Full-year Guidance On Supply Chain Constraints  Honeywell International Inc. Q3 adjusted earnings Beat Estimates Honeywell International Q3 21 Earnings Conference Call At 8:30 AM ET ,1
+12,SLB,2021-10-22,07:00:00, Schlumberger Ltd. Reveals Advance In Q3 Earnings Schlumberger Q3 21 Earnings Conference Call At 9:30 AM ET ,1
+13,ROP,2021-10-22,06:55:00, Roper Technologies Sees Q4 Adj. Earnings Below Market View; Updates FY21 Forecast - Quick Facts  Roper Technologies Inc. Q3 adjusted earnings Beat Estimates Roper Technologies Q3 21 Earnings Conference Call At 8:30 AM ET ,1
+14,HCA,2021-10-22,07:30:00," HCA Healthcare Boosts FY21 Outlook - Quick Facts  HCA Healthcare, Inc. Q3 adjusted earnings Beat Estimates HCA Healthcare Q3 21 Earnings Conference Call At 10:00 AM ET ",1
+15,AXP,2021-10-22,07:00:00," American Express Q3 Profit Tops Estimates; Adj. Revenues Up 24%  American Express Co. Q3 Profit Rises, Beats estimates",1
+16,RF,2021-10-22,06:00:00," Regions Financial Corp. Profit Advances In Q3, Beats estimates Regions Financial Q3 21 Earnings Conference Call At 10:00 AM ET ",1
+17,KMB,2021-10-25,07:30:00, Kimberly-Clark Cuts 2021 Earnings Outlook; Q3 Profit Misses Estimates  Kimberly-Clark Corp Q3 adjusted earnings Miss Estimates Kimberly-Clark Q3 21 Earnings Conference Call At 10:00 AM ET ,0
+18,OTIS,2021-10-25,06:00:00, Otis Worldwide Q3 Results Top View; Lifts FY21 View - Quick Facts ,1
+19,UPS,2021-10-26,06:00:00, UPS Q3 Earnings Beat View  United Parcel Service Q3 21 Earnings Conference Call At 8:30 AM ET ,1
+0,GE,2021-10-26,06:30:00," General Electric Q3 Industrial Profit Rises, Revenue Mixed; Raises 2021 Guidance  General Electric Co Q3 Earnings Climb General Electric Q3 21 Earnings Conference Call At 8:00 AM ET ",1
+1,MMM,2021-10-26,06:30:00, 3M Narrows FY21 Outlook Range - Quick Facts  3M Co. Q3 adjusted earnings Beat Estimates 3M Co. Q3 21 Earnings Conference Call At 9:00 AM ET ,1
+2,LMT,2021-10-26,07:30:00," Lockheed Martin Boosts FY21 Adj. EPS Outlook; Sees Weak Revenues In FY22 - Quick Facts  Lockheed Martin Corp. Reports Drop In Q3 Bottom Line,but beats estimates Lockheed Martin Q3 21 Earnings Conference Call At 11:00 AM ET ",0.5
+3,LLY,2021-10-26,06:25:00," Lilly Lifts FY21 Adj. EPS, Revenue View Above Market - Quick Facts  Eli Lilly And Co. Profit Drops In Q3 Eli Lilly And Co. Q3 21 Earnings Conference Call At 9:00 AM ET ",1
+4,CNC,2021-10-26,06:00:00," Centene Q3 21 Earnings Conference Call At 8:30 AM ET  Centene Cuts FY21 Earnings View, Raises Revenue Forecast  Centene Corporation Q3 adjusted earnings Beat Estimates",0.5
+5,WM,2021-10-26,07:00:00, Waste Management Boost FY21 Revenue Growth Outlook - Quick Facts  Waste Management Inc Q3 adjusted earnings Miss Estimates Waste Management Q3 21 Earnings Conference Call At 10:00 AM ET ,1
+6,SPGI,2021-10-26,07:15:00, S&P Global Increases 2021 Adjusted Earnings Guidance - Quick Facts  S&P Global Q3 21 Earnings Conference Call At 8:30 AM ET  S&P Global Inc. Q3 adjusted earnings Beat Estimates,1
+7,PHM,2021-10-26,06:30:00," PulteGroup Q3 21 Earnings Conference Call At 8:30 AM ET  PulteGroup, Inc. Q3 adjusted earnings Beat Estimates",1
+8,PCAR,2021-10-26,08:00:00," Paccar Inc. Reveals Decline In Q3 Bottom Line, misses estimates",0
+9,IVZ,2021-10-26,07:00:00, Invesco Q3 21 Earnings Conference Call At 9:00 AM ET  Invesco Ltd. Q3 Earnings Climb,1
+10,HUBB,2021-10-26,07:30:00,, 
+11,HAS,2021-10-26,06:30:00, Hasbro Q3 Earnings Surpass Consensus Estimate  Hasbro Inc. Q3 adjusted earnings Beat Estimates Hasbro Q3 21 Earnings Conference Call At 8:30 AM ET ,1
+12,GLW,2021-10-26,07:15:00, Corning: Profitability To Decline Slightly On Sequential Basis  Corning Inc. Q3 adjusted earnings Miss Estimates Corning Q3 21 Earnings Conference Call At 8:30 AM ET ,0
+13,ADM,2021-10-26,07:00:00, Archer-Daniels-Midland Q3 21 Earnings Conference Call At 9:00 AM ET  Archer-Daniels-Midland Q3 adjusted earnings Beat Estimates,1
+14,SHW,2021-10-26,07:00:00, Sherwin-Williams Co Q3 adjusted earnings Miss Estimates,0
+15,PNR,2021-10-26,06:55:00, Pentair Q3 21 Earnings Conference Call At 9:00 AM ET  Pentair Boosts FY21 Outlook; Guides Q4 In Line - Quick Facts  Pentair plc Q3 adjusted earnings Beat Estimates,1
+16,ECL,2021-10-26,08:30:00, Ecolab Q3 21 Earnings Conference Call At 1:00 PM ET , 
+17,RTX,2021-10-26,06:55:00, Raytheon Technologies Q3 21 Earnings Conference Call At 8:30 AM ET  Raytheon Technologies Corporation Q3 adjusted earnings Beat Estimates Raytheon Technologies Boosts FY21 Adj. EPS Outlook - Quick Facts ,1
+18,MSCI,2021-10-26,06:45:00, MSCI Inc. Q3 adjusted earnings Beat Estimates,1
+19,MCD,2021-10-27,07:00:00, McDonald's Q3 Profit Beats Estimates  McDonalds Corp. Q3 adjusted earnings Beat Estimates McDonald's Q3 21 Earnings Conference Call At 8:30 AM ET ,1
+0,KO,2021-10-27,06:55:00," Coca-Cola Lifts FY21 Earnings, Revenue Growth View - Quick Facts  The Coca-Cola Company Q3 adjusted earnings Beat Estimates The Coca-Cola Q3 21 Earnings Conference Call At 8:30 AM ET ",1
+1,GM,2021-10-27,07:30:00, General Motors Boosts FY21 Outlook As Q3 Results Top Estimates - Quick Facts  General Motors Company Q3 adjusted earnings Beat Estimates General Motors Q3 21 Earnings Conference Call At 10:00 AM ET ,1
+2,BMY,2021-10-27,07:00:00, Bristol-Myers Squibb Boosts FY21 Outlook As Q3 Results Top Estimates - Quick Facts ,1
+3,BG,2021-10-27,06:00:00, Bunge Logs Higher Profit Above View; Ups Annual Guidance  Bunge Limited Q3 Profit Beats Estimates; Increases Earnings Outlook ,1
+4,BA,2021-10-27,07:30:00," Boeing Q3 Loss Sharply Narrows, But Misses Estimates  The Boeing Co. Q3 Earnings Advance The Boeing Q3 21 Earnings Conference Call At 10:30 AM ET ",0
+5,GD,2021-10-27,07:00:00," General Dynamics Corp. Q3 Profit Rises, Beats estimates General Dynamics Q3 21 Earnings Conference Call At 9:00 AM ET ",1
+6,WAB,2021-10-27,06:30:00," Wabtec Q3 21 Earnings Conference Call At 8:30 AM ET  Wabtec Narrows Full-year Revenue, Earnings Guidance - Quick Facts  Wabtec Corporation Q3 adjusted earnings Beat Estimates",0.5
+7,TMO,2021-10-27,06:00:00, Thermo Fisher Scientific Q3 21 Earnings Conference Call At 8:30 AM ET  Thermo Fisher Scientific Lifts FY21 Outlook Above Market Estimates - Quick Facts  Thermo Fisher Scientific Q3 adjusted earnings Beat Estimates,1
+8,TEL,2021-10-27,06:00:00, TE Connectivity Ltd. Reports Rise In Q4 Bottom Line TE Connectivity Q4 21 Earnings Conference Call At 8:30 AM ET ,1
+9,TDY,2021-10-27,08:00:00, Teledyne Technologies Inc Q3 adjusted earnings Beat Estimates,1
+10,ROL,2021-10-27,07:30:00," Rollins, Inc. Q3 adjusted earnings Miss Estimates",0
+11,ODFL,2021-10-27,07:00:00," Old Dominion Freight Line, Inc. Q3 Income Rises, Beats estimates",1
+12,NSC,2021-10-27,08:00:00, Norfolk Southern Corp Q3 Earnings Summary Norfolk Southern Q3 21 Earnings Conference Call At 8:45 AM ET ,0.5
+13,KHC,2021-10-27,08:00:00, Kraft Heinz Raises Full Year Outlook - Quick Facts  The Kraft Heinz Q3 21 Earnings Conference Call At 9:00 AM ET  The Kraft Heinz Company Q3 adjusted earnings Beat Estimates,1
+14,IP,2021-10-27,07:00:00, International Paper Q3 adjusted earnings Miss Estimates,0
+15,HLT,2021-10-27,06:00:00," Hilton Worldwide Holdings, Inc. Q3 adjusted earnings Miss Estimates",0
+16,HES,2021-10-27,07:30:00, Hess Corporation Q3 adjusted earnings Beat Estimates,1
+17,DTE,2021-10-27,07:00:00," DTE Energy Q3 Profit Down, Misses View; Ups Annual Outlook  DTE Energy Q3 21 Earnings Conference Call At 9:00 AM ET ",0.5
+18,CME,2021-10-27,07:00:00," CME Group, Inc. Q3 adjusted earnings Beat Estimates CME Group Q3 21 Earnings Conference Call At 8:30 AM ET ",1
+19,BSX,2021-10-27,06:30:00, Boston Scientific Boosts FY21 Outlook - Quick Facts  Boston Scientific Corp Bottom Line Advances In Q3 Boston Scientific Q3 21 Earnings Conference Call At 8:00 AM ET ,1
+0,AVY,2021-10-27,06:45:00, Avery Dennison Raises Full Year Adj. Earnings Outlook - Quick Facts  Avery Dennison Corp. Q3 adjusted earnings Beat Estimates,1
+1,APH,2021-10-27,08:00:00, Amphenol Corp. Q3 adjusted earnings Beat Estimates,1
+2,ADP,2021-10-27,08:00:00, Automatic Data Processing Inc. Q1 adjusted earnings Beat Estimates,1
+3,MAS,2021-10-27,07:00:00, Masco Corp. Q3 adjusted earnings Beat Estimates Masco Q3 21 Earnings Conference Call At 8:00 AM ET ,1
+4,GRMN,2021-10-27,07:00:00, Garmin Ltd Announces Retreat In Q3 Bottom Line,0
+5,MRK,2021-10-28,06:30:00, Merck Q3 Results Top Estimates; Boosts FY21 Outlook - Quick Facts  Merck & Co Inc. Q3 adjusted earnings Beat Estimates Merck & Co Q3 21 Earnings Conference Call At 8:00 AM ET ,1
+6,CAT,2021-10-28,06:30:00, Caterpillar Inc. Q3 Income Rises Caterpillar Q3 21 Earnings Conference Call At 8:30 AM ET ,1
+7,YUM,2021-10-28,07:00:00, Yum! Brands Inc. Q3 adjusted earnings Beat Estimates Yum! Brands Q3 21 Earnings Conference Call At 8:15 AM ET ,1
+8,NOC,2021-10-28,06:00:00," Northrop Grumman Lifts FY21 Earnings View Above Market; Cuts Revenue Forecast  Northrop Grumman Corp. Announces Rise In Q3 Profit, Beats estimates",1
+9,MO,2021-10-28,07:00:00, Altria Group Narrows 2021 Adj. Earnings Guidance; Q3 Profit Misses Estimates ,0
+10,MA,2021-10-28,08:00:00, Mastercard Q3 Profit Tops Estimates  Mastercard Incorporated Q3 Income Climbs Mastercard Q3 21 Earnings Conference Call At 9:00 AM ET ,1
+11,CMCSA,2021-10-28,07:00:00," Comcast Q3 Profit Doubles, Results Top Estimates  Comcast Corp. Q3 adjusted earnings Beat Estimates Comcast Q3 21 Earnings Conference Call At 8:30 AM ET ",1
+12,XEL,2021-10-28,06:00:00, Xcel Energy Narrows 2021 Earnings Guidance Range - Quick Facts  Xcel Energy Inc Q3 Profit  misses estimates,0
+13,TXT,2021-10-28,06:30:00, Textron Raises Full Year Earnings Guidance - Quick Facts  Textron Q3 21 Earnings Conference Call At 8:00 AM ET  Textron Inc. Q3 Income Rises,1
+14,TAP,2021-10-28,07:00:00, Molson Coors Brewing Company Q3 adjusted earnings Beat Estimates,1
+15,SWK,2021-10-28,06:00:00," Stanley Black & Decker Q3 21 Earnings Conference Call At 8:00 AM ET  Stanley Black & Decker Lowers 2021 Earnings Guidance  Stanley Black & Decker, Inc. Q3 adjusted earnings Beat Estimates",0
+16,NEM,2021-10-28,06:00:00, Newmont Mining Corp. Q3 Earnings Summary,1
+17,MCO,2021-10-28,07:00:00, Moody's Boosts FY21 Outlook As Q3 Results Top Estimates - Quick Facts  Moodys Corp. Q3 adjusted earnings Beat Estimates Moody's Q3 21 Earnings Conference Call At 11:30 AM ET ,1
+18,LKQ,2021-10-28,06:00:00, LKQ Corp. Raises 2021 Outlook - Quick Facts  LKQ Corp Q3 adjusted earnings Beat Estimates,1
+19,ITW,2021-10-28,08:00:00," Illinois Tool Works Slashes FY21 Outlook - Quick Facts  Illinois Tool Works Inc Reports Advance In Q3 Bottom Line, Beats estimates Illinois Tool Works Q3 21 Earnings Conference Call At 10:00 AM ET ",0
+0,ICE,2021-10-28,07:30:00, IntercontinentalExchange Group Inc. Reveals Increase In Q3 Profit IntercontinentalExchange Group Q3 21 Earnings Conference Call At 8:30 AM ET ,1.0
+1,HSY,2021-10-28,07:00:00, Hershey Co. Q3 adjusted earnings Beat Estimates,1.0
+2,HBAN,2021-10-28,07:00:00, Huntington Bancshares Inc. Q3 Profit  misses estimates,0.0
+3,CMS,2021-10-28,08:00:00, CMS Energy Corp. Q3 adjusted earnings Inline With Estimates,0.5
+4,CBRE,2021-10-28,06:55:00," CBRE Group, Inc. Q3 adjusted earnings Beat Estimates",1.0
+5,BAX,2021-10-28,07:15:00, Baxter International Inc. Q3 adjusted earnings Beat Estimates Baxter International Q3 21 Earnings Conference Call At 8:30 AM ET ,1.0
+6,AOS,2021-10-28,06:55:00," A.O. Smith Lifts FY21 Outlook Above Market - Quick Facts  A.O. Smith Corp Reveals Gain In Q3 Earnings, Beats estimates",1.0
+7,AMT,2021-10-28,07:00:00, American Tower Corp. Q3 adjusted earnings Beat Estimates American Tower Q3 21 Earnings Conference Call At 8:30 AM ET ,1.0
+8,WTW,2021-10-28,06:00:00, Willis Towers Watson Public Limited Company Q3 Earnings Advance,1.0
+9,WST,2021-10-28,06:00:00,,0.5
+10,TFX,2021-10-28,06:30:00, Teleflex Reports Higher Earnings Above Estimates; Updates Guidance  Teleflex Q3 21 Earnings Conference Call At 8:00 AM ET  Teleflex Inc Q3 adjusted earnings Beat Estimates,1.0
+11,COR,2021-10-28,06:30:00,,0.5
+12,TROW,2021-10-28,07:00:00, T. Rowe Price Group Q3 Profit Misses Estimates; Revenues Up 22.5%  T. Rowe Price Group To Buy Oak Hill Advisors - Quick Facts ,0.0
+13,LIN,2021-10-28,06:00:00," Linde Q3 Profit Climbs, Lifts FY21 Earnings View - Quick Facts ",1.0
+14,LH,2021-10-28,06:45:00, Labcorp Q3 21 Earnings Conference Call At 9:00 AM ET  Laboratory Corporation Of America Holdings Q3 adjusted earnings Beat Estimates,1.0
+15,KDP,2021-10-28,06:30:00," Keurig Dr Pepper Backs FY21 Earnings Growth View, Lifts Sales Forecast - Quick Facts  Keurig Dr Pepper Inc. Q3 adjusted earnings Inline With Estimates Keurig Dr Pepper Q3 21 Earnings Conference Call At 8:00 AM ET ",0.5
+16,CARR,2021-10-28,06:30:00,,0.5
+17,AEP,2021-10-28,06:57:00, American Electric Power Co Inc Q3 adjusted earnings Miss Estimates American Electric Power Q3 21 Earnings Conference Call At 9:00 AM ET ,0.0
+18,XOM,2021-10-29,07:30:00, Exxon Mobil Q3 Profit Tops Estimates; Plans To Buy Back About $10 Bln Of Shares  Exxon Mobil Corp. Q3 adjusted earnings Beat Estimates Exxon Mobil Q3 21 Earnings Conference Call At 9:30 AM ET ,1.0
+19,CVX,2021-10-29,08:00:00, Chevron Q3 Profit Rises; Posts Best Ever Free Cash Flow  Chevron Corp. Q3 Earnings Summary Chevron Q3 21 Earnings Conference Call At 11:00 AM ET ,1.0
+0,ABBV,2021-10-29,07:44:00, AbbVie Says Cariprazine Met Primary Endpoint In Phase 3 Study For Major Depressive Disorder  AbbVie Raises FY21 Outlook; Boosts Dividend 8.5% - Quick Facts  AbbVie Q3 adjusted earnings Beat Estimates AbbVie Q3 21 Earnings Conference Call At 9:00 AM ET ,1
+1,RCL,2021-10-29,08:00:00, Royal Caribbean Group Expects Profitable For Full Year 2022 - Quick Facts  Royal Caribbean Cruises Ltd. Earnings at $ -1.42 B in Q3,0
+2,PSX,2021-10-29,07:00:00, Phillips 66 Q3 adjusted earnings Beat Estimates Phillips 66 Q3 21 Earnings Conference Call At 12:00 PM ET ,1
+3,LYB,2021-10-29,06:30:00, LyondellBasell Industries N.V. Q3 adjusted earnings Miss Estimates LyondellBasell Industries Q3 21 Earnings Conference Call At 11:00 AM ET ,0
+4,GWW,2021-10-29,08:00:00, W.W. Grainger Reaffirms FY21 Outlook - Quick Facts  Grainger (W.W.) Inc. Q3 adjusted earnings Beat Estimates,1
+5,CL,2021-10-29,06:55:00, Colgate-Palmolive Q3 Profit Tops Estimates; Confirms Guidance  Colgate-Palmolive Co. Q3 adjusted earnings Beat Estimates Colgate-Palmolive Q3 21 Earnings Conference Call At 8:30 AM ET ,1
+6,CHTR,2021-10-29,07:00:00," Charter Communications Q3 21 Earnings Conference Call At 8:30 AM ET  Charter Communications, Inc. Earnings Advance In Q3, Beats estimates",1
+7,CHD,2021-10-29,06:55:00," Church & Dwight Sees Q4 Adj. EPS Below Market, Lifts FY21 Sales Growth View; Plans $1 Bln Buyback  Church & Dwight Co Inc. Q3 adjusted earnings Beat Estimates Church & Dwight Q3 21 Earnings Conference Call At 10:00 AM ET ",0.5
+8,AON,2021-10-29,06:00:00, Aon Plc Q3 21 Earnings Conference Call At 8:30 AM ET  Aon plc Q3 adjusted earnings Beat Estimates,1
+9,WY,2021-10-29,03:05:00, Weyerhaeuser Q3 21 Earnings Conference Call At 10:00 AM ET  Weyerhaeuser Q3 Profit Tops Estimates ,1
+10,LHX,2021-10-29,06:30:00," L3Harris  Updates Annual Outlook  L3Harris Technologies Q3 21 Earnings Conference Call At 8:30 AM ET  L3Harris Technologies, Inc. Q3 Income Advances",1
+11,CBOE,2021-10-29,07:00:00," CBOE Global Markets Q3 21 Earnings Conference Call At 8:30 AM ET  CBOE Global Markets, Inc. Q3 adjusted earnings Beat Estimates",1
+12,PCG,2021-11-01,08:20:00, PG&E Corp. Reaffirms FY21 Adj. EPS Outlook - Quick Facts  PG&E Corp. Q3 adjusted earnings Miss Estimates PG&E Q3 21 Earnings Conference Call At 11:00 AM ET ,0
+13,BEN,2021-11-01,08:30:00, Franklin Resources To Acquire Lexington Partners L.P. - Quick Facts  Franklin Resources Inc. Q4 adjusted earnings Beat Estimates,1
+14,L,2021-11-01,06:00:00, Loews Corp. Bottom Line Rises In Q3 Loews Q3 21 Earnings Conference Call At 10:00 AM ET ,1
+15,ON,2021-11-01,08:00:00, ON Semiconductor Corp. Q3 adjusted earnings Beat Estimates,1
+16,PFE,2021-11-02,06:45:00, Pfizer Q3 Profit Skyrockets On Vaccine Sales  Pfizer Inc. Profit Rises In Q3 Pfizer Q3 21 Earnings Conference Call At 10:00 AM ET ,1
+17,DD,2021-11-02,06:00:00," Rogers Q3 Results Rise, Adj. EPS, Sales Miss Estimates; To Be Bought By DuPont In $5.2 Bln Cash Deal  DuPont Cuts FY21 Earnings, Sales View Below Market; To Buy Rogers Corp. For $5.2 Bln - Quick Facts  EI DuPont De Nemours & Co. Q3 adjusted earnings Beat Estimates EI DuPont De Nemours & Co. Q3 21 Earnings Conference Call At 8:00 AM ET ",0.5
+18,CMI,2021-11-02,07:00:00, Cummins  Inc. Reports Gain In Q3 Profit,1
+19,XYL,2021-11-02,06:55:00, Xylem Inc. Q3 adjusted earnings Beat Estimates,1
+0,ROK,2021-11-02,07:00:00, Rockwell Automation  Inc. Reports Drop In Q4 Bottom Line Rockwell Automation Q4 21 Earnings Conference Call At 8:30 AM ET ,0
+1,RL,2021-11-02,08:01:00, Ralph Lauren Boosts FY22 Revenue Growth Outlook - Quick Facts  Ralph Lauren Corp. Q2 adjusted earnings Beat Estimates,1
+2,MPC,2021-11-02,06:30:00, Marathon Petroleum Corporation Q3 adjusted earnings Beat Estimates Marathon Petroleum Q3 21 Earnings Conference Call At 11:00 AM ET ,1
+3,HSIC,2021-11-02,06:30:00, Henry Schein Inc. Q3 adjusted earnings Beat Estimates,1
+4,EXPD,2021-11-02,08:00:00," Expeditors International of Washington Inc. Profit Advances In Q3, Beats estimates",1
+5,ETN,2021-11-02,06:30:00, Eaton Corp. Earnings Climb In Q3,1
+6,EL,2021-11-02,06:45:00," Este Lauder Sees Q2 Adj. EPS Below Market, Backs FY22 Adj. Earnings View  The Estée Lauder Companies Inc. Q1 adjusted earnings Beat Estimates The Estée Lauder Companies Q1 22 Earnings Conference Call At 9:30 AM ET ",0.5
+7,CTLT,2021-11-02,07:00:00,, 
+8,COP,2021-11-02,07:00:00, ConocoPhillips Q3 Profit Tops Estimates  ConocoPhillips Q3 adjusted earnings Beat Estimates ConocoPhillips Q3 21 Earnings Conference Call At 12:00 PM ET ,1
+9,AME,2021-11-02,06:55:00, Ametek Inc. Q3 adjusted earnings Beat Estimates Ametek Q3 21 Earnings Conference Call At 8:30 AM ET ,1
+10,WEC,2021-11-02,07:00:00," WEC Energy Group Q3 21 Earnings Conference Call At 2:00 PM ET  WEC Energy Group Q3 Profit Climbs, Beats estimates",1
+11,WAT,2021-11-02,07:00:00, Waters Corp. Q3 adjusted earnings Beat Estimates Waters Corp. Q3 21 Earnings Conference Call At 8:00 AM ET ,1
+12,PEG,2021-11-02,07:30:00, PSEG Raises 2021 Operating Earnings Guidance - Quick Facts  Public Service Enterprise Group Inc Q3 adjusted earnings Beat Estimates,1
+13,LDOS,2021-11-02,06:00:00," Leidos Holdings Q3 21 Earnings Conference Call At 8:00 AM ET  Leidos Holdings, Inc. Q3 adjusted earnings Beat Estimates",1
+14,IT,2021-11-02,06:00:00," Gartner Updates 2021 Guidance - Quick Facts  Gartner, Inc. Q3 adjusted earnings Beat Estimates Gartner Q3 21 Earnings Conference Call At 8:00 AM ET ",1
+15,IDXX,2021-11-02,06:30:00," IDEXX Laboratories Q3 21 Earnings Conference Call At 8:30 AM ET  IDEXX Labs Lifts FY21 Earnings View; Tightens Revenue Forecast  IDEXX Laboratories Inc Q3 Profit Rises, Beats estimates",1
+16,GPN,2021-11-02,07:00:00, Global Payments Updates 2021 Guidance  Global Payments Inc. Q3 adjusted earnings Beat Estimates Global Payments Q3 21 Earnings Conference Call At 8:00 AM ET ,1
+17,GNRC,2021-11-02,06:00:00,, 
+18,ZBRA,2021-11-02,06:30:00, Zebra Technologies Guides Q4 Adj. EPS Above Estimates - Quick Facts  Zebra Technologies Corporation Q3 adjusted earnings Beat Estimates,1
+19,TECH,2021-11-02,06:30:00, Bio-Techne Q1 Results Top Estimates; Declares Dividend - Quick Facts ,1
+0,MLM,2021-11-02,06:50:00," Martin Marietta Earnings Dip, But Beat View  Martin Marietta Materials, Inc. Q3 adjusted earnings Beat Estimates",0.0
+1,INCY,2021-11-02,07:00:00, Incyte Corporation Q3 adjusted earnings Beat Estimates Incyte Q3 21 Earnings Conference Call At 8:00 AM ET ,1.0
+2,CVS,2021-11-03,06:30:00, CVS Health Boosts FY21 Adj. EPS Outlook As Q3 Results Top Estimates  CVS Health Corp. Q3 adjusted earnings Beat Estimates CVS Health Q3 21 Earnings Conference Call At 8:00 AM ET ,1.0
+3,WBD,2021-11-03,07:00:00,,0.5
+4,TT,2021-11-03,06:30:00,,0.5
+5,NI,2021-11-03,06:30:00, NiSource Inc. Q3 adjusted earnings Beat Estimates,1.0
+6,MAR,2021-11-03,07:00:00, Marriott International Inc. Q3 adjusted earnings Beat Estimates Marriott International Q3 21 Earnings Conference Call At 8:30 AM ET ,1.0
+7,HUM,2021-11-03,06:30:00, Humana Slashes FY21 Adj. EPS Outlook - Quick Facts  Humana Inc Q3 adjusted earnings Beat Estimates Humana Q3 21 Earnings Conference Call At 9:00 AM ET ,0.0
+8,EXC,2021-11-03,06:50:00, Exelon Corp Q3 adjusted earnings Inline With Estimates Exelon Q3 21 Earnings Conference Call At 10:00 AM ET ,0.5
+9,EMR,2021-11-03,06:55:00, Emerson Electric Q4 21 Earnings Conference Call At 9:00 AM ET  Emerson Electric Co. Q4 adjusted earnings Beat Estimates,1.0
+10,CRL,2021-11-03,07:00:00, Charles River Labs Boosts FY21 EPS Outlook As Q2 Adj. EPS Tops Estimates - Quick Facts ,1.0
+11,CDW,2021-11-03,07:00:00, CDW Corp. Q3 21 Earnings Conference Call At 8:30 AM ET  CDW Corporation Q3 adjusted earnings Beat Estimates,1.0
+12,BWA,2021-11-03,06:30:00, Borg Warner Inc. Q3 adjusted earnings Beat Estimates Borg Warner Q3 21 Earnings Conference Call At 9:30 AM ET ,1.0
+13,BR,2021-11-03,07:00:00, Broadridge Financial Solutions Q1 22 Earnings Conference Call At 8:30 AM ET  Broadridge Financial Solutions Inc. Q1 adjusted earnings Beat Estimates,1.0
+14,NCLH,2021-11-03,07:00:00, Norwegian Cruise Line Holdings Ltd. Q3 adjusted earnings Miss Estimates,0.0
+15,EVRG,2021-11-03,06:00:00," Evergy Q3 21 Earnings Conference Call At 9:00 AM ET  Evergy, Inc. Q3 adjusted earnings Beat Estimates",1.0
+16,ETR,2021-11-03,06:30:00, Entergy Corp Q3 adjusted earnings Inline With Estimates,0.5
+17,CTRA,2021-11-03,08:00:00,,0.5
+18,PARA,2021-11-04,07:00:00,,0.5
+19,CI,2021-11-04,06:00:00, Cigna Raises 2021 Guidance  Cigna Corp. Q3 adjusted earnings Beat Estimates Cigna Q3 21 Earnings Conference Call At 8:30 AM ET ,1.0
+0,ZTS,2021-11-04,07:00:00, Zoetis Earnings Surpass Street View; Guides Annual Earnings Above Estimates  Zoetis Inc. Q3 adjusted earnings Beat Estimates,1
+1,SO,2021-11-04,06:15:00, Southern Co. Q3 adjusted earnings Beat Estimates Southern Co. Q3 21 Earnings Conference Call At 1:00 PM ET ,1
+2,REGN,2021-11-04,06:30:00, Regeneron Pharma Q3 21 Earnings Conference Call At 8:30 AM ET  Regeneron Pharmaceuticals Q3 adjusted earnings Beat Estimates,1
+3,PPL,2021-11-04,08:00:00, PPL Corporation Reveals Decline In Q3 Profit PPL Corp. Q3 21 Earnings Conference Call At 11:00 AM ET ,0
+4,PH,2021-11-04,07:30:00, Parker Hannifin Boosts FY21 Outlook - Quick Facts  Parker Hannifin Corp. Q1 adjusted earnings Beat Estimates,1
+5,K,2021-11-04,08:00:00," Kellogg Reaffirms FY21 Adj. EPS Outlook, Boosts Organic Net Sales Growth - Quick Facts  Kellogg Company Q3 adjusted earnings Beat Estimates Kellogg Q3 21 Earnings Conference Call At 9:30 AM ET ",1
+6,HWM,2021-11-04,07:00:00,,0
+7,HII,2021-11-04,07:00:00,,0
+8,DUK,2021-11-04,06:30:00, Duke Energy Corp Q3 adjusted earnings Beat Estimates Duke Energy Boosts FY21 Outlook - Quick Facts  Duke Energy Q3 21 Earnings Conference Call At 10:00 AM ET ,1
+9,CNP,2021-11-04,08:00:00, CenterPoint Energy Q3 21 Earnings Conference Call At 8:00 AM ET  CenterPoint Energy Inc Q3 adjusted earnings Beat Estimates,1
+10,BLDR,2021-11-04,07:00:00,,0
+11,BDX,2021-11-04,06:00:00," Becton, Dickinson And Co Q4 21 Earnings Conference Call At 8:00 AM ET  Becton, Dickinson and Company Q4 adjusted earnings Beat Estimates",1
+12,APD,2021-11-04,06:00:00," Air Products Q4 Results Up, Top Estimates; Sees Higher Earnings In Q1, FY22 - Quick Facts  Air Products And Chemicals Inc. Q4 adjusted earnings Beat Estimates Air Products And Chemicals Q4 21 Earnings Conference Call At 11:00 AM ET ",1
+13,ZBH,2021-11-04,06:30:00," Zimmer Biomet Holdings Q3 21 Earnings Conference Call At 8:30 AM ET  Zimmer Biomet Q3 Profit Drops, But Beats Street; Cuts Annual Outlook  Zimmer Biomet Holdings Inc. Q3 adjusted earnings Beat Estimates",1
+14,VMC,2021-11-04,07:00:00, Vulcan Materials Co. Q3 adjusted earnings Miss Estimates,0
+15,TRGP,2021-11-04,06:00:00, Targa Resources Corp. Q3 Earnings Summary,0
+16,PWR,2021-11-04,06:55:00, Quanta Services Boosts FY21 Outlook - Quick Facts  Quanta Services Inc. Q3 adjusted earnings Beat Estimates,1
+17,NRG,2021-11-04,07:00:00, NRG Energy Q3 21 Earnings Conference Call At 9:00 AM ET  NRG Energy Inc Q3 Profit Advances,1
+18,IRM,2021-11-04,06:00:00, Iron Mountain Q3 21 Earnings Conference Call At 8:30 AM ET  Iron Mountain Inc Q3 adjusted earnings Inline With Estimates,0.5
+19,EPAM,2021-11-04,06:00:00,,0
+0,MRNA,2021-11-04,06:30:00, Moderna Slashes FY21 Outlook As Q3 Results Miss Estimates ,0
+1,FIS,2021-11-04,07:00:00, Fidelity National Information Services Q3 21 Earnings Conference Call At 8:30 AM ET  Fidelity National Information Services Q3 adjusted earnings Beat Estimates,1
+2,APTV,2021-11-04,06:45:00, Aptiv PLC Q3 21 Earnings Conference Call At 8:00 AM ET  Aptiv PLC Q3 adjusted earnings Beat Estimates,1
+3,SRE,2021-11-05,07:00:00, Sempra Energy Profit Falls In Q3 Sempra Energy Q3 21 Earnings Conference Call At 12:00 PM ET ,0
+4,PNW,2021-11-05,08:40:00,,0.5
+5,JCI,2021-11-05,07:00:00, Johnson Controls Inc Q4 Profit Drops Johnson Controls Q4 21 Earnings Conference Call At 8:30 AM ET ,0
+6,D,2021-11-05,07:30:00," Dominion Energy Affirms Long-term Earnings, Dividend Growth Guidance - Quick Facts  Dominion Energy, Inc. Q3 adjusted earnings Beat Estimates Dominion Energy Q3 21 Earnings Conference Call At 10:00 AM ET ",1
+7,VTR,2021-11-05,06:55:00, Ventas Inc. Q3 adjusted earnings Beat Estimates Ventas Q3 21 Earnings Conference Call At 10:00 AM ET ,1
+8,KIM,2021-11-05,07:00:00, Kimco Realty Corp. Q3 adjusted earnings Beat Estimates Kimco Realty Q3 21 Earnings Conference Call At 8:30 AM ET ,1
+9,DOC,2021-11-05,08:00:00,,0.5
+10,VTRS,2021-11-08,07:00:00, Viatris Inc. Q3 sales increase Viatris Q3 21 Earnings Conference Call At 10:00 AM ET ,1
+11,CAH,2021-11-09,06:45:00, Cardinal Health Reaffirms FY21 Adj. EPS Outlook; Swings To Profit In Q1 - Quick Facts  Cardinal Health Inc Q1 adjusted earnings Miss Estimates Cardinal Health Q1 22 Earnings Conference Call At 8:30 AM ET ,0
+12,WRK,2021-11-09,06:30:00, WestRock Company Q4 adjusted earnings Beat Estimates WestRock Q4 21 Earnings Conference Call At 8:30 AM ET ,1
+13,SYY,2021-11-09,08:00:00, Sysco Reiterates FY22 EPS Outlook - Quick Facts  Sysco Corp. Q1 adjusted earnings Miss Estimates Sysco Q1 22 Earnings Conference Call At 10:00 AM ET ,0
+14,DHI,2021-11-09,06:30:00, D.R. Horton Q4 Profit Increases  D R Horton Q4 21 Earnings Conference Call At 8:30 AM ET ,1
+15,TPR,2021-11-11,07:00:00," Tapestry Raises FY22 Guidance; Board Approves Incremental $1 Bln Share Buyback Program  Tapestry, Inc. Q1 adjusted earnings Beat Estimates Tapestry Q1 22 Earnings Conference Call At 8:00 AM ET ",1
+16,TSN,2021-11-15,07:30:00," Tyson Foods Q4 Profit Rises, Adj. Sales Up 20%; Launches Productivity Program  Tyson Foods Inc. Reveals Increase In Q4 Profit Tyson Foods Q4 21 Earnings Conference Call At 9:00 AM ET ",1
+17,WMT,2021-11-16,07:00:00," Walmart Q3 Profit Drops 40%, But Results Top Estimates  Walmart Inc. Q3 adjusted earnings Beat Estimates Walmart Q3 22 Earnings Conference Call At 8:00 AM ET ",1
+18,HD,2021-11-16,06:00:00," Home Depot Q3 Results Top Estimates - Quick Facts  The Home Depot, Inc. Q3 Income Climbs, Beats estimates The Home Depot Q3 21 Earnings Conference Call At 9:00 AM ET ",1
+19,TDG,2021-11-16,08:00:00, TransDigm Group Incorporated Q4 adjusted earnings Beat Estimates TransDigm Group Q4 21 Earnings Conference Call At 11:00 AM ET ,1

@@ -1,0 +1,1121 @@
+,ticker,date,time,headline,pred_label
+0,WBA,05/01/2023,7:00:00," Walgreens, CVS Reportedly Plan To Offer Abortion Pills  Walgreens Posts Hefty Q1 Loss, Adj. EPS Tops View; Backs FY23 Earnings Forecast  Walgreens Boots Alliance, Inc. Q1 Earnings Summary Walgreens Boots Alliance Q1 23 Earnings Conference Call At 8:30 AM ET ",0.5
+1,STZ,05/01/2023,7:30:00, Constellation Brands Q3 Comparable Profit Declines; Updates Outlook  Constellation Brands Inc Q3 Profit Misses Estimates Constellation Brands Q3 23 Earnings Conference Call At 10:30 AM ET ,0
+2,CAG,05/01/2023,7:30:00," Conagra Brands Boosts FY23 Outlook - Update  Conagra Brands Inc. Q2 Profit Increases, beats estimates Conagra Brands Q2 23 Earnings Conference Call At 9:30 AM ET ",1
+3,LW,05/01/2023,8:30:00," Lamb Weston Boosts FY23 Outlook - Update  Lamb Weston Holdings, Inc. Q2 Income Rises",1
+4,WFC,13/01/2023,6:45:00, Wells Fargo & Co Q4 Profit Drops Wells Fargo Q4 22 Earnings Conference Call At 12:00 PM ET ,0
+5,JPM,13/01/2023,6:45:00," JPMorgan Q4 Profit Up 6%, Results Top Estimates  JPMorgan Chase & Co. Q4 Income Advances, Beats estimates JPMorgan Chase Q4 22 Earnings Conference Call At 8:30 AM ET ",1
+6,DAL,13/01/2023,6:30:00, Delta Air Lines Guides FY23 EPS In Line With Estimates - Update  Delta Air Lines Q4 22 Earnings Conference Call At 10:00 AM ET ,0.5
+7,C,13/01/2023,8:00:00," Citigroup Q4 Net Income Declines On Higher Cost Of Credit; Adj. Revenues Up 5%  Citigroup Inc. Profit Drops In Q4, but beats estimates Citigroup Q4 22 Earnings Conference Call At 11:00 AM ET ",0.5
+8,BAC,13/01/2023,6:45:00," Bank Of America Q4 Net Income Rises; Revenue, Net Of Interest Expense, Up 11%  Bank of America Corporation Q4 Profit Advances Bank Of America Q4 22 Earnings Conference Call At 9:30 AM ET ",1
+9,UNH,13/01/2023,5:55:00," Unitedhealth Group Q4 22 Earnings Conference Call At 8:45 AM ET  Unitedhealth Group Affirms FY23 Outlook - Update  Unitedhealth Group, Inc. Bottom Line Climbs In Q4",1
+10,BLK,13/01/2023,6:15:00, BlackRock Q4 Adj. Profit Declines  Blackrock Q4 22 Earnings Conference Call At 8:30 AM ET ,0
+11,BK,13/01/2023,6:30:00," The Bank of New York Mellon Corp. Q4 Profit Decreases, but beats estimates The Bank Of New York Mellon Q4 22 Earnings Conference Call At 10:00 AM ET ",0.5
+12,MS,17/01/2023,7:30:00," Morgan Stanley Q4 Profit Tops Estimates  Morgan Stanley Q4 Profit Decreases, but beats estimates Morgan Stanley Q4 22 Earnings Conference Call At 8:30 AM ET ",0.5
+13,GS,17/01/2023,7:30:00," Goldman Sachs Q4 Profit Plunges 69%, Misses Estimates  Goldman Sachs Group Inc. Profit Declines In Q4, misses estimates Goldman Sachs Group Q4 22 Earnings Conference Call At 9:30 AM ET ",0
+14,CFG,17/01/2023,6:20:00," Citizens Financial Group Q4 22 Earnings Conference Call At 9:00 AM ET  Citizens Financial Group, Inc. Profit Rises In Q4, but misses estimates",0.5
+15,SCHW,18/01/2023,8:45:00," Charles Schwab Q4 Profit Increases, but misses estimates",0.5
+16,PNC,18/01/2023,6:37:00," PNC Financial Services Group Q4 22 Earnings Conference Call AT 9:00 AM ET  PNC Financial Services Group Inc. Q4 Profit Increases, but misses estimates",0.5
+17,JBHT,18/01/2023,7:03:00," JB Hunt Transport Services Q4 22 Earnings Conference Call At 9:00 AM ET  JB Hunt Transport Services Inc. Q4 Profit Falls, misses estimates",0
+18,PLD,18/01/2023,8:00:00," Prologis Guides FY23 EPS In Line With Estimates - Update  ProLogis Q4 Profit Decreases, but beats estimates ProLogis Q4 22 Earnings Conference Call At 12:00 PM ET ",0.5
+19,PG,19/01/2023,6:55:00," P&G Q2 Profit Down 7%, But Meets Estimates; Boosts FY23 Sales Outlook  Procter & Gamble Co. Q2 income drops in line with estimates Procter & Gamble Q2 23 Earnings Conference Call At 8:30 AM ET ",0.5
+0,CMA,19/01/2023,6:44:00," Comerica Inc. Profit Rises In Q4, Beats estimates Comerica Q4 22 Earnings Conference Call At 8:00 AM ET ",1
+1,NTRS,19/01/2023,7:30:00," Northern Trust Q4 22 Earnings Conference Call At 9:00 AM ET  Northern Trust Corp. Profit Declines In Q4, misses estimates",0
+2,MTB,19/01/2023,6:05:00," M&T Bank Corp. Q4 Profit Rises, but misses estimates",0.5
+3,KEY,19/01/2023,6:35:00," KeyCorp Reveals Fall In Q4 Bottom Line, misses estimates KeyCorp Q4 22 Earnings Conference Call At 10:00 AM ET ",0
+4,FITB,19/01/2023,6:30:00," Fifth Third Bancorp Q4 Income Rises, Beats estimates",1
+5,FAST,19/01/2023,6:50:00," Fastenal Co. Profit Rises In Q4, Beats estimates Fastenal Q4 22 Earnings Conference Call At 10:00 AM ET ",1
+6,TFC,19/01/2023,5:45:00, Truist Financial Corporation Reveals Advance In Q4 Profit,1
+7,STT,20/01/2023,7:35:00, State Street Corp. Bottom Line Advances In Q4 State Street Q4 22 Earnings Conference Call At 11:00 AM ET ,1
+8,SLB,20/01/2023,7:00:00," Schlumberger Ltd. Q4 Profit Increases, beats estimates Schlumberger Q4 22 Earnings Conference Call AT 9:30 AM ET ",1
+9,HBAN,20/01/2023,7:00:00," Huntington Bancshares Announces Share Repurchase Program  Huntington Bancshares Inc. Reports Advance In Q4 Income, Beats estimates HUNTINGTON BANCSHARES INCORPORATED REPORTS 2022 FOURTH-QUARTER EARNINGS  (Press Release) Huntington Bancshares Q4 22 Earnings Conference Call At 9:00 AM ET ",1
+10,RF,20/01/2023,6:00:00," Regions Financial Q4 Profit Rises 60%, Tops Estimates  Regions Financial Corp. Q4 Profit Rises, Beats estimates",1
+11,SYF,23/01/2023,6:00:00," Synchrony Financial Q4 Income Retreats, but beats estimates Synchrony Financial Q4 22 Earnings Conference Call At 8:00 AM ET ",0.5
+12,BKR,23/01/2023,7:00:00," Baker Hughes Q4 Profit Down, Misses Estimates; Orders Climb  Baker Hughes Company Q4 Profit Decreases, misses estimates Baker Hughes Q4 22 Earnings Conference Call At 8:30 AM ET ",0
+13,JNJ,24/01/2023,6:25:00," Wall Street Might Open Lower  Johnson & Johnson Q4 Profit Down 26%, But Adj. EPS Tops Estimates  Johnson & Johnson Q4 Profit Decreases, but beats estimates Johnson & Johnson Q4 22 Earnings Conference Call At 8:30 AM ET ",0.5
+14,VZ,24/01/2023,7:02:00, Verizon Q4 Profit Tops Estimates; Sees FY23 Earnings Below Market; Stock Down In Pre Market  Verizon Communications Announces Increase In Q4 Bottom Line Verizon Communications Q4 22 Earnings Conference Call At 8:30 AM ET ,1
+15,TRV,24/01/2023,6:57:00," The Travelers Companies  Inc. Q4 Profit Decreases, misses estimates The Travelers Companies Q4 22 Earnings Conference Call At 9:00 AM ET ",0
+16,MMM,24/01/2023,6:30:00," 3M Co. Q4 Profit Decreases, misses estimates 3M Co. Q4 22 Earnings Conference Call At 9:00 AM ET ",0
+17,LMT,24/01/2023,7:30:00," Lockheed Martin Issues FY23 Earnings Outlook Below Market - Update  Lockheed Martin Corp. Q4 Profit Decreases, but beats estimates Lockheed Martin Q4 22 Earnings Conference Call At 11:00 AM ET ",0.5
+18,GE,24/01/2023,6:24:00," GE Turns To Profit In Q4, Beats Market; Sees Growth In FY23; Stock Up In Pre Market  General Electric Co Q4 Earnings Summary General Electric Q4 22 Earnings Conference Call At 8:00 AM ET ",1
+19,UNP,24/01/2023,7:45:00, Union Pacific Corp. Q4 Profit  misses estimates Union Pacific Q4 22 Earnings Conference Call At 8:45 AM ET ,0
+0,RTX,24/01/2023,6:45:00," Raytheon Technologies Q4 22 Earnings Conference Call At 8:30 AM ET  Raytheon Technologies Corporation Q4 Profit Increases, beats estimates",1
+1,PCAR,24/01/2023,8:00:00, Paccar Inc. Bottom Line Rises In Q4,1
+2,IVZ,24/01/2023,7:00:00," Invesco Ltd. Q4 Profit Decreases, but beats estimates Invesco Q4 22 Earnings Conference Call At 9:00 AM ET ",0.5
+3,HAL,24/01/2023,6:45:00," Halliburton Company Q4 Profit Decreases, but beats estimates Halliburton Q4 22 Earnings Conference Call At 9:00 AM ET ",0.5
+4,DHR,24/01/2023,6:00:00," Danaher Q4 22 Earnings Conference Call At 8:00 AM ET  Danaher Guides Q1, FY23 Revenue Growth Above Estimates - Update  Danaher Corp. Q4 Profit Increases, beats estimates",1
+5,DHI,24/01/2023,6:30:00, D.R. Horton Q1 Net Income Declines; Revenues Up 3% ,0.5
+6,T,25/01/2023,6:30:00," AT&T Slips To Loss On Charges, But Adj. EPS Tops View  AT&T Inc. Q4 Earnings Summary AT&T Q4 22 Earnings Conference Call At 8:30 AM ET ",0
+7,BA,25/01/2023,7:30:00," Boeing Q4 Loss Sharply Narrows; Results Miss Estimates  The Boeing Co. Q4 Loss Decreases, but misses estimates The Boeing Q4 22 Earnings Conference Call At 10:30 AM ET ",0.5
+8,USB,25/01/2023,6:45:00," US Bancorp Announces Retreat In Q4 Income, misses estimates",0
+9,GD,25/01/2023,7:00:00," General Dynamics Corp. Profit Rises In Q4, Beats estimates General Dynamics Q4 22 Earnings Conference Call At 9:00 AM ET ",1
+10,FCX,25/01/2023,8:00:00," Freeport-McMoRan Inc. Q4 Profit Decreases, but beats estimates",0.5
+11,ELV,25/01/2023,6:00:00,,0.5
+12,ABT,25/01/2023,7:30:00," Abbott Issues FY23 Earnings, Sales Growth View - Update  Abbott Laboratories Q4 Profit Decreases, but beats estimates Abbott Laboratories Q4 22 Earnings Conference Call At 9:00 AM ET ",0.5
+13,TXT,25/01/2023,6:30:00," Textron Reports Q4 Profit, Full-year Profit View Above Estimates  Textron Q4 22 Earnings Conference Call At 8:00 AM ET ",1
+14,TEL,25/01/2023,6:00:00," TE Connectivity Q1 23 Earnings Conference Call At 8:30 AM ET  TE Connectivity Guides Q2 Below Estimates - Quick Facts  TE Connectivity Ltd. Q1 Profit Decreases, but beats estimates",0.5
+15,TDY,25/01/2023,6:55:00," Teledyne Technologies Issues Earnings View For Q1, FY23 - Update  Teledyne Technologies Inc Q4 Profit Increases, beats estimates",1
+16,PGR,25/01/2023,8:21:00, Progressive Corp. Q4 Profit Sharply Declines ,0
+17,NSC,25/01/2023,8:00:00," Norfolk Southern Corp Q4 Profit Rises, but misses estimates Norfolk Southern Q4 22 Earnings Conference Call At 8:45 AM ET ",0.5
+18,NEE,25/01/2023,7:30:00," NextEra Energy Reaffirms Long-term Financial Expectations; Unveils FY26 Guidance  NextEra Energy Q4 22 Earnings Conference Call At 9:00 AM ET  NextEra Energy, Inc. Q4 Profit Increases, beats estimates",1
+19,NDAQ,25/01/2023,7:00:00," Nasdaq Inc. Q4 Profit Decreases, misses estimates Nasdaq Q4 22 Earnings Conference Call At 8:00 AM ET ",0
+0,KMB,25/01/2023,7:30:00," Kimberly-Clark Q4 Profit Rises, Beats Above Estimates; Ups Dividend - Update ",1
+1,HES,25/01/2023,7:30:00," Hess Corporation Q4 Profit Increases, beats estimates",1
+2,APH,25/01/2023,8:00:00, Amphenol Corp. Q4 Profit Beats Estimates,1
+3,ADP,25/01/2023,7:00:00," Automatic Data Processing Inc. Q2 Profit Increases, beats estimates Automatic Data Processing Q2 23 Earnings Conference Call At 8:30 AM ET ",1
+4,MKTX,25/01/2023,6:30:00," MarketAxess Holdings Inc. Announces Increase In Q4 Bottom Line, Beats estimates",1
+5,VLO,26/01/2023,6:30:00," Valero Energy Corp. Q4 Profit Increases, beats estimates",1
+6,NOC,26/01/2023,6:40:00," Northrop Grumman Q4 Results Top Estimates; Initiates FY23 Outlook  Northrop Grumman Corp. Q4 Profit Decreases, but beats estimates",0.5
+7,MA,26/01/2023,8:00:00," Mastercard Incorporated Q4 Profit Increases, beats estimates Mastercard Q4 22 Earnings Conference Call At 9:00 AM ET ",1
+8,LUV,26/01/2023,6:35:00," Southwest Airlines Posts Adj. Loss In Q4, Revenues Up 22.2%; Anticipates Net Loss In Q1  Southwest Airlines Inc. Q4 Earnings Summary Southwest Airlines Q4 22 Earnings Conference Call At 12:30 PM ET ",0
+9,CMCSA,26/01/2023,7:00:00," Comcast Q4 Profit Edges Down, But Results Top Estimates  Comcast Corp. Q4 Profit Beats Estimates Comcast Q4 22 Earnings Conference Call At 8:30 AM ET ",0.5
+10,BX,26/01/2023,7:02:00," Blackstone Q4 Profit Down, Declares Dividend ",0.5
+11,AAL,26/01/2023,7:00:00, American Airlines Group Q4 Profit Tops Estimates; Achieves Record Revenue  American Airlines Group Inc Q4 Earnings Summary American Airlines Group Q4 22 Earnings Conference Call At 8:30 AM ET ,1
+12,XEL,26/01/2023,6:05:00," Xcel Energy Inc Q4 Income Rises, Beats estimates",1
+13,SHW,26/01/2023,7:00:00," Sherwin-Williams Co Q4 Profit Increases, beats estimates",1
+14,NUE,26/01/2023,8:00:00," Nucor Corp. Profit Drops In Q4, but beats estimates Nucor Q4 22 Earnings Conference Call At 2:00 PM ET ",0.5
+15,MMC,26/01/2023,7:00:00," Marsh & McLennan Companies Q4 22 Earnings Conference Call At 8:30 AM ET  Marsh & McLennan Companies Inc Q4 Profit Decreases, but beats estimates",0.5
+16,MKC,26/01/2023,6:30:00," McCormick & Co. Q4 22 Earnings Conference Call At 8:00 AM ET  McCormick Guides FY23 Adj. EPS Below Estimates - Update  McCormick & Co. Q4 Profit Decreases, misses estimates",0
+17,DOW,26/01/2023,6:00:00," Dow To Cut 2,000 Jobs, Sees $1 Bln In Cost Savings In FY23; Backs FY30 View  Dow Inc. Q4 Profit Decreases, misses estimates",0
+18,ADM,26/01/2023,7:00:00," Archer-Daniels-Midland Q4 22 Earnings Conference Call At 9:00 AM ET  Archer-Daniels-Midland Q4 Profit Increases, beats estimates",1
+19,TSCO,26/01/2023,6:00:00," Tractor Supply Guides FY23 EPS In Line With Estimates - Update  Tractor Supply Bottom Line Climbs In Q4, Beats estimates Tractor Supply Q4 22 Earnings Conference Call At 10:00 AM ET ",1
+0,ROK,26/01/2023,7:00:00," Rockwell Automation  Inc. Q1 Profit Increases, beats estimates",1
+1,TROW,26/01/2023,7:00:00," T. Rowe Price Group Q4 Profit Decreases, but beats estimates",0.5
+2,CVX,27/01/2023,6:45:00," Chevron Q4 Profit Up 25%, But Misses Estimates  Chevron Corp. Q4 Profit Increases, but misses estimates Chevron Q4 22 Earnings Conference Call AT 11:00 AM ET ",0.5
+3,ROP,27/01/2023,6:55:00," Roper Technologies Q4 Profit Up, Above Estimates - Update  Roper Technologies Inc. Q4 Income Advances Roper Technologies Q4 22 Earnings Conference Call At 8:00 AM ET ",1
+4,HCA,27/01/2023,7:00:00," HCA Healthcare, Inc. Q4 Profit Increases, but misses estimates",0.5
+5,CL,27/01/2023,6:55:00," Colgate-Palmolive Q4 Base Business Profit Declines; Organic Sales Up 8.5%  Colgate-Palmolive Co. Q4 Profit Decreases, but beats estimates Colgate-Palmolive Q4 22 Earnings Conference Call At 8:30 AM ET ",0.5
+6,CHTR,27/01/2023,7:00:00," Charter Communications Q4 22 Earnings Conference Call At 8:30 AM ET  Charter Communications, Inc. Q4 Profit Falls, misses estimates",0
+7,AXP,27/01/2023,7:00:00," American Express Co. Profit Retreats In Q4, misses estimates American Express Q4 22 Earnings Conference Call At 8:30 AM ET ",0
+8,GEHC,30/01/2023,6:30:00," GE HealthCare Q4 Profit Declines  GE HealthCare Q4 Net Income Declines, Organic Revenues Up 13%; Reaffirms 2023 Guidance ",0.5
+9,BEN,30/01/2023,8:30:00," Franklin Resources Inc. Q1 Profit Decreases, misses estimates Franklin Resources Q1 23 Earnings Conference Call At 11:00 AM ET ",0
+10,XOM,31/01/2023,6:30:00," Exxon Mobil Q4 22 Earnings Conference Call At 8:30 AM ET  Exxon Mobil Q4 Results Top Estimates  Exxon Mobil Corp. Q4 Profit Increases, beats estimates",1
+11,UPS,31/01/2023,6:00:00," United Parcel Service Q4 22 Earnings Conference Call At 8:30 AM ET  UPS Q4 Profit Beats Market; Sees Weak Revenues, Margin In FY23; Plans Dividend, $5 Bln Buyback ",0.5
+12,PFE,31/01/2023,6:45:00," Pfizer Q4 Profit Tops View; Sees Weak FY23 Results, Below Market  Pfizer Q4 22 Earnings Conference Call At 10:00 AM ET  Pfizer Inc. Q4 Profit Increases, beats estimates",0.5
+13,MCD,31/01/2023,7:00:00," McDonalds Corp. Q4 Profit Increases, beats estimates McDonald's Q4 22 Earnings Conference Call At 8:30 AM ET ",1
+14,GM,31/01/2023,6:30:00," General Motors Q4 22 Earnings Conference Call AT 8:30 AM ET  GM To Invest $650 Mln In Lithium Americas To Develop U.S.-Sourced Lithium Production  General Motors Q4 Profit Up, Tops Estimates; Sees FY23 Adj. EPS Above Market; Stock Up In Pre-market  General Motors Company Q4 Profit Increases, beats estimates",1
+15,CAT,31/01/2023,6:30:00," Caterpillar Q4 22 Earnings Conference Call At 8:30 AM ET  Cat Financial Q4 Profit Down - Quick Facts  Caterpillar Inc. Q4 Profit Decreases, misses estimates",0
+16,SYY,31/01/2023,8:00:00," Sysco Corp. Q2 Profit Decreases, misses estimates Sysco Q2 23 Earnings Conference Call AT 10:00 AM ET ",0
+17,PSX,31/01/2023,7:00:00, Phillips 66 Adj. EPS Miss Estimates ,0
+18,PNR,31/01/2023,6:55:00," Pentair Q4 22 Earnings Conference Call At 9:00 AM ET  Pentair plc Q4 Profit Decreases, but beats estimates",0.5
+19,PHM,31/01/2023,6:30:00," PulteGroup Q4 22 Earnings Conference Call At 8:30 AM ET  PulteGroup Q4 Earnings Rise Helped By Revenue Growth, Beats View ",1
+0,NVR,31/01/2023,9:00:00,,0.5
+1,MPC,31/01/2023,6:40:00," Marathon Petroleum Corporation Q4 Profit Increases, beats estimates",1
+2,MCO,31/01/2023,7:00:00," Moody's Q4 22 Earnings Conference Call At 12:30 PM ET  Moody's Projects 2023 Revenue To Grow In Mid-to-high-single Digit Percent Range  Moodys Corp. Q4 Profit Decreases, but beats estimates",0.5
+3,IP,31/01/2023,7:00:00, International Paper Q4 Earnings Surpass Street View ,1
+4,HUBB,31/01/2023,7:30:00,,0.5
+5,GLW,31/01/2023,7:10:00, Corning Q4 Profit Tops Estimates; Issues Q1 Guidance  Corning Q4 22 Earnings Conference Call At 8:30 AM ET ,1
+6,DOV,31/01/2023,6:30:00," Dover Corp. Q4 22 Earnings Conference Call At 9:00 AM ET  Dover Q4 Profit Down, But Beats Estimates - Update ",0.5
+7,AOS,31/01/2023,6:55:00, A.O. Smith Corp Q4 Earnings Summary,0.5
+8,MSCI,31/01/2023,6:45:00," MSCI Q4 Profit Up 11%, Tops Estimates; Boosts Dividend 10.4%  MSCI Inc. Q4 Profit Increases, beats estimates",1
+9,MO,01/02/2023,7:00:00," Altria Q4 Profit Beats Estimates, Expects 2023 Adj. EPS To Grow 3%-6%; Authorizes Share Repurchase ",1
+10,HUM,01/02/2023,6:30:00, Humana Q4 22 Earnings Conference Call At 9:00 AM ET  Humana Q4 Loss Widens On Charges  Humana Inc. Q4 Profit Beats Estimates; Revenues Up 6.6%  Humana Inc Q4 Earnings Summary,0
+11,WRK,01/02/2023,6:30:00," WestRock Q1 23 Earnings Conference Call At 8:30 AM ET  WestRock Company Q1 Profit Decreases, misses estimates",0
+12,TMUS,01/02/2023,7:00:00," T-Mobile Q4 Profit Surges, Beats Market Estimates; Sees Growth In FY23 Core Adj. EBITDA  T-Mobile US Q4 22 Earnings Conference Call At 8:00 AM ET ",1
+13,TMO,01/02/2023,6:00:00," Thermo Fisher Scientific Q4 22 Earnings Conference Call AT 8:30 AM ET  Thermo Fisher Scientific Guides FY23 Above Estimates - Update  Thermo Fisher Scientific Q4 Profit Decreases, but beats estimates",0.5
+14,ODFL,01/02/2023,7:00:00," Old Dominion Freight Line, Inc. Q4 Profit Climbs, Beats estimates",1
+15,JCI,01/02/2023,7:00:00, Johnson Controls Q1 Profit Declines Inline With Estimates - Update  Johnson Controls Q1 23 Earnings Conference Call At 8:30 AM ET ,0
+16,BSX,01/02/2023,6:30:00," Boston Scientific Sees Q1, FY23 Adj. EPS To Be In Line Or Below Market; Stock Down In Pre-market  Boston Scientific Corp Q4 Profit Increases, but misses estimates Boston Scientific Q4 22 Earnings Conference Call At 8:00 AM ET ",0.5
+17,OTIS,01/02/2023,6:11:00, Otis Worldwide Q4 Results Top Estimates; Guides FY23 In Line With View ,1
+18,FTV,01/02/2023,7:30:00," Fortive Corporation Q4 Profit Increases, beats estimates",1
+19,MRK,02/02/2023,6:30:00," Merck Q4 Profit Down, Adj. EPS Tops View; Sees Weak FY23 Adj. EPS, Below Market ",0
+0,BMY,02/02/2023,6:59:00, Bristol-Myers Squibb Guides FY23 Adj. EPS In Line; Q4 Results Top Estimates ,1
+1,LLY,02/02/2023,6:45:00, Lilly Lifts FY23 Earnings View Above Market On Updated Tax Rate - Update  Eli Lilly And Co. Reveals Rise In Q4 Bottom Line Eli Lilly And Co. Q4 22 Earnings Conference Call At 10:00 AM ET ,1
+2,HON,02/02/2023,6:30:00," Honeywell International Inc. Q4 Profit Decreases, but beats estimates Honeywell International Q4 22 Earnings Conference Call At 8:30 AM ET ",0.5
+3,CAH,02/02/2023,6:55:00, Cardinal Health Raises Earnings Outlook For Full Year - Update  Cardinal Health Q2 23 Earnings Conference Call At 8:30 AM ET ,1
+4,TT,02/02/2023,6:30:00,,0
+5,SWK,02/02/2023,6:00:00," Stanley Black & Decker Guides FY23 Above Estimates - Update  Stanley Black & Decker, Inc. Q4 Earnings Summary",1
+6,PH,02/02/2023,7:30:00," Parker Hannifin Corp. Q2 Profit Increases, beats estimates",1
+7,ITW,02/02/2023,8:00:00, Illinois Tool Works Q4 Profit Surges; Beats Estimates; Projects 3-5% Growth For FY23 ,1
+8,ICE,02/02/2023,7:30:00," IntercontinentalExchange Group Inc. Q4 Profit Decreases, misses estimates",0
+9,HSY,02/02/2023,6:45:00, Hershey Q4 Profit Beats Estimates; Projects 2023 Adj. EPS Growth Of 9%-11% ,1
+10,GWW,02/02/2023,8:00:00," Grainger Targets Daily Sales Growth Of 7%-11% For 2023  Grainger (W.W.) Inc. Q4 Profit Increases, beats estimates",1
+11,EL,02/02/2023,6:45:00," Estee Lauder Slashes FY23 Earnings Outlook - Update  The Est?e Lauder Companies Inc. Q2 Profit Decreases, but beats estimates The Est?e Lauder Companies Q2 23 Earnings Conference Call At 9:30 AM ET ",0.5
+12,COP,02/02/2023,7:00:00," ConocoPhillips Q4 Profit Missed Estimates, Announces Planned Return Of Capital Of $11 Bln ",0
+13,CMS,02/02/2023,7:00:00," CMS Energy Q4 Profit Drops, But Beats Estimates; Raises Annual Earnings Outlook - Update ",0.5
+14,BR,02/02/2023,7:00:00," Broadridge Financial Solutions Inc. Q2 Profit Increases, beats estimates",1
+15,BDX,02/02/2023,6:30:00," Becton, Dickinson Boosts FY23 Outlook - Update  Becton, Dickinson and Company Q1 Profit Decreases, but beats estimates Becton, Dickinson And Co. Q1 23 Earnings Conference Call At 8:00 AM ET ",1
+16,AVY,02/02/2023,6:45:00," Avery Dennison Corp. Q4 Profit Decreases, misses estimates",0
+17,APD,02/02/2023,6:00:00," Air Products Sees Higher Earnings In Q2; Backs FY23 Forecast - Update  Air Products And Chemicals Inc. Q1 Profit Increases, but misses estimates",1
+18,AME,02/02/2023,6:55:00,,0
+19,WEC,02/02/2023,7:00:00," WEC Energy Group Reports Increase In Q4 Income, Beats estimates",1
+0,SNA,02/02/2023,6:30:00," Snap-on Q4 Results Rise, Top Estimates  Snap-On Inc. Reveals Increase In Q4 Bottom Line, Beats estimates",1
+1,DGX,02/02/2023,6:45:00, Quest Diagnostics Guides FY23 Adj. EPS In Line With Estimates - Update ,1
+2,TECH,02/02/2023,6:30:00," Bio-Techne Corp. Q2 Profit Decreases, misses estimates",0
+3,BALL,02/02/2023,6:00:00," Ball Corporation Q4 Profit Decreases, misses estimates Ball Corp. Q4 22 Earnings Conference Call At 11:00 AM ET ",0
+4,APTV,02/02/2023,6:45:00," Aptiv Q4 Profit Up, Above Estimates - Update ",1
+5,CI,03/02/2023,6:00:00," Cigna Q4 Results Top View; Sees Higher FY23 Earnings, But Below Market  Cigna Q4 22 Earnings Conference Call At 8:30 AM ET  Cigna Corp. Q4 Profit Increases, beats estimates",1
+6,REGN,03/02/2023,6:30:00, Regeneron Pharma Q4 Profit Declines; Adj. Total Revenues Up 14%  Regeneron Pharmaceuticals Q4 Profit Declines,0
+7,LYB,03/02/2023,6:30:00," LyondellBasell Industries N.V. Q4 Profit Decreases, but beats estimates",1
+8,CHD,03/02/2023,6:55:00," Church & Dwight Sees Weak EPS In Q1 Below Market, Flat To High Adj. EPS In FY23; Lifts Dividend  Church & Dwight Co Inc. Q4 Earnings Summary",0.5
+9,AON,03/02/2023,6:00:00," Aon Plc Q4 22 Earnings Conference Call At 8:30 AM ET  Aon plc Q4 Profit Decreases, but beats estimates",1
+10,ZBH,03/02/2023,6:30:00, Zimmer Biomet Holdings Q4 22 Earnings Conference Call At 8:30 AM ET  Zimmer Biomet Sees FY23 Profit In Line With View  Zimmer Biomet Holdings Inc. Q4 Earnings Summary,1
+11,CBOE,03/02/2023,7:30:00," CBOE Global Markets, Inc. Q4 Profit Decreases, but beats estimates",1
+12,CMI,06/02/2023,7:30:00," Cummins Sees Higher Revenues, EBITDA Margin In FY23 - Update  Cummins  Inc. Q4 Profit Increases, but misses estimates Cummins Q4 22 Earnings Conference Call At 10:00 AM ET ",0.5
+13,TSN,06/02/2023,6:55:00," Tyson Foods Q1 Profit Misses Estimates, Sales Up 2.5%; Pork Remains Challenged By Industry Headwinds  Tyson Foods Inc. Q1 Profit Decreases, misses estimates Tyson Foods Q1 23 Earnings Conference Call At 9:00 AM ET ",0
+14,ON,06/02/2023,8:00:00," ON Semiconductor Guides Q1 Well Below Estimates; Approves $3 Bln Share Buyback - Update  ON Semiconductor Corp. Q4 Profit Increases, beats estimates",0.5
+15,IDXX,06/02/2023,6:30:00," IDEXX Laboratories Q4 22 Earnings Conference Call At 8:30 AM ET  IDEXX Laboratories Sees Higher Earnings, Revenues In FY23 - Update  IDEXX Laboratories Inc Q4 Income Climbs, Beats estimates",1
+16,L,06/02/2023,6:00:00, Loews Corp. Profit Climbs In Q4,1
+17,DD,07/02/2023,6:00:00, DuPont Q4 Results Miss Estimates; Boosts Dividend 9%  EI DuPont De Nemours & Co. Q4 Income Falls EI DuPont De Nemours & Co. Q4 22 Earnings Conference Call At 8:00 AM ET ,0
+18,CNC,07/02/2023,6:00:00, Centene Q4 22 Earnings Conference Call At 8:30 AM ET  Centene Raises 2023 Premium And Service Revenues Guidance; Reiterates Adj. EPS Outlook  Centene Corporation Q4 Earnings Summary,1
+19,XYL,07/02/2023,6:55:00," Xylem Inc. Q4 Profit Increases, beats estimates",1
+0,TDG,07/02/2023,7:15:00," TransDigm Group Boosts FY23 Outlook - Update  TransDigm Group Incorporated Q1 Profit Increases, beats estimates",1
+1,RCL,07/02/2023,8:00:00," Royal Caribbean Cruises Ltd. Q4 Loss Decreases, beats estimates",1
+2,J,07/02/2023,6:40:00," Jacobs Solutions Inc. Q1 Profit Increases, beats estimates",1
+3,CTLT,07/02/2023,7:00:00,,0
+4,IT,07/02/2023,6:00:00," Gartner Sees FY23 Adj. Earnings Below Market - Update  Gartner, Inc. Q4 Profit Increases, beats estimates Gartner Q4 22 Earnings Conference Call At 8:00 AM ET ",0
+5,LIN,07/02/2023,6:05:00," Linde plc Q4 Profit Increases, beats estimates Linde Plc Q4 Adj. Profit Rises; Underlying Sales Up 7% ",1
+6,INCY,07/02/2023,7:00:00," Incyte Corporation Q4 Profit Decreases, but beats estimates",0
+7,CARR,07/02/2023,6:30:00," Carrier Global Q4 Profit Drops, Inline With Estimates - Update ",0
+8,CVS,08/02/2023,6:30:00," CVS Health Reaffirms 2023 Adj. EPS Guidance; Q4 Adj. Operating Profit Declines  CVS Health To Buy Oak Street Health For Around $10.6 Bln Cash  CVS Health Corp. Q4 Profit Increases, beats estimates CVS Health Q4 22 Earnings Conference Call At 8:00 AM ET ",1
+9,YUM,08/02/2023,7:00:00," Yum! Brands Inc. Q4 Profit Increases, beats estimates Yum! Brands Q4 22 Earnings Conference Call At 8:15 AM ET ",1
+10,UBER,08/02/2023,6:55:00," Uber Q4 Profit Down; Adj. EBITDA, Revenues Climb; Sees Growth In FY23  Uber Technologies Q4 Profit Down, Revenues Climb ",0
+11,FOXA,08/02/2023,8:00:00," Fox Q2 Profit Matches Estimates, Revenues Up 4%; Board Authorizes Incremental Stock Repurchases  Fox Corp. Q2 23 Earnings Conference Call At 8:30 AM ET ",1
+12,FOX,08/02/2023,8:00:00," Fox Q2 Profit Matches Estimates, Revenues Up 4%; Board Authorizes Incremental Stock Repurchases  Fox Corp. Q2 23 Earnings Conference Call At 8:30 AM ET ",1
+13,ETN,08/02/2023,6:30:00," Eaton Guides Q1, FY23 Adj. EPS Well Below Estimates - Update  Eaton Corp. Q4 Profit Increases, beats estimates",0
+14,EMR,08/02/2023,6:55:00, Emerson Electric Boosts FY23 Sales Growth Outlook; Declares Dividend - Update  Emerson Electric Co. Q1 23 Earnings Conference Call AT 8:30 AM ET  Emerson Electric Co. Profit Climbs In Q1,1
+15,D,08/02/2023,7:30:00," Dominion Energy, Inc. Q4 Earnings Summary Dominion Energy Q4 22 Earnings Conference Call At 10:00 AM ET ",0
+16,CME,08/02/2023,7:00:00," CME Group, Inc. Q4 Profit Increases, beats estimates CME Group Q4 22 Earnings Conference Call At 8:30 AM ET ",1
+17,CDW,08/02/2023,7:00:00," CDW Authorized $750 Mln Increase In Share Repurchase  CDW Corporation Q4 Profit Increases, beats estimates",1
+18,BG,08/02/2023,6:00:00, Bunge Q4 Adj. EPS Tops Estimates; Guides FY23 Below Estimates ,0
+19,TRMB,08/02/2023,6:55:00," Trimble Q4 Net Down As Revenues Drop, Misses View; 2023 Guidance Below View ",0
+0,PEP,09/02/2023,6:00:00," PepsiCo Q4 Core EPS Beats Market, Lifts Dividend; Sees Growth In FY23  PepsiCo Q4 Profit Down, Core EPS, Top Line Beat Market; Lifts Dividend; Sees Growth In FY23  Pepsico Inc Q4 Profit Decreases, but beats estimates Pepsico Q4 22 Earnings Conference Call At 8:15 AM ET ",1
+1,PM,09/02/2023,7:00:00," Philip Morris Sees 2023 Currency-neutral Adj. EPS Growth Of 7-9%, Organic Top-line Growth Of 7-8.5%  Philip Morris International Q4 22 Earnings Conference Call At 9:00 AM ET ",1
+2,ABBV,09/02/2023,7:44:00," AbbVie Q4 22 Earnings Conference Call At 9:00 AM ET  AbbVie Q4 Profit Decreases, but beats estimates",0
+3,TPR,09/02/2023,6:45:00," Tapestry Raises 2023 Earnings Outlook; On Track To Return $1 Bln To Shareholders  Tapestry, Inc. Q2 Earnings Summary",1
+4,SPGI,09/02/2023,7:11:00, S&P Global Inc. Profit Falls In Q4 S&P Global Q4 22 Earnings Conference Call At 8:30 AM ET ,0
+5,RL,09/02/2023,8:01:00, Ralph Lauren Reaffirms FY23 Revenue Growth Outlook - Update  Ralph Lauren Corp. Q3 Profit Beats Estimates,1
+6,K,09/02/2023,8:00:00," Kellogg Q4 Profit Beats Estimates, Organic Growth In Net Sales At 16.2%; Issues FY23 Guidance  Kellogg Company Q4 Earnings Summary Kellogg Q4 22 Earnings Conference Call At 9:30 AM ET ",1
+7,HLT,09/02/2023,6:00:00," Hilton Sees Q1 Earnings In Line Or Below Market, Higher Earnings In FY23 - Update  Amended: Hilton Worldwide Holdings Q4 Profit Beats Estimates ",0.5
+8,HII,09/02/2023,7:15:00," Huntington Ingalls Industries, Inc. Q4 Profit Climbs, but misses estimates",0
+9,DUK,09/02/2023,6:10:00, Duke Energy Corp Q4 Earnings Summary Duke Energy Q4 Results Top Estimates; Reaffirms FY23 Outlook ,1
+10,BWA,09/02/2023,6:30:00," BorgWarner Expects Electric Vehicle Sales To Grow Significantly In 2023  Borg Warner Inc. Q4 Profit Increases, beats estimates Borg Warner Q4 22 Earnings Conference Call At 9:30 AM ET ",1
+11,BAX,09/02/2023,7:15:00," Baxter International Guides Q1, FY23 Adj. EPS Well Below Estimates; To Cut 5% Jobs - Update  Baxter International Inc. Q4 Profit Decreases, misses estimates Baxter International Q4 22 Earnings Conference Call At 8:30 AM ET ",0
+12,WTW,09/02/2023,6:00:00," Willis Towers Watson Public Limited Company Q4 Profit Decreases, but beats estimates Willis Towers Watson Q4 Profit Beats Estimates ",0.5
+13,MAS,09/02/2023,7:00:00," Masco Sees Weak FY23 Earnings, Below Market; Lifts Dividend - Update  Masco Corp. Q4 Profit Decreases, misses estimates Masco Q4 22 Earnings Conference Call At 8:00 AM ET ",0
+14,KIM,09/02/2023,6:50:00," Kimco Realty Sees Higher Net Income, Weak FFO In FY23 - Update  Kimco Realty Corp. Q4 Earnings Summary Kimco Realty Q4 22 Earnings Conference Call At 8:30 AM ET ",0
+15,IPG,09/02/2023,7:00:00, Interpublic Q4 Adj. EPS Tops Estimates; Boosts Dividend 7% ,1
+16,IQV,10/02/2023,7:00:00," IQVIA Issues 2023 Guidance  IQVIA Holdings Inc. Q4 Profit Decreases, but beats estimates IQVIA Holdings Q4 22 Earnings Conference Call AT 9:00 AM ET ",0
+17,GPN,10/02/2023,6:55:00," Global Payments Q4 Results Top Estimates; Sees FY23 Revenues Above Estimates  Global Payments Inc. Q4 Profit Increases, beats estimates Global Payments Q4 22 Earnings Conference Call At 8:00 AM ET ",1
+18,FIS,13/02/2023,7:00:00," FIS To Separate Merchant Solutions Business  FIS Q4 Profit Tops Estimates, Revenue Up 4% On Organic Basis; To Spin Off Merchant Business  Fidelity National Information Services Q4 Earnings Summary",1
+19,KO,14/02/2023,6:55:00," Coca-Cola Q4 Profit Down 16%, But Meets Estimates  The Coca-Cola Company Q4 Profit Drops, Inline With Estimates The Coca-Cola Q4 22 Earnings Conference Call At 8:30 AM ET ",0
+0,ZTS,14/02/2023,7:00:00," Zoetis Q4 Profit Up, Beats Estimates; Sees Annual Earnings Better Than Estimates - Update  Zoetis Q4 22 Earnings Conference Call At 8:30 AM ET ",1
+1,MAR,14/02/2023,7:00:00," Marriott Sees Q1 Adj. EPS Above Market, Higher FY23 Results - Update  Marriott International Inc. Q4 Profit Increases, beats estimates Marriott International Q4 22 Earnings Conference Call At 8:30 AM ET ",1
+2,HWM,14/02/2023,7:00:00,,0.5
+3,EXC,14/02/2023,7:00:00, Exelon Q4 Adj. Profit Rises; Issues 2023 Earnings Guidance ,1
+4,RVTY,14/02/2023,6:00:00," PerkinElmer Q4 Profit Down, But Beats Estimates; Guides 2023 Below View - Update  PerkinElmer Q4 22 Earnings Conference Call At 8:00 AM ET ",0.5
+5,ECL,14/02/2023,8:00:00," Ecolab Guides Q1 Adj. EPS In Line With Estimates - Update  Ecolab Inc. Q4 Profit Decreases, but beats estimates Ecolab Q4 22 Earnings Conference Call At 1:00 PM ET ",1
+6,LDOS,14/02/2023,6:00:00," Leidos Holdings Guides FY23 Adj. EPS Below Estimates - Update  Leidos Holdings, Inc. Q4 Profit Increases, beats estimates Leidos Holdings Q4 22 Earnings Conference Call At 8:00 AM ET ",0.5
+7,BIIB,15/02/2023,7:00:00," Biogen Q4 Results Top Estimates  Biogen Inc. Q4 Profit Increases, beats estimates Biogen Q4 22 Earnings Conference Call At 8:00 AM ET ",1
+8,WAB,15/02/2023,6:30:00," Wabtec Q4 22 Earnings Conference Call At 8:30 AM ET  Wabtec Guides FY23 Adj. EPS In Line; Boosts Dividend 13% - Update  Wabtec Corporation Q4 Profit Decreases, but beats estimates",1
+9,KHC,15/02/2023,7:01:00, Kraft Heinz Q4 Profit Beats Estimates; Organic Net Sales Up 10.4%  The Kraft Heinz Company Q4 Earnings Summary The Kraft Heinz Q4 22 Earnings Conference Call At 9:00 AM ET ,1
+10,ADI,15/02/2023,7:00:00," Analog Devices Guides Q2 Above Estimates; Boosts Dividend 13% - Update  Analog Devices Q1 Profit Increases, beats estimates Analog Devices Q1 23 Earnings Conference Call At 10:00 AM ET ",1
+11,GNRC,15/02/2023,6:00:00,,0.5
+12,MLM,15/02/2023,6:55:00," Martin Marietta Materials Q4 Adj. Profit Declines; Issues FY23 Outlook  Martin Marietta Materials, Inc. Q4 Profit Increases, but misses estimates",0.5
+13,WAT,15/02/2023,6:50:00," Waters Corp. To Buy Wyatt For $1.36 Bln In Cash  Waters Sees Q1 Adj. Earnings Below Market, Higher FY23 Results - Update  Waters Corp. Q4 Profit Increases, beats estimates Waters Corp. Q4 22 Earnings Conference Call At 8:00 AM ET ",1
+14,PARA,16/02/2023,7:00:00,,0.5
+15,SO,16/02/2023,7:30:00, Southern Company Issues Earnings Guidance  Southern Co. Q4 Earnings Summary Southern Co. Q4 22 Earnings Conference Call At 1:00 PM ET ,1
+16,HSIC,16/02/2023,6:30:00," Henry Schein Guides FY23 EPS Above View; Q4 Adj. EPS Meets Estimates  Henry Schein Inc. Q4 Profit Decreases, but beats estimates",1
+17,ZBRA,16/02/2023,6:30:00, Zebra Technologies Q1 Earnings Outlook Below View  Zebra Technologies Corporation Q4 Profit Beats Estimates,0.5
+18,WST,16/02/2023,6:00:00," West Pharmaceutical Q4 Profit Down, But Beats Estimates - Update ",0.5
+19,VMC,16/02/2023,7:31:00," Vulcan Materials Co. Q4 Profit Decreases, misses estimates Vulcan Materials Q4 22 Earnings Conference Call At 11:00 AM ET ",0
+0,POOL,16/02/2023,7:00:00,,0.5
+1,NRG,16/02/2023,6:35:00,,0.5
+2,LH,16/02/2023,6:45:00," Labcorp Q4 22 Earnings Conference Call At 9:00 AM ET  Labcorp Guides FY23 Adj. EPS In Line With Estimates - Update  Laboratory Corporation Of America Holdings Q4 Profit Decreases, but beats estimates",0.5
+3,HAS,16/02/2023,6:30:00, Hasbro Q4 Adj. EPS Tops View; Guides FY23 Below Estimates ,0.5
+4,ETR,16/02/2023,6:30:00," Entergy Issues Earnings Guidance  Entergy Corp Q4 Profit Drops, Inline With Estimates",0.5
+5,EPAM,16/02/2023,6:00:00,,0.5
+6,CEG,16/02/2023,6:43:00,,0.5
+7,DE,17/02/2023,6:15:00, Deere & Co. Boosts FY23 Net Income Outlook As Q1 Results Top Estimates  Deere And Co Q1 23 Earnings Conference Call At 10:00 AM ET ,1
+8,PPL,17/02/2023,8:00:00," PPL Reaffirms 2023 Earnings Guidance Range  PPL Corporation Q4 Profit Increases, Inline With Estimates PPL Corp. Q4 22 Earnings Conference Call At 11:00 AM ET ",0.5
+9,CNP,17/02/2023,6:25:00," CenterPoint Energy Reiterates 2023 Guidance  CenterPoint Energy Inc Q4 Profit Decreases, misses estimates CenterPoint Energy Q4 22 Earnings Conference Call At 8:00 AM ET ",0.5
+10,WMT,21/02/2023,7:00:00," Walmart Q4 Results Top Estimates  Walmart Inc. Q4 Profit Increases, beats estimates Walmart Q4 23 Earnings Conference Call At 8:00 AM ET ",1
+11,HD,21/02/2023,6:00:00," The Home Depot Q4 22 Earnings Conference Call At 9:00 AM ET  Home Depot Q4 EPS Tops View; Sees Weak Earnings, Flat Sales In FY23; Stock Down In Pre-market  The Home Depot, Inc. Q4 Income Climbs, Beats estimates",0.5
+12,MDT,21/02/2023,6:45:00," Medtronic Boosts FY23 Adj. EPS Outlook - Update  Medtronic Q3 23 Earnings Conference Call At 8:00 AM ET  Medtronic plc Q3 Profit Decreases, but beats estimates",1
+13,TAP,21/02/2023,7:00:00, Molson Coors Beverage Sees Constant Currency Sales Growth In FY23 - Update  Molson Coors Brewing Company Q4 Earnings Summary,0.5
+14,IR,21/02/2023,6:00:00," Ingersoll Rand Q4 22 Earnings Conference Call At 8:00 AM ET  Ingersoll Rand Issues 2023 Guidance  Ingersoll Rand Inc Q4 Profit Decreases, but beats estimates",0.5
+15,EXPD,21/02/2023,8:30:00," Expeditors International of Washington Inc. Q4 Profit Declines, misses estimates",0
+16,PEG,21/02/2023,7:30:00," Public Service Enterprise Narrows FY23 Operating Earnings View - Update  Public Service Enterprise Group Inc Q4 Profit Increases, beats estimates",0.5
+17,TJX,22/02/2023,7:30:00," TJX Q4 Income Rises; Guides Q1, Annual Profit Below View; Sets Higher Dividend - Update ",0.5
+18,NI,22/02/2023,6:30:00," NiSource Lifts FY23 Adj. Earnings View, Inline Or Above Market - Update  NiSource Inc. Q4 Profit Increases, beats estimates NiSource Q4 22 Earnings Conference Call At 11:00 AM ET ",1
+19,CRL,22/02/2023,7:00:00," Charles River Q4 Results Top Estimates, Sees FY23 Earnings Below Market; Stock Down In Premarket ",0.5
+0,TRGP,22/02/2023,6:00:00,,0
+1,ALLE,22/02/2023,5:30:00," Allegion Q4 22 Earnings Conference Call At 8:00 AM ET  Allegion Q4 Results Top Estimates; Sees FY23 Earnings Above Market  Allegion Q4 Profit Increases, beats estimates",1
+2,GRMN,22/02/2023,7:00:00," Garmin Issues FY23 Guidance  Garmin Ltd Q4 Profit Increases, beats estimates",1
+3,DOC,22/02/2023,7:50:00,,0
+4,PCG,23/02/2023,6:15:00," PG&E Corp. Reaffirms FY22 Adj. EPS Outlook - Update  PG&E Corp. Q4 Profit Increases, but misses estimates",0
+5,NEM,23/02/2023,7:00:00, Newmont Corporation Q4 Earnings Summary,0
+6,LKQ,23/02/2023,6:00:00, LKQ Q4 Results Miss Estimates; Sees FY23 Profit In Line With View ,0
+7,GPC,23/02/2023,6:55:00," Genuine Parts Company Issues FY23 Guidance  Genuine Parts Co Q4 Profit Decreases, but beats estimates",0
+8,DTE,23/02/2023,7:00:00, DTE Energy FY22 Net Income Rises ,1
+9,CBRE,23/02/2023,6:52:00," CBRE Group Q4 22 Earnings Conference Call At 8:30 AM ET  CBRE Group, Inc. Q4 Profit Decreases, but beats estimates",0
+10,AMT,23/02/2023,7:00:00, American Tower Corp. Q4 Earnings Summary American Tower Q4 22 Earnings Conference Call At 8:30 AM ET ,1
+11,TFX,23/02/2023,6:30:00, Teleflex Q4 Profit Beats Estimates; Issues 2023 Guidance ,1
+12,IRM,23/02/2023,6:45:00," Iron Mountain Guides FY23 Revenue In Line With Estimates - Update  Iron Mountain Inc Q4 Profit Increases, but misses estimates",0
+13,DPZ,23/02/2023,7:30:00," Dominos Pizza Inc. Q4 Profit Climbs, Beats estimates",1
+14,PWR,23/02/2023,6:55:00," Quanta Services Inc. Q4 Profit Increases, beats estimates",1
+15,MRNA,23/02/2023,7:00:00," Moderna Q4 Profit Down, Misses Estimates On Weak COVID-19 Vaccine Sales ",0
+16,KDP,23/02/2023,6:30:00," Keurig Dr Pepper Inc. Q4 Profit Drops, Inline With Estimates",0
+17,BBWI,23/02/2023,6:00:00," Bath & Body Works Q4 Profit Down, Yet Tops Estimates; Warns On Q1, FY23; Stock Down In Pre-market ",0
+18,AEP,23/02/2023,6:57:00," American Electric Power Q4 Profit Beats Estimates; Reaffirms Operating Earnings Guidance  American Electric Power Co Inc Q4 Profit Decreases, but beats estimates American Electric Power Co Q4 22 Earnings Conference Call At 9:00 AM ET ",0
+19,EVRG,24/02/2023,7:00:00," Evergy Q4 22 Earnings Conference Call At 9:00 AM ET  Evergy Guides FY23 In Line With Estimates - Update  Evergy, Inc. Q4 Profit Decreases, but beats estimates",0
+0,AES,27/02/2023,6:00:00," AES Q4 Loss Widens; Revenues Top Estimates  The AES Q4 22 Earnings Conference Call At 10:00 AM ET  AES Corp. Q4 Loss Increases, Misses View - Update ",0
+1,PNW,27/02/2023,8:40:00, Pinnacle West Capital Corp. Q4 Earnings Summary,0.5
+2,VTRS,27/02/2023,6:00:00," Viatris Names Scott Smith CEO, Succeeding Michael Goettler, With Effect From April 1  Viatris Q4 22 Earnings Conference Call At 8:30 AM ET  Viatris Sees Weak Revenues, Adj. EBITDA In FY23 - Update  Viatris Inc. Q4 Earnings Summary",0
+3,TGT,28/02/2023,6:30:00," Target Q4 Results Top Estimates; Sees Q1, FY23 Earnings Below Market  Target Corp. Q4 Profit Down But Above Estimates - Update ",0
+4,SRE,28/02/2023,6:55:00," Sempra Backs FY23 Earnings View, Long Term Growth Forecast - Update  Sempra Energy Q4 Profit Decreases, but beats estimates",0
+5,SJM,28/02/2023,7:00:00, J. M. Smucker Q3 Profit Rises Above Estimates; Revises Earlier Outlook - Update  The J. M. Smucker Q3 23 Earnings Conference Call At 9:00 AM ET ,1
+6,AZO,28/02/2023,6:55:00, AutoZone Q2 Results Top Estimates ,1
+7,XRAY,28/02/2023,6:00:00," Dentsply Sirona Slips To Q4 Loss; Sees Organic Sales Growth In Q1, Weak Adj. EPS In FY23 ",0
+8,NCLH,28/02/2023,7:00:00, Norwegian Cruise Line Q4 Adj. Loss Wider Than Estimates ,0
+9,BLDR,28/02/2023,7:00:00,,0.5
+10,DLTR,01/03/2023,7:30:00," Dollar Tree Guides Q1, FY23 Earnings Well Below Estimates - Update  Dollar Tree Inc. Q4 Profit  beats estimates Dollar Tree Q4 22 Earnings Conference Call AT 9:00 AM ET ",0
+11,LOW,01/03/2023,6:00:00," Lowe''s Cos. Q4 22 Earnings Conference Call At 9:00 AM ET  Lowe's Guides FY23 Earnings In Line With Estimates - Update  Lowe's Cos. Q4 Profit Decreases, but beats estimates",0
+12,KR,02/03/2023,8:30:00," Kroger Co. Issues 2023 Guidance  Kroger Co. Q4 Profit Decreases, but beats estimates Kroger Q4 22 Earnings Conference Call At 10:00 AM ET ",0
+13,HRL,02/03/2023,6:30:00," Hormel Foods Q1 23 Earnings Conference Call At 9:30 AM ET  Hormel Foods Issues FY23 Guidance  Hormel Foods Corp Q1 Profit Declines, misses estimates",0
+14,BBY,02/03/2023,7:00:00," Best Buy Guides FY23 Below Estimates; Boosts Dividend 5% - Update  Best Buy Co Inc. Q4 Profit Decreases, but beats estimates Best Buy Co Q4 23 Earnings Conference Call At 8:00 AM ET ",0
+15,CPB,08/03/2023,7:15:00," Campbell Soup Boosts FY23 Outlook As Q2 Results Top Estimates  Campbell Soup Co. Q2 Profit Increases, beats estimates Campbell Soup Q2 23 Earnings Conference Call At 8:00 AM ET ",1
+16,JBL,16/03/2023,7:45:00, Jabil Guides Q3 In Line With Estimates; Q2 Results Top Estimates  Jabil Q2 23 Earnings Conference Call At 8:30 AM ET ,1
+17,DG,16/03/2023,6:55:00, Dollar General Q4 EPS Meets Estimates; Declares Dividend  Dollar General Q4 22 Earnings Conference Call At 10:00 AM ET ,0.5
+18,GIS,23/03/2023,7:00:00," General Mills Q3 Profit Tops Estimates, Organic Net Sales Up 16%; Raises FY23 Outlook  General Mills Q3 Profit Decreases, but beats estimates General Mills Q3 23 Earnings Conference Call At 9:00 AM ET ",1
+19,FDS,23/03/2023,7:00:00, FactSet Maintains FY23 Adj. EPS Outlook; Q2 Adj. EPS Tops View ,0.5
+0,DRI,23/03/2023,7:00:00," Darden Restaurants Inc. Reveals Climb In Q3 Bottom Line, Beats estimates Darden Restaurants Q3 23 Earnings Conference Call At 8:30 AM ET ",1
+1,ACN,23/03/2023,6:45:00," Accenture Sees Higher Q3 Revenues; Cuts FY23 Earnings, Sales Growth View - Update  Accenture plc Q2 Profit Decreases, but beats estimates Accenture Q2 23 Earnings Conference Call At 8:00 AM ET ",1
+2,CCL,27/03/2023,9:15:00,,0
+3,WBA,28/03/2023,7:00:00," Walgreens Boots Alliance, Inc. Q2 Profit Decreases, but beats estimates Walgreens Boots Alliance Q2 23 Earnings Conference Call At 8:30 AM ET ",1
+4,MKC,28/03/2023,6:30:00," McCormick & Co. Q1 Profit Decreases, but beats estimates McCormick & Co. Q1 23 Earnings Conference Call At 8:00 AM ET ",1
+5,CTAS,29/03/2023,8:30:00," Cintas Corporation Q3 Profit Increases, beats estimates Cintas Q3 23 Earnings Conference Call At 10:00 AM ET ",1
+6,PAYX,29/03/2023,8:30:00," Paychex Inc. Q3 Profit Increases, beats estimates Paychex Q3 23 Earnings Conference Call At 9:30 AM ET ",1
+7,CAG,05/04/2023,7:30:00," Conagra Brands Q3 23 Earnings Conference Call At 9:30 AM ET  Conagra Brands Boosts FY23 Adj. EPS Outlook - Update  Conagra Brands Inc. Q3 Profit Increases, beats estimates",1
+8,STZ,06/04/2023,7:30:00," Constellation Brands Q4 Profit Beats Estimates; Organic Net Sales Down 4%  Constellation Brands Inc Q4 Profit Decreases, but beats estimates Constellation Brands Q4 23 Earnings Conference Call At 10:30 AM ET ",1
+9,LW,06/04/2023,8:30:00, Lamb Weston Raises FY23 Financial Targets ,1
+10,KMX,11/04/2023,6:50:00," CarMax Inc. Q4 Profit Declines, but beats estimates CarMax Q4 23 Earnings Conference Call At 9:00 AM ET ",1
+11,DAL,13/04/2023,6:30:00," Delta Q1 Loss Narrows; Sees Q2 Earnings Above Market, Backs FY23 View  Delta Air Lines Inc Q1 Earnings Summary Delta Air Lines Q1 23 Earnings Conference Call At 10:00 AM ET ",1
+12,PGR,13/04/2023,8:21:00,,0
+13,FAST,13/04/2023,6:50:00," Fastenal Co. Profit Climbs In Q1, Beats estimates Fastenal Q1 23 Earnings Conference Call At 9:00 AM ET ",1
+14,WFC,14/04/2023,6:45:00," Wells Fargo Q1 Profit Climbs, Tops Estimates On Strong Revenues  Wells Fargo & Co Q1 23 Earnings Conference Call At 10:00 AM ET ",1
+15,C,14/04/2023,8:00:00," Citigroup Inc. Reveals Climb In Q1 Income, Beats estimates Citigroup Q1 23 Earnings Conference Call At 11:00 AM ET ",1
+16,UNH,14/04/2023,5:55:00," Unitedhealth Q1 Profit Increases, Beats Estimates; Lifts FY23 Earnings View - Update  Unitedhealth Group Q1 23 Earnings Conference Call At 8:45 AM ET ",1
+17,PNC,14/04/2023,6:40:00," PNC Financial Services Group Inc. Profit Rises In Q1, Beats estimates PNC Financial Services Group Q1 23 Earnings Conference Call At 11:00 AM ET ",1
+18,BLK,14/04/2023,6:04:00," Blackrock Inc. Q1 Profit Decreases, but beats estimates Blackrock Q1 23 Earnings Conference Call At 7:30 AM ET ",1
+19,JPM,14/04/2023,6:45:00," JPMorgan Chase Q1 Results Top Estimates; Stock Up In Pre-market  JPMorgan Chase & Co. Reports Advance In Q1 Profit, Beats estimates JPMorgan Chase Q1 23 Earnings Conference Call At 8:30 AM ET ",1
+0,STT,17/04/2023,7:30:00, State Street Corp. Q1 Profit Declines  State Street Q1 23 Earnings Conference Call At 9:00 AM ET ,0
+1,SCHW,17/04/2023,8:00:00," Charles Schwab Q1 Profit Tops Estimates; Revenue Growth At 10%  Charles Schwab Q1 Profit Increases, beats estimates",1
+2,MTB,17/04/2023,6:05:00, M&T Bank Corp. Q1 Net Income Nearly Doubles  M&T Bank Corp. Bottom Line Rises In Q1 M&T Bank Q1 23 Earnings Conference Call At 11:00 AM ET ,1
+3,JNJ,18/04/2023,6:20:00, Johnson & Johnson Q1 Profit Tops Estimates; Raises 2023 Guidance Midpoints  Johnson & Johnson Q1 Earnings Summary Johnson & Johnson Q1 23 Earnings Conference Call At 8:30 AM ET ,1
+4,GS,18/04/2023,7:30:00," Goldman Sachs Q1 Profit Down, Yet Beats; Topline Misses View  Goldman Sachs Group Inc. Announces Drop In Q1 Bottom Line, but beats estimates Goldman Sachs Group Q1 23 Earnings Conference Call At 9:30 AM ET ",0.5
+5,BAC,18/04/2023,6:45:00," Bank of America Corporation Bottom Line Advances In Q1, Beats estimates Bank Of America Q1 23 Earnings Conference Call At 8:30 AM ET ",1
+6,LMT,18/04/2023,7:30:00, Lockheed Martin Corp. Q1 Profit Beats Estimates Lockheed Martin Q1 23 Earnings Conference Call At 11:00 AM ET ,1
+7,BK,18/04/2023,6:32:00," Bank Of New York Mellon Q1 Profit Rises, Above Estimates  The Bank Of New York Mellon Q1 23 Earnings Conference Call At 10:30 AM ET ",1
+8,PLD,18/04/2023,8:00:00," ProLogis Q1 Profit Down, Misses Estimates; Ups Outlook - Update  ProLogis Q1 23 Earnings Conference Call At 12:00 PM ET ",0
+9,MS,19/04/2023,7:30:00," Morgan Stanley Announces Retreat In Q1 Bottom Line, but beats estimates Morgan Stanley Q1 23 Earnings Conference Call At 8:30 AM ET ",0.5
+10,USB,19/04/2023,6:45:00," U.S. Bancorp Q1 Profit Rises; Issues Updated Guidance  US Bancorp Reports Increase In Q1 Bottom Line, but misses estimates",0.5
+11,TRV,19/04/2023,6:57:00," The Travelers Companies Q1 23 Earnings Conference Call At 9:00 AM ET  The Travelers Companies  Inc. Q1 Profit Decreases, but beats estimates",0.5
+12,ELV,19/04/2023,6:00:00,,0.5
+13,ABT,19/04/2023,7:15:00," Abbott Laboratories Q1 Profit Decreases, but beats estimates Abbott Laboratories Q1 23 Earnings Conference Call At 9:00 AM ET ",0.5
+14,SYF,19/04/2023,6:00:00," Synchrony Financial Q1 23 Earnings Conference Call At 8:00 AM ET  Synchrony Financial Q1 Income Falls, misses estimates",0
+15,NDAQ,19/04/2023,7:00:00," Nasdaq Inc. Q1 Profit Increases, beats estimates Nasdaq Q1 23 Earnings Conference Call At 8:00 AM ET ",1
+16,CFG,19/04/2023,6:20:00," Citizens Financial Group Q1 23 Earnings Conference Call At 9:00 AM ET  Citizens Financial Group, Inc. Bottom Line Advances In Q1, but misses estimates",0.5
+17,BKR,19/04/2023,7:00:00," Baker Hughes Reports Higher Profit, Revenue In Q1  Baker Hughes Company Q1 Profit Increases, beats estimates Baker Hughes Q1 23 Earnings Conference Call At 8:30 AM ET ",1
+18,T,20/04/2023,6:30:00, AT&T Inc. Reveals Drop In Q1 Bottom Line AT&T Q1 23 Earnings Conference Call At 8:30 AM ET ,0
+19,CMA,20/04/2023,6:46:00," Blackstone Q1 Profit Misses Estimates  Comerica Inc. Bottom Line Advances In Q1, Beats estimates",0
+0,STX,20/04/2023,8:00:00, Seagate Technology PLC Q3 Earnings Summary Seagate Technology Q3 23 Earnings Conference Call At 9:00 AM ET ,0.5
+1,PM,20/04/2023,6:59:00, Philip Morris Q1 Earnings Decline; Guides Full-year Earnings Below View  Philip Morris International Q1 Income Declines Philip Morris International Q1 23 Earnings Conference Call At 9:00 AM ET ,0
+2,BX,20/04/2023,7:00:00,,0.5
+3,UNP,20/04/2023,7:45:00, Union Pacific Corp. Q1 Profit  beats estimates Union Pacific Q1 23 Earnings Conference Call At 8:45 AM ET ,1
+4,NUE,20/04/2023,7:30:00," Nucor Corp. Announces Fall In Q1 Bottom Line, but beats estimates",0
+5,MMC,20/04/2023,7:00:00," Marsh & McLennan Companies Q1 23 Earnings Conference Call At 8:30 AM ET  Marsh & McLennan Companies Inc Q1 Profit Increases, beats estimates",1
+6,HBAN,20/04/2023,7:00:00," Huntington Bancshares Inc. Reveals Advance In Q1 Bottom Line, Beats estimates",1
+7,GPC,20/04/2023,6:55:00," Genuine Parts Lifts FY23 Earnings View Above Market; Backs Revenue Growth Outlook - Update  Genuine Parts Co Q1 Profit Increases, beats estimates",1
+8,FITB,20/04/2023,6:30:00," Fifth Third Bank Q1 Profit Climbs, But Below Estimates ",0
+9,DHI,20/04/2023,6:30:00," D.R. Horton Q2 Profit, Revenue Drop, But Beat Estimates  D R Horton Inc. Q2 Income Retreats, but beats estimates",0
+10,AXP,20/04/2023,7:00:00," American Express Backs FY23 Outlook - Update  American Express Co. Q1 Income Declines, misses estimates American Express Q1 23 Earnings Conference Call At 8:30 AM ET ",0
+11,SNA,20/04/2023,6:30:00," Snap-On Inc. Bottom Line Rises In Q1, Beats estimates",1
+12,POOL,20/04/2023,7:00:00," Pool Corp. Q1 Profit Decreases, misses estimates",0
+13,KEY,20/04/2023,6:30:00," KeyCorp Bottom Line Declines In Q1, misses estimates",0
+14,TFC,20/04/2023,5:45:00, Truist Financial Q1 23 Earnings Conference Call At 8:00 AM ET  Truist Financial Corporation Reports Advance In Q1 Income,1
+15,PG,21/04/2023,6:55:00," P&G Q2 Results Top Estimates; Backs FY23 Earnings View, Lifts Sales Forecast  Procter & Gamble Co. Profit Rises In Q3, Beats estimates Procter & Gamble Q3 23 Earnings Conference Call At 8:30 AM ET ",1
+16,FCX,21/04/2023,8:00:00," Freeport-McMoRan Q1 Profit Down, But Beats Street  Freeport-McMoRan Inc. Q1 Profit Decreases, but beats estimates",0
+17,SLB,21/04/2023,6:50:00," Schlumberger Ltd. Q1 Profit Increases, beats estimates Schlumberger Q1 23 Earnings Conference Call AT 9:30 AM ET ",1
+18,HCA,21/04/2023,7:00:00," HCA Healthcare Q1 Earnings Tops Estimates; Raises Annual Outlook; Stock Up 3% In Pre-market - Update  HCA Healthcare, Inc. Q1 Profit Increases, beats estimates HCA Healthcare Q1 23 Earnings Conference Call AT 10:00 AM ET ",1
+19,RF,21/04/2023,5:30:00," Regions Financial Corp. Announces Climb In Q1 Profit, but misses estimates Regions Financial Q1 23 Earnings Conference Call At 10:00 AM ET ",0
+0,KO,24/04/2023,6:55:00," Coca-Cola Q1 Profit Up 12%, Results Top Estimates  Coca-Cola Q1 Profit And Revenue Grow Better Than Estimates  The Coca-Cola Company Q1 Profit Increases, beats estimates The Coca-Cola Q1 23 Earnings Conference Call At 8:30 AM ET ",1
+1,UPS,25/04/2023,6:00:00," UPS Q1 Income, Revenue Miss Estimates; Sees 2023 Revenue Below View ",0
+2,PEP,25/04/2023,6:00:00," PepsiCo Lifts FY23 View Above Market As Q1 Core EPS, Revenues Beat  Pepsico Q1 Profit Down, Core EPS Tops View; Lifts FY23 Outlook ",1
+3,MCD,25/04/2023,7:00:00," McDonald's Q1 Comps. Up 12.6%  McDonalds Corp. Q1 Profit Increases, beats estimates",1
+4,BIIB,25/04/2023,7:02:00, Biogen Q1 Results Top Estimates; Reaffirms FY23 Outlook ,1
+5,VZ,25/04/2023,6:55:00," Verizon Q1 Profit Rises, Adj. EPS Meets View; Backs FY23 Forecast ",1
+6,NTRS,25/04/2023,7:20:00," Northern Trust Q1 23 Earnings Conference Call At 9:00 AM ET  Northern Trust Corp. Q1 Income Drops, misses estimates",0
+7,MSCI,25/04/2023,6:45:00," MSCI Inc. Q1 Profit Increases, beats estimates",1
+8,MMM,25/04/2023,6:30:00," 3M Co. Q1 23 Earnings Conference Call At 9:00 AM ET  3M Announces Restructuring Actions, To Impact Approx. 6,000 Positions  3M Co. Q1 Profit Decreases, but beats estimates",0.5
+9,GM,25/04/2023,6:30:00," GM Q1 Profit Down, Adj. EPS And Topline Beat Estimates; Updates FY23 View; Stock Up In Pre-market  General Motors Company Q1 Profit Increases, beats estimates GM, Samsung SDI To Invest $3 Bln To Build New Battery Cell Production Plant In US ",1
+10,GEHC,25/04/2023,6:20:00," GE HealthCare Q1 Profit Down, Declares Dividend; Confirms FY23 View ",0.5
+11,GE,25/04/2023,6:22:00," GE Swings To Profit In Q1, Results Top Estimates ",1
+12,CNC,25/04/2023,6:00:00," Centene Increases 2023 Guidance; Updates 2024 Target  Centene Corporation Q1 Profit Increases, beats estimates",1
+13,SHW,25/04/2023,7:00:00," Sherwin-Williams Issues Q2 Revenue View, Backs FY23 Forecast; Stock Up In Pre-market  Sherwin-Williams Co Q1 Profit Increases, beats estimates",1
+14,RTX,25/04/2023,6:55:00," Raytheon Technologies Reaffirms FY23 Outlook - Update  Raytheon Technologies Corporation Q1 Profit Increases, beats estimates",1
+15,PHM,25/04/2023,6:30:00," PulteGroup To Buy Back Additional $1 Bln Of Shares  PulteGroup, Inc. Q1 Income Advances, Beats estimates",1
+16,PCAR,25/04/2023,8:00:00, PACCAR Q1 Profit Tops Estimates ,1
+17,NEE,25/04/2023,7:30:00," NextEra Energy Maintains FY22 And Long Term Outlook - Update  NextEra Energy, Inc. Q1 Earnings Summary",0.5
+18,MCO,25/04/2023,7:00:00," Moody's Q1 23 Earnings Conference Call At 12:30 PM ET  Moodys Corp. Q1 Profit Increases, beats estimates",1
+19,KMB,25/04/2023,8:00:00, Kimberly-Clark Boosts FY23 EPS Growth Outlook - Update  Kimberly-Clark Corp Q1 Earnings Summary,1
+0,IVZ,25/04/2023,6:55:00," Invesco Q1 23 Earnings Conference Call At 9:00 AM ET  Invesco Ltd. Q1 Profit Decreases, but beats estimates",0
+1,HUBB,25/04/2023,7:30:00,, 
+2,HAL,25/04/2023,6:45:00, Halliburton Q1 23 Earnings Conference Call At 9:00 AM ET  Halliburton Company Q1 Profit Rises,1
+3,GLW,25/04/2023,7:10:00," Corning Inc. Q1 Profit Decreases, but beats estimates",0
+4,DOW,25/04/2023,6:00:00, Dow Inc. Q1 Earnings Summary, 
+5,DHR,25/04/2023,6:00:00," Danaher Corp. Q1 Profit Decreases, but beats estimates",0
+6,ADM,25/04/2023,7:00:00," Archer-Daniels-Midland Q1 23 Earnings Conference Call At 9:00 AM ET  Archer-Daniels-Midland Q1 Profit Increases, beats estimates",1
+7,NVR,25/04/2023,9:00:00,, 
+8,LH,25/04/2023,6:52:00," Laboratory Corporation Of America Holdings Q1 Profit Decreases, misses estimates",0
+9,BA,26/04/2023,7:30:00," Boeing Q1 Loss Sharply Narrows, But Misses Estimates  The Boeing Co. Q1 Loss Decreases, but misses estimates The Boeing Q1 23 Earnings Conference Call At 10:30 AM ET ",0
+10,OTIS,26/04/2023,6:11:00,, 
+11,GD,26/04/2023,7:00:00, General Dynamics Corp. Q1 Profit  beats estimates General Dynamics Q1 23 Earnings Conference Call At 9:00 AM ET ,1
+12,FTV,26/04/2023,7:30:00," Fortive Reports Higher Profit, Revenue In Q1; Updates Outlook ",1
+13,ETR,26/04/2023,6:30:00," Entergy Corp Q1 Profit Increases, but misses estimates",0
+14,WAB,26/04/2023,6:30:00," Wabtec Corporation Q1 Profit Increases, beats estimates",1
+15,TMO,26/04/2023,6:00:00," Thermo Fisher Scientific Q1 Profit Down, Adj. EPS Meets View; Revenues Beat ",0.5
+16,TEL,26/04/2023,6:00:00," TE Connectivity Ltd. Q1 Profit Decreases, but beats estimates",0
+17,TDY,26/04/2023,6:55:00," Teledyne Technologies Inc Q1 Profit Decreases, but beats estimates",0
+18,ODFL,26/04/2023,7:00:00," Old Dominion Freight Line, Inc. Bottom Line Falls In Q1, misses estimates",0
+19,NSC,26/04/2023,8:00:00," Norfolk Southern Corp Reports Retreat In Q1 Profit, misses estimates",0
+0,HUM,26/04/2023,6:30:00, Humana Q1 Profit Rises; Lifts FY23 Earnings View  Humana Inc Profit Advances In Q1,1
+1,HLT,26/04/2023,6:00:00," Hilton Worldwide Holdings Q1 Results Beat Estimates  Hilton Worldwide Holdings, Inc. Q1 Profit Beats Estimates",1
+2,HES,26/04/2023,7:30:00," Hess Corporation Q1 Profit Decreases, but beats estimates",0.5
+3,DOV,26/04/2023,6:30:00," Dover Q1 Earnings And Revenue Rise, Above View  Dover Q1 Profit Up, Beats Estimates - Update ",1
+4,CME,26/04/2023,7:00:00," CME Group, Inc. Q1 Profit Increases, beats estimates CME Group Q1 23 Earnings Conference Call At 8:30 AM ET ",1
+5,BSX,26/04/2023,6:30:00," Boston Scientific Boosts FY23 Adj. EPS, Sales Growth Outlook - Update  Boston Scientific Corp Q1 Profit Increases, beats estimates",1
+6,AVY,26/04/2023,6:45:00," Avery Dennison Trims FY23 Outlook As Q1 Profit Declines  Avery Dennison Corp. Q1 Profit Decreases, but beats estimates",0
+7,APH,26/04/2023,8:00:00," Amphenol Q1 Profit In Line With Market, Projects Slight Decline In Q2 Results ",0.5
+8,AMT,26/04/2023,7:00:00," American Tower Corp. Announces Fall In Q1 Bottom Line, misses estimates",0
+9,ADP,26/04/2023,7:00:00," ADP Lifts FY23 Adj. Earnings Growth View; Backs Revenue Forecast - Update  Automatic Data Processing Inc. Q3 Profit Increases, beats estimates Automatic Data Processing Q3 23 Earnings Conference Call At 8:30 AM ET ",1
+10,MKTX,26/04/2023,6:30:00," MarketAxess Q1 Profit And Revenues Rise, Beat Markets - Quick Facts ",1
+11,MAS,26/04/2023,7:00:00," Masco Maintains FY23 Outlook; Appoints David Chaika Interim CFO - Update  Masco Corp. Q1 Profit Decreases, but beats estimates",0.5
+12,ALLE,26/04/2023,5:30:00, Allegion Plc Raises 2023 Revenue Growth Outlook ,1
+13,MRK,27/04/2023,6:30:00, Merck Q1 Results Top Estimates; Boosts FY23 Outlook ,1
+14,LIN,27/04/2023,6:00:00, Linde plc Q1 Income Climbs,1
+15,CAT,27/04/2023,6:30:00," Caterpillar Inc. Q1 Profit Increases, beats estimates",1
+16,BMY,27/04/2023,6:59:00, Bristol-Myers Squibb Affirms FY23 Outlook; Q1 Adj. EPS Tops Estimates ,1
+17,VLO,27/04/2023,6:30:00," Valero Energy Corp. Q1 Profit Increases, beats estimates",1
+18,NOC,27/04/2023,6:40:00," Northrop Grumman Corp. Bottom Line Declines In Q1, but beats estimates",0.5
+19,MO,27/04/2023,7:00:00, Altria Group Reaffirms 2023 Earnings Guidance ,0.5
+0,MA,27/04/2023,8:00:00," Mastercard Incorporated Q1 Profit Decreases, but beats estimates",0
+1,LUV,27/04/2023,6:35:00," Southwest Airlines Inc. Q1 Loss Decreases, but misses estimates",0
+2,LLY,27/04/2023,6:45:00," Eli Lilly And Co. Q1 23 Earnings Conference Call At 10:00 AM ET  Lilly Q1 Profit Down, Misses View; Lifts FY23 Forecast; Stock Up In Pre Market  Eli Lilly And Co. Q1 Profit Decreases, misses estimates Eli Lilly: Tirzepatide Achieves Up To 15.7% Weight Loss In Results From SURMOUNT-2 ",0
+3,KIM,27/04/2023,6:50:00,,0.5
+4,KDP,27/04/2023,7:00:00," Keurig Dr Pepper Inc. Q1 Profit Decreases, but beats estimates",0
+5,HON,27/04/2023,6:00:00," Honeywell Lifts FY23 Adj. Earnings, Sales View - Update  Honeywell International Inc. Q1 Profit Increases, beats estimates",1
+6,FIS,27/04/2023,7:00:00," Fidelity National Q1 Profit Up, Above Estimates; Raises Full-year Outlook; Stock Up 5% - Update ",1
+7,CMCSA,27/04/2023,7:00:00," Comcast Corp. Q1 Profit Increases, beats estimates",1
+8,ABBV,27/04/2023,7:32:00," AbbVie Q1 Profit Drops, Inline With Estimates",0
+9,AAL,27/04/2023,7:00:00," American Airlines Posts Profit In Q1, Meets View; Sees Q2 Earnings Above Market; Backs FY23 Forecast ",1
+10,XEL,27/04/2023,6:10:00," Xcel Energy Inc Q1 Profit Increases, beats estimates",1
+11,TXT,27/04/2023,6:30:00, Textron Inc. Q1 sales increase,1
+12,SPGI,27/04/2023,7:11:00," S&P Global Q1 Profit Down, Adj. EPS Beats View; Backs FY23 Adj. Earnings Forecast ",0
+13,SO,27/04/2023,6:45:00," Southern Co. Q1 Profit Decreases, but beats estimates",0
+14,ROP,27/04/2023,6:55:00, Roper Technologies Increases Full Year Guidance ,1
+15,ROK,27/04/2023,7:00:00," Rockwell Automation Q2 Results Climb, Beat Estimates; Lifts FY23 Forecast Above Market ",1
+16,NEM,27/04/2023,7:00:00,,0.5
+17,LKQ,27/04/2023,6:00:00," LKQ Q1 Profit Rises, Adj. EPS Tops View; Backs FY23 Forecast ",1
+18,IQV,27/04/2023,7:00:00," IQVIA Holdings Inc. Q1 Profit Decreases, but beats estimates",0
+19,IP,27/04/2023,7:00:00, International Paper Q1 Profit Retreats,0
+0,HSY,27/04/2023,6:45:00," Hershey Co. Q1 Profit Increases, beats estimates",1
+1,GWW,27/04/2023,8:00:00," Grainger Lifts FY23 Earnings View Above Market, Backs Sales Forecast; Stock Up In Premarket  Grainger (W.W.) Inc. Reveals Climb In Q1 Profit, Beats estimates",1
+2,DTE,27/04/2023,7:00:00,,0.5
+3,CNP,27/04/2023,6:25:00," CenterPoint Energy Inc Q1 Profit Decreases, but beats estimates",0.5
+4,CMS,27/04/2023,6:30:00," CMS Energy Reaffirms 2023 Adj. EPS Guidance; Q1 Profit Declines On Unfavorable Weather  CMS Energy Corp. Q1 Profit Decreases, misses estimates",0
+5,CHD,27/04/2023,6:55:00,,0.5
+6,CBRE,27/04/2023,6:34:00," CBRE Group, Inc. Q1 Profit Decreases, but beats estimates",0.5
+7,BAX,27/04/2023,7:15:00, Baxter International Q1 Results Top Estimates; Boosts FY23 Adj. EPS Outlook ,1
+8,AOS,27/04/2023,6:55:00," A.O. Smith Corp Q1 Profit Increases, beats estimates",1
+9,WTW,27/04/2023,6:00:00, WTW Q1 Profit Tops Estimates; Revenue Up 8% On Organic Basis ,1
+10,WST,27/04/2023,6:00:00,,0.5
+11,TSCO,27/04/2023,6:55:00, Tractor Supply Q1 Profit  misses estimates,0
+12,PNR,27/04/2023,6:55:00," Pentair plc Q1 Profit Increases, beats estimates",1
+13,IPG,27/04/2023,7:00:00, Interpublic Q1 Results Top Estimates ,1
+14,HAS,27/04/2023,6:30:00, Hasbro Reiterates 2023 Guidance ,0.5
+15,DPZ,27/04/2023,7:30:00," Dominos Pizza Inc. Reports Advance In Q1 Income, Beats estimates",1
+16,DGX,27/04/2023,6:45:00," Quest Diagnostics Q1 Profit Decreases, but beats estimates",0.5
+17,XOM,28/04/2023,6:30:00," Exxon Mobil Corp. Q1 Profit Increases, beats estimates Exxon Mobil Q1 23 Earnings Conference Call At 8:30 AM ET ",1
+18,CVX,28/04/2023,6:15:00," Chevron Q1 Profit Tops Estimates  Chevron Corp. Q1 Profit Increases, beats estimates Chevron Q1 23 Earnings Conference Call 11:00 AM ET ",1
+19,LYB,28/04/2023,6:30:00," LyondellBasell Industries N.V. Q1 Profit Decreases, but beats estimates LyondellBasell To Become 100% Owner Of Quality Circular Polymers ",0.5
+0,CL,28/04/2023,6:55:00," Colgate-Palmolive Maintains FY22 Earnings Growth Outlook - Update  Colgate-Palmolive Co. Q1 Profit Decreases, but beats estimates Colgate-Palmolive Q1 23 Earnings Conference Call At 8:30 AM ET ",0.5
+1,CHTR,28/04/2023,7:00:00," Charter Communications Q1 23 Earnings Conference Call At 8:30 AM ET  Charter Communications, Inc. Bottom Line Falls In Q1, misses estimates",0
+2,AON,28/04/2023,6:03:00," Aon plc Q1 Profit Increases, but misses estimates",0.5
+3,L,01/05/2023,6:00:00, Loews Corp. Q1 Income Climbs,1
+4,ON,01/05/2023,8:00:00," ON Semiconductor Guides Q2 Well Below Estimates - Update  ON Semiconductor Corp. Q1 Profit Decreases, but beats estimates ON Semiconductor Q1 23 Earnings Conference Call At 9:00 AM ET ",0
+5,BEN,01/05/2023,8:30:00," Franklin Resources Inc. Q2 Profit Decreases, but beats estimates",0.5
+6,WEC,01/05/2023,7:00:00," WEC Energy Reaffirms FY23 Earnings Outlook - Update  WEC Energy Group Announces Retreat In Q1 Income, but beats estimates",0.5
+7,NCLH,01/05/2023,7:30:00, Norwegian Cruise Line Q1 Adj. Loss Narrower Than Estimates; Boost FY23 Outlook ,1
+8,GPN,01/05/2023,6:55:00," Global Payments Lifts FY23 Adj. Earnings, Revenues Forecast - Update  Global Payments Inc. Q1 Earnings Summary Global Payments Q1 23 Earnings Conference Call At 8:00 AM ET ",1
+9,PFE,02/05/2023,6:45:00," Pfizer Q1 Results Top Estimates; Reaffirms FY23 Outlook  Pfizer Inc. Q1 Profit Decreases, but beats estimates Pfizer Q1 23 Earnings Conference Call At 10:00 AM ET ",1
+10,UBER,02/05/2023,6:55:00," Uber Q1 Loss Narrows, Beats Estimates; Stock Up Around 8% In Pre-market - Update ",1
+11,INCY,02/05/2023,7:00:00," Incyte Corporation Q1 Profit Decreases, misses estimates Incyte Q1 23 Earnings Conference Call At 8:00 AM ET ",0
+12,DD,02/05/2023,6:00:00," EI DuPont De Nemours & Co. Q1 23 Earnings Conference Call At 8:00 AM ET  DuPont Q1 Profit Down, Cuts FY23 View; To Buy Spectrum Plastics; Stock Down In Premarket  EI DuPont De Nemours & Co. Reports Fall In Q1 Income",0
+13,CMI,02/05/2023,7:30:00," Cummins Raises Guidance On Revenue, Profitability For 2023 - Quick Facts  Cummins  Inc. Q1 Profit Climbs, Beats estimates",1
+14,TAP,02/05/2023,7:00:00, Molson Coors Brewing Company Profit Drops In Q1,0
+15,SYY,02/05/2023,8:00:00," Sysco Corp. Q3 Profit Increases, but misses estimates Sysco Q3 23 Earnings Conference Call At 10:00 AM ET ",0.5
+16,MPC,02/05/2023,6:40:00," Marathon Petroleum Corporation Reveals Rise In Q1 Bottom Line, Beats estimates Marathon Petroleum Q1 23 Earnings Conference Call At 11:00 AM ET ",1
+17,MAR,02/05/2023,7:00:00," Marriott Intl Sees Q2 Earnings Above Market; Lifts FY23 Outlook - Update  Marriott International Inc. Q1 Profit Increases, beats estimates Marriott International Q1 23 Earnings Conference Call At 8:30 AM ET ",1
+18,ITW,02/05/2023,8:00:00," Illinois Tool Works Raises 2023 GAAP EPS Guidance  Illinois Tool Works Inc Announces Increase In Q1 Bottom Line, Beats estimates",1
+19,HWM,02/05/2023,7:00:00,,0
+0,EXPD,02/05/2023,8:30:00," Expeditors International of Washington Inc. Bottom Line Retreats In Q1, but beats estimates",0
+1,ETN,02/05/2023,6:30:00," Eaton Sees Higher Q2 Results, Lifts FY23 Forecast; Stock Up In Premarket  Eaton Corp. Q1 Profit Increases, beats estimates",1
+2,BR,02/05/2023,7:00:00," Broadridge Financial Reaffirms FY23 Adj. Earning Growth  Broadridge Financial Solutions Q3 23 Earnings Conference Call At 8:30 AM ET  Broadridge Financial Solutions Inc. Q3 Profit Increases, beats estimates",1
+3,AME,02/05/2023,6:55:00," AMETEK Buys Bison; Increases FY23 Guidance  Ametek Inc. Q1 Profit Increases, beats estimates Ametek Q1 23 Earnings Conference Call At 8:30 AM ET ",1
+4,ZBRA,02/05/2023,6:30:00," Zebra Technologies Corporation Q1 Profit Decreases, but beats estimates Zebra Technologies Q1 23 Earnings Conference Call At 8:30 AM ET ",0.5
+5,ZBH,02/05/2023,6:30:00," Zimmer Biomet Holdings Q1 23 Earnings Conference Call At 8:30 AM ET  Zimmer Biomet Boosts FY23 Outlook - Update  Zimmer Biomet Holdings Inc. Q1 Profit Increases, beats estimates",1
+6,TROW,02/05/2023,7:00:00," T. Rowe Price Group Q1 Profit Decreases, but beats estimates T. Rowe Price Group Q1 23 Earnings Conference Call At 8:00 AM ET ",0.5
+7,PEG,02/05/2023,7:30:00, Public Service Enterprise Group Inc Q1 Earnings Summary,0.5
+8,LDOS,02/05/2023,6:00:00," Leidos Holdings Q1 23 Earnings Conference Call At 8:00 AM ET  Leidos Holdings, Inc. Q1 Profit Decreases, misses estimates",0
+9,IT,02/05/2023,6:00:00," Gartner Q1 23 Earnings Conference Call At 8:00 AM ET  Gartner Raises Guidance  Gartner, Inc. Q1 Profit Increases, beats estimates",1
+10,IDXX,02/05/2023,6:30:00," IDEXX Laboratories Q1 23 Earnings Conference Call At 8:30 AM ET  IDEXX Updates 2023 EPS Outlook; Increases Revenue Guidance  IDEXX Laboratories Inc Q1 Income Advances, Beats estimates",1
+11,ECL,02/05/2023,8:00:00," Ecolab Inc. Q1 Profit Increases, beats estimates Ecolab Q1 23 Earnings Conference Call At 1:00 PM ET ",1
+12,CVS,03/05/2023,6:30:00," CVS Health Corp. Q1 Profit Decreases, but beats estimates CVS Health Q1 23 Earnings Conference Call At 8:00 AM ET ",0.5
+13,YUM,03/05/2023,7:00:00," Yum! Brands Inc. Q1 Profit Decreases, misses estimates Yum! Brands Q1 23 Earnings Conference Call At 8:15 AM ET ",0
+14,TECH,03/05/2023,6:30:00, Bio-Techne Q3 Profit Matches Estimates; Organic Revenue Up 3% ,0.5
+15,TT,03/05/2023,6:30:00,,0
+16,PSX,03/05/2023,7:00:00," Phillips 66 Q1 Profit Increases, beats estimates Phillips 66 Q1 23 Earnings Conference Call At 12:00 PM ET ",1
+17,NI,03/05/2023,6:40:00," NiSource Reaffirms FY23 Adj. EPS Outlook - Update  NiSource Inc. Q1 Profit Decreases, but beats estimates NiSource Q1 23 Earnings Conference Call At 11:00 AM ET ",0.5
+18,KHC,03/05/2023,7:01:00," The Kraft Heinz Q1 23 Earnings Conference Call At 9:00 AM ET  Kraft Heinz Boosts FY23 Adj. EPS Outlook - Update  The Kraft Heinz Company Q1 Profit Increases, beats estimates",1
+19,EXC,03/05/2023,6:50:00," Exelon Corp Q1 Profit Increases, beats estimates Exelon Q1 23 Earnings Conference Call At 10:00 AM ET ",1
+0,EMR,03/05/2023,6:51:00," Emerson Names Mike Baughman CFO To Succeed Frank Dellaquila, With Effect From May 10  Emerson Electric Co. Q2 23 Earnings Conference Call AT 8:00 AM ET  Emerson Electric Co. Profit Advances In Q2",1
+1,EL,03/05/2023,6:45:00," The Est?e Lauder Companies Inc. Q3 Profit Decreases, misses estimates",0
+2,CDW,03/05/2023,7:00:00," CDW Corp. Q1 23 Earnings Conference Call At 8:30 AM ET  CDW Corporation Q1 Profit Decreases, but beats estimates",0.5
+3,BLDR,03/05/2023,7:00:00,, 
+4,BG,03/05/2023,6:00:00," Bunge Q1 Results Down, Yet Top Estimates; Backs FY23 Outlook Below View ",0.5
+5,XRAY,03/05/2023,6:00:00, Dentsply Sirona Raises Low-end Of Full Year Outlook  Dentsply Sirona Inc Q1 Earnings Summary,1
+6,VRSK,03/05/2023,7:15:00," Verisk Reports Lower Q1 Income From Continuing Operations, Higher EBITDA ",0.5
+7,TRMB,03/05/2023,6:55:00, Trimble Q1 Net Income Rises; Revenue Down 3% On Organic Basis ,0.5
+8,GRMN,03/05/2023,7:00:00," Garmin Maintains FY23 Outlook - Update  Garmin Ltd Bottom Line Retreats In Q1, misses estimates",0
+9,GNRC,03/05/2023,6:00:00,, 
+10,MRNA,04/05/2023,6:30:00," Moderna Q1 Profit, Revenues Down, Yet Beats Market; Backs FY23 COVID-19 Vaccine Sales View ",0.5
+11,PARA,04/05/2023,7:00:00,, 
+12,CEG,04/05/2023,6:49:00," Constellation Energy Group, Inc. Reports Decline In Q1 Bottom Line",0
+13,CAH,04/05/2023,6:55:00, Cardinal Health Q3 23 Earnings Conference Call At 8:30 AM ET  Cardinal Health Q3 Profit Beats Estimates; Raises FY23 Non-GAAP EPS Guidance By $0.35 At Midpoint  Cardinal Health Inc Q3 Earnings Summary,1
+14,BALL,04/05/2023,6:00:00," Ball Corporation Profit Falls In Q1, but beats estimates Ball Corp. Q1 23 Earnings Conference Call At 11:00 AM ET ",0.5
+15,APTV,04/05/2023,6:45:00," Aptiv PLC Q1 23 Earnings Conference Call At 8:00 AM ET  Aptiv PLC Q1 Profit Increases, beats estimates",1
+16,AEP,04/05/2023,6:57:00," American Electric Power Reaffirms FY23 Outlook - Update  American Electric Power Co Inc Q1 Profit Drops, Inline With Estimates American Electric Power Co Q1 23 Earnings Conference Call At 9:00 AM ET ",0.5
+17,ZTS,04/05/2023,7:00:00, Zoetis Maintains FY23 Outlook; Q1 Adj. EPS Tops Estimates ,1
+18,XYL,04/05/2023,6:55:00, Xylem Q1 Profit Increases On Higher Revenue; Ups Full-year Outlook ,1
+19,WRK,04/05/2023,6:30:00, WestRock Company Q2 Earnings Summary,0.5
+0,SWK,04/05/2023,6:00:00," Stanley Black & Decker, Inc. Q1 Earnings Summary Stanley Black & Decker Q1 23 Earnings Conference Call At 8:00 AM ET ",1
+1,SRE,04/05/2023,7:00:00," Sempra Energy Q1 Profit Increases, beats estimates",1
+2,REGN,04/05/2023,6:30:00," Regeneron Pharmaceuticals Q1 Profit Decreases, but beats estimates",0
+3,RCL,04/05/2023,8:00:00," Royal Caribbean Group Raises 2023 Adj. EPS Guidance  Royal Caribbean Cruises Ltd. Q1 Loss Decreases, beats estimates",1
+4,PPL,04/05/2023,8:00:00," PPL Confirms Outlook For FY23 Earnings, FY26 Growth - Update  PPL Corporation Q1 Profit Increases, beats estimates PPL Corp. Q1 23 Earnings Conference Call At 11:00 AM ET ",1
+5,PNW,04/05/2023,8:40:00, Pinnacle West Capital Corp. Q1 Earnings Summary,1
+6,PH,04/05/2023,7:30:00, Parker Hannifin Boosts FY23 Outlook As Q3 Results Top Estimates ,1
+7,PCG,04/05/2023,6:15:00," PG&E Corp. Q1 Profit Increases, Inline With Estimates",1
+8,MLM,04/05/2023,6:55:00," Martin Marietta Materials Q1 Profit, Revenue Higher Than Last Year; Guides Annual Revenue Above View ",1
+9,K,04/05/2023,8:00:00," Kellogg Q1 Profit Beats Estimates, Organic Net Sales Up 13.7%; Raises FY23 Guidance  Kellogg Company Announces Decline In Q1 Income Kellogg Q1 23 Earnings Conference Call At 9:30 AM ET ",1
+10,ICE,04/05/2023,7:30:00, IntercontinentalExchange Group Inc. Q1 Profit Beats Estimates,1
+11,HII,04/05/2023,7:15:00," Huntington Ingalls Industries, Inc. Q1 Profit Retreats, but beats estimates",0
+12,DOC,04/05/2023,7:50:00,,0.5
+13,COP,04/05/2023,7:00:00, ConocoPhillips Q1 Profit Falls But Tops View  ConocoPhillips Q1 23 Earnings Conference Call At 12:00 PM ET ,1
+14,BWA,04/05/2023,6:30:00," Borg Warner Inc. Q1 Profit Increases, but misses estimates Borg Warner Q1 23 Earnings Conference Call At 9:30 AM ET ",0
+15,BDX,04/05/2023,6:30:00," Becton, Dickinson Boosts FY23 Outlook - Update  Becton, Dickinson and Company Q2 Profit Increases, beats estimates Becton, Dickinson And Co. Q2 23 Earnings Conference Call At 8:00 AM ET ",1
+16,VMC,04/05/2023,7:30:00," Vulcan Materials Co. Q1 Profit Increases, beats estimates",1
+17,TRGP,04/05/2023,6:00:00,,0.5
+18,TFX,04/05/2023,6:30:00," Teleflex Q1 23 Earnings Conference Call At 8:00 AM ET  Teleflex Inc Announces Decline In Q1 Income, misses estimates",0
+19,PWR,04/05/2023,6:55:00," Quanta Services Q1 23 Earnings Conference Call At 9:00 AM ET  Quanta Services Boosts FY23 Outlook - Update  Quanta Services Inc. Q1 Profit Increases, beats estimates",1
+0,NRG,04/05/2023,7:10:00, NRG Energy Inc Q1 Earnings Summary,0
+1,IRM,04/05/2023,6:45:00," Iron Mountain Q1 23 Earnings Conference Call At 8:30 AM ET  Iron Mountain Inc Q1 Profit Increases, beats estimates",1
+2,WBD,05/05/2023,7:00:00,,0
+3,EVRG,05/05/2023,6:00:00," Evergy Q1 23 Earnings Conference Call At 9:00 AM ET  Evergy, Inc. Q1 Profit Increases, beats estimates",1
+4,CI,05/05/2023,6:00:00, Cigna Group Raises FY23 Guidance  Cigna Corp. Q1 Profit Rises Cigna Q1 23 Earnings Conference Call At 8:30 AM ET ,1
+5,CBOE,05/05/2023,7:30:00," CBOE Global Markets, Inc. Q1 Profit Increases, beats estimates CBOE Global Markets Q1 23 Earnings Conference Call At 8:30 AM ET ",1
+6,JCI,05/05/2023,6:55:00," Johnson Controls Inc Q2 Profit Increases, beats estimates Johnson Controls Q2 23 Earnings Conference Call At 8:30 AM ET ",1
+7,D,05/05/2023,7:30:00," Dominion Energy Guides Q2 Operating EPS Below Estimates - Update  Dominion Energy, Inc. Q1 Profit Increases, beats estimates",0.5
+8,EPAM,05/05/2023,6:00:00,,0
+9,VTRS,08/05/2023,6:59:00," Viatris Q1 23 Earnings Conference Call At 8:30 AM ET  Viatris Reaffirms FY23 Revenue Outlook, Declares Dividend - Update  Viatris Inc. Q1 Income Falls",0.5
+10,TSN,08/05/2023,6:55:00," Tyson Foods Q2 23 Earnings Conference Call At 9:00 AM ET  Tyson Foods Slips To Loss In Q2, Cuts FY23 Sales View; Stock Down In Premarket ",0
+11,FOXA,09/05/2023,8:00:00, Fox Corporation Q3 Earnings Summary Fox Corp. Q3 23 Earnings Conference Call At 8:30 AM ET ,0
+12,WAT,09/05/2023,6:50:00," Waters Boosts FY23 Outlook - Update  Waters Corp. Q1 23 Earnings Conference Call At 8:00 AM ET  Waters Corp. Q1 Profit Decreases, misses estimates",0.5
+13,HSIC,09/05/2023,6:30:00," Henry Schein Trims FY23 Adj. EPS Outlook As Q1 Results Miss Estimates  Henry Schein Inc. Q1 Profit Decreases, misses estimates",0
+14,FOX,09/05/2023,8:00:00, Fox Corporation Q3 Earnings Summary Fox Corp. Q3 23 Earnings Conference Call At 8:30 AM ET ,0
+15,DUK,09/05/2023,7:00:00," Duke Energy Corp Q1 Profit Decreases, misses estimates Duke Energy Q1 23 Earnings Conference Call At 10:00 AM ET ",0
+16,APD,09/05/2023,6:00:00," Air Products Sees Higher Q3 Earnings; Lifts FY23 Outlook - Update  Air Products And Chemicals Inc. Q2 Profit Decreases, but beats estimates Air Products And Chemicals Q2 23 Earnings Conference Call AT 8:30 AM ET ",1
+17,TDG,09/05/2023,7:15:00," TransDigm Raises FY23 Guidance  TransDigm Group Incorporated Q2 Profit Increases, beats estimates",1
+18,J,09/05/2023,6:40:00," Jacobs Board Approves Plan To Separate Critical Mission Solutions; Narrows FY23 Outlook Range  Jacobs Solutions Inc. Q2 Profit Increases, beats estimates",1
+19,TPR,11/05/2023,6:45:00," Tapestry Boosts FY23 Outlook; Raises Dividend 20% - Update  Tapestry, Inc. Q3 Earnings Summary Tapestry Q3 23 Earnings Conference Call At 8:00 AM ET ",1
+0,CRL,11/05/2023,7:00:00, Charles River Labs Boosts FY23 Outlook As Q2 Results Top Estimates ,1
+1,RVTY,11/05/2023,6:00:00," Revvity Now Sees FY23 Results Below View; To Buy Back $600 Mln Of Shares  Revvity, Inc. Reveals Increase In Q1 Profit PerkinElmer Q1 23 Earnings Conference Call At 8:00 AM ET ",0
+2,HD,16/05/2023,6:00:00," The Home Depot Q1 23 Earnings Conference Call AT 9:00 AM ET  Home Depot Cuts FY23 Outlook; Stock Down In Premarket - Update  The Home Depot, Inc. Q1 Profit Drops, but beats estimates",0
+3,TGT,17/05/2023,6:30:00," Target Maintains FY23 Outlook - Update  Target Corp. Q1 Profit Decreases, but beats estimates Target Corp. Q1 23 Earnings Conference Call At 8:00 AM ET ",0.5
+4,TJX,17/05/2023,7:35:00," TJX Companies Boosts FY24 Earnings Outlook - Update  The TJX Companies, Inc. Bottom Line Advances In Q1 The TJX Companies Q1 24 Earnings Conference Call At 11:00 AM ET ",1
+5,WMT,18/05/2023,7:01:00," Walmart Q1 Profit Declines, But Results Top Estimates  Walmart Inc. Q1 Profit Decreases, but beats estimates Walmart Q1 24 Earnings Conference Call At 8:00 AM ET ",0.5
+6,BBWI,18/05/2023,6:00:00," Pre-market Movers: CWD, HOWL, DLO, TTWO, BOOT??", 
+7,DE,19/05/2023,6:01:00," Deere & Co Q2 Results Climb, Beat Estimates; Lifts FY23 Earnings View; Stock Up In Premarket  Deere And Co Q2 23 Earnings Conference Call At 10:00 AM ET ",1
+8,LOW,23/05/2023,6:00:00," Lowe's Cos. Q1 23 Earnings Conference Call At 9:00 AM ET  Lowe's Q1 Profit Falls, But Beats Estimates; Cuts Annual Outlook; Stock Down ",0
+9,AZO,23/05/2023,6:55:00," AutoZone Inc. Q3 Income Advances, Beats estimates AutoZone Q3 23 Earnings Conference Call At 10:00 AM ET ",1
+10,ADI,24/05/2023,7:00:00," Analog Devices Stock Down 8% On Weak Q3 Forecast  Analog Devices Q2 23 Earnings Conference Call At 10:00 AM ET  Analog Devices Q2 Profit Increases, beats estimates Analog Devices Q2 Profit Rises; Revenue Up 10% ",0
+11,RL,25/05/2023,8:01:00," Ralph Lauren Issues Q1, FY24 Outlook For Margin, Revenues; Stock Up In Premarket - Update  Ralph Lauren Corp. Q4 Profit Increases, beats estimates",1
+12,MDT,25/05/2023,6:45:00," Medtronic To Buy EOFlow Maker Of Wearable Insulin Patch  Medtronic Guides FY24 Adj. EPS Below View: Boosts Dividend - Update  Medtronic plc Q4 Profit Decreases, but beats estimates Medtronic Q4 23 Earnings Conference Call At 8:00 AM ET ",0.5
+13,DLTR,25/05/2023,7:30:00," Dollar Tree Slashes FY23 Earnings Outlook - Update  Dollar Tree Inc. Q1 Profit Decreases, misses estimates Dollar Tree Q1 23 Earnings Conference Call At 9:00 AM ET ",0
+14,BBY,25/05/2023,7:00:00," Best Buy: Sales Align Closer To Midpoint Of Annual Comparable Sales Guidance  Best Buy Co Inc. Q1 Profit Decreases, but beats estimates Best Buy Co Q1 24 Earnings Conference Call At 8:00 AM ET ",0.5
+15,HRL,01/06/2023,6:30:00, Hormel Foods Reaffirms FY23 Outlook - Update  Hormel Foods Q2 23 Earnings Conference Call At 9:00 AM ET ,0.5
+16,DG,01/06/2023,6:55:00," Dollar General Down In Pre-market On Q1 Results, Outlook  Dollar General Q1 Results Miss Estimates, Cuts FY23 View; Stock Down In Premarket  Dollar General Q1 23 Earnings Conference Call At 10:00 AM ET ",0
+17,SJM,06/06/2023,7:00:00, The J. M. Smucker Company Q4 Earnings Summary The J. M. Smucker Q4 23 Earnings Conference Call At 9:00 AM ET , 
+18,CPB,07/06/2023,7:15:00," Campbell Soup Co. Bottom Line Retreats In Q3 Campbell Soup Q3 Profit Down, Adj. EPS Tops View; Sees FY23 Adj. EPS Below Market  Campbell Soup Q3 23 Earnings Conference Call At 8:00 AM ET ",0
+19,CTLT,12/06/2023,7:00:00, Catalent Cuts FY23 View - Update ,0
+0,KR,15/06/2023,8:00:00," Kroger Reaffirms FY23 Outlook - Update  Kroger Co. Q1 Profit Increases, beats estimates Kroger Q1 23 Earnings Conference Call At 10:00 AM ET ",1
+1,JBL,15/06/2023,7:45:00," Jabil Inc. Q3 Profit Increases, beats estimates Jabil Q3 23 Earnings Conference Call At 8:30 AM ET ",1
+2,FDS,22/06/2023,7:00:00," FactSet Q3 Results Rise, Top Estimates; Updates FY23 Outlook ",1
+3,DRI,22/06/2023,7:00:00," Darden Issues FY24 Guidance, Lifts Quarterly Dividend; Board Chairman To Retire  Darden Restaurants Inc. Announces Rise In Q4 Profit Darden Restaurants Q4 23 Earnings Conference Call At 8:30 AM ET ",1
+4,ACN,22/06/2023,6:45:00," Accenture Raises FY23 Adj. EPS Outlook; Boosts Dividend 15% - Update  Accenture plc Q3 Profit Increases, beats estimates Accenture Q3 23 Earnings Conference Call At 8:00 AM ET ",1
+5,KMX,23/06/2023,6:50:00," CarMax Q1 24 Earnings Conference Call At 9:00 AM ET  CarMax Inc. Announces Drop In Q1 Bottom Line, but beats estimates",0
+6,CCL,26/06/2023,9:15:00,, 
+7,WBA,27/06/2023,7:00:00," Walgreens Boots Alliance Slashes FY23 Adj. EPS Outlook; Stock Down 7% - Update  Walgreens Boots Alliance, Inc. Q3 Profit Decreases, misses estimates Walgreens Boots Alliance Q3 23 Earnings Conference Call At 8:30 AM ET ",0
+8,GIS,28/06/2023,7:00:00," General Mills Expects Annual Adjusted Profit To Increase, But Stock Down In Pre-market - Update  General Mills Q4 Profit Decreases, but beats estimates General Mills Q4 23 Earnings Conference Call At 9:00 AM ET ",0.5
+9,MKC,29/06/2023,6:30:00," McCormick Raises FY23 Adj. EPS Guidance  McCormick & Co. Q2 Profit Increases, beats estimates McCormick & Co. Q2 23 Earnings Conference Call At 8:00 AM ET ",1
+10,PAYX,29/06/2023,8:30:00," Paychex Guides FY24 Above Estimates - Update  Paychex Inc. Q4 Profit Increases, Inline With Estimates Paychex Q4 23 Earnings Conference Call At 9:30 AM ET ",1
+11,STZ,30/06/2023,7:30:00," Constellation Brands Inc Q1 Profit Decreases, but beats estimates Constellation Brands Q1 24 Earnings Conference Call At 10:30 AM ET ",0
+12,PEP,13/07/2023,6:00:00," PepsiCo Q2 Profit Tops Estimates, Organic Revenue Growth At 13.0%; Increases FY23 Guidance  Pepsico Inc Q2 Profit Increases, beats estimates Pepsico Q2 23 Earnings Conference Call At 8:15 AM ET ",1
+13,DAL,13/07/2023,6:30:00," Delta Air Lines Q2 Profit Up, Beats Estimates; Raises Outlook; Stock Climbs - Update  Delta Air Lines Q2 23 Earnings Conference Call At 10:00 AM ET ",1
+14,CAG,13/07/2023,7:30:00," Conagra Brands Guides FY24 Adj. EPS Below Estimates; Boosts Dividend - Update  Conagra Brands Inc. Q4 Profit Decreases, but beats estimates Conagra Brands Q4 23 Earnings Conference Call AT 9:30 AM ET ",0
+15,CTAS,13/07/2023,8:30:00," Cintas Profit Up In Q4, Above Estimates - Update  Cintas Q4 23 Earnings Conference Call At 10:00 AM ET ",1
+16,PGR,13/07/2023,8:21:00, Progressive Corp. Swings To Profit In Q2 ,1
+17,FAST,13/07/2023,6:50:00," Fastenal Co. Q2 Profit Increases, but misses estimates Fastenal Q2 23 Earnings Conference Call At 9:00 AM ET ",0
+18,WFC,14/07/2023,6:47:00," Wells Fargo Q2 Profit Rises; Revenue Up 20%  Wells Fargo & Co Q2 Profit Rises, Beats estimates Wells Fargo & Co Q2 23 Earnings Conference Call At 10:00 AM ET ",1
+19,JPM,14/07/2023,6:50:00," JPMorgan Q2 Net Profit Surges 67%; Results Top Estimates  JPMorgan Chase Q2 Results Climb, Top Estimates; Stock Up In Premarket  JPMorgan Chase Q2 23 Earnings Conference Call At 8:30 AM ET ",1
+0,C,14/07/2023,8:00:00," Citigroup Inc. Q2 Profit Decreases, but beats estimates Citigroup Q2 23 Earnings Conference Call At 11:00 AM ET ",0
+1,UNH,14/07/2023,5:55:00," UnitedHealth Strengthens Full Year Earnings Guidance Range  Unitedhealth Group, Inc. Q2 Profit Increases, beats estimates Unitedhealth Group Q2 23 Earnings Conference Call At 8:45 AM ET ",1
+2,BLK,14/07/2023,6:17:00," Blackrock Inc. Q2 Profit Increases, beats estimates Blackrock Q2 23 Earnings Conference Call At 7:30 AM ET ",1
+3,STT,14/07/2023,7:30:00, State Street Corp. Announces Advance In Q2 Profit State Street Q2 23 Earnings Conference Call At 10:00 AM ET ,1
+4,PNC,18/07/2023,6:38:00," PNC Financial Services Group Inc. Reports Drop In Q2 Income, but beats estimates",0
+5,MS,18/07/2023,7:30:00," Morgan Stanley Q2 Profit Down, Yet Tops View  Morgan Stanley Q2 Profit Retreats, but beats estimates Morgan Stanley Q2 23 Earnings Conference Call At 9:30 AM ET ",0
+6,BAC,18/07/2023,6:45:00," Bank Of America Q2 Profit Increases, Tops Estimates  Bank of America Corporation Reveals Advance In Q2 Bottom Line, Beats estimates Bank Of America Q2 23 Earnings Conference Call At 8:30 AM ET ",1
+7,LMT,18/07/2023,7:29:00," Lockheed Martin Boosts FY23 Outlook - Update  Lockheed Martin Corp. Q2 Profit Increases, beats estimates Lockheed Martin Q2 23 Earnings Conference Call At 11:00 AM ET ",1
+8,BK,18/07/2023,6:30:00," BNY Mellon Q2 Results Climb, Top Estimates  The Bank of New York Mellon Corp. Q2 Profit Increases, beats estimates The Bank Of New York Mellon Q2 23 Earnings Conference Call At 10:30 AM ET ",1
+9,SYF,18/07/2023,6:00:00," Synchrony Financial Q2 23 Earnings Conference Call At 8:00 AM ET  Synchrony Financial Q2 Profit Retreats, but beats estimates",0
+10,SCHW,18/07/2023,7:45:00," Charles Schwab Q2 Profit Decreases, but beats estimates",0
+11,PLD,18/07/2023,8:00:00, Prologis Q2 Profit Increases; Raises Earnings Guidance  ProLogis Q2 23 Earnings Conference Call At 12:00 PM ET ,1
+12,GS,19/07/2023,7:30:00," Goldman Sachs Q2 Profit Misses Estimates; Boosts Dividend 10%  Goldman Sachs Group Inc. Bottom Line Retreats In Q2, misses estimates Goldman Sachs Group Q2 23 Earnings Conference Call At 9:30 AM ET ",0
+13,USB,19/07/2023,6:45:00," U.S. Bancorp Q2 Profit Declines, But Adj. EPS Meets Estimates  US Bancorp Q2 Profit Drops, Inline With Estimates",0
+14,NTRS,19/07/2023,7:24:00," Northern Trust Corp. Q2 Income Retreats, misses estimates",0
+15,ELV,19/07/2023,6:00:00," Elevance Health Inc. Q2 Profit Increases, beats estimates",1
+16,BKR,19/07/2023,7:00:00, Baker Hughes Company Q2 Earnings Summary Baker Hughes Q2 23 Earnings Conference Call At 8:30 AM ET ,1
+17,NDAQ,19/07/2023,7:00:00, Nasdaq Q2 Profit Tops Estimates; Organic Net Revenues Up 4%  Nasdaq Q2 23 Earnings Conference Call At 8:00 AM ET ,1
+18,MTB,19/07/2023,6:05:00, M&T Bank Q2 23 Earnings Conference Call At 8:00 AM ET  M&T Bank Corp. Profit Climbs In Q2,1
+19,HAL,19/07/2023,6:45:00," Halliburton Company Q2 Profit Increases, beats estimates Halliburton Q2 23 Earnings Conference Call At 9:30 AM ET ",1
+0,CFG,19/07/2023,6:20:00," Citizens Financial Group Q2 23 Earnings Conference Call At 9:00 AM ET  Citizens Financial Group, Inc. Bottom Line Advances In Q2, but misses estimates",0
+1,JNJ,20/07/2023,6:20:00," Johnson & Johnson Raises Guidance For 2023 Adj. Operational EPS, Adj. Operational Sales  Johnson & Johnson Q2 Profit Increases, beats estimates Johnson & Johnson Q2 23 Earnings Conference Call At 8:30 AM ET ",1
+2,TRV,20/07/2023,6:57:00, The Travelers Companies Q2 23 Earnings Conference Call At 9:00 AM ET  Travelers Companies Q2 Core Profit Declines; Net Written Premiums Up 14%  The Travelers Companies  Inc. Q2 Earnings Summary,0.5
+3,TFC,20/07/2023,5:45:00, Truist Financial Q2 23 Earnings Conference Call At 8:00 AM ET  Truist Financial Corporation Q2 Income Falls,0
+4,PM,20/07/2023,6:59:00, Philip Morris International Announces Fall In Q2 Bottom Line Philip Morris International Q2 23 Earnings Conference Call At 9:00 AM ET ,0
+5,KVUE,20/07/2023,8:00:00,,0.5
+6,FCX,20/07/2023,8:00:00," Freeport-McMoRan Inc. Q2 Profit Drops, misses estimates",0
+7,BX,20/07/2023,7:00:00," Blackstone Turns To Profit In Q2, Adj. EPS Meets View, Revenues Miss; Stock Down In Premarket  Blackstone Inc. Q2 Earnings Summary",0.5
+8,ABT,20/07/2023,7:30:00," Abbott Laboratories Reaffirms FY23 Adj. EPS Outlook - Update  Abbott Laboratories Q2 Profit Decreases, but beats estimates Abbott Laboratories Q2 23 Earnings Conference Call At 9:30 AM ET ",0.5
+9,AAL,20/07/2023,7:00:00," American Airlines Boosts FY23 Outlook As Q3 Results Top Estimates  American Airlines Q2 Results Top Estimates; Lifts FY Profit View  American Airlines Group Inc Q2 Profit Increases, beats estimates American Airlines Group Q2 23 Earnings Conference Call At 8:30 AM ET ",1
+10,NEM,20/07/2023,7:00:00, Newmont Corporation Profit Declines In Q2,0
+11,MMC,20/07/2023,7:00:00, Marsh & McLennan Companies Q2 23 Earnings Conference Call At 8:30 AM ET  Marsh & McLennan Companies Inc Q2 Profit Rises,1
+12,FITB,20/07/2023,6:30:00," Fifth Third Bancorp Q2 23 Earnings Conference Call At 9:00 AM ET  Fifth Third Bancorp Q2 Profit Climbs, But Misses Estimates ",0
+13,DHI,20/07/2023,6:30:00," D R Horton Inc. Q3 Profit Retreats, but beats estimates",0.5
+14,SNA,20/07/2023,6:30:00," Snap-On Inc. Reveals Increase In Q2 Bottom Line, Beats estimates Snap-On Q2 23 Earnings Conference Call At 10:00 AM ET ",1
+15,POOL,20/07/2023,7:00:00, Pool Corp Slashes FY23 Outlook As Q2 Results Miss Estimates ,0
+16,MKTX,20/07/2023,6:36:00," MarketAxess Q2 Profit Declines, But Results Top Estimates  MarketAxess Holdings Inc. Reveals Drop In Q2 Income, but beats estimates",0.5
+17,KEY,20/07/2023,6:30:00," KeyCorp Q2 Profit Retreats, misses estimates KeyCorp Q2 23 Earnings Conference Call At 9:00 AM ET ",0
+18,GPC,20/07/2023,6:55:00," Genuine Parts Boosts FY23 Adj. EPS Outlook - Update  Genuine Parts Q2 Profit Down, But Beats Estimates; Ups Annual Earnings Guidance Above View - Update ",1
+19,CMA,21/07/2023,7:08:00," Comerica Q2 Profit Climbs, Beats Estimates; Stock Up Over 5% In Pre-market  Comerica Q2 23 Earnings Conference Call At 8:00 AM ET ",1
+0,SLB,21/07/2023,6:50:00," Schlumberger Ltd. Bottom Line Rises In Q2, Beats estimates Schlumberger Q2 23 Earnings Conference Call At 9:30 AM ET ",1
+1,ROP,21/07/2023,6:55:00," Roper Technologies Q2 Profit Beats Estimates, Organic Revenue Growth At 9%; Raises Earnings Outlook  Roper Technologies Q2 23 Earnings Conference Call At 8:00 AM ET ",1
+2,HBAN,21/07/2023,7:00:00, Huntington Bancshares Q2 23 Earnings Conference Call At 9:00 AM ET  Huntington Bancshares Q2 Results Top Estimates ,1
+3,AXP,21/07/2023,7:00:00," American Express Q2 Profit Tops View, While Revenues Miss; Backs FY23 View; Stock Down In Premarket  American Express Q2 23 Earnings Conference Call At 8:30 AM ET ",0.5
+4,RF,21/07/2023,6:00:00," Regions Financial Q2 Profit Down; EPS Meets View, While Top Line Beats  Regions Financial Q2 23 Earnings Conference Call At 10:00 AM ET ",0
+5,IPG,21/07/2023,7:00:00, Interpublic Group Q2 Profit Increases  Interpublic Group Of Companies Q2 23 Earnings Conference Call At 8:30 AM ET ,1
+6,DPZ,24/07/2023,6:02:00," Dominos Pizza Inc. Bottom Line Advances In Q2, Beats estimates Domino's Pizza Q2 23 Earnings Conference Call At 8:30 AM ET ",1
+7,GM,25/07/2023,6:30:00, General Motors Boosts FY23 Outlook - Update  General Motors Company Announces Increase In Q2 Profit General Motors Q2 23 Earnings Conference Call At 8:30 AM ET ,1
+8,BIIB,25/07/2023,7:02:00, Biogen Q2 Results Top Estimates; Backs FY23 Outlook ,1
+9,VZ,25/07/2023,7:02:00," Verizon Communications Q2 Profit Tops Estimates; Affirms Guidance  Verizon Communications Q2 Profit Decreases, but beats estimates Verizon Communications Q2 23 Earnings Conference Call At 8:30 AM ET ",1
+10,MSCI,25/07/2023,6:45:00," MSCI Inc. Q2 Profit Increases, beats estimates",1
+11,MMM,25/07/2023,6:30:00, 3M Co. Q2 Earnings; Ups Full-year Adjusted Earnings Guidance - Update  3M Co. Q2 23 Earnings Conference Call At 9:00 AM ET ,1
+12,LW,25/07/2023,8:30:00," Lamb Weston Holdings, Inc. Q4 Profit Increases, beats estimates",1
+13,GEHC,25/07/2023,6:20:00," GE Healthcare Q2 Earnings Down, But Beats Estimates; Ups FY23 Earnings Outlook ",0.5
+14,GE,25/07/2023,6:22:00, General Electric Raises 2023 Earnings Guidance  General Electric Co Q2 Earnings Summary General Electric Q2 23 Earnings Conference Call At 7:30 AM ET ,1
+15,RTX,25/07/2023,6:55:00," Raytheon Technologies Q2 23 Earnings Conference Call At 8:30 AM ET  RTX Q2 Profit Up, Beats Estimates; Raises Annual Outlook - Update ",1
+16,PHM,25/07/2023,6:30:00," PulteGroup Q2 23 Earnings Conference Call At 8:30 AM ET  PulteGroup Q2 Profit Climbs On Revenue Growth  PulteGroup, Inc. Reveals Rise In Q2 Bottom Line, Beats estimates",1
+17,PCAR,25/07/2023,8:00:00," Paccar Inc. Profit Rises In Q2, Beats estimates",1
+18,NEE,25/07/2023,7:30:00," NextEra Energy Reaffirms FY23, FY24, FY25, FY26 Adj. EPS Outlook - Update  NextEra Energy Q2 23 Earnings Conference Call At 9:00 AM ET  NextEra Energy, Inc. Q2 Profit Increases, beats estimates",1
+19,MCO,25/07/2023,7:00:00," Moody's Q2 Profit, Revenue Jump Above Street View, Ups Full-year Earnings Guidance  Moody's Q2 23 Earnings Conference Call At 12:30 PM ET ",1
+0,KMB,25/07/2023,7:00:00," Kimberly-Clark Q2 23 Earnings Conference Call At 8:30 AM ET  Kimberly-Clark Boosts FY23 EPS Growth Outlook - Update  Kimberly-Clark Corp Q2 Profit Decreases, but beats estimates",1
+1,IVZ,25/07/2023,6:55:00," Invesco Q2 23 Earnings Conference Call At 9:00 AM ET  Invesco Ltd. Q2 Profit Increases, but misses estimates",1
+2,HUBB,25/07/2023,7:30:00,, 
+3,GLW,25/07/2023,7:10:00," Corning Slides In Pre-Market On Q2 Results, Outlook  Corning Inc. Q2 Profit Decreases, misses estimates Corning Q2 23 Earnings Conference Call At 8:30 AM ET ",0
+4,DOW,25/07/2023,6:00:00," Dow Inc. Q2 Profit Decreases, but beats estimates Dow Q2 23 Earnings Conference Call At 8:00 AM ET ",1
+5,DHR,25/07/2023,6:00:00," Danaher Slips Over 5% In Pre-market After Decline In Q2 Earnings, Sales  Danaher Q2 23 Earnings Conference Call At 8:00 AM ET  Danaher Corp. Q2 Profit Decreases, but beats estimates",1
+6,AVY,25/07/2023,6:45:00," Avery Dennison Guides Q3 Adj. EPS Well Above Estimates - Update  Avery Dennison Corp. Q2 Profit Decreases, misses estimates Avery Dennison Q2 23 Earnings Conference Call At 1:00 PM ET ",0
+7,ADM,25/07/2023,7:00:00," Archer-Daniels-Midland Q2 23 Earnings Conference Call At 9:00 AM ET  Archer-Daniels-Midland Q2 Profit Decreases, but beats estimates",1
+8,SHW,25/07/2023,7:00:00," Sherwin-Williams Boosts FY23 Outlook - Update  Sherwin-Williams Co Q2 Profit Increases, beats estimates",1
+9,NVR,25/07/2023,9:00:00,, 
+10,DOV,25/07/2023,6:30:00," Dover Corp Q2 Profit Decreases, misses estimates Dover Corp. Q2 23 Earnings Conference Call At 10:00 AM ET ",0
+11,T,26/07/2023,6:35:00," AT&T Inc. Reveals Climb In Q2 Profit, Beats estimates AT&T Q2 23 Earnings Conference Call At 8:30 AM ET ",1
+12,KO,26/07/2023,6:55:00," The Coca-Cola Company Q2 Profit Increases, beats estimates The Coca-Cola Q2 23 Earnings Conference Call At 8:30 AM ET ",1
+13,FI,26/07/2023,7:01:00," Fiserv Q2 Profit Rises, Raises Outlook ",1
+14,BA,26/07/2023,7:30:00, The Boeing Co. Q2 Earnings Summary The Boeing Q2 23 Earnings Conference Call At 10:30 AM ET , 
+15,OTIS,26/07/2023,6:07:00,, 
+16,GD,26/07/2023,7:00:00," General Dynamics Corp. Q2 Income Declines, but beats estimates General Dynamics Q2 23 Earnings Conference Call At 9:00 AM ET ",1
+17,FTV,26/07/2023,7:30:00," Fortive Corporation Q2 Profit Increases, beats estimates",1
+18,UNP,26/07/2023,7:45:00," Union Pacific Corp. Profit Declines In Q2, misses estimates Union Pacific Q2 23 Earnings Conference Call At 8:45 AM ET ",0
+19,TMO,26/07/2023,6:00:00," Pre-market Movers: SIMO, MXL, PACW, WRNT, AURC?? Thermo Fisher Scientific Q2 23 Earnings Conference Call At 8:30 AM ET  Thermo Fisher Scientific Q2 Profit Decreases, misses estimates",0
+0,TEL,26/07/2023,6:00:00," TE Connectivity Q3 23 Earnings Conference Call At 8:30 AM ET  TE Connectivity Ltd. Q3 Profit Decreases, but beats estimates",0
+1,TDY,26/07/2023,6:55:00," Teledyne Technologies Reiterates FY23 Adj. EPS Outlook - Update  Teledyne Technologies Inc Q2 Profit Increases, beats estimates",1
+2,ODFL,26/07/2023,7:00:00," Old Dominion Board Approves Share Repurchase Program  Old Dominion Freight Line, Inc. Q2 income drops in line with estimates",0
+3,HLT,26/07/2023,6:00:00," Hilton Worldwide Raises Full Year Outlook  Hilton Worldwide Holdings, Inc. Q2 Profit Increases, beats estimates",1
+4,HES,26/07/2023,7:30:00," Hess Corporation Q2 Profit Decreases, but beats estimates",0
+5,DGX,26/07/2023,6:45:00," Quest Diagnostics Q2 23 Earnings Conference Call At 8:30 AM ET  Quest Diagnostics Boosts FY23 Adj. EPS, Revenue Outlook - Update  Quest Diagnostics Q2 Profit Increases, beats estimates",1
+6,CME,26/07/2023,7:00:00," CME Group, Inc. Q2 Profit Increases, beats estimates CME Group Q2 23 Earnings Conference Call At 8:30 AM ET ",1
+7,APH,26/07/2023,8:00:00," Amphenol Corp. Q2 Profit Decreases, but beats estimates",0
+8,ADP,26/07/2023,7:00:00," ADP Projects FY24 Adj. EPS Growth In Range Of 10% To 12%  Automatic Data Processing Inc. Q4 Profit Increases, beats estimates Automatic Data Processing Q4 23 Earnings Conference Call At 8:30 AM ET ",1
+9,ALLE,26/07/2023,5:30:00," Allegion Q2 23 Earnings Conference Call At 8:00 AM ET  Allegion Raises FY23 EPS Guidance  Allegion Q2 Profit Increases, beats estimates",1
+10,MCD,27/07/2023,7:00:00," McDonald's Q2 Profit Soars, Results Top Estimates  McDonalds Corp. Q2 Profit Increases, beats estimates",1
+11,LIN,27/07/2023,6:22:00," Linde Boosts FY23 Adj. EPS Outlook - Update  Linde plc Q2 Profit Increases, beats estimates",1
+12,BMY,27/07/2023,6:59:00, Bristol-Myers Squibb Slashes FY23 Outlook As Q2 Results Miss Estimates ,0
+13,VLO,27/07/2023,6:30:00," Valero Energy Corp. Q2 Profit Decreases, but beats estimates",0
+14,NOC,27/07/2023,6:40:00," Northrop Grumman Q2 23 Earnings Conference Call At 9:00 AM ET  Northrop Grumman Q2 Profit Declines, But Revenue Rises, Raises Outlook ",1
+15,MA,27/07/2023,8:00:00," Mastercard Incorporated Q2 Profit Increases, beats estimates Mastercard Q2 23 Earnings Conference Call At 9:00 AM ET ",1
+16,LUV,27/07/2023,6:45:00," Southwest Airlines Inc. Q2 Profit Decreases, misses estimates Southwest Airlines Q2 23 Earnings Conference Call At 12:30 PM ET ",0
+17,KIM,27/07/2023,6:50:00,,0.5
+18,KDP,27/07/2023,7:00:00," Keurig Dr Pepper Inc. Q2 Profit Increases, beats estimates",1
+19,HON,27/07/2023,6:30:00, Honeywell Boosts FY23 Outlook As Q2 Profit Tops Estimates  Honeywell International Q2 23 Earnings Conference Call At 8:30 AM ET ,1
+0,CMCSA,27/07/2023,7:00:00," Comcast Q2 Profit Climbs 25.1%  Comcast Corp. Q2 Profit Increases, beats estimates",1
+1,CARR,27/07/2023,6:30:00,, 
+2,AEP,27/07/2023,6:57:00," American Electric Power Co Inc Q2 Profit Decreases, but beats estimates American Electric Power Co Q2 23 Earnings Conference Call At 9:00 AM ET ",0.5
+3,ABBV,27/07/2023,7:38:00," AbbVie Boosts FY23 Outlook As Q2 Results Top Estimates  AbbVie Q2 23 Earnings Conference Call At 9:00 AM ET  AbbVie Q2 Profit Increases, beats estimates",1
+4,XEL,27/07/2023,6:00:00," Xcel Energy Inc Reveals Retreat In Q2 Profit, misses estimates",0
+5,WAB,27/07/2023,6:30:00," Wabtec Corporation Q2 Profit Increases, beats estimates",1
+6,TXT,27/07/2023,6:30:00," Textron Inc. Q2 Profit Increases, beats estimates",1
+7,SPGI,27/07/2023,7:17:00," S&P Global Inc. Q2 Profit Decreases, misses estimates",0
+8,RCL,27/07/2023,7:58:00,, 
+9,PNR,27/07/2023,6:55:00, Pentair Plc Increases 2023 Earnings Guidance  Pentair plc Q2 Profit Beats Estimates Pentair Q2 23 Earnings Conference Call At 9:00 AM ET ,1
+10,PCG,27/07/2023,6:10:00," PG&E Q2 Profit Rises, But Misses Estimates; Backs Annual Earnings Outlook ",0.5
+11,NSC,27/07/2023,8:00:00," Norfolk Southern Corp Bottom Line Declines In Q2, misses estimates Norfolk Southern Q2 23 Earnings Conference Call At 8:45 AM ET ",0
+12,MLM,27/07/2023,6:55:00," Martin Marietta Net Down In Q2, But Beats Estimates - Update ",0.5
+13,LKQ,27/07/2023,6:00:00," LKQ Corp. Updates FY23 Earnings Guidance  LKQ Corp Q2 Profit Decreases, but beats estimates",0.5
+14,IP,27/07/2023,7:00:00, International Paper Profit Declines In Q2 International Paper Q2 23 Earnings Conference Call At 10:00 AM ET ,0
+15,HSY,27/07/2023,6:45:00," Hershey Co. Q2 Profit Increases, beats estimates",1
+16,HCA,27/07/2023,7:30:00," HCA Healthcare Boosts FY23 Outlook; Declares Dividend - Update  HCA Healthcare, Inc. Q2 Profit Increases, beats estimates",1
+17,GWW,27/07/2023,8:00:00," W.W. Grainger Q2 Profit Surges, Lifts Q3, FY23 Earnings Outlook ",1
+18,DTE,27/07/2023,7:00:00,, 
+19,CNP,27/07/2023,6:25:00, CenterPoint Energy Inc Q2 Earnings Summary, 
+0,CMS,27/07/2023,6:30:00,,0.5
+1,CBRE,27/07/2023,6:55:00," CBRE Group, Inc. Q2 Profit Decreases, but beats estimates",0.5
+2,BSX,27/07/2023,6:34:00," Boston Scientific Q2 Profit Climbs, Projects Q3, FY23 Earnings  Boston Scientific Corp Q2 Profit Increases, beats estimates",1
+3,BAX,27/07/2023,7:30:00, Baxter Q2 Adj. Profit Declines  Baxter International Inc. Q2 Earnings Summary,0
+4,AOS,27/07/2023,6:55:00, A. O. Smith Q2 Earnings Rise Above View; Lifts Annual Outlook ,1
+5,AMT,27/07/2023,7:00:00, American Tower Corp. Q2 Profit Declines; Total Revenue Up 3.6%  American Tower Q2 23 Earnings Conference Call At 8:30 AM ET ,0.5
+6,WTW,27/07/2023,6:00:00," Willis Towers Watson Q2 Adj. Profit Declines, Organic Revenue Growth At 7%; Updates 2024 Outlook  Willis Towers Watson Public Limited Company Q2 Profit Decreases, misses estimates",0
+7,WST,27/07/2023,6:00:00,,0.5
+8,TSCO,27/07/2023,6:55:00," Tractor Supply Company Updates Guidance; Plans To Increase Annual Store Openings To 90 From 2025  Tractor Supply Profit Climbs In Q2, but misses estimates",0
+9,MAS,27/07/2023,7:00:00," Masco Corp. Q2 Profit Decreases, but beats estimates",0.5
+10,LH,27/07/2023,6:57:00," Laboratory Corporation Of America Holdings Q2 23 Earnings Conference Call At 9:00 AM ET  Laboratory Corporation Of America Holdings Q2 Profit Decreases, misses estimates",0
+11,XOM,28/07/2023,6:30:00," Exxon Mobil Corp. Q2 Profit Decreases, misses estimates Exxon Mobil Q2 23 Earnings Conference Call At 8:30 AM ET ",0
+12,PG,28/07/2023,6:55:00," Procter & Gamble Company Q4 Profit Tops Estimates, Organic Sales Up 8%  Procter & Gamble Co. Reports Climb In Q4 Bottom Line, Beats estimates Procter & Gamble Q4 23 Earnings Conference Call At 9:00 AM ET ",1
+13,CVX,28/07/2023,6:15:00, Chevron Corp. Profit Falls In Q2 Chevron Q2 23 Earnings Conference Call AT 11:00 AM ET ,0
+14,CNC,28/07/2023,6:00:00, Centene Q2 23 Earnings Conference Call At 8:30 AM ET  Centene Raises 2023 Guidance  Centene Corporation Q2 Earnings Summary,1
+15,TROW,28/07/2023,7:00:00," T. Rowe Price Group Q2 Profit Increases, beats estimates",1
+16,CL,28/07/2023,6:55:00," Colgate-Palmolive Lifts FY23 Earnings, Sales Growth View - Update  Colgate-Palmolive Co. Q2 Profit Decreases, but beats estimates Colgate-Palmolive Q2 23 Earnings Conference Call At 8:30 AM ET ",1
+17,CHTR,28/07/2023,7:00:00," Charter Communications Q2 23 Earnings Conference Call At 8:30 AM ET  Charter Communications, Inc. Q2 Income Falls, but beats estimates",0
+18,CHD,28/07/2023,6:55:00," Church & Dwight Co Inc. Q2 Profit Increases, beats estimates",1
+19,BEN,28/07/2023,8:30:00," Franklin Resources Inc. Q3 Profit Decreases, but beats estimates",0.5
+0,AON,28/07/2023,6:03:00," Aon Plc Q2 23 Earnings Conference Call At 8:30 AM ET  Aon plc Q2 Profit Increases, but misses estimates",0
+1,L,31/07/2023,6:00:00, Loews Corp. Q2 Profit Advances,1
+2,ON,31/07/2023,8:00:00," ON Semiconductor Corp. Q2 Profit Increases, beats estimates ON Semiconductor Q2 23 Earnings Conference Call At 9:00 AM ET ",1
+3,PFE,01/08/2023,6:45:00," Pfizer Reaffirms FY23 Adj. EPS Outlook - Update  Pfizer Inc. Q2 Profit Decreases, but beats estimates Pfizer Q2 23 Earnings Conference Call At 10:00 AM ET ",0.5
+4,MRK,01/08/2023,6:30:00, Merck & Co Q2 23 Earnings Conference Call At 8:00 AM ET  Merck & Co Inc. Q2 Earnings Summary,1
+5,CAT,01/08/2023,6:30:00," Caterpillar Inc. Q2 Profit Increases, beats estimates Caterpillar Q2 23 Earnings Conference Call At 8:30 AM ET ",1
+6,UBER,01/08/2023,6:55:00," Uber Q2 Adj. EBITDA Rises, Revenue Up 17% On Constant Currency Basis; Stock Up ",1
+7,MO,01/08/2023,7:00:00," Altria Group  Inc. Q2 Profit Increases, beats estimates",1
+8,INCY,01/08/2023,7:00:00," Incyte Q2 Profit, Revenue Up, Above Estimates  Incyte Corporation Q2 Profit Increases, beats estimates Incyte Q2 23 Earnings Conference Call At 8:00 AM ET ",1
+9,TAP,01/08/2023,7:00:00," Molson Coors Brewing Company Q2 Profit Increases, beats estimates",1
+10,SYY,01/08/2023,8:00:00," Sysco Corp. Q4 Profit Increases, beats estimates Sysco Q4 23 Earnings Conference Call AT 10:00 AM ET ",1
+11,SWK,01/08/2023,6:00:00," Stanley Black & Decker Q2 23 Earnings Conference Call At 8:00 AM ET  Stanley Black & Decker Narrows FY23 Outlook - Update  Stanley Black & Decker, Inc. Q2 Earnings Summary",0
+12,ROK,01/08/2023,7:00:00," Rockwell Automation Updates FY23 Guidance  Rockwell Automation Q3 Profit Up, But Misses View - Update  Rockwell Automation Q3 23 Earnings Conference Call At 8:30 AM ET ",0
+13,MPC,01/08/2023,6:40:00," Marathon Petroleum Corporation Q2 Profit Decreases, but beats estimates Marathon Petroleum Q2 23 Earnings Conference Call At 11:00 AM ET ",0.5
+14,MAR,01/08/2023,7:00:00," Marriott Int'l Boosts FY23 Outlook - Update  Marriott International Inc. Q2 Profit Increases, beats estimates Marriott International Q2 23 Earnings Conference Call At 8:30 AM ET ",1
+15,ITW,01/08/2023,8:00:00, Illinois Tool Works Boosts FY22 EPS Outlook As Q2 EPS Tops Estimates ,1
+16,IT,01/08/2023,6:00:00," Gartner Q2 23 Earnings Conference Call At 8:00 AM ET  Gartner Increases 2023 Earnings Guidance  Gartner, Inc. Q2 Profit Decreases, but beats estimates",0.5
+17,IQV,01/08/2023,7:00:00," IQVIA Holdings Q2 23 Earnings Conference Call AT 9:00 AM ET  IQVIA Holdings Inc. Q2 Profit Increases, beats estimates",1
+18,HWM,01/08/2023,7:00:00,,0.5
+19,ETN,01/08/2023,6:30:00, Eaton Q2 Profit Climbs; Lifts FY23 Earnings View Above Estimates ,1
+0,AME,01/08/2023,6:55:00," Ametek Sees Higher Q3 Earnings; Lifts FY23 Forecast Above Market - Update  Ametek Inc. Q2 Profit Increases, beats estimates Ametek Q2 23 Earnings Conference Call At 8:30 AM ET ",1
+1,ZBRA,01/08/2023,5:56:00," Pre-market Movers: AMSC, UPTD, TUP, MSGM, FZT?? Zebra Technologies Q2 Earnings Miss Estimates, Cuts Annual Sales Outlook; Stock Down In Pre-market  Zebra Technologies Q2 23 Earnings Conference Call At 8:30 AM ET ",0
+2,ZBH,01/08/2023,6:30:00," Zimmer Biomet Holdings Q2 23 Earnings Conference Call At 8:30 AM ET  Zimmer Biomet Q2 Profit Up, Beats Estimates; Raises Annual Earnings Outlook - Update ",1
+3,WEC,01/08/2023,7:00:00," WEC Energy Group Q2 23 Earnings Conference Call At 2:00 PM ET  WEC Energy Group Bottom Line Rises In Q2, Beats estimates",1
+4,RVTY,01/08/2023,6:00:00,,0
+5,PEG,01/08/2023,7:30:00, Public Service Enterprise Q2 Profit Beats Estimates; Backs FY23 View - Update ,1
+6,NCLH,01/08/2023,7:30:00," NCLH Posts Q2 Profit, Sees Q3 EPS Below Market, Ups FY23 View; Stock Dips In Premarket ",0.5
+7,LDOS,01/08/2023,6:00:00," Leidos Holdings Q2 23 Earnings Conference Call At 8:00 AM ET  Leidos Holdings, Inc. Q2 Profit Increases, beats estimates",1
+8,IDXX,01/08/2023,6:30:00, IDEXX Laboratories Q2 23 Earnings Conference Call At 8:30 AM ET  IDEXX Laboratories Increases 2023 Earnings Outlook ,1
+9,GPN,01/08/2023,6:55:00, Global Payments Inc. Q2 Earnings Summary Global Payments Q2 23 Earnings Conference Call At 8:00 AM ET ,1
+10,ECL,01/08/2023,8:00:00," Ecolab Guides Q3 Adj. EPS In Line With Estimates - Update  Ecolab Inc. Q2 Profit Increases, beats estimates Ecolab Q2 23 Earnings Conference Call At 1:00 PM ET ",1
+11,CVS,02/08/2023,6:30:00, CVS Health Confirms FY23 Adj. EPS Outlook - Update  CVS Health Corp. Reveals Decline In Q2 Income CVS Health Q2 23 Earnings Conference Call At 8:00 AM ET ,0.5
+12,YUM,02/08/2023,7:04:00," Yum! Brands Inc. Q2 Profit Increases, beats estimates Yum! Brands Q2 23 Earnings Conference Call AT 8:15 AM ET ",1
+13,GRMN,02/08/2023,7:04:00," Garmin Ltd Q2 Profit Increases, beats estimates",1
+14,FIS,02/08/2023,7:00:00," Fidelity National Information Services Q2 23 Earnings Conference Call At 8:30 AM ET  Fidelity National Information Services Posts Q2 Loss; Issues Q3 View, Lifts FY23 Outlook - Update ",0.5
+15,ETR,02/08/2023,6:30:00," Entergy Corp Q2 Profit Increases, beats estimates",1
+16,DD,02/08/2023,6:00:00," DuPont Issues Q3 Outlook, Cuts FY23 View - Update  EI DuPont De Nemours & Co. Q2 Earnings Summary EI DuPont De Nemours & Co. Q2 23 Earnings Conference Call At 8:00 AM ET ",0
+17,BLDR,02/08/2023,7:00:00,,0
+18,XYL,02/08/2023,6:55:00," Xylem Inc. Q2 Profit Decreases, but beats estimates",0.5
+19,TT,02/08/2023,6:30:00,,0
+0,PSX,02/08/2023,7:00:00, Phillips 66 Q2 Adj. Profit Declines  Phillips 66 Q2 23 Earnings Conference Call At 12:00 PM ET ,0
+1,NI,02/08/2023,6:40:00," NiSource Raises 2023 EPS Guidance To Upper Half Of Range  NiSource Inc. Q2 Profit Decreases, misses estimates",0.5
+2,KHC,02/08/2023,7:00:00," The Kraft Heinz Q2 23 Earnings Conference Call At 9:00 AM ET  Kraft Heinz Reaffirms FY23 Outlook - Update  The Kraft Heinz Company Q2 Profit Increases, beats estimates",1
+3,JCI,02/08/2023,6:55:00," Johnson Controls Q3 Profit Rises, Inline With Estimates; Updates Annual Guidance - Update  Johnson Controls Q3 23 Earnings Conference Call At 8:30 AM ET ",1
+4,HUM,02/08/2023,6:30:00," Humana Q2 23 Earnings Conference Call At 9:00 AM ET  Humana Q2 Earnings Rise, Beat Estimates; Backs Annual Adj. EPS Outlook Below View ",0.5
+5,EXC,02/08/2023,6:50:00," Exelon Corp Q2 Profit Decreases, but beats estimates Exelon Q2 23 Earnings Conference Call At 10:00 AM ET ",0.5
+6,EMR,02/08/2023,6:55:00, Emerson Electric Q3 Income Rises; Ups Full-year Profit Outlook Above View - Update ,1
+7,CDW,02/08/2023,7:00:00," CDW Corp. Q2 23 Earnings Conference Call At 8:30 AM ET  CDW Corporation Q2 Profit Decreases, but beats estimates",0.5
+8,BWA,02/08/2023,6:30:00," BorgWarner Cuts FY23 Earnings, Sales View Below Market - Update  Borg Warner Inc. Q2 Profit Decreases, but beats estimates",0
+9,BG,02/08/2023,6:00:00," Bunge Limited Q2 Profit Increases, beats estimates",1
+10,WAT,02/08/2023,6:50:00," Waters Slashes FY23 Outlook - Update  Waters Corp. Q2 23 Earnings Conference Call At 8:00 AM ET  Waters Corp. Q2 Profit Decreases, but beats estimates",0
+11,VRSK,02/08/2023,7:15:00, Verisk Analytics Boosts FY23 Outlook As Q2 Results Top Estimates ,1
+12,GNRC,02/08/2023,6:00:00," Pre-market Movers: ADMP, CMBM, SEDG, ELIQ, GNRC??",0.5
+13,MRNA,03/08/2023,6:30:00, Moderna Posts Narrower-than-expected Q2 Loss; Backs FY23 Vaccine Sales View; Stock Up In Premarket ,1
+14,WBD,03/08/2023,7:05:00,, 
+15,PWR,03/08/2023,6:55:00," Quanta Services Q2 23 Earnings Conference Call At 9:00 AM ET  Quanta Services Inc. Q2 Profit Increases, beats estimates",1
+16,CMI,03/08/2023,7:30:00," Cummins  Inc. Q2 Income Rises, but misses estimates Cummins Q2 23 Earnings Conference Call At 10:00 AM ET ",0.5
+17,CI,03/08/2023,6:00:00, Cigna Q2 23 Earnings Conference Call At 8:30 AM ET  Cigna Group Issues 2023 Outlook  Cigna Corp. Q2 Profit Beats Estimates,1
+18,CEG,03/08/2023,6:49:00," Constellation Energy Group, Inc. Q2 Earnings Summary",1
+19,BALL,03/08/2023,6:00:00, Ball Corp. Now Sees Low End Of Comparable EPS Growth Range In FY23 - Update  Ball Corporation Q2 Earnings Summary,0.5
+0,APTV,03/08/2023,6:45:00, Aptiv Q2 23 Earnings Conference Call At 8:00 AM ET  Aptiv PLC Q2 Earnings: Revises Up Full-year Guidance Above Street View - Update ,1
+1,WRK,03/08/2023,6:30:00, WestRock Q3 23 Earnings Conference Call AT 8:30 AM ET  WestRock Company Q3 Income Falls,0
+2,SRE,03/08/2023,6:52:00," Sempra Energy Q2 Profit Increases, beats estimates",1
+3,SO,03/08/2023,7:30:00," Southern Co. Q2 Profit Decreases, but beats estimates",0.5
+4,REGN,03/08/2023,6:30:00," Regeneron Pharmaceuticals Q2 Profit Increases, beats estimates",1
+5,PNW,03/08/2023,8:40:00," Pinnacle West Capital Corp. Announces Drop In Q2 Income, misses estimates",0
+6,PH,03/08/2023,7:30:00," Parker Hannifin Q4 Profit Rises, Above Estimates - Update ",1
+7,K,03/08/2023,8:00:00," Kellogg	raises 2023 Guidance; Recovering Profit Margins Earlier Than Expected  Kellogg Company Q2 Profit Increases, beats estimates Kellogg Q2 23 Earnings Conference Call At 9:30 AM ET ",1
+8,ICE,03/08/2023,7:30:00," Black Knight Q2 Profit Rises; Adj. EPS, Revenues Miss View  IntercontinentalExchange Group Inc. Q2 Profit Increases, beats estimates",0.5
+9,HII,03/08/2023,7:15:00," Huntington Ingalls Industries, Inc. Q2 Profit Falls, but beats estimates",0.5
+10,EXPE,03/08/2023,9:00:00, Expedia Q2 23 Earnings Conference Call At 9:30 AM ET , 
+11,DOC,03/08/2023,7:52:00,, 
+12,COP,03/08/2023,7:00:00," ConocoPhillips Q2 Profit Decreases, but beats estimates ConocoPhillips Q2 23 Earnings Conference Call At 12:00 PM ET ",0.5
+13,BDX,03/08/2023,6:30:00," BD Backs FY23 Earnings View, Lifts Sales Forecast - Update  Becton, Dickinson and Company Q3 Profit Increases, beats estimates Becton, Dickinson And Co. Q3 23 Earnings Conference Call At 8:00 AM ET ",1
+14,APD,03/08/2023,6:00:00," Air Products Q3 Profit Up, But Misses Estimates; Issues Q4 View; Lifts FY23 Forecast  Air Products And Chemicals Q3 23 Earnings Conference Call At 8:30 AM ET ",0.5
+15,VMC,03/08/2023,7:30:00, Vulcan Materials Co. Profit Advances In Q2,1
+16,TRMB,03/08/2023,6:55:00," Trimble Inc. Q2 Profit Decreases, but beats estimates",0.5
+17,TRGP,03/08/2023,6:00:00,, 
+18,TFX,03/08/2023,6:30:00," Teleflex Q2 Earnings Up, Better Than View; Lifts Revenue Growth Outlook; Stock Up In Pre-market  Teleflex Inc Q2 Profit Increases, beats estimates",1
+19,IRM,03/08/2023,6:45:00, Iron Mountain Q2 23 Earnings Conference Call At 8:30 AM ET  Iron Mountain Q2 AFFO Rises On Improved Adj. EBITDA And Lower Cash Taxes; Affirms Guidance ,1
+0,HAS,03/08/2023,6:30:00, Hasbro Slips To Loss In Q2; Adj. EPS Misses Estimates; To Sell EOne To Lionsgate ,0
+1,EPAM,03/08/2023,6:00:00,, 
+2,EVRG,04/08/2023,6:00:00," Evergy Q2 23 Earnings Conference Call At 9:00 AM ET  Evergy, Inc. Q2 Profit Decreases, but beats estimates",1
+3,CBOE,04/08/2023,7:30:00," CBOE Global Markets, Inc. Q2 Earnings Summary", 
+4,PPL,04/08/2023,8:00:00," PPL Corp. Backs Outlook For FY23 Earnings In Line With Market  PPL Corporation Q2 Profit Decreases, misses estimates PPL Corp. Q2 23 Earnings Conference Call At 11:00 AM ET ",0
+5,LYB,04/08/2023,6:30:00," LyondellBasell Industries N.V. Q2 Profit Decreases, but beats estimates",1
+6,D,04/08/2023,7:30:00," Dominion Energy, Inc. Q2 Earnings Summary Dominion Energy Q2 23 Earnings Conference Call At 10:00 AM ET ", 
+7,VTRS,07/08/2023,6:59:00," Viatris Reaffirms FY23 Revenue Outlook, Declares Dividend - Update  Viatris, Mapi Pharma: FDA Accepts For Review NDA For GA Depot To Treat RMS  Viatris Inc. Q2 Profit Drops Viatris Q2 23 Earnings Conference Call At 8:30 AM ET ",0
+8,TSN,07/08/2023,7:30:00, Tyson Foods Slips Over 7% In Pre-market After Q3 Loss  Tyson Foods Inc. Q3 Earnings Summary Tyson Foods Q3 23 Earnings Conference Call At 9:00 AM ET ,0
+9,HSIC,07/08/2023,6:30:00," Henry Schein Q2 Profit Down, But Beats Estimates; Backs Full-year Guidance - Update ",1
+10,UPS,08/08/2023,6:00:00," UPS Q2 Results Down, Cuts FY23 View Below Market; Stock Down In Premarket  United Parcel Service Q2 23 Earnings Conference Call At 8:30 AM ET ",0
+11,TECH,08/08/2023,6:30:00,, 
+12,LLY,08/08/2023,6:45:00," Eli Lilly Boosts FY23 Outlook - Update  Eli Lilly And Co. Q2 Profit Increases, beats estimates Eli Lilly And Co. Q2 23 Earnings Conference Call At 9:00 AM ET ",1
+13,FOXA,08/08/2023,8:00:00," Fox Corporation Q4 Profit Increases, beats estimates Fox Corp. Q4 23 Earnings Conference Call At 8:30 AM ET ",1
+14,ZTS,08/08/2023,7:00:00," Zoetis Q2 Profit Up, Beats Above Estimates; Raises Earnings Outlook - Update ",1
+15,NRG,08/08/2023,7:00:00," NRG Energy Q2 23 Earnings Conference Call At 9:00 AM ET  NRG Energy Inc Announces Retreat In Q2 Income, misses estimates",0
+16,J,08/08/2023,6:40:00," Jacobs Solutions Q3 Profit Drops, Inline With Estimates; Backs FY23 Outlook - Update ",1
+17,FOX,08/08/2023,8:00:00," Fox Corporation Q4 Profit Increases, beats estimates Fox Corp. Q4 23 Earnings Conference Call At 8:30 AM ET ",1
+18,EXPD,08/08/2023,8:30:00," Expeditors International of Washington Inc. Q2 Income Retreats, misses estimates",0
+19,DUK,08/08/2023,6:15:00, Duke Energy Corp Q2 Earnings Summary Duke Energy Q2 23 Earnings Conference Call At 10:00 AM ET , 
+0,BR,08/08/2023,7:00:00," Broadridge Financial Solutions Q4 Profit Increases, Beats Estimates; Sees Growth In FY24 - Update  Broadridge Financial Solutions Q4 23 Earnings Conference Call At 8:30 AM ET ",1
+1,TDG,08/08/2023,7:15:00," TransDigm Group Boosts FY23 Outlook - Update  TransDigm Group Incorporated Q3 Profit Increases, beats estimates",1
+2,CRL,09/08/2023,7:00:00, Charles River Laboratories Updates 2023 Guidance ,0.5
+3,RL,10/08/2023,8:01:00," Ralph Lauren Reiterates FY23 Revenue Growth Outlook - Update  Ralph Lauren Corp. Q1 Profit Increases, beats estimates Ralph Lauren Q1 24 Earnings Conference Call At 9:00 AM ET ",1
+4,HD,15/08/2023,6:00:00," Home Depot Reaffirms FY23 Guidance; Board Authorizes $15 Bln Share Repurchase Program  The Home Depot, Inc. Reports Drop In Q2 Bottom Line, but beats estimates The Home Depot Q2 23 Earnings Conference Call At 9:00 AM ET ",1
+5,CAH,15/08/2023,6:55:00, Cardinal Health Raises FY24 EPS Guidance  Cardinal Health Inc Q4 Earnings Summary Cardinal Health Q4 23 Earnings Conference Call At 8:30 AM ET ,1
+6,TGT,16/08/2023,6:30:00," Target Q2 Earnings Beat Market; Issues Q3 View, Cuts FY23 Forecast; Stock Climbs In Premarket  Target Corp. Q2 Income Rises, Beats estimates Target Corp. Q2 23 Earnings Conference Call At 8:00 AM ET ",0.5
+7,TJX,16/08/2023,7:30:00," TJX Companies Boosts FY24 Outlook - Update  The TJX Companies, Inc. Announces Advance In Q2 Bottom Line, Beats estimates The TJX Companies Q2 24 Earnings Conference Call At 11:00 AM ET ",1
+8,WMT,17/08/2023,7:02:00," Walmart Boosts FY24 Outlook - Update  Walmart Inc. Q2 Profit Increases, beats estimates Walmart Q2 24 Earnings Conference Call At 8:00 AM ET ",1
+9,TPR,17/08/2023,6:45:00," Tapestry Q4 Results Miss Estimates; Sees FY24 Adj. Earnings, Net Sales Above Market - Update  Tapestry Q4 23 Earnings Conference Call At 8:00 AM ET  Tapestry, Inc. Q4 Earnings Summary",0.5
+10,DE,18/08/2023,6:07:00," Deere Lifts FY23 View As Q3 Results Climb, Top Estimates - Update  Deere And Co Profit Climbs In Q3, Beats estimates Deere And Co Q3 23 Earnings Conference Call At 10:00 AM ET ",1
+11,EL,18/08/2023,6:45:00, Estee Lauder Guides FY24 Well Above Estimates - Update  The Est?e Lauder Companies Inc. Q4 Earnings Summary,1
+12,MDT,22/08/2023,6:45:00," Medtronic Lifts FY24 Forecast Above Market As Q1 Results Beat View - Update  Medtronic plc Q1 Profit Decreases, but beats estimates Medtronic Q1 24 Earnings Conference Call At 8:00 AM ET ",1
+13,LOW,22/08/2023,6:00:00," Lowe's Cos. Q2 23 Earnings Conference Call At 9:00 AM ET  Lowe's Cos. Bottom Line Falls In Q2, but beats estimates",0.5
+14,BBWI,23/08/2023,6:00:00," Bath & Body Works Q2 Profit Fall, Beats Estimates; Updates FY23 View: Stock Down In Pre-market ",0.5
+15,ADI,23/08/2023,7:00:00," Analog Devices Q3 Profit Increases, but misses estimates Analog Devices Q3 23 Earnings Conference Call At 10:00 AM ET ",0.5
+16,DLTR,24/08/2023,6:30:00," Dollar Tree Tightens FY23 EPS Outlook Range; Increases Sales Outlook Range  Dollar Tree Q2 23 Earnings Conference Call At 8:00 AM ET  Dollar Tree Inc. Q2 Profit Decreases, but beats estimates",0.5
+17,CTLT,29/08/2023,7:00:00, Catalent Enters Into Agreement With Activist Elliott For Board Seats; Stock Up In Pre-market ,0.5
+18,SJM,29/08/2023,7:00:00," J. M. Smucker Boosts FY24 Adj. EPS Outlook - Update  The J. M. Smucker Company Q1 Profit Increases, beats estimates The J. M. Smucker Q1 24 Earnings Conference Call At 9:00 AM ET ",1
+19,BBY,29/08/2023,7:00:00," Best Buy Narrows FY24 Non-GAAP EPS Guidance  Best Buy Co Inc. Q2 Profit Decreases, but beats estimates Best Buy Q2 24 Earnings Conference Call At 8:00 AM ET ",0.5
+0,HRL,31/08/2023,6:30:00," Hormel Foods Projects Q4 EPS To Decline YoY; Expects Modest Volume Growth  Hormel Foods Q3 23 Earnings Conference Call At 9:00 AM ET  Hormel Foods Corp Q3 Profit Decreases, misses estimates",0
+1,DG,31/08/2023,6:55:00," Pre-market Movers: ICCT, NCNC, ALLR, LYRA, MYNZ?? Dollar General Cuts FY23 Guidance; Stock Plunges  Dollar General Q2 23 Earnings Conference Call At 10:00 AM ET  Dollar General Corporation Q2 Income Declines, misses estimates",0
+2,CPB,31/08/2023,7:15:00," Campbell Soup Issues FY24 Guidance  Campbell Soup Co. Q4 Profit Increases, Inline With Estimates Campbell Soup Q4 23 Earnings Conference Call At 8:00 AM ET ",1
+3,KR,08/09/2023,8:00:00, Kroger To Pay $1.2 Bln To Settle Opioid Claims  Kroger Reaffirms FY23 Outlook - Update  Kroger Co. Q2 Earnings Summary Kroger Q2 23 Earnings Conference Call At 10:00 AM ET ,1
+4,AZO,19/09/2023,6:55:00," AutoZone Inc. Q4 Profit Advances, Beats estimates AutoZone Q4 23 Earnings Conference Call At 10:00 AM ET ",1
+5,GIS,20/09/2023,7:00:00," General Mills Reaffirms FY24 Outlook - Update  General Mills Q1 Profit Decreases, but beats estimates General Mills Q1 24 Earnings Conference Call At 9:00 AM ET ",1
+6,FDS,21/09/2023,7:00:00, FactSet Q4 Profit Misses Estimates; Organic Revenue Up 7.2% ,0
+7,DRI,21/09/2023,7:00:00," Darden Restaurants Reiterates FY24 Outlook - Update  Darden Restaurants Inc. Q1 Profit Increases, beats estimates Darden Restaurants Q1 24 Earnings Conference Call At 8:30 AM ET ",1
+8,CTAS,26/09/2023,8:30:00," Cintas Boosts FY24 Outlook - Update  Cintas Corporation Q1 Profit Climbs, Beats estimates Cintas Q1 24 Earnings Conference Call At 10:00 AM ET ",1
+9,PAYX,27/09/2023,8:30:00," Paychex Updates FY24 Business Outlook  Paychex Inc. Q1 Profit Increases, beats estimates Paychex Q1 24 Earnings Conference Call At 9:30 AM ET ",1
+10,KMX,28/09/2023,6:50:00," CarMax Slips Over 13% In Pre-market After Q2 Profit, Revenue Decline  CarMax Inc. Q2 Profit Drops, misses estimates CarMax Q2 24 Earnings Conference Call At 9:00 AM ET ",0
+11,JBL,28/09/2023,7:30:00," Jabil Increases Share Repurchase Authorization To $2.5 Bln - Quick Facts  Jabil Inc. Q4 Profit Decreases, but beats estimates Jabil Q4 23 Earnings Conference Call At 8:30 AM ET ",0
+12,ACN,28/09/2023,6:45:00," Accenture Issues FY24 Guidance  Accenture plc Q4 Profit Decreases, but beats estimates Accenture Q4 23 Earnings Conference Call At 8:00 AM ET ",1
+13,CCL,29/09/2023,9:15:00, Carnival Corp. Q3 23 Earnings Conference Call At 10:00 AM ET , 
+14,MKC,03/10/2023,6:30:00," McCormick & Co. Q3 Profit Down, But Ups Annual Earnings Outlook - Update  McCormick & Co. Q3 23 Earnings Conference Call At 8:00 AM ET ",1
+15,LW,05/10/2023,8:30:00," Lamb Weston Holdings, Inc. Q1 sales increase Lamb Weston Holdings Q1 24 Earnings Conference Call At 10:00 AM ET ",1
+16,STZ,05/10/2023,7:30:00,, 
+17,CAG,05/10/2023,7:30:00, Conagra Brands Q1 Profit Beats Estimates; Net Sales Impacted By Elongated Volume Recovery Timetable  Conagra Brands Inc. Q1 Earnings Summary Conagra Brands Q1 24 Earnings Conference Call At 9:30 AM ET ,1
+18,PEP,10/10/2023,6:00:00," PepsiCo Q3 Results Top Estimates, Lifts FY23 Core EPS View Above Market  PepsiCo Q3 Results Climb, Top Estimates; Lifts FY23 Earnings View; Sees Growth In FY24  Pepsico Inc Q3 Profit Increases, beats estimates Pepsico Q3 23 Earnings Conference Call At 8:15 AM ET ",1
+19,DAL,12/10/2023,6:30:00," Delta Air Lines Issues Q4 Outlook; Cuts FY23 Earnings View - Update  Delta Air Lines Inc Q3 Profit Increases, beats estimates Delta Air Lines Q3 23 Earnings Conference Call At 10:00 AM ET ",1
+0,WBA,12/10/2023,7:00:00," Walgreens Boots Alliance Guides FY24 Adj. EPS Below Estimates - Update  Walgreens Boots Alliance, Inc. Q4 Earnings Summary Walgreens Boots Alliance Q4 23 Earnings Conference Call At 8:30 AM ET ",0
+1,DPZ,12/10/2023,6:00:00," Dominos Pizza Inc. Bottom Line Advances In Q3, Beats estimates Domino's Pizza Q3 23 Earnings Conference Call At 8:30 AM ET ",1
+2,WFC,13/10/2023,6:48:00," Wells Fargo & Co Q3 Income Rises, Beats estimates Wells Fargo & Co Q3 23 Earnings Conference Call At 10:00 AM ET ",1
+3,PNC,13/10/2023,6:51:00," PNC Financial Services Group Inc. Bottom Line Declines In Q3, but beats estimates PNC Financial Services Group Q3 23 Earnings Conference Call At 11:00 AM ET ",0.5
+4,PGR,13/10/2023,8:21:00,, 
+5,JPM,13/10/2023,6:50:00," JPMorgan Q3 Profit Up 35%, Results Top Estimates  JPMorgan Chase Q3 Results Top Estimates  JPMorgan Chase & Co. Announces Climb In Q3 Profit, Beats estimates JPMorgan Chase & Co. Q3 23 Earnings Conference Call At 8:30 AM ET ",1
+6,C,13/10/2023,8:00:00, Citigroup Issues FY23 Outlook; Expects Modest Buybacks In Q4  Citigroup Inc. Q3 Profit Beats Estimates Citigroup Q3 23 Earnings Conference Call At 8:00 AM ET ,0.5
+7,UNH,13/10/2023,5:55:00," Unitedhealth Lifts FY23 Earnings Outlook Above Market View - Update  Unitedhealth Group Q3 23 Earnings Conference Call At 8:45 AM ET  Unitedhealth Group, Inc. Q3 Profit Increases, beats estimates",1
+8,BLK,13/10/2023,6:15:00," Blackrock Inc. Q3 Profit Increases, beats estimates Blackrock Q3 23 Earnings Conference Call At 7:30 AM ET ",1
+9,SCHW,16/10/2023,8:00:00," Charles Schwab Q3 Profit Decreases, but beats estimates",0.5
+10,PLD,17/10/2023,8:00:00, Prologis Boosts FY23 Core FFO Outlook - Update  ProLogis Q3 23 Earnings Conference Call At 12:00 PM ET ,1
+11,JNJ,17/10/2023,6:20:00," Johnson & Johnson Lifts 2023 Guidance Midpoints For Sales, Adj. EPS  Johnson & Johnson Q3 Profit Beats Estimates Johnson & Johnson Q3 23 Earnings Conference Call At 8:30 AM ET ",1
+12,GS,17/10/2023,7:30:00," Goldman Sachs Q3 Results Down, Yet Beat Market View  Goldman Sachs Group Inc. Q3 Profit Falls, but beats estimates Goldman Sachs Group Q3 23 Earnings Conference Call At 9:30 AM ET ",0.5
+13,BAC,17/10/2023,6:45:00," Bank of America Corporation Bottom Line Rises In Q3, Beats estimates Bank Of America Q3 23 Earnings Conference Call At 8:30 AM ET ",1
+14,LMT,17/10/2023,7:30:00, Lockheed Martin Corp. Q3 Profit Beats Estimates Lockheed Martin Q3 23 Earnings Conference Call At 11:00 AM ET ,1
+15,BK,17/10/2023,6:30:00," BNY Mellon Q3 Results Top Estimates  The Bank of New York Mellon Corp. Q3 Profit Increases, beats estimates The Bank Of New York Mellon Q3 23 Earnings Conference Call At 10:30 AM ET ",1
+16,PG,18/10/2023,6:55:00," Procter & Gamble Backs FY24 Earnings View Above Market; Adjusts Sales Growth Forecast - Update  Procter & Gamble Co. Profit Rises In Q1, Beats estimates Procter & Gamble Q1 24 Earnings Conference Call At 8:30 AM ET ",1
+17,MS,18/10/2023,7:30:00," Morgan Stanley Q3 Profit Down 9%, But Tops Estimates  Morgan Stanley Reports Decline In Q3 Bottom Line, but beats estimates Morgan Stanley Q3 23 Earnings Conference Call At 8:30 AM ET ",0.5
+18,USB,18/10/2023,6:45:00," US Bancorp Q3 Profit Decreases, but beats estimates US Bancorp Q3 23 Earnings Conference Call At 8:00 AM ET ",0.5
+19,TRV,18/10/2023,6:57:00," The Travelers Companies  Inc. Q3 Profit Decreases, misses estimates The Travelers Companies Q3 23 Earnings Conference Call At 9:00 AM ET ",0
+0,NTRS,18/10/2023,7:06:00," Northern Trust Q3 23 Earnings Conference Call At 9:30 AM ET  Northern Trust Corp. Profit Retreats In Q3, but beats estimates",0
+1,ELV,18/10/2023,6:00:00,, 
+2,ABT,18/10/2023,7:30:00, Abbott Laboratories Lifts Midpoint Of FY23 Earnings Outlook Range - Update  Abbott Laboratories Q3 Profit Beats Estimates Abbott Laboratories Q3 23 Earnings Conference Call At 9:00 AM ET ,1
+3,STT,18/10/2023,7:30:00," State Street Corp. Announces Fall In Q3 Profit, misses estimates State Street Q3 23 Earnings Conference Call At 11:00 AM ET ",0
+4,NDAQ,18/10/2023,7:00:00, Nasdaq Q3 Results Top Estimates; Declares Dividend  Nasdaq Inc. Q3 Profit Beats Estimates Nasdaq Q3 23 Earnings Conference Call At 8:00 AM ET ,1
+5,MTB,18/10/2023,6:20:00, M&T Bank Corp. Profit Climbs In Q3,1
+6,CFG,18/10/2023,6:20:00," Citizens Financial Group, Inc. Q3 Profit Retreats, misses estimates",0
+7,T,19/10/2023,6:35:00," AT&T Q3 Adj. Profit Tops View, Lifts FY23 Forecast; Stock Up In Premarket  AT&T Q3 Profit Down, Revenues Rise - Quick Facts  AT&T Q3 23 Earnings Conference Call At 8:30 AM ET ",1
+8,TFC,19/10/2023,6:06:00, Truist Financial Q3 23 Earnings Conference Call At 8:00 AM ET  Truist Financial Corporation Reports Fall In Q3 Income,0
+9,PM,19/10/2023,6:59:00," Philip Morris Cuts FY23 Earnings View; Lifts Constant Currency Growth Estimate - Update  Philip Morris International Q3 Profit Decreases, but beats estimates Philip Morris International Q3 23 Earnings Conference Call At 9:00 AM ET ",0.5
+10,FCX,19/10/2023,8:00:00,, 
+11,BX,19/10/2023,7:00:00," Blackstone Q3 Earnings Fall, Below View  Blackstone Inc. Q3 Earnings Summary Blackstone Q3 23 Earnings Conference Call At 9:00 AM ET ",0
+12,AAL,19/10/2023,7:00:00, American Airlines Q3 Profit Beats Estimates; Lowers 2023 Earnings Outlook  American Airlines Group Inc Q3 Earnings Summary American Airlines Group Q3 23 Earnings Conference Call At 8:30 AM ET ,0.5
+13,UNP,19/10/2023,7:45:00, Union Pacific Corp. Q3 Profit Declines Union Pacific Q3 23 Earnings Conference Call At 8:45 AM ET ,0
+14,MMC,19/10/2023,7:00:00," Marsh & McLennan Companies Q3 23 Earnings Conference Call At 8:30 AM ET  Marsh & McLennan Companies Inc Q3 Profit Increases, beats estimates",1
+15,KEY,19/10/2023,6:39:00," KeyCorp Reveals Fall In Q3 Income, but beats estimates",0
+16,FITB,19/10/2023,6:30:00, Fifth Third Bancorp Q3 23 Earnings Conference Call At 9:00 AM ET  Fifth Third Bancorp Q3 Profit  beats estimates,1
+17,SNA,19/10/2023,6:30:00, Snap-On Inc. Bottom Line Climbs In Q3 Snap-On Q3 23 Earnings Conference Call AT 10:00 AM ET ,1
+18,POOL,19/10/2023,7:00:00, Pool Corp Trims FY23 Outlook As Q3 Results Top Estimates ,1
+19,GPC,19/10/2023,6:55:00," Genuine Parts Boosts FY23 Adj. EPS Outlook - Update  Genuine Parts Co Q3 Profit Increases, beats estimates Genuine Parts Q3 23 Earnings Conference Call At 11:00 AM ET ",1
+0,CMA,20/10/2023,6:38:00," Comerica Inc. Bottom Line Declines In Q3, but beats estimates Comerica Q3 23 Earnings Conference Call At 8:00 AM ET ",0
+1,SLB,20/10/2023,6:50:00," Schlumberger Ltd. Bottom Line Climbs In Q3, Beats estimates Schlumberger Q3 23 Earnings Conference Call At 9:30 AM ET ",1
+2,HBAN,20/10/2023,7:00:00," Huntington Bancshares Q3 23 Earnings Conference Call At 9:00 AM ET  Huntington Bancshares Inc. Q3 Profit Drops, but beats estimates",0.5
+3,AXP,20/10/2023,7:00:00," American Express Backs FY23 Outlook - Update  American Express Co. Announces Rise In Q3 Bottom Line, Beats estimates American Express Q3 23 Earnings Conference Call At 8:30 AM ET ",1
+4,RF,20/10/2023,6:00:00," Regions Financial Q3 Profit Rises, But Misses Estimates  Regions Financial Corp. Q3 Income Rises, but misses estimates Regions Financial Q3 23 Earnings Conference Call At 10:00 AM ET ",0
+5,IPG,20/10/2023,7:00:00," Interpublic Group Of Companies Inc. Q3 Profit Decreases, misses estimates Interpublic Group Of Companies Q3 23 Earnings Conference Call At 8:30 AM ET ",0
+6,KO,24/10/2023,6:55:00," Coca-Cola Lifts FY23 Outlook - Update  The Coca-Cola Company Q3 Profit Increases, beats estimates The Coca-Cola Q3 23 Earnings Conference Call At 8:30 AM ET ",1
+7,GM,24/10/2023,6:30:00, General Motors Q3 Earnings Above View; Guides Better Than Estimates; Stock Up In Pre-market ,1
+8,FI,24/10/2023,7:01:00, Fiserv Lifts Full Year 2023 Outlook; Stock Rises ,1
+9,VZ,24/10/2023,7:00:00," Verizon Q3 Results Top Estimates; Backs FY23 Outlook  Verizon Communications Q3 Profit Decreases, but beats estimates Verizon Communications Q3 23 Earnings Conference Call At 8:30 AM ET ",0.5
+10,MMM,24/10/2023,6:30:00, 3M Increases 2023 Adj. EPS Guidance; Stock Rises  3M Co. Q3 Earnings Summary 3M Co. Q3 23 Earnings Conference Call At 9:00 AM ET ,1
+11,GE,24/10/2023,6:05:00, GE Plans To Spin Off GE Vernova And Launch GE Aerospace In Beginning Of Q2  General Electric Co Q3 Earnings Summary General Electric Q3 23 Earnings Conference Call At 7:30 AM ET ,1
+12,CNC,24/10/2023,6:00:00," Centene Q3 23 Earnings Conference Call At 8:30 AM ET  Centene Lifts FY23 Adj. EPS View Above Market; Backs FY24 Forecast - Update  Centene Corporation Q3 Profit Decreases, but beats estimates",0.5
+13,SYF,24/10/2023,6:00:00, Synchrony Financial Q3 23 Earnings Conference Call At 8:00 AM ET  Synchrony Financial Q3 Profit  beats estimates,1
+14,RTX,24/10/2023,7:00:00, RTX Q3 23 Earnings Conference Call At 8:30 AM ET  RTX Corporation Q3 Earnings Summary,1
+15,PHM,24/10/2023,6:30:00," PulteGroup Q3 23 Earnings Conference Call At 8:30 AM ET  PulteGroup, Inc. Reveals Increase In Q3 Income, Beats estimates",1
+16,PCAR,24/10/2023,8:00:00," Paccar Inc. Announces Climb In Q3 Profit, Beats estimates Paccar Q3 23 Earnings Conference Call At 12:00 PM ET ",1
+17,NEE,24/10/2023,7:30:00, NextEra Energy Affirms Annual Earnings Outlook - Update ,1
+18,KMB,24/10/2023,7:00:00," Kimberly-Clark Q3 23 Earnings Conference Call At 8:30 AM ET  Kimberly-Clark Q3 Profit Up, Beats Estimates; Raises Earnings Outlook ",1
+19,IVZ,24/10/2023,6:55:00," Invesco Q3 23 Earnings Conference Call At 9:00 AM ET  Invesco Q3 Earnings Fall, Misses Estimates ",0
+0,ITW,24/10/2023,8:00:00," Llinois Tool Works Q3 Earnings Top Estimates; Narrows FY23 EPS Outlook Range  Illinois Tool Works Inc Announces Increase In Q3 Income, Beats estimates Illinois Tool Works Q3 23 Earnings Conference Call At 10:00 AM ET ",1
+1,HCA,24/10/2023,7:30:00," HCA Healthcare Narrows FY23 Outlook; Declares Dividend - Update  HCA Healthcare, Inc. Q3 Profit Misses Estimates HCA Healthcare Q3 23 Earnings Conference Call AT 10:00 AM ET ",0.5
+2,HAL,24/10/2023,6:45:00," Halliburton Company Q3 Profit Increases, beats estimates Halliburton Q3 23 Earnings Conference Call At 9:00 AM ET ",1
+3,GLW,24/10/2023,7:10:00," Corning Q3 Earnings Fall, Misses Estimates; Provides Q4 Outlook  Corning Inc. Q3 Profit Decreases, misses estimates Corning Q3 23 Earnings Conference Call At 8:30 AM ET ",0
+4,DOW,24/10/2023,6:00:00," Dow Names Jeffrey Tate CFO, Succeeding Howard Ungerleider, Effective Nov. 1  Dow Inc. Q3 Profit Decreases, but beats estimates Dow Q3 23 Earnings Conference Call At 8:00 AM ET ",0.5
+5,DHR,24/10/2023,6:00:00," Danaher Q3 23 Earnings Conference Call At 8:00 AM ET  Danaher Corp. Q3 Profit Decreases, but beats estimates",0.5
+6,ADM,24/10/2023,7:00:00," Archer-Daniels-Midland Q3 23 Earnings Conference Call At 9:00 AM ET  Archer-Daniels-Midland Q3 Profit Decreases, but beats estimates",0.5
+7,SHW,24/10/2023,7:00:00," Sherwin-Williams Q3 Profit Up, Beats Estimates; Lifts FY23 Earnings View  Sherwin-Williams Co Q3 Profit Increases, beats estimates",1
+8,PNR,24/10/2023,6:55:00," Pentair Plc Updates Full Year Adj. EPS Guidance  Pentair plc Q3 Profit Increases, beats estimates Pentair Q3 23 Earnings Conference Call At 9:00 AM ET ",1
+9,NVR,24/10/2023,9:00:00,, 
+10,DOV,24/10/2023,6:30:00," Dover Corp Q3 Profit Increases, beats estimates Dover Corp. Q3 23 Earnings Conference Call At 10:00 AM ET ",1
+11,DGX,24/10/2023,6:50:00," Quest Diagnostics Q3 23 Earnings Conference Call At 8:30 AM ET  Quest Diagnostics Narrows FY23 Adj. EPS Outlook Range, Boosts Revenue Forecast - Update  Quest Diagnostics Q3 Profit Decreases, but beats estimates",0.5
+12,BA,25/10/2023,7:30:00," Amended: The Boeing Co. Q3 Loss Decreases, But Misses Estimates  The Boeing Q3 23 Earnings Conference Call At 10:30 AM ET ",0
+13,OTIS,25/10/2023,6:05:00,, 
+14,GD,25/10/2023,7:00:00," General Dynamics Corp. Q3 Profit Declines, but beats estimates General Dynamics Q3 23 Earnings Conference Call At 9:00 AM ET ",0.5
+15,FTV,25/10/2023,7:30:00," Fortive Corporation Q3 Profit Increases, Inline With Estimates",1
+16,WAB,25/10/2023,6:30:00," Wabtec Q3 23 Earnings Conference Call At 8:30 AM ET  Wabtec Increases Full-Year Guidance; Stock Rises  Wabtec Corporation Q3 Profit Increases, beats estimates",1
+17,TMUS,25/10/2023,6:52:00," T-Mobile US, Inc. Q3 Profit Climbs, Beats estimates",1
+18,TMO,25/10/2023,6:00:00," Thermo Fisher Scientific Q3 23 Earnings Conference Call At 8:30 AM ET  Thermo Fisher Scientific Cuts FY23 Outlook Below Market - Update  Thermo Fisher Scientific Q3 Profit Increases, beats estimates",0.5
+19,TDY,25/10/2023,6:55:00," Teledyne Technologies Sees Q4 Earnings Below Market; Lifts FY23 Outlook - Update  Teledyne Technologies Inc Q3 Profit Increases, beats estimates Teledyne Names Robert Mehrabian Executive Chairman; Edwin Roks To Assume Role Of CEO ",0.5
+0,ROP,25/10/2023,6:55:00, Roper Technologies Q3 Profit Beats View; Lifts FY Adj. EPS Outlook ,1
+1,ODFL,25/10/2023,7:00:00," Old Dominion Freight Line, Inc. Reports Fall In Q3 Income, but beats estimates",0.5
+2,NSC,25/10/2023,8:06:00," Norfolk Southern Corp Q3 Profit Decreases, misses estimates Norfolk Southern Q3 23 Earnings Conference Call At 8:45 AM ET ",0
+3,MCO,25/10/2023,6:52:00," Moody's Reaffirms Full Year Adj. EPS Guidance Range  Moodys Corp. Q3 Profit Increases, beats estimates Moody's Q3 23 Earnings Conference Call At 11:30 AM ET ",1
+4,HLT,25/10/2023,6:00:00," Hilton Worldwide Holdings Q3 23 Earnings Conference Call At 9:00 AM ET  Hilton Worldwide Q3 Profit Up, Matches Estimates; Provides Q4 And Full-year Outlook - Update ",1
+5,HES,25/10/2023,7:00:00," Hess Corporation Q3 Profit Decreases, but beats estimates",0.5
+6,CME,25/10/2023,7:00:00," CME Group, Inc. Q3 Profit Increases, beats estimates CME Group Q3 23 Earnings Conference Call At 8:30 AM ET ",1
+7,AVY,25/10/2023,6:45:00," Avery Dennison Corp. Q3 Profit Drops, Inline With Estimates Avery Dennison Q3 23 Earnings Conference Call At 1:00 PM ET ",0.5
+8,APH,25/10/2023,8:00:00," Amphenol Corp. Q3 Income Climbs, Beats estimates Amphenol Q3 23 Earnings Conference Call At 1:00 PM ET ",1
+9,ADP,25/10/2023,7:00:00," Automatic Data Processing Inc. Q1 Profit Increases, beats estimates Automatic Data Processing Q1 24 Earnings Conference Call At 8:30 AM ET ",1
+10,MKTX,25/10/2023,6:30:00," MarketAxess Holdings Inc. Profit Retreats In Q3, misses estimates",0
+11,UPS,26/10/2023,6:00:00," United Parcel Service Q3 23 Earnings Conference Call At 8:30 AM ET  UPS Q3 Adj. Earnings Beat View; Cuts FY23 Outlook, Stock Down In Premarket ",0
+12,MRK,26/10/2023,6:30:00, Merck Reports Higher Profit For Q3; Revises Full-year Outlook  Merck & Co Q3 23 Earnings Conference Call At 9:00 AM ET ,1
+13,LIN,26/10/2023,6:00:00," Linde Q3 Profit Climbs, Tops View, While Sales Miss; Lifts FY23 Earnings Forecast Above Market ",1
+14,BMY,26/10/2023,6:59:00, Bristol-Myers Squibb Boosts FY23 Adj. EPS Outlook As Q3 Adj. EPS Tops Estimates  Bristol-Myers Squibb Q3 23 Earnings Conference Call At 8:00 AM ET ,1
+15,VLO,26/10/2023,6:30:00, Valero Energy Corp. Q3 Profit Beats Estimates,1
+16,STX,26/10/2023,8:05:00, Seagate Technology Q1 Earnings - Update  Seagate Technology Q1 24 Earnings Conference Call At 9:00 AM ET , 
+17,NOC,26/10/2023,6:31:00," Northrop Grumman Q3 23 Earnings Conference Call At 9:00 AM ET  Northrop Grumman Q3 Results Improve, Better Than View; Ups Full Year Revenue Outlook ",1
+18,MO,26/10/2023,7:00:00," Altria Group Q3 23 Earnings Conference Call At 9:00 AM ET  Altria Group  Inc. Q3 Profit Increases, beats estimates Altria Group Narrows FY23 Adj. EPS Guidance Range - Quick Facts ",1
+19,MA,26/10/2023,8:00:00," Mastercard Incorporated Q3 Profit Increases, beats estimates Mastercard Q3 23 Earnings Conference Call At 9:00 AM ET ",1
+0,LUV,26/10/2023,6:32:00," Southwest Airlines Inc. Q3 Profit Drops, Inline With Estimates Southwest Airlines Q3 23 Earnings Conference Call At 12:30 PM ET ",0.5
+1,LH,26/10/2023,7:06:00, Laboratory Corporation Of America Holdings Q3 23 Earnings Conference Call At 9:00 AM ET  Labcorp Updates FY23 Earnings Guidance ,0.5
+2,KVUE,26/10/2023,6:30:00,, 
+3,KIM,26/10/2023,6:50:00, Kimco Realty Boosts FY23 Outlook As Q3 Results Top Estimates  Kimco Realty Q3 23 Earnings Conference Call At 8:30 AM ET ,1
+4,KDP,26/10/2023,7:00:00," Keurig Dr Pepper Inc. Q3 Profit Increases, beats estimates Keurig Dr Pepper Q3 23 Earnings Conference Call At 8:00 AM ET ",1
+5,HON,26/10/2023,6:04:00," Honeywell Narrows FY23 Sales, Adj. EPS Guidance Ranges  Honeywell International Inc. Q3 Profit Decreases, but beats estimates Honeywell International Q3 23 Earnings Conference Call At 8:30 AM ET ",0
+6,CMCSA,26/10/2023,7:00:00, Comcast Corp. Q3 Earnings Summary Comcast Q3 23 Earnings Conference Call At 8:30 AM ET ,0.5
+7,CARR,26/10/2023,6:45:00,, 
+8,TXT,26/10/2023,6:30:00," Textron Q3 23 Earnings Conference Call At 8:00 AM ET  Textron Inc. Q3 Profit Rises, Beats Estimates; Ups Annual Earnings Guidance Above View - Update ",1
+9,RCL,26/10/2023,7:00:00," Royal Caribbean Cruises Ltd. Q3 Profit Increases, beats estimates",1
+10,PCG,26/10/2023,6:05:00," PG&E Corp. Q3 Profit Down, Misses Estimates; Confirms Annual Earnings Guidance - Update  PG&E Corp. Q3 23 Earnings Conference Call At 11:00 AM ET ",0
+11,NEM,26/10/2023,7:00:00, Newmont Corporation Q3 Income Retreats,0
+12,LKQ,26/10/2023,6:00:00," LKQ Corp Q3 23 Earnings Conference Call At 8:00 AM ET  LKQ Corp Q3 Profit Decreases, misses estimates",0
+13,IP,26/10/2023,7:00:00, International Paper Announces Retreat In Q3 Profit,0
+14,HSY,26/10/2023,6:50:00," Hershey Q3 Results Climb, Top Estimates; Backs FY23 Outlook  Hershey Q3 23 Earnings Conference Call At 8:30 AM ET ",1
+15,GWW,26/10/2023,8:00:00," W.W. Grainger Revises Annual Outlook In Line With Estimates  Grainger (W.W.) Inc. Profit Rises In Q3, Beats estimates",0.5
+16,CNP,26/10/2023,6:29:00," CenterPoint Energy Q3 23 Earnings Conference Call At 8:00 AM ET  CenterPoint Energy Appoints Jason Wells As CEO  CenterPoint Energy Q3 Profit Increases, Beats Estimates; Raises Annual Earnings Guidance - Update ",1
+17,CMS,26/10/2023,6:41:00," CMS Energy Corp. Q3 Profit Increases, but misses estimates CMS Energy Q3 23 Earnings Conference Call At 9:30 AM ET ",0
+18,BSX,26/10/2023,6:37:00," Boston Scientific Issues Guidance  Boston Scientific Corp Q3 Profit Increases, beats estimates Boston Scientific Q3 23 Earnings Conference Call At 8:00 AM ET ",1
+19,BG,26/10/2023,6:00:00," Bunge Limited Q3 Profit Decreases, but beats estimates",0.5
+0,AOS,26/10/2023,6:59:00," A.O. Smith Corp Q3 Profit Increases, beats estimates",1
+1,AMT,26/10/2023,7:00:00, American Tower Q3 23 Earnings Conference Call At 8:30 AM ET , 
+2,WTW,26/10/2023,6:00:00," Willis Towers Watson Public Q3 23 Earnings Conference Call At 9:00 AM ET  Willis Towers Watson Public Limited Company Q3 Profit Decreases, but beats estimates",1
+3,WST,26/10/2023,6:10:00,, 
+4,VMC,26/10/2023,7:30:00," Vulcan Materials Co. Q3 Profit Increases, beats estimates",1
+5,TSCO,26/10/2023,6:55:00," Tractor Supply Profit Rises In Q3, Beats estimates",1
+6,MAS,26/10/2023,7:00:00," Masco Corp. Q3 Profit Increases, beats estimates Masco Q3 23 Earnings Conference Call At 8:00 AM ET ",1
+7,HAS,26/10/2023,6:30:00," Hasbro Slips Over 10% In Pre-market After Q3 Loss, Cut In Annual Revenue Outlook  Hasbro Inc. Q3 Earnings Summary Hasbro Q3 23 Earnings Conference Call At 8:00 AM ET ",0
+8,XOM,27/10/2023,6:30:00," Exxon Mobil Corp. Q3 Profit Decreases, but beats estimates Exxon Mobil Q3 23 Earnings Conference Call At 8:30 AM ET ",1
+9,TROW,27/10/2023,7:15:00," T. Rowe Price Group Q3 Profit Increases, beats estimates T. Rowe Price Group Q3 23 Earnings Conference Call At 8:00 AM ET ",1
+10,CVX,27/10/2023,6:15:00," Chevron Corp. Q3 Profit Decreases, misses estimates Chevron Q3 23 Earnings Conference Call At 11:00 AM ET ",0
+11,ABBV,27/10/2023,7:44:00," AbbVie Raises 2023 Adj. EPS Guidance; Announces 2024 Dividend Increase  AbbVie Q3 Profit Decreases, but beats estimates AbbVie Q3 23 Earnings Conference Call At 9:00 AM ET ",1
+12,XEL,27/10/2023,6:00:00," Xcel Energy Inc Q3 Profit Increases, but misses estimates",0.5
+13,SWK,27/10/2023,6:00:00," Stanley Black & Decker Lifts FY23 Adj. EPS View Above Market; Stock Up In Premarket - Update  Stanley Black & Decker, Inc. Q3 Profit Decreases, but beats estimates Stanley Black & Decker Q3 23 Earnings Conference Call At 8:00 AM ET ",1
+14,PSX,27/10/2023,7:00:00," Phillips 66 Q3 Profit Decreases, misses estimates Phillips 66 Q3 23 Earnings Conference Call At 12:00 PM ET ",0
+15,LYB,27/10/2023,6:30:00," LyondellBasell Industries N.V. Q3 Profit Increases, beats estimates",1
+16,CL,27/10/2023,6:55:00," Colgate-Palmolive Boosts FY23 Adj. EPS, Sales Growth Outlook - Update  Colgate-Palmolive Co. Q3 Profit Increases, beats estimates Colgate-Palmolive Q3 23 Earnings Conference Call At 8:30 AM ET ",1
+17,CHTR,27/10/2023,7:00:00," Charter Communications Q3 23 Earnings Conference Call At 8:30 AM ET  Charter Communications, Inc. Bottom Line Advances In Q3, Beats estimates",1
+18,CBRE,27/10/2023,6:50:00," CBRE Group Q3 23 Earnings Conference Call At 8:30 AM ET  CBRE Group, Inc. Q3 Profit Decreases, but beats estimates",1
+19,AON,27/10/2023,6:03:00," Aon Plc Q3 23 Earnings Conference Call At 8:30 AM ET  Aon plc Q3 Profit Increases, beats estimates",1
+0,MCD,30/10/2023,7:00:00," McDonalds Corp. Q3 Profit Increases, beats estimates McDonald's Q3 23 Earnings Conference Call At 8:30 AM ET ",1
+1,L,30/10/2023,6:00:00, Loews Corp. Q3 Earnings Summary,0.5
+2,WDC,30/10/2023,8:00:00," Western Digital Posts Adj. Loss In Q1, Revenue Down 26%; To Form Two Independent Public Companies  Western Digital Corp Q1 Earnings Summary Western Digital Q1 24 Earnings Conference Call At 4:30 PM ET ",0
+3,ON,30/10/2023,8:00:00," ON Semiconductor Corp. Q3 Profit Increases, beats estimates ON Semiconductor Q3 23 Earnings Conference Call At 9:00 AM ET ",1
+4,DOC,30/10/2023,6:59:00, Healthpeak Properties Q3 Nareit FFO Rises; Announces Merger With Physicians Realty Trust ,0.5
+5,RVTY,30/10/2023,6:00:00," Revvity Cuts Annual Outlook Below View  Revvity, Inc. Announces Fall In Q3 Bottom Line, misses estimates",0
+6,PFE,31/10/2023,6:45:00, Pfizer Reaffirms FY23 Outlook - Update  Pfizer Inc. Q3 Earnings Summary Pfizer Q3 23 Earnings Conference Call At 10:00 AM ET ,0.5
+7,CAT,31/10/2023,6:30:00," Caterpillar Inc. Q3 Profit Increases, beats estimates Caterpillar Q3 23 Earnings Conference Call At 8:30 AM ET ",1
+8,ZBRA,31/10/2023,6:30:00, Zebra Technologies Issues Q4 Outlook; Stock Up In Premarket - Update  Zebra Technologies Corporation Q3 Earnings Summary Zebra Technologies Q3 23 Earnings Conference Call At 8:30 AM ET ,0.5
+9,TECH,31/10/2023,6:30:00," Bio-Techne Corp. Q1 Profit Decreases, misses estimates",0
+10,MSCI,31/10/2023,6:45:00," MSCI Inc. Q3 Profit Increases, beats estimates",1
+11,INCY,31/10/2023,7:00:00," Incyte Corporation Q3 Profit Increases, beats estimates Incyte Q3 23 Earnings Conference Call At 8:00 AM ET ",1
+12,GEHC,31/10/2023,6:20:00," GE HealthCare Technologies Inc. Q3 Profit Decreases, but beats estimates",0
+13,AMGN,31/10/2023,7:05:00," Amgen Lifts FY23 Adj. Earnings, Revenue Outlook - Update  Amgen Inc. Q3 Profit Decreases, but beats estimates Amgen Q3 23 Earnings Conference Call At 8:00 AM ET ",0.5
+14,XYL,31/10/2023,6:55:00," Xylem Q3 23 Earnings Conference Call At 9:00 AM ET  Xylem Inc. Q3 Profit Increases, Beats Estimates; Revises FY Outlook  Xylem Inc. Reports Climb In Q3 Bottom Line",1
+15,SYY,31/10/2023,8:00:00," Sysco Corp. Q1 Profit Increases, beats estimates Sysco Q1 24 Earnings Conference Call At 10:00 AM ET ",1
+16,MPC,31/10/2023,6:40:00," Marathon Petroleum Corporation Q3 Profit Decreases, but beats estimates Marathon Petroleum Q3 23 Earnings Conference Call At 11:00 AM ET ",0
+17,HUBB,31/10/2023,7:30:00,,0.5
+18,ETN,31/10/2023,6:30:00," Eaton Sees Q4 Earnings Above Market, Lifts FY23 Forecast; Stock Up In Premarket - Update  Eaton Corp. Q3 Profit Increases, beats estimates",1
+19,BEN,31/10/2023,8:30:00,,0.5
+0,AME,31/10/2023,6:55:00," AMETEK Raises 2023 Guidance; To Acquire Paragon Medical  Ametek Inc. Q3 Profit Increases, beats estimates Ametek Q3 23 Earnings Conference Call At 8:30 AM ET ",1
+1,WEC,31/10/2023,7:05:00," WEC Energy Group Q3 23 Earnings Conference Call At 2:00 PM ET  WEC Energy Group Profit Rises In Q3, Beats estimates",1
+2,PEG,31/10/2023,7:35:00," Public Service Enterprise Reaffirms FY23 Operating Earnings Outlook - Update  Public Service Enterprise Group Inc Q3 Profit Increases, beats estimates",0.5
+3,LDOS,31/10/2023,6:00:00," Leidos Holdings Raises FY23 Guidance - Update  Leidos Holdings, Inc. Q3 Earnings Summary",1
+4,GPN,31/10/2023,6:55:00," Global Payments Boosts FY23 Adj. EPS Outlook - Update  Global Payments Inc. Q3 Profit Increases, beats estimates Global Payments Q3 23 Earnings Conference Call At 8:00 AM ET ",1
+5,ECL,31/10/2023,8:00:00," Ecolab Inc. Q3 Profit Increases, beats estimates Ecolab Q3 23 Earnings Conference Call At 1:00 PM ET ",1
+6,ALLE,31/10/2023,5:30:00, Allegion Q3 23 Earnings Conference Call At 8:00 AM ET  Allegion Plc Raises FY23 Adj. Earnings Outlook  Allegion Bottom Line Rises In Q3,1
+7,CVS,01/11/2023,6:30:00," CVS Health Cuts FY23 Earnings View, Backs Adj. EPS Forecast - Update  CVS Health Corp. Q3 Earnings Summary CVS Health Q3 23 Earnings Conference Call At 8:00 AM ET ",0
+8,YUM,01/11/2023,7:04:00," Yum! Brands Inc. Q3 Profit Increases, beats estimates Yum! Brands Q3 23 Earnings Conference Call At 8:15 AM ET ",1
+9,MLM,01/11/2023,6:55:00," Martin Marietta Materials, Inc. Q3 Income Advances",1
+10,GRMN,01/11/2023,7:00:00," Garmin Ltd Q3 Profit Increases, beats estimates",1
+11,ETR,01/11/2023,6:30:00," Entergy Corp Q3 Profit Increases, beats estimates",1
+12,DD,01/11/2023,6:10:00," DuPont To Complete Sale Of 80.1% Stake In Delrin Business To TJC  DuPont Cuts FY23 Earnings, Revenue View - Update  EI DuPont De Nemours & Co. Bottom Line Retreats In Q3",0
+13,BLDR,01/11/2023,7:00:00," BUILDERS FIRSTSOURCE INC Q3 Profit Decreases, but beats estimates",0.5
+14,TT,01/11/2023,6:30:00,, 
+15,TEL,01/11/2023,6:05:00," TE Connectivity Ltd. Q4 Profit Decreases, but beats estimates TE Connectivity Q4 23 Earnings Conference Call At 8:30 AM ET ",0.5
+16,NI,01/11/2023,6:30:00," NiSource Reaffirms 2023 NOEPS Guidance; Introduces 2024 NOEPS Outlook  NiSource Inc. Q3 Profit Increases, beats estimates NiSource Q3 23 Earnings Conference Call At 11:00 AM ET ",0.5
+17,KHC,01/11/2023,7:00:00," The Kraft Heinz Q3 23 Earnings Conference Call At 9:00 AM ET  Kraft Heinz Lifts FY23 Earnings View Above Market; Backs Sales Forecast - Update  The Kraft Heinz Company Q3 Profit Decreases, but beats estimates",0.5
+18,IQV,01/11/2023,7:00:00," IQVIA Holdings Slashes FY23 Outlook - Update  IQVIA Holdings Q3 23 Earnings Conference Call AT 9:00 AM ET  IQVIA Holdings Inc. Q3 Profit Increases, beats estimates",0
+19,HUM,01/11/2023,6:30:00, Humana Q3 23 Earnings Conference Call At 9:00 AM ET  Humana Affirms FY22 Adj. EPS Outlook - Update  Humana Inc Reveals Decline In Q3 Bottom Line,0.5
+0,EL,01/11/2023,6:45:00," Pre -market Movers: CLLS, PAYC, WE, IRIX, GDEV?? Estee Lauder Slashes FY24 Outlook - Update  The Est?e Lauder Companies Inc. Q1 Profit Decreases, but beats estimates The Est?e Lauder Companies Q1 24 Earnings Conference Call At 9:30 AM ET ",0
+1,DTE,01/11/2023,7:00:00," DTE Energy Q3 23 Earnings Conference Call At 9:00 AM ET  DTE Energy Co Q3 Profit Decreases, misses estimates",0
+2,CDW,01/11/2023,7:00:00," CDW Q3 23 Earnings Conference Call At 8:30 AM ET  CDW Corporation Q3 Profit Increases, beats estimates",1
+3,VRSK,01/11/2023,6:45:00," Verisk Analytics Backs FY23 Ernings, Revenue View - Update  Verisk Analytics Inc. Q3 sales increase Verisk Analytics Q3 23 Earnings Conference Call At 8:00 AM ET ",1
+4,TRMB,01/11/2023,6:55:00," Trimble Q3 Profit Down, Cuts FY23 Outlook; Names Phil Sawarynski CFO ",0
+5,NCLH,01/11/2023,7:30:00, Norwegian Cruise Line Holdings Ltd. Q3 Earnings Summary, 
+6,IDXX,01/11/2023,6:30:00," IDEXX Laboratories Q3 23 Earnings Conference Call At 8:30 AM ET  IDEXX Labs Lifts FY23 Earnings View, Cuts Revenue Forecast - Update  IDEXX Laboratories Inc Q3 Income Climbs, Beats estimates",1
+7,GNRC,01/11/2023,6:00:00,, 
+8,DAY,01/11/2023,8:02:00,, 
+9,SBUX,02/11/2023,6:00:00," Starbucks Corp. Q4 Profit Increases, beats estimates Starbucks Q4 23 Earnings Conference Call At 7:00 AM ET ",1
+10,MRNA,02/11/2023,6:30:00," Moderna Slips To Hefty Loss In Q3; Expects To Return To Sales Growth In FY25, To Break Even In FY26 ",0
+11,PWR,02/11/2023,6:55:00," Quanta Services Q3 23 Earnings Conference Call At 9:00 AM ET  Quanta Services Tightens FY23 Earnings View, Lifts Revenue Forecast - Update  Quanta Services Inc. Q3 Profit Increases, beats estimates",1
+12,LLY,02/11/2023,6:45:00, Eli Lilly Cuts Annual Earnings Outlook Below View - Update  Eli Lilly And Co. Q3 Earnings Summary Eli Lilly And Co. Q3 23 Earnings Conference Call At 9:00 AM ET ,0
+13,FOXA,02/11/2023,7:30:00," Fox Corporation Q1 Profit Decreases, but beats estimates Fox Corp. Q1 24 Earnings Conference Call At 8:00 AM ET ",1
+14,COR,02/11/2023,6:30:00,, 
+15,CMI,02/11/2023,7:30:00,, 
+16,CI,02/11/2023,6:00:00," Cigna Group Q3 Profit Down, But Beats Estimates; Lifts Annual Outlook, But Below View  Cigna Q3 23 Earnings Conference Call At 8:30 AM ET ",0.5
+17,BALL,02/11/2023,6:00:00," Ball Corporation Q3 Profit Decreases, but beats estimates",1
+18,APTV,02/11/2023,6:45:00," Aptiv Q3 23 Earnings Conference Call At 8:00 AM ET  Aptiv Q3 Profit Increases, Beats Estimates; Provides Full-year Guidance - Update ",1
+19,AEP,02/11/2023,6:57:00," American Electric Power Co Inc Q3 Profit Increases, beats estimates American Electric Power Co Q3 23 Earnings Conference Call At 9:00 AM ET ",1
+0,ZTS,02/11/2023,7:00:00, Zoetis Q3 23 Earnings Conference Call At 8:30 AM ET , 
+1,TAP,02/11/2023,7:00:00," Molson Coors Q3 Profit Surges, Beats Market; Lifts FY23 Earnings Growth View  Molson Coors Brewing Company Q3 Profit Increases, beats estimates",1
+2,SPGI,02/11/2023,7:15:00," S&P Global Q3 23 Earnings Conference Call At 8:30 AM ET  S&P Global Inc. Q3 Profit Increases, beats estimates",1
+3,SO,02/11/2023,7:30:00," Southern Co. Q3 Profit Decreases, but beats estimates Southern Co. Q3 23 Earnings Conference Call At 1:00 PM ET ",0
+4,ROK,02/11/2023,7:00:00," Rockwell Automation Q4 23 Earnings Conference Call At 8:30 AM ET  Rockwell Automation  Inc. Q4 Profit Decreases, but beats estimates",0
+5,REGN,02/11/2023,6:30:00," Regeneron Pharmaceuticals Q3 Profit Decreases, but beats estimates Regeneron Pharmaceuticals Q3 23 Earnings Conference Call At 8:30 AM ET ",0
+6,PPL,02/11/2023,8:30:00," PPL Corporation Q3 Profit Increases, Inline With Estimates",1
+7,PNW,02/11/2023,8:30:00,, 
+8,PH,02/11/2023,7:30:00,, 
+9,MAR,02/11/2023,6:41:00," Marriott International Inc. Q3 Profit Increases, beats estimates Marriott International Q3 23 Earnings Conference Call At 8:00 AM ET ",1
+10,ICE,02/11/2023,7:30:00, IntercontinentalExchange Group Inc. Q3 Earnings Summary, 
+11,HWM,02/11/2023,7:00:00,, 
+12,HII,02/11/2023,7:15:00, Huntington Ingalls Industries Q3 23 Earnings Conference Call At 9:00 AM ET , 
+13,FOX,02/11/2023,7:30:00," Fox Corporation Q1 Profit Decreases, but beats estimates Fox Corp. Q1 24 Earnings Conference Call At 8:00 AM ET ",0
+14,EXC,02/11/2023,6:50:00, Exelon Q3 Profit Rises  Exelon Q3 23 Earnings Conference Call At 10:00 AM ET ,0.5
+15,DUK,02/11/2023,7:00:00," Duke Energy Corp Q3 Profit Decreases, misses estimates",0
+16,COP,02/11/2023,7:00:00," ConocoPhillips Q3 Profit Down, Adj. EPS Beats View; Lifts FY23 Production Guidance  ConocoPhillips Q3 23 Earnings Conference Call At 12:00 PM ET ",0.5
+17,BWA,02/11/2023,6:30:00," Borg Warner Q3 23 Earnings Conference Call At 9:30 AM ET  BorgWarner Updates Full Year Sales, EPS Guidance  Borg Warner Inc. Q3 Profit Decreases, but beats estimates",0
+18,BR,02/11/2023,7:20:00," Broadridge Financial Solutions Q1 24 Earnings Conference Call At 8:30 AM ET  Broadridge Financial Solutions Inc. Q1 Profit Increases, beats estimates",1
+19,BAX,02/11/2023,7:15:00, Baxter International Q3 23 Earnings Conference Call At 8:30 AM ET  Baxter International Inc. Q3 Earnings Summary, 
+0,XRAY,02/11/2023,6:00:00, Dentsply Sirona Q3 23 Earnings Conference Call At 8:30 AM ET  Dentsply Sirona Posts Narrower Q3 Loss; Lowers Annual Outlook Below View  Dentsply Sirona Inc Q3 Earnings Summary,0
+1,TRGP,02/11/2023,6:00:00,, 
+2,TFX,02/11/2023,6:30:00," Teleflex Q3 Profit, Revenue Rise; Narrows Outlook  Teleflex Q3 23 Earnings Conference Call At 8:00 AM ET ",1
+3,NRG,02/11/2023,7:00:00," NRG Energy Q3 23 Earnings Conference Call At 9:00 AM ET  NRG Energy Inc Profit Climbs In Q3, but misses estimates",0.5
+4,IRM,02/11/2023,6:45:00," Iron Mountain Q3 AFFO Rises, Revenues Up 7.9%; To Acquire Regency Technologies  Iron Mountain Q3 23 Earnings Conference Call At 8:30 AM ET ",1
+5,EPAM,02/11/2023,6:00:00,, 
+6,CBOE,03/11/2023,7:30:00, CBOE Global Q3 Profit Beats Estimates; Now Sees FY23 Revenue Growth At High End Of Estimate Range  CBOE Global Markets Q3 23 Earnings Conference Call At 8:30 AM ET ,1
+7,CAH,03/11/2023,6:55:00," Cardinal Health Raises FY24 Non-GAAP EPS Guidance; Sees Pharmaceutical Revenue Growth Of 10%-12%  Cardinal Health Inc Q1 Profit Decreases, but beats estimates Cardinal Health Q1 24 Earnings Conference Call At 8:30 AM ET ",1
+8,SRE,03/11/2023,7:00:00," Sempra Energy Q3 Profit Increases, beats estimates Sempra Q3 23 Earnings Conference Call At 12:00 PM ET ",1
+9,D,03/11/2023,7:30:00," Dominion Energy, Inc. Q3 Profit Decreases, misses estimates Dominion Energy Q3 23 Earnings Conference Call At 10:00 AM ET ",0
+10,CHD,03/11/2023,6:55:00," Church & Dwight Sees Q4 Earnings Below Market; Backs FY23 Earnings View - Update  Church & Dwight Co Inc. Q3 Profit Decreases, but beats estimates",0
+11,IT,03/11/2023,6:00:00," Gartner Q3 23 Earnings Conference Call At 8:00 AM ET  Gartner Lifts FY23 Earnings, Revenue View Above Market - Update  Gartner, Inc. Q3 Profit Increases, beats estimates",1
+12,CEG,06/11/2023,6:43:00," Constellation Energy Raises 2023 Adj. EBITDA Guidance  Constellation Energy Group, Inc. Q3 Earnings Summary",1
+13,UBER,07/11/2023,6:55:00," Uber Turns To Profit In Q3, But Misses Estimates; Sees Sequentially Higher Q4 Results ",0.5
+14,FIS,07/11/2023,7:00:00," Fidelity National Information Services Q3 Profit Increases, beats estimates",1
+15,EVRG,07/11/2023,7:00:00," Evergy Q3 23 Earnings Conference Call At 9:00 AM ET  Evergy, Inc. Q3 Profit Decreases, but beats estimates Evergy Q3 Profit Declines On Weak Revenues ",0
+16,GEN,07/11/2023,8:00:00," Gen Digital Q2 Adj. EPS Meets Estimates; Maintains FY23 Outlook  Gen Digital Inc. Q2 Profit Increases, Inline With Estimates Genesis Healthcare Q2 24 Earnings Conference Call At 8:00 AM ET ",1
+17,EXPD,07/11/2023,8:30:00,, 
+18,EMR,07/11/2023,6:55:00, Emerson Electric Co. Announces Rise In Q4 Bottom Line Emerson Electric Q4 23 Earnings Conference Call At 8:00 AM ET ,1
+19,DHI,07/11/2023,6:30:00, D R Horton Q4 23 Earnings Conference Call At 8:30 AM ET  D.R. Horton Q4 Net Income Declines; Homebuilding Revenue Down 6% ,0
+0,APD,07/11/2023,6:06:00," Air Products And Chemicals Inc. Q4 Profit Increases, beats estimates Air Products And Chemicals Q4 23 Earnings Conference Call At 8:30 AM ET ",1
+1,ZBH,07/11/2023,6:30:00," Zimmer Biomet Holdings Q3 23 Earnings Conference Call At 8:30 AM ET  Zimmer Biomet Trims FY23 Revenue Growth Outlook - Update  Zimmer Biomet Holdings Inc. Q3 Profit Decreases, but beats estimates",0
+2,WAT,07/11/2023,6:50:00," Waters Sees Q4 Earnings Below Market; Cuts FY23 Outlook - Update  Waters Corp. Q3 23 Earnings Conference Call At 8:00 AM ET  Waters Corp. Q3 Profit Decreases, but beats estimates",0
+3,BIIB,08/11/2023,7:02:00, Biogen Slashes Outlook - Update  Biogen Q3 23 Earnings Conference Call At 8:00 AM ET ,0
+4,WBD,08/11/2023,7:05:00,,0.5
+5,RL,08/11/2023,8:01:00, Ralph Lauren Corp. Q2 Earnings Summary Ralph Lauren Q2 24 Earnings Conference Call At 9:00 AM ET ,0.5
+6,K,08/11/2023,8:03:00," Kellanova Issues Guidance For Its Initial Quarter  Kellanova Q3 Profit Decreases, but beats estimates Kellogg Q3 23 Earnings Conference Call At 9:30 AM ET ",1
+7,CRL,08/11/2023,7:00:00, Charles River Laboratories Narrows FY23 Outlook Range; Q3 Results Top Estimates ,1
+8,WRK,09/11/2023,6:30:00," WestRock Company Q4 Profit Decreases, but beats estimates",1
+9,TPR,09/11/2023,6:45:00," Tapestry Q1 24 Earnings Conference Call At 8:00 AM ET  Tapestry, Inc. Q1 Profit Beats Estimates",1
+10,BDX,09/11/2023,6:30:00," BD Issues FY24 Guidance  Becton, Dickinson and Company Q4 Profit Decreases, misses estimates Becton, Dickinson And Co. Q4 23 Earnings Conference Call At 8:00 AM ET ",0
+11,TDG,09/11/2023,7:20:00," TransDigm Group Guides FY24 Revenues Above Estimates; Announces Special Dividend - Update  TransDigm Group Incorporated Q4 Profit Increases, beats estimates TransDigm Buys CPI's Electron Device Business For $1.385 Bln Cash ",1
+12,TSN,13/11/2023,7:30:00, Tyson Foods Slips To Loss In Q4; Guides FY24 Sales Below Estimates  Tyson Foods Inc. Q4 Earnings Summary Tyson Foods Q4 23 Earnings Conference Call At 9:00 AM ET ,0
+13,HSIC,13/11/2023,6:00:00," Henry Schein Updates 2023 Guidance; Sales To Decline Primarily Due To Cybersecurity Incident  Henry Schein Inc. Q3 Profit Drops, Inline With Estimates",0
+14,HD,14/11/2023,6:00:00," The Home Depot Q3 23 Earnings Conference Call At 9:00 AM ET  Home Depot Narrows FY23 Outlook Range - Update  The Home Depot, Inc. Bottom Line Drops In Q3, but beats estimates",1
+15,TGT,15/11/2023,6:30:00," Target Guides Q4 Adj. EPS In Line With Estimates - Update  Target Corp. Reports Climb In Q3 Income, Beats estimates Target Corp. Q3 23 Earnings Conference Call At 8:00 AM ET ",1
+16,TJX,15/11/2023,7:30:00," TJX Companies Boosts FY24 Outlook - Update  The TJX Companies, Inc. Announces Increase In Q3 Income The TJX Companies Q3 24 Earnings Conference Call At 11:00 AM ET ",1
+17,CTLT,15/11/2023,6:59:00, Catalent Posts Adj. Loss In Preliminary Q1; Organic Net Revenue Down 8% ,0
+18,WMT,16/11/2023,7:00:00," Walmart Now Sees FY24 Adj. Earnings In Line Or Below Market View; Stock Down In Premarket - Update  Walmart Inc. Q3 Earnings Summary Walmart Q3 24 Earnings Conference Call At 8:00 AM ET  Kilitch Healthcare Recalls Eye Drops Sold Through Walmart, Target, CVS ",0
+19,BBWI,16/11/2023,6:00:00, Bath & Body Works Q3 Profit Rises; Updates FY Forecast ,1

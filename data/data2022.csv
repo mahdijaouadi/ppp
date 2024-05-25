@@ -1,0 +1,1121 @@
+,ticker,date,time,headline,pred_label
+0,WBA,2022-01-06,07:00:00," Walgreens Boots Alliance Q1 Profit Tops Estimates, Sales Up 7.8%; Raises FY22 Guidance  Walgreens Boots Alliance Q1 22 Earnings Conference Call At 8:30 AM ET ",1
+1,STZ,2022-01-06,07:30:00, Constellation Brands Q3 Profit Tops Estimates; Increases FY22 Comparable Basis EPS	outlook  Constellation Brands To Bring Coca-Cola's FRESCA Brand To The U.S. Next Year - Quick Facts ,1
+2,CAG,2022-01-06,07:30:00," Conagra Brands Reaffirms FY22 Adj. EPS Guidance; Increases Organic Net Sales Guidance  Conagra Brands Inc. Q2 Profit Decreases, misses estimates Conagra Brands Q2 22 Earnings Conference Call At 9:30 AM ET ",0
+3,LW,2022-01-06,08:30:00," Lamb Weston Projects 2022 Net Sales Growth Above Long-term Target Range  Lamb Weston Holdings, Inc. Q2 Profit Decreases, but beats estimates Lamb Weston Holdings Q2 22 Earnings Conference Call At 10:00 AM ET ",1
+4,DAL,2022-01-13,06:30:00," 8,000 Delta Employees Test Positive In Last 4 Weeks; Quarterly Results Impacted  Delta Air Lines Reports Adj. Profit In Q4; Projects Loss In Q1  Delta Air Lines Q4 21 Earnings Conference Call At 10:00 AM ET ",0
+5,WFC,2022-01-14,06:48:00," Wells Fargo & Co Q4 Profit Rises, Beats estimates Wells Fargo Q4 21 Earnings Conference Call At 10:00 AM ET ",1
+6,JPM,2022-01-14,06:47:00," JPMorgan Q4 Profit Down 14%, But Results Top Estimates  JPMorgan Chase & Co. Q4 Profit Falls, but beats estimates JPMorgan Chase & Co. Q4 21 Earnings Conference Call At 8:30 AM ET ",0
+7,C,2022-01-14,08:00:00, Citigroup Q4 Net Income Declines On Higher Expenses; Revenues Up 1%  Citigroup Inc. Q4 Profit Falls Citigroup Q4 21 Earnings Conference Call At 11:00 AM ET  Citi To Sell Four Asian Units To Singapore's UOB Group ,0
+8,BLK,2022-01-14,06:30:00," BlackRock Q4 Profit Rises 6%, Tops Estimates; Boosts Dividend 18% - Quick Facts  Blackrock Inc. Q4 Profit Increases, beats estimates Blackrock Q4 21 Earnings Conference Call At 8:30 AM ET ",1
+9,GS,2022-01-18,07:30:00," Goldman Sachs Q4 Profit Down 13%, Misses Estimates  Goldman Sachs Group Inc. Profit Falls In Q4, misses estimates Goldman Sachs Group Q4 21 Earnings Conference Call At 9:30 AM ET ",0
+10,BK,2022-01-18,06:30:00," Bank Of New York Mellon Expects Double-digit EPS Growth  The Bank of New York Mellon Corp. Q4 Profit Increases, beats estimates The Bank Of New York Mellon Q4 21 Earnings Conference Call At 8:00 AM ET ",1
+11,SCHW,2022-01-18,08:45:00,,0
+12,PNC,2022-01-18,06:45:00," PNC Financial Q4 Profit Declines, But Adj. EPS Tops Estimates - Quick Facts  PNC Financial Services Group Inc. Q4 Profit Decreases, but beats estimates PNC Financial Services Group Q4 21 Earnings Conference Call At 9:30 AM ET ",0
+13,TFC,2022-01-18,05:45:00," Truist Financial Q4 Profit Increases, Tops Estimates - Quick Facts  Truist Financial Q4 21 Earnings Conference Call At 8:30 AM ET  Truist Financial Corporation Q4 Profit Increases, beats estimates",1
+14,PG,2022-01-19,06:58:00, Procter & Gamble Q2 Results Top Estimates; Boosts FY22 Sales Outlook - Quick Facts  Procter & Gamble Co. Q2 Earnings Summary Procter & Gamble Q2 22 Earnings Conference Call At 8:30 AM ET ,1
+15,MS,2022-01-19,07:30:00, Morgan Stanley Q4 Profit Rises 10%  Morgan Stanley Bottom Line Rises In Q4 Morgan Stanley Q4 21 Earnings Conference Call At 8:30 AM ET ,1
+16,CMA,2022-01-19,06:40:00," Comerica Inc. Reports Increase In Q4 Profit, Beats estimates Comerica Q4 21 Earnings Conference Call At 10:00 AM ET ",1
+17,BAC,2022-01-19,06:45:00," Bank Of America Q4 Profit Up 30%, Tops Estimates - Quick Facts  Bank of America Corporation Bottom Line Rises In Q4, Beats estimates Bank Of America Q4 21 Earnings Conference Call At 11:00 AM ET ",1
+18,USB,2022-01-19,06:45:00," US Bancorp Q4 21 Earnings Conference Call At 9:00 AM ET  U.S. Bancorp Q4 Net Income Rises; Net Revenue Down 1.2%  US Bancorp Q4 Income Rises, but misses estimates",0
+19,UNH,2022-01-19,05:55:00," UnitedHealth Group Affirms FY22 Outlook; Q4 Results Top Estimates - Quick Facts  Unitedhealth Group, Inc. Q4 Profit Increases, beats estimates Unitedhealth Group Q4 21 Earnings Conference Call At 8:45 AM ET ",1
+0,STT,2022-01-19,07:30:00, State Street Projects FY22 Fee Revenue To Rise 3-4% - Quick Facts  State Street Corp. Q4 Income Rises State Street Q4 21 Earnings Conference Call At 10:00 AM ET ,1.0
+1,FAST,2022-01-19,06:50:00," Fastenal Rises In Pre-market On Better-than-expected Quarterly Results  Fastenal Co. Q4 Income Advances, Beats estimates",1.0
+2,CFG,2022-01-19,06:20:00," Citizens Financial Group Q4 21 Earnings Conference Call At 8:00 AM ET  Citizens Financial Group, Inc. Bottom Line Advances In Q4, Beats estimates",1.0
+3,PLD,2022-01-19,08:00:00," Prologis Guides FY22 EPS Well Above Estimates - Quick Facts  ProLogis Q4 Profit Increases, beats estimates Prologis Q4 21 Earnings Conference Call At 12:00 PM ET ",1.0
+4,TRV,2022-01-20,06:57:00," Travelers Ticking Up In Pre-market On Upbeat Quarterly Results  Travelers Cos. Declares Qtly. Dividend Of $0.88/Share - Quick Facts  The Travelers Companies  Inc. Q4 Profit Increases, beats estimates",1.0
+5,AAL,2022-01-20,07:00:00," American Airlines Q4 Loss Narrows Better Than View  American Airlines Group Inc Q4 Loss Increases, but beats estimates American Airlines Group Q4 21 Earnings Conference Call At 8:30 AM ET ",0.5
+6,UNP,2022-01-20,08:00:00, Union Pacific Corp. Q4 Earnings Summary Union Pacific Q4 21 Earnings Conference Call At 8:45 AM ET ,1.0
+7,NTRS,2022-01-20,07:40:00," Northern Trust Corp. Q4 Income Climbs Northern Trust Q4 Profit Surges 69%, Results Top Estimates - Quick Facts ",1.0
+8,MTB,2022-01-20,06:40:00," M&T Bank Corp. Announces Retreat In Q4 Bottom Line, but beats estimates",0.5
+9,KEY,2022-01-20,06:30:00," KeyCorp Announces Advance In Q4 Income, Beats estimates KeyCorp Q4 21 Earnings Conference Call At 8:00 AM ET ",1.0
+10,FITB,2022-01-20,06:30:00, Fifth Third Bancorp Q4 income increases in line with estimates,1.0
+11,BKR,2022-01-20,07:00:00, Baker Hughes Q4 21 Earnings Conference Call At 8:30 AM ET  Baker Hughes Posts Adj. Profit In Q4 - Quick Facts ,1.0
+12,RF,2022-01-20,06:00:00," Regions Financial Corp. Q4 Income Declines, misses estimates",0.0
+13,SLB,2022-01-21,07:00:00," Schlumberger Q4 Profit Surges 61%, Results Top Estimates  Schlumberger Ltd. Announces Advance In Q4 Income Schlumberger Q4 21 Earnings Conference Call At 9:30 AM ET ",1.0
+14,HBAN,2022-01-21,07:00:00, Curtiss-Wright To Acquire Safran Aerosystems Arresting Company - Quick Facts  Huntington Bancshares Inc. Q4 Profit  misses estimates Huntington Bancshares Q4 21 Earnings Conference Call At 8:30 AM ET ,0.0
+15,HAL,2022-01-24,06:45:00, Halliburton Swings To Profit In Q4; Beats Estimates  Halliburton Q4 21 Earnings Conference Call At 9:00 AM ET ,1.0
+16,JNJ,2022-01-25,06:30:00," Johnson & Johnson Projects 2022 Adj. Operational EPS Growth Of 9.2%  Johnson & Johnson Q4 Profit Increases, beats estimates Johnson & Johnson Q4 21 Earnings Conference Call At 8:30 AM ET ",1.0
+17,GE,2022-01-25,06:30:00," GE Slips To Loss In Q4, But Adj. EPS Tops Estimates  General Electric Q4 21 Earnings Conference Call At 8:00 AM ET ",0.5
+18,VZ,2022-01-25,07:00:00, Verizon Q4 Results Beat View; Sees 2022 Profit Above View  Verizon Communications Q4 Profit Beats Estimates Verizon Communications Q4 21 Earnings Conference Call At 8:30 AM ET ,1.0
+19,MMM,2022-01-25,06:30:00, 3M Co. Profit Declines In Q4 3M Co. Q4 21 Earnings Conference Call At 9:00 AM ET ,0.0
+0,LMT,2022-01-25,07:30:00," Lockheed Martin Guides FY22 EPS Just Above Estimates, But  Sees Weak Revenues - Quick Facts  Lockheed Martin Corp. Profit Climbs In Q4 Lockheed Martin Q4 21 Earnings Conference Call At 11:00 AM ET ",0.0
+1,PCAR,2022-01-25,08:00:00," PACCAR Q4 Profit Beats Estimates  Paccar Inc. Announces Climb In Q4 Income, Beats estimates Paccar Q4 21 Earnings Conference Call At 12:00 PM ET ",1.0
+2,NEE,2022-01-25,07:30:00, Amended: NextEra Energy Q4 Profit Tops View; Lifts Annual Profit Outlook  NextEra Energy Q4 21 Earnings Conference Call At 9:00 AM ET ,1.0
+3,IVZ,2022-01-25,06:55:00, Invesco Q4 21 Earnings Conference Call At 9:00 AM ET  Invesco Ltd. Profit Rises In Q4,1.0
+4,AXP,2022-01-25,07:00:00," American Express Targets Elevated Levels Of Revenue Growth In 2022 - Quick Facts  American Express Co. Reveals Rise In Q4 Income, Beats estimates American Express Q4 21 Earnings Conference Call At 8:30 AM ET ",1.0
+5,ADM,2022-01-25,07:00:00," Archer-Daniels-Midland Q4 21 Earnings Conference Call At 9:00 AM ET  Archer-Daniels-Midland Boosts Dividend 8.1% - Quick Facts  Archer-Daniels-Midland Q4 Profit Increases, beats estimates",1.0
+6,RTX,2022-01-25,06:55:00," Raytheon Technologies Q4 21 Earnings Conference Call At 8:30 AM ET  Raytheon Projects Sales, Earnings Growth In 2022  Raytheon Technologies Corporation Q4 Profit Increases, beats estimates",1.0
+7,T,2022-01-26,06:28:00, AT&T Swings To Profit In Q4; Issues Weak FY22 Outlook  AT&T Turns To Profit In Q4; Guides FY22 Below Estimates - Quick Facts  AT&T Q4 21 Earnings Conference Call At 8:30 AM ET ,0.0
+8,BA,2022-01-26,07:30:00, Boeing Q4 Loss Sharply Narrows - Quick Facts  The Boeing Co. Q4 Loss Narrows The Boeing Q4 21 Earnings Conference Call At 10:30 AM ET ,1.0
+9,GD,2022-01-26,07:00:00," General Dynamics Corp. Bottom Line Declines In Q4, but beats estimates General Dynamics Q4 21 Earnings Conference Call At 9:00 AM ET ",0.5
+10,FCX,2022-01-26,08:00:00," Freeport-McMoRan Inc. Q4 Profit Increases, beats estimates",1.0
+11,ELV,2022-01-26,06:00:00,,0.0
+12,ABT,2022-01-26,07:30:00, Abbott Q4 Profit Tops Estimates; Net Sales Up 7.7% On Organic Basis  Abbott Laboratories Q4 21 Earnings Conference Call At 9:00 AM ET ,1.0
+13,TEL,2022-01-26,06:00:00, TE Connectivity Q1 22 Earnings Conference Call At 8:30 AM ET  TE Connectivity Guides Q2 Below Estimates - Quick Facts  TE Connectivity Ltd. Bottom Line Rises In Q1,0.0
+14,ROL,2022-01-26,07:30:00," Rollins, Inc. Q4 Profit  misses estimates",0.0
+15,PGR,2022-01-26,08:15:00, Progressive Corp. Q4 Net Income Declines - Quick Facts ,0.0
+16,NSC,2022-01-26,08:00:00," Norfolk Southern Corp Profit Advances In Q4, Beats estimates Norfolk Southern Q4 21 Earnings Conference Call At 8:45 AM ET ",1.0
+17,NDAQ,2022-01-26,07:00:00," Nasdaq Inc. Q4 Profit Increases, beats estimates Nasdaq Q4 21 Earnings Conference Call At 8:00 AM ET ",1.0
+18,KMB,2022-01-26,07:30:00," Kimberly-Clark Sees Operating Profit Down Low To Mid-single Digits Percent In 2022  Kimberly-Clark Corp Q4 Profit Decreases, but beats estimates",0.0
+19,HES,2022-01-26,07:30:00, Hess Corp. Q4 Profit Tops Estimates ,1.0
+0,GLW,2022-01-26,07:15:00," Corning Q4 Income, Sales Increase Above Street View; Sales Outlook Better Than Estimates  Corning Inc. Q4 Profit Increases, beats estimates Corning Q4 21 Earnings Conference Call At 8:30 AM ET ",1
+1,APH,2022-01-26,08:00:00," Amphenol Guides Q1 Sales Above Estimates - Quick Facts  Amphenol Corp. Q4 Profit Increases, beats estimates Amphenol Q4 21 Earnings Conference Call At 1:00 PM ET ",1
+2,ADP,2022-01-26,08:00:00," ADP Increases FY22 Guidance  Automatic Data Processing Inc. Q2 Profit Increases, beats estimates Automatic Data Processing Q2 22 Earnings Conference Call At 8:30 AM ET ",1
+3,MKTX,2022-01-26,06:30:00," MarketAxess Holdings Q4 Profit Declines, Below View  MarketAxess Holdings Inc. Q4 Profit Retreats, misses estimates",0
+4,MCD,2022-01-27,07:00:00," McDonald's Q4 Profit Rises 19%, But Results Miss Estimates  McDonalds Corp. Q4 Profit Increases, but misses estimates McDonald's Q4 21 Earnings Conference Call At 8:30 AM ET ",0
+5,VLO,2022-01-27,06:30:00, Valero Energy Q4 Profit Beats Estimates ,1
+6,NOC,2022-01-27,06:30:00, Northrop Grumman Q4 21 Earnings Conference Call At 9:00 AM ET  Northrop Grumman Q4 Adj. EPS Tops Estimates; Initiates FY22 Outlook - Quick Facts ,1
+7,MO,2022-01-27,07:00:00," Altria Group Q4 21 Earnings Conference Call At 9:00 AM ET  Altria Group  Inc. Q4 Profit Decreases, but beats estimates Altria Group Q4 Profit Tops Estimates; Issues FY22 Guidance ",1
+8,MA,2022-01-27,08:00:00," Mastercard Incorporated Q4 Profit Increases, beats estimates Mastercard Q4 21 Earnings Conference Call At 9:00 AM ET ",1
+9,LUV,2022-01-27,06:45:00, Southwest Airlines Co. Q4 Profit Beats Estimates  Southwest Airlines Q4 21 Earnings Conference Call At 12:30 PM ET ,1
+10,CMCSA,2022-01-27,07:00:00," Comcast Q4 Profit Down 9.6%, But Results Top Estimates; Boosts Dividend 8% - Quick Facts  Comcast Corp. Q4 Profit Decreases, but beats estimates Comcast Q4 21 Earnings Conference Call At 8:30 AM ET ",1
+11,BX,2022-01-27,06:50:00, Blackstone Q4 Earnings Beat View; AUM Rises ,1
+12,XEL,2022-01-27,06:00:00, Xcel Energy Inc Q4 income increases in line with estimates,1
+13,TXT,2022-01-27,06:30:00, Textron Q4 21 Earnings Conference Call At 8:00 AM ET  Textron Sees Higher FY22 Results - Quick Facts  Textron Inc. Q4 Profit Drops,0
+14,TDY,2022-01-27,06:55:00, Teledyne Technologies Inc Q4 Profit Beats Estimates,1
+15,SHW,2022-01-27,07:00:00," Sherwin-Williams Co Q4 Profit Decreases, misses estimates",0
+16,NUE,2022-01-27,08:00:00," Nucor Q4 21 Earnings Conference Call At 2:00 PM ET  Nucor Corp. Reports Increase In Q4 Profit, Beats estimates",1
+17,MMC,2022-01-27,07:00:00," Marsh & McLennan Companies Q4 21 Earnings Conference Call At 8:30 AM ET  Marsh & McLennan Companies Inc Q4 Profit Increases, beats estimates",1
+18,MKC,2022-01-27,06:30:00," McCormick Q4 21 Earnings Conference Call At 8:00 AM ET  McCormick Guides FY22 Above Estimates - Quick Facts  McCormick & Co. Q4 Profit Decreases, but beats estimates",1
+19,IP,2022-01-27,07:00:00, International Paper Profit Retreats In Q4 International Paper Q4 21 Earnings Conference Call At 10:00 AM ET ,0
+0,HCA,2022-01-27,07:30:00," HCA Healthcare, Inc. Bottom Line Rises In Q4, Beats estimates",1
+1,DOW,2022-01-27,06:00:00," Dow Inc. Q4 21 Earnings Conference Call At 8:00 AM ET  Dow Inc. Q4 Profit Increases, beats estimates",1
+2,DOV,2022-01-27,07:00:00," Dover Issues FY22 Guidance - Quick Facts  Dover Corp Q4 Profit Increases, beats estimates Dover Corp. Q4 21 Earnings Conference Call At 9:30 AM ET ",1
+3,DHR,2022-01-27,06:00:00," Danaher Q4 21 Earnings Conference Call At 8:00 AM ET  Danaher Corp. Q4 Profit Increases, beats estimates",1
+4,AOS,2022-01-27,06:55:00," A. O. Smith Issues FY22 Guidance - Quick Facts  A.O. Smith Corp Bottom Line Rises In Q4, Beats estimates",1
+5,TSCO,2022-01-27,06:15:00," Tractor Supply Q4 Earnings Summary Tractor Supply Reveals Advance In Q4 Profit, Beats estimates Tractor Supply Q4 21 Earnings Conference Call At 10:00 AM ET ",1
+6,ROK,2022-01-27,07:00:00," Rockwell Automation  Inc. Q1 Profit Decreases, but beats estimates Rockwell Automation Q1 22 Earnings Conference Call At 8:30 AM ET ",0.5
+7,MSCI,2022-01-27,06:45:00," MSCI Inc. Q4 Profit Increases, beats estimates",1
+8,TROW,2022-01-27,07:00:00," T. Rowe Price Group Q4 Profit Decreases, but beats estimates",0.5
+9,CAT,2022-01-28,06:30:00," Caterpillar Q4 Results Top Estimates - Quick Facts  Caterpillar Inc. Q4 Profit Increases, beats estimates Caterpillar Q4 21 Earnings Conference Call At 8:30 AM ET ",1
+10,CVX,2022-01-28,06:00:00, Chevron Turns To Profit In Q4  Chevron Q4 21 Earnings Conference Call At 11:00 AM ET ,1
+11,WY,2022-01-28,03:05:00," Weyerhaeuser Q4 Results Up, Top Estimates; Declares Dividend ",1
+12,VFC,2022-01-28,06:55:00," VF Corp Q3 22 Earnings Conference Call At 8:30 AM ET  VF Corp. Reaffirms FY22 Earnings, But Trims Revenue Outlook; Declares Dividend - Quick Facts  VF Corp Q3 Profit Increases, beats estimates",1
+13,SYF,2022-01-28,06:00:00, Synchrony Financial Q4 21 Earnings Conference Call At 8:00 AM ET  Synchrony Financial Q4 income increases in line with estimates,1
+14,PSX,2022-01-28,07:00:00, Phillips 66 Q4 Profit Tops Estimates  Phillips 66 Q4 21 Earnings Conference Call At 12:00 PM ET ,1
+15,LYB,2022-01-28,06:30:00," LyondellBasell Industries N.V. Q4 Profit Decreases, misses estimates LyondellBasell Industries N.V. Q4 21 Earnings Conference Call At 11:00 AM ET ",0
+16,CL,2022-01-28,06:55:00," Colgate-Palmolive Guides FY22 Revenues Growth In Line - Quick Facts  Colgate-Palmolive Co. Q4 Profit Drops, Inline With Estimates Colgate-Palmolive Q4 21 Earnings Conference Call At 8:30 AM ET ",0.5
+17,CHTR,2022-01-28,07:00:00," Charter Communications Q4 21 Earnings Conference Call At 8:30 AM ET  Charter Communications, Inc. Reports Advance In Q4 Bottom Line, Beats estimates",1
+18,CHD,2022-01-28,06:55:00," Church & Dwight Sees Q1 Sales Growth Of About 3%-4%  Church & Dwight Co Inc. Q4 Profit Increases, beats estimates",1
+19,TT,2022-01-31,06:30:00, Trane Technologies Q4 Results To Estimates; Guides FY22 In Line - Quick Facts ,1
+0,OTIS,2022-01-31,06:00:00, Otis Worldwide Q4 Profit Tops Estimates; Organic Sales Up 2.8% ,1.0
+1,LHX,2022-01-31,06:30:00," L3Harris Sees FY Organic Revenue Growth Of 1.0% - 3.0%  L3Harris Technologies, Inc. Q4 Income Advances L3Harris Technologies Q4 21 Earnings Conference Call At 8:30 AM ET ",1.0
+2,XOM,2022-02-01,07:30:00," ExxonMobil Swings To Profit In Q4, Tops Estimates  Exxon Mobil Corp. Q4 Earnings Summary Exxon Mobil Q4 21 Earnings Conference Call At 9:30 AM ET ",1.0
+3,UPS,2022-02-01,06:00:00," Pre-market Movers: KSCP, OBSV, SPIR, SI, CIAN…  UPS Q4 Profit Tops Estimates  United Parcel Service Q4 21 Earnings Conference Call At 8:30 AM ET ",1.0
+4,SWK,2022-02-01,06:00:00," Stanley Black & Decker Guides FY22 Above Estimates - Quick Facts  Stanley Black & Decker, Inc. Bottom Line Drops In Q4 Stanley Black & Decker Q4 21 Earnings Conference Call At 8:00 AM ET ",1.0
+5,PNR,2022-02-01,06:55:00, Pentair Q4 21 Earnings Conference Call At 9:00 AM ET  Pentair Plc Issues Q1 & FY22 Guidance - Quick Facts ,1.0
+6,PHM,2022-02-01,06:30:00, PulteGroup Q4 21 Earnings Conference Call At 8:30 AM ET ,1.0
+7,NVR,2022-02-01,09:00:00,, 
+8,CTLT,2022-02-01,07:00:00,, 
+9,BR,2022-02-01,07:00:00," Broadridge Financial Solutions Q2 22 Earnings Conference Call At 8:30 AM ET  Broadridge Financial Solutions Inc. Q2 Profit Drops, Inline With Estimates",0.5
+10,BEN,2022-02-01,08:30:00, Franklin Resources Q1 Profit Tops Estimates ,1.0
+11,WAT,2022-02-01,06:50:00, Waters Guides FY22 In Line; Q4 Results Top Estimates - Quick Facts  Waters Corp. Q4 21 Earnings Conference Call At 8:00 AM ET  Waters Corp. Q4 Profit Beats Estimates,1.0
+12,TECH,2022-02-01,06:30:00, Bio-Techne Q2 Results Top Estimates; Declares Dividend - Quick Facts ,1.0
+13,HUM,2022-02-02,06:30:00, Humana Q4 Profit Tops Estimates; Announces Value Creation Initiatives  Humana Inc Q4 Earnings Summary Humana Q4 21 Earnings Conference Call At 9:00 AM ET ,1.0
+14,ABBV,2022-02-02,07:44:00," AbbVie Guides FY22 Adj. EPS Above Estimates - Quick Facts  AbbVie Q4 21 Earnings Conference Call At 9:00 AM ET  AbbVie Q4 Profit Increases, beats estimates",1.0
+15,WM,2022-02-02,07:00:00," Waste Management Inc Q4 Profit Increases, Inline With Estimates Waste Management Q4 21 Earnings Conference Call At 10:00 AM ET ",1.0
+16,TMO,2022-02-02,06:00:00," Thermo Fisher Scientific Q4 21 Earnings Conference Call At 8:30 AM ET  Thermo Fisher Scientific Q4 Profit Decreases, but beats estimates",1.0
+17,ROP,2022-02-02,06:55:00," Roper Technologies Guides Q1, FY22 Adj. EPS In Line; Q4 Results Top Estimates - Quick Facts  Roper Technologies Inc. Profit Drops In Q4 Roper Technologies Q4 21 Earnings Conference Call At 8:00 AM ET ",1.0
+18,ODFL,2022-02-02,07:00:00," Old Dominion Freight Line Q4 Net Jumps 47%, Beats Expectations  Old Dominion Freight Line, Inc. Profit Rises In Q4, Beats estimates",1.0
+19,MPC,2022-02-02,06:05:00, Marathon Petroleum Corporation Q4 Earnings Summary Marathon Petroleum Q4 Profit Tops Estimates  Marathon Petroleum Q4 21 Earnings Conference Call At 11:00 AM ET ,1.0
+0,JCI,2022-02-02,07:00:00, Johnson Controls Reaffirms FY22 Outlook - Quick Facts  Johnson Controls Inc Q1 Income Falls Johnson Controls Q1 22 Earnings Conference Call At 8:30 AM ET ,0.5
+1,HWM,2022-02-02,07:00:00,, 
+2,EMR,2022-02-02,06:55:00, Emerson Electric Q1 22 Earnings Conference Call At 9:00 AM ET  Emerson Electric Boosts FY22 Outlook; Declares Dividend - Quick Facts  Emerson Electric Co. Profit Advances In Q1,1
+3,DHI,2022-02-02,06:30:00," D R Horton Q1 22 Earnings Conference Call At 8:30 AM ET  D.R. Horton Q1 Earnings, Revenue Guidance Above Estimates; Stock Up ",1
+4,CHRW,2022-02-02,08:00:00," C.H. Robinson Worldwide Inc. Bottom Line Rises In Q4, but misses estimates C.H. Robinson Worldwide Q4 21 Earnings Conference Call At 8:30 AM ET ",0
+5,BSX,2022-02-02,06:30:00," Boston Scientific Guides Q1, FY22 Below Estimates - Quick Facts  Boston Scientific Corp Q4 Profit Decreases, but beats estimates Boston Scientific Q4 21 Earnings Conference Call At 8:00 AM ET ",0
+6,AVY,2022-02-02,06:45:00," Avery Dennison Corp. Q4 Profit Decreases, but beats estimates",0
+7,IDXX,2022-02-02,06:30:00," IDEXX Laboratories Q4 21 Earnings Conference Call At 8:30 AM ET  IDEXX Labs Sees Higher FY22 Results - Quick Facts  IDEXX Laboratories Inc Announces Fall In Q4 Profit, but beats estimates",1
+8,MRK,2022-02-03,06:30:00, Merck Q4 Profit Beats Estimates  Merck & Co Q4 21 Earnings Conference Call At 8:00 AM ET ,1
+9,BIIB,2022-02-03,07:00:00, Biogen Posts Adj. Profit In Q4; Sees FY22 Results Below Market  Biogen Q4 21 Earnings Conference Call At 8:00 AM ET ,0
+10,LLY,2022-02-03,06:25:00, Eli Lilly Q4 Results Top Estimates; Reaffirms FY22 Outlook  Eli Lilly And Co. Profit Declines In Q4 Eli Lilly Q4 21 Earnings Conference Call At 9:00 AM ET ,1
+11,HON,2022-02-03,06:30:00," Honeywell Q4 Earnings Rise, Above Estimates; Provides Annual Outlook Below Consensus  Honeywell International Inc. Q4 Profit Increases, beats estimates Honeywell International Q4 21 Earnings Conference Call At 8:30 AM ET ",0.5
+12,CMI,2022-02-03,07:30:00," Cummins  Inc. Q4 Profit Retreats, misses estimates",0
+13,CI,2022-02-03,06:00:00," Cigna Corp. Sees FY22 Results Below Market  Cigna Corp. Q4 Profit Decreases, but beats estimates Cigna Q4 21 Earnings Conference Call At 8:30 AM ET ",0
+14,CAH,2022-02-03,06:45:00," Cardinal Health Q2 22 Earnings Conference Call At 8:30 AM ET  Cardinal Health Inc Q2 Profit Decreases, but beats estimates",0
+15,XYL,2022-02-03,06:55:00," Xylem Q4 Profit Drops, But Beats Estimates ",0
+16,WRK,2022-02-03,06:30:00," WestRock Q1 22 Earnings Conference Call At 8:30 AM ET  WestRock Company Q1 Profit Increases, beats estimates",1
+17,RL,2022-02-03,08:00:00," Ralph Lauren Again Boosts FY22 Revenue Growth Outlook - Quick Facts  Ralph Lauren Corp. Q3 Profit Increases, beats estimates Ralph Lauren Q3 22 Earnings Conference Call At 9:00 AM ET ",1
+18,PH,2022-02-03,07:30:00," Parker Hannifin Boosts FY22 Outlook As Q2 Results Top Estimates - Quick Facts  Parker Hannifin Corp. Q2 Profit Decreases, but beats estimates",1
+19,ITW,2022-02-03,08:00:00," Illinois Tool Works Guides FY22 In Line; Q4 Results Top Estimates - Quick Facts  Illinois Tool Works Inc Reports Decline In Q4 Bottom Line, but beats estimates",0.5
+0,ICE,2022-02-03,07:30:00," IntercontinentalExchange Group Inc. Q4 Profit Increases, beats estimates IntercontinentalExchange Group Q4 21 Earnings Conference Call At 8:30 AM ET ",1.0
+1,HUBB,2022-02-03,07:30:00,,0.5
+2,HSY,2022-02-03,07:00:00," Hershey Q4 21 Earnings Conference Call At 8:30 AM ET  Hershey Co. Q4 Profit Increases, beats estimates",1.0
+3,GWW,2022-02-03,08:00:00," W.W. Grainger Sees FY22 Sales Above Estimates - Quick Facts  Grainger (W.W.) Inc. Q4 Profit Increases, beats estimates",1.0
+4,EL,2022-02-03,06:45:00," The Estée Lauder Companies Inc. Q2 Profit Increases, beats estimates The Estée Lauder Companies Q2 22 Earnings Conference Call At 9:30 AM ET ",1.0
+5,COP,2022-02-03,07:00:00, ConocoPhillips Increases Planned 2022 Return Of Capital To $8 Bln; Issues Guidance  ConocoPhillips Q4 Earnings Summary ConocoPhillips Q4 21 Earnings Conference Call At 12:00 PM ET ,1.0
+6,CMS,2022-02-03,08:00:00," CMS Energy Raises FY22 Adj. EPS Guidance  CMS Energy Q4 21 Earnings Conference Call At 9:30 AM ET  CMS Energy Corp. Q4 Profit Increases, beats estimates",1.0
+7,BDX,2022-02-03,06:00:00," Becton, Dickinson And Co. Raises FY22 Outlook Above Market View  Becton, Dickinson and Company Q1 Profit Decreases, but beats estimates Becton, Dickinson And Co Q1 22 Earnings Conference Call At 8:00 AM ET ",1.0
+8,AME,2022-02-03,06:55:00," Ametek Inc. Q4 Profit Increases, beats estimates Ametek Q4 21 Earnings Conference Call At 8:30 AM ET ",1.0
+9,WEC,2022-02-03,07:00:00," WEC Energy Group Q4 21 Earnings Conference Call At 2:00 PM ET  WEC Energy Group Reports Fall In Q4 Income, but beats estimates",0.5
+10,SNA,2022-02-03,06:30:00," Snap-On Inc. Q4 Profit Increases, beats estimates",1.0
+11,DGX,2022-02-03,06:45:00, Quest Diagnostics Q4 21 Earnings Conference Call At 8:30 AM ET  Quest Names James Davis As CEO-elect To Succeed Steve Rusckowski; CFO Mark Guinan To Retire  Quest Diagnostics Guides FY22 In Line; Q4 Results Top Estimates; Boosts Dividend 6.5% - Quick Facts ,1.0
+12,FTV,2022-02-03,08:00:00," Fortive Q4 Profit Beats Estimates  Fortive Corporation Q4 Profit Decreases, but beats estimates",1.0
+13,APTV,2022-02-03,06:45:00," Aptiv PLC Q4 21 Earnings Conference Call At 8:00 AM ET  Aptiv PLC Q4 Profit Decreases, but beats estimates",1.0
+14,BMY,2022-02-04,06:59:00, Bristol-Myers Squibb Reaffirms FY22 Adj. EPS Outlook; Swings To Profit In Q4 - Quick Facts  Bristol-Myers Squibb Co. Q4 Earnings Summary Bristol-Myers Squibb Q4 21 Earnings Conference Call At 8:00 AM ET ,1.0
+15,REGN,2022-02-04,06:30:00," Regeneron Pharmaceuticals Q4 Profit Increases, beats estimates Regeneron Pharmaceuticals Q4 21 Earnings Conference Call At 8:30 AM ET ",1.0
+16,RCL,2022-02-04,08:00:00," Royal Caribbean Cruises Ltd. Q4 Loss Increases, misses estimates",0.0
+17,ETN,2022-02-04,06:30:00," Eaton Guides Q1, FY22 Adj. EPS In Line With Estimates - Quick Facts  Eaton Corp. Bottom Line Rises In Q4 Eaton Q4 21 Earnings Conference Call At 11:00 AM ET ",1.0
+18,APD,2022-02-04,06:00:00," Air Products Guides Q2 Below Estimates - Quick Facts  Air Products And Chemicals Inc. Q1 Profit Increases, beats estimates Air Products And Chemicals Q1 22 Earnings Conference Call At 8:30 AM ET ",0.5
+19,AON,2022-02-04,06:00:00," Aon plc Q4 Profit Increases, beats estimates Aon Plc Q4 21 Earnings Conference Call At 8:30 AM ET ",1.0
+0,CBOE,2022-02-04,07:00:00," CBOE Global Markets, Inc. Q4 Profit Increases, beats estimates CBOE Global Markets Q4 21 Earnings Conference Call At 8:30 AM ET ",1.0
+1,TSN,2022-02-07,07:30:00," Tyson Foods Q4 Results Top Estimates; Backs FY22 Sales Outlook  Tyson Foods Inc. Q1 Profit Increases, beats estimates Tyson Foods Q1 22 Earnings Conference Call At 9:00 AM ET ",1.0
+2,ON,2022-02-07,08:00:00," ON Semiconductor Guides Q1 Well Above Estimates - Quick Facts  ON Semiconductor Corp. Q4 Profit Increases, beats estimates ON Semiconductor Q4 21 Earnings Conference Call At 9:00 AM ET ",1.0
+3,ZBH,2022-02-07,06:30:00, Zimmer Biomet Issues FY22 Outlook; Expects To Complete ZimVie Spinoff On March 1  Zimmer Biomet Holdings Inc. Q4 Earnings Summary Zimmer Biomet Holdings Q4 21 Earnings Conference Call At 8:30 AM ET ,0.5
+4,HAS,2022-02-07,06:30:00," Hasbro Q4 Results Top Estimates; Boosts Dividend 3% - Quick Facts  Hasbro Inc. Q4 Profit Decreases, but beats estimates Hasbro Q4 21 Earnings Conference Call At 8:30 AM ET ",0.5
+5,L,2022-02-07,06:00:00, Loews Q4 Profit Declines - Quick Facts  Loews Corp. Bottom Line Declines In Q4 Loews Q4 21 Earnings Conference Call At 10:00 AM ET ,0.0
+6,PFE,2022-02-08,06:45:00, Pfizer Q4 Adj. Profit Rises; Projects 47% Operational Growth In FY22 Adj. EPS  Pfizer Inc. Q4 Income Advances Pfizer Q4 21 Earnings Conference Call At 10:00 AM ET ,1.0
+7,DD,2022-02-08,06:00:00," DuPont Issues Q1, FY22 Outlook; Lifts Dividend; To Buy Back $1 Bln Shares  EI DuPont De Nemours & Co. Q4 sales increase EI DuPont De Nemours & Co. Q4 21 Earnings Conference Call At 8:00 AM ET ",1.0
+8,CNC,2022-02-08,06:00:00, Centene Reiterates 2022 Adj. EPS Guidance  Centene Corporation Q4 Earnings Summary Centene Q4 21 Earnings Conference Call At 8:30 AM ET ,0.5
+9,TDG,2022-02-08,08:00:00, TransDigm Group Incorporated Q1 Earnings Summary,0.5
+10,SYY,2022-02-08,08:00:00," Sysco Corp. Q2 Profit Increases, but misses estimates Sysco Q2 22 Earnings Conference Call At 10:00 AM ET ",0.5
+11,SPGI,2022-02-08,07:15:00," S&P Global Inc. Q4 Profit Increases, beats estimates S&P Global Q4 21 Earnings Conference Call At 8:30 AM ET ",1.0
+12,J,2022-02-08,06:40:00," Jacobs Engineering Group Inc. Q1 Profit Decreases, misses estimates",0.0
+13,WTW,2022-02-08,06:00:00,,0.5
+14,MAS,2022-02-08,07:00:00," Masco Guides FY22 Adj. EPS In Line; Boosts Dividend 19% - Quick Facts  Masco Corp. Q4 Profit Decreases, misses estimates Masco Q4 21 Earnings Conference Call At 8:00 AM ET ",0.0
+15,IT,2022-02-08,06:00:00," Gartner, Inc. Q4 Profit Increases, beats estimates Gartner Q4 21 Earnings Conference Call At 8:00 AM ET ",1.0
+16,INCY,2022-02-08,07:00:00," Incyte Corporation Q4 Profit Increases, but misses estimates Incyte Q4 21 Earnings Conference Call At 8:00 AM ET ",0.5
+17,CARR,2022-02-08,06:30:00,,0.5
+18,CVS,2022-02-09,06:30:00," CVS Health Confirms FY22 Outlook - Quick Facts  CVS Health Corp. Q4 Profit Increases, beats estimates CVS Health Q4 21 Earnings Conference Call At 8:00 AM ET ",1.0
+19,YUM,2022-02-09,07:00:00," Yum! Brands Q4 Adj. EPS Misses Estimates, But Revenues Top - Quick Facts  Yum! Brands Inc. Q4 Profit Misses Estimates Yum! Brands Q4 21 Earnings Conference Call At 8:15 AM ET ",0.0
+0,FOXA,2022-02-09,08:00:00, Fox Corp. Q2 Adj. EBITDA Rises; Revenues Up 9%  Fox Corporation Q2 Earnings Summary Fox Corp. Q2 22 Earnings Conference Call At 8:30 AM ET ,1
+1,FOX,2022-02-09,08:00:00, Fox Corp. Q2 Adj. EBITDA Rises; Revenues Up 9%  Fox Corporation Q2 Earnings Summary Fox Corp. Q2 22 Earnings Conference Call At 8:30 AM ET ,1
+2,CME,2022-02-09,07:00:00," CME Group, Inc. Q4 Profit Increases, beats estimates CME Group Q4 21 Earnings Conference Call At 8:30 AM ET ",1
+3,CDW,2022-02-09,07:00:00, CDW Q4 21 Earnings Conference Call At 8:30 AM ET  CDW Corporation Q4 Profit Declines,0
+4,BG,2022-02-09,06:00:00," Bunge Limited Q4 Profit Decreases, but beats estimates",0.5
+5,TRMB,2022-02-09,07:00:00," Trimble Q4 Profit Misses View, But Sales Top; Sees FY Profit Below View ",0
+6,PEP,2022-02-10,06:00:00," PepsiCo Q4 Results Top View; Boosts Dividend 7% - Quick Facts  Pepsico Inc Q4 Profit Decreases, but beats estimates Pepsico Q4 21 Earnings Conference Call At 8:15 AM ET ",1
+7,KO,2022-02-10,06:55:00," Coca-Cola Q4 Profit Surges 66%, Results Top Estimates  The Coca-Cola Company Q4 Profit Increases, beats estimates The Coca-Cola Q4 21 Earnings Conference Call At 8:30 AM ET ",1
+8,PM,2022-02-10,07:00:00," Philip Morris Issues Q1, FY22 Earnings View  Philip Morris International Q4 Profit Increases, beats estimates Philip Morris International Q4 21 Earnings Conference Call At 9:00 AM ET ",1
+9,TPR,2022-02-10,06:45:00," Tapestry Announces Increased Share Repurchases; Lifts Full Year Guidance  Tapestry Q2 22 Earnings Conference Call At 8:00 AM ET  Tapestry, Inc. Q2 Profit Increases, beats estimates",1
+10,PCG,2022-02-10,08:00:00," PG&E Corp. Announces FY22 Earnings Outlook  PG&E Corp. Q4 Profit Increases, Inline With Estimates PG&E Q4 21 Earnings Conference Call At 11:00 AM ET ",1
+11,MCO,2022-02-10,07:00:00," Moodys Corp. Q4 Profit Increases, but misses estimates Moody's Q4 21 Earnings Conference Call At 11:30 AM ET ",0
+12,K,2022-02-10,08:00:00," Kellogg Initiates FY22 Outlook As Q4 Results Top Estimates - Quick Facts  Kellogg Company Q4 Profit Increases, beats estimates Kellogg Q4 21 Earnings Conference Call At 9:30 AM ET ",1
+13,HII,2022-02-10,07:15:00," Huntington Ingalls Industries, Inc. Q4 Profit Decreases, Beats Estimates ",0.5
+14,DUK,2022-02-10,06:30:00, Duke Energy Corp Q4 Earnings Summary Duke Energy Q4 21 Earnings Conference Call At 10:00 AM ET , 
+15,DTE,2022-02-10,07:00:00, DTE Energy Bottom Line Rises In Q4; Ups 2022 Outlook - Update ,1
+16,ZBRA,2022-02-10,06:30:00," Zebra Technologies Sees Q1 Adj. EPS Below Market; Raises Annualized Organic Net Sales Growth View  Zebra Technologies Corporation Q4 Profit Decreases, but beats estimates",0.5
+17,LH,2022-02-10,06:45:00," Labcorp Q4 21 Earnings Conference Call At 9:00 AM ET  Laboratory Corporation Of America Holdings Q4 Profit Decreases, but beats estimates",0
+18,KIM,2022-02-10,07:00:00," Kimco Realty Q4 Earnings Decline, Below Estimates; Revenue Beats  Kimco Realty Q4 21 Earnings Conference Call At 8:30 AM ET ",0
+19,GPN,2022-02-10,06:55:00," Global Payments Sets Growth Targets For 2022; Increases Share Repurchase Authorization  Global Payments Inc. Q4 Profit Increases, beats estimates Global Payments Q4 21 Earnings Conference Call At 8:00 AM ET ",1
+0,MLM,2022-02-10,06:50:00," Martin Marietta Materials, Inc. Q4 Profit Decreases, but beats estimates",0
+1,LIN,2022-02-10,06:30:00," Linde plc Q4 Profit Increases, beats estimates",1
+2,IPG,2022-02-10,07:00:00," Interpublic Group Q4 Profit Surges  Interpublic Group Of Companies Inc. Q4 Profit Increases, beats estimates Interpublic Group Of Companies Q4 21 Earnings Conference Call At 8:30 AM ET ",1
+3,D,2022-02-11,07:30:00," Dominion Energy Guides Q1, FY22 Operating EPS In Line With Estimates - Quick Facts  Dominion Energy, Inc. Q4 Profit Increases, but misses estimates Dominion Energy Q4 21 Earnings Conference Call At 10:00 AM ET ",0.5
+4,ZTS,2022-02-15,07:00:00," Zoetis Guides FY22 Adj. EPS Below Estimates; Q4 Results Top View - Quick Facts  Zoetis Q4 21 Earnings Conference Call At 8:30 AM ET  Zoetis Inc. Q4 Profit Increases, beats estimates",1
+5,MAR,2022-02-15,07:00:00, Marriott International Inc. Q4 Earnings Summary Marriott International Q4 21 Earnings Conference Call At 8:30 AM ET ,1
+6,IQV,2022-02-15,07:00:00," IQVIA Holdings Q4 21 Earnings Conference Call At 9:00 AM ET  IQVIA Holdings Boosts FY22 Adj. EPS Outlook - Quick Facts  IQVIA Holdings Inc. Q4 Profit Increases, beats estimates",1
+7,HSIC,2022-02-15,06:30:00," Henry Schein Guides FY22 EPS Above Estimates - Quick Facts  Henry Schein Inc. Q4 Profit Increases, beats estimates",1
+8,BWA,2022-02-15,06:30:00," BorgWarner On Track To Achieve More Than $3.3 Bln Of Electric Vehicle Revenue By 2025  BorgWarner To Acquire Santroll Automotive Components - Quick Facts  Borg Warner Inc. Q4 Profit Decreases, but beats estimates Borg Warner Q4 21 Earnings Conference Call At 9:30 AM ET ",1
+9,FIS,2022-02-15,07:00:00," FIS Projects FY22 Adj. EPS Growth Of 11% - 13% - Quick Facts  Fidelity National Information Services Q4 21 Earnings Conference Call At 8:30 AM ET  Fidelity National Information Services Q4 Profit Increases, beats estimates",1
+10,ECL,2022-02-15,08:30:00, Ecolab Inc. Q4 Profit Misses Estimates Ecolab Q4 21 Earnings Conference Call At 1:00 PM ET ,0
+11,ALLE,2022-02-15,05:30:00," Allegion Q4 21 Earnings Conference Call At 8:00 AM ET  Allegion Names Michael Wagnes New CFO To Succeed Patrick Shannon  Allegion Sees Higher FY22 Results, Future Growth Well Into 2023  Allegion Q4 Profit Increases, beats estimates",1
+12,LDOS,2022-02-15,06:00:00," Leidos Holdings Q4 21 Earnings Conference Call At 8:00 AM ET  Leidos Holdings Guides FY22 Below Estimates - Quick Facts  Leidos Holdings, Inc. Q4 Profit Decreases, misses estimates",0
+13,WAB,2022-02-16,06:30:00," Wabtec Q4 21 Earnings Conference Call At 8:30 AM ET  Wabtec Guides FY22 In Line; Boosts Dividend 25% - Quick Facts  Wabtec Corporation Q4 Profit Increases, beats estimates",1
+14,KHC,2022-02-16,08:00:00," Kraft Heinz Slips To Loss In Q4, But Results Top Estimates  The Kraft Heinz Company Q4 Earnings Summary The Kraft Heinz Q4 21 Earnings Conference Call At 9:00 AM ET ",0
+15,HLT,2022-02-16,06:00:00," Hilton Worldwide Holdings, Inc. Q4 Earnings Summary",1
+16,CRL,2022-02-16,07:00:00, Charles River Labs Reaffirms FY22 Outlook; Q4 Results Top Estimates - Quick Facts ,1
+17,ADI,2022-02-16,07:00:00," Analog Devices Q1 Profit Decreases, but beats estimates Analog Devices Q1 22 Earnings Conference Call At 10:00 AM ET ",0
+18,VMC,2022-02-16,07:00:00," Vulcan Materials Co. Q4 Profit Increases, beats estimates",1
+19,GRMN,2022-02-16,07:00:00, Garmin Ltd Announces Decline In Q4 Income,0
+0,GNRC,2022-02-16,06:00:00,,
+1,WMT,2022-02-17,07:00:00, Walmart Swings To Profit In Q4; Results Top Estimates  Walmart Inc. Q4 Earnings Summary Walmart Q4 22 Earnings Conference Call At 8:00 AM ET ,1.0
+2,SO,2022-02-17,07:30:00," Southern Co. Sees Q1 Earnings Below Market, Growth In FY22 Earnings; Backs Long-term View  Southern Co. Q4 Earnings Summary Southern Co. Q4 21 Earnings Conference Call At 1:00 PM ET ",0.5
+3,LKQ,2022-02-17,06:00:00," LKQ Corp Q4 21 Earnings Conference Call At 8:00 AM ET  LKQ Issues FY22 Earnings Outlook - Quick Facts  LKQ Corp Q4 Profit Increases, beats estimates",1.0
+4,GPC,2022-02-17,08:30:00," Genuine Parts Projects Revenue Growth Of 9%-11% In FY22 - Quick Facts  Genuine Parts Co Q4 Profit Increases, beats estimates Genuine Parts Q4 21 Earnings Conference Call At 11:00 AM ET ",1.0
+5,BAX,2022-02-17,07:15:00," Baxter International Inc. Q4 Profit Increases, beats estimates Baxter International Q4 21 Earnings Conference Call At 8:30 AM ET ",1.0
+6,WST,2022-02-17,06:00:00,,
+7,EPAM,2022-02-17,06:00:00,,
+8,POOL,2022-02-17,07:00:00, Pool Corp. Q4 Net Income Rises; Net Sales Up 23% ,1.0
+9,DE,2022-02-18,06:07:00," Deere & Company Raises Earnings Guidance; Sets Goals To Create Sustainable Value For Stakeholders  Deere And Co Profit Drops In Q1, but beats estimates Deere And Co Q1 22 Earnings Conference Call At 10:00 AM ET ",1.0
+10,PPL,2022-02-18,06:45:00, PPL Declares Quarterly Dividend Of $0.20/share - Quick Facts  PPL Corporation Reports Fall In Q4 Income PPL Corp. Q4 21 Earnings Conference Call At 11:00 AM ET ,0.0
+11,HD,2022-02-22,06:00:00," Home Depot Issues FY22 Guidance; Increases Quarterly Dividend  The Home Depot, Inc. Q4 Profit Climbs, Beats estimates The Home Depot Q4 21 Earnings Conference Call At 9:00 AM ET ",1.0
+12,MDT,2022-02-22,06:45:00," Medtronic Guides Q4 Adj. EPS In Line With Estimates - Quick Facts  Medtronic plc Q3 Profit Increases, beats estimates Medtronic Q3 22 Earnings Conference Call At 8:00 AM ET ",1.0
+13,EXPD,2022-02-22,08:30:00," Expeditors International of Washington Inc. Profit Advances In Q4, Beats estimates",1.0
+14,CNP,2022-02-22,06:00:00," CenterPoint Energy Reaffirms FY22 Adj. EPS Outlook - Quick Facts  CenterPoint Energy Inc Q4 Profit Increases, beats estimates CenterPoint Energy Q4 21 Earnings Conference Call At 8:00 AM ET ",1.0
+15,TJX,2022-02-23,07:30:00," The TJX Companies, Inc. Reports Advance In Q4 Bottom Line The TJX Companies Q4 22 Earnings Conference Call At 11:00 AM ET ",1.0
+16,TAP,2022-02-23,07:00:00, Molson Coors Brewing Company Q4 Earnings Summary,
+17,NI,2022-02-23,06:30:00," NiSource Reaffirms FY22 Adj. EPS Outlook, Long-term Growth Targets - Quick Facts  NiSource Inc. Q4 Profit Increases, beats estimates NiSource Q4 21 Earnings Conference Call At 11:00 AM ET ",1.0
+18,ETR,2022-02-23,06:30:00," Entergy Sees Higher Adj. Earnings In FY22 - Quick Facts  Entergy Corp Q4 Profit Decreases, but beats estimates Entergy Q4 21 Earnings Conference Call At 11:00 AM ET ",1.0
+19,LOW,2022-02-23,06:00:00," Amended: Lowe's Boosts FY22 Outlook As Q4 Results Top Estimates - Quick Facts  Lowe's Cos. Q4 Profit Advances, Beats estimates Lowe's Companies Q4 21 Earnings Conference Call At 9:00 AM ET ",1.0
+0,DOC,2022-02-23,07:55:00,,
+1,WBD,2022-02-24,07:00:00,,
+2,NEM,2022-02-24,07:00:00, Newmont Mining Corp. Q4 Earnings Summary,
+3,CBRE,2022-02-24,06:55:00," CBRE Group Q4 21 Earnings Conference Call At 8:30 AM ET  CBRE Group, Inc. Q4 Profit Increases, beats estimates",1.0
+4,AMT,2022-02-24,07:00:00," American Tower Corp. Q4 Profit Increases, beats estimates American Tower Q4 21 Earnings Conference Call At 8:30 AM ET ",1.0
+5,TRGP,2022-02-24,06:00:00, Targa Resources Q4 21 Earnings Conference Call At 11:00 AM ET ,
+6,TFX,2022-02-24,06:00:00, Teleflex Q4 Profit Rises; Issues FY22 Outlook  Teleflex Q4 21 Earnings Conference Call At 8:00 AM ET ,
+7,PEG,2022-02-24,07:30:00," Public Service Enterprise Narrows FY22 Operating Earnings Outlook Range - Quick Facts  Public Service Enterprise Group Inc Q4 Profit Increases, beats estimates Public Service Enterprise Group Q4 21 Earnings Conference Call At 11:00 AM ET ",1.0
+8,NRG,2022-02-24,07:00:00, NRG Energy Q4 21 Earnings Conference Call At 9:00 AM ET ,
+9,NCLH,2022-02-24,07:00:00," Norwegian Cruise Line Q4 Loss Widens, Misses Estimates  Norwegian Cruise Line Holdings Ltd. Q4 Loss Decreases, but misses estimates",0.0
+10,IRM,2022-02-24,06:00:00, Iron Mountain Q4 Adj. Profit Rises; Issues 2022 Guidance  Iron Mountain Q4 21 Earnings Conference Call At 8:30 AM ET ,
+11,PWR,2022-02-24,06:55:00," Quanta Services Q4 21 Earnings Conference Call At 9:00 AM ET  Quanta Services Guides FY22 Adj. EPS In Line With Estimates - Quick Facts  Quanta Services Inc. Q4 Profit Decreases, but beats estimates",1.0
+12,MRNA,2022-02-24,06:30:00, Moderna Q4 Profit Tops Estimates; Believes SARS-CoV-2 Virus To Evolve To Endemic Phase In 2022 ,1.0
+13,KDP,2022-02-24,06:30:00," Keurig Dr Pepper Reaffirms FY22 Outlook  Keurig Dr Pepper Inc. Q4 Profit Increases, Inline With Estimates Keurig Dr Pepper Q4 21 Earnings Conference Call At 8:00 AM ET ",1.0
+14,AEP,2022-02-24,06:57:00," American Electric Power Boosts FY22 Adj. EPS Outlook - Quick Facts  American Electric Power Co Inc Q4 Profit Increases, beats estimates American Electric Power Co Q4 21 Earnings Conference Call At 9:00 AM ET ",1.0
+15,SRE,2022-02-25,07:00:00," Sempra Energy Reaffirms FY22 EPS Outlook, Boosts Dividend - Quick Facts  Sempra Energy Profit Climbs In Q4 Sempra Energy Q4 21 Earnings Conference Call At 12:00 PM ET ",1.0
+16,PNW,2022-02-25,08:40:00, Pinnacle West Capital Corp. Q4 Earnings Summary,
+17,EVRG,2022-02-25,06:00:00, Evergy Reaffirms FY22 Outlook - Quick Facts  Evergy Q4 Profit Increases Inline With Estimates; Backs 2022 Outlook - Update  Evergy Q4 21 Earnings Conference Call At 9:00 AM ET ,1.0
+18,XRAY,2022-02-28,06:00:00, Dentsply Sirona Q4 21 Earnings Conference Call At 8:30 AM ET  Dentsply Sirona Guides FY22 Adj. EPS In Line; Q4 Results Miss Estimates - Quick Facts ,0.0
+19,VTRS,2022-02-28,06:00:00, Viatris Inc. Q4 Loss Decreases,
+0,TGT,2022-03-01,06:30:00," Target Q4 Adj. EPS Tops Estimates - Quick Facts  Target Corp. Q4 Profit Increases, beats estimates Target Q4 21 Earnings Conference Call At 9:00 AM ET ",1
+1,SJM,2022-03-01,07:00:00," J. M. Smucker Q3 Profit Decreases, But Beats Estimates - Update  The J. M. Smucker Q3 22 Earnings Conference Call At 9:00 AM ET ",0.5
+2,HRL,2022-03-01,06:30:00, Hormel Foods Reaffirms FY22 Outlook - Quick Facts  Hormel Foods Corp Q1 income increases in line with estimates Hormel Foods Q1 22 Earnings Conference Call At 10:00 AM ET ,1
+3,BLDR,2022-03-01,07:00:00,, 
+4,AZO,2022-03-01,06:55:00," AutoZone Q2 Results Top Estimates - Quick Facts  AutoZone Inc. Reveals Climb In Q2 Income, Beats estimates AutoZone Q2 22 Earnings Conference Call At 10:00 AM ET ",1
+5,DPZ,2022-03-01,08:30:00," Domino's Pizza Q4 Results Miss Estimates  Dominos Pizza Inc. Q4 Profit Increases, but misses estimates",0
+6,DLTR,2022-03-02,07:30:00," Dollar Tree Q4 Profit Beats Estimates, Sees Q1 EPS Better Than View - Update  Dollar Tree Q4 21 Earnings Conference Call At 9:00 AM ET ",1
+7,KR,2022-03-03,08:00:00, Kroger Issues 2022 Guidance; Targets To Achieve Total Shareholder Returns Of 8-11% Over Time  Kroger Co. Q4 Earnings Summary Kroger Q4 21 Earnings Conference Call At 10:00 AM ET ,1
+8,BBY,2022-03-03,07:00:00," Best Buy, BJ's Wholesale, Big Lots Report Q4 Profits; Best Buy Boosts Dividend 26%  Best Buy Provides Annual Guidance Below Consensus Estimate - Update  Best Buy Co Inc. Q4 Profit Drops, Inline With Estimates Best Buy Co Q4 22 Earnings Conference Call At 8:00 AM ET ",0.5
+9,CPB,2022-03-09,07:15:00," Campbell Soup Q2 Adj. EPS Meets Estimates; Reaffirms FY22 Outlook  Campbell Soup Co. Q2 Profit Drops, Inline With Estimates Campbell Soup Q2 22 Earnings Conference Call At 8:00 AM ET ",0.5
+10,JBL,2022-03-16,07:30:00," Jabil Boosts FY22 Outlook - Update  Jabil Inc. Q2 Profit Increases, beats estimates Jabil Q2 22 Earnings Conference Call At 8:30 AM ET ",1
+11,DG,2022-03-17,06:55:00, Dollar General Confident In FY22 Outlook; Sees Challenging Q1  Dollar General Corporation Q4 income drops in line with estimates Dollar General Q4 21 Earnings Conference Call At 10:00 AM ET ,0.5
+12,ACN,2022-03-17,06:45:00, Accenture Boosts FY22 Outlook; Raises Dividend 10% - Update  Accenture plc Q2 Profit Advances Accenture Q2 22 Earnings Conference Call At 8:00 AM ET ,1
+13,CCL,2022-03-22,09:15:00,, 
+14,GIS,2022-03-23,07:00:00," General Mills Q3 Adj. EPS Tops Estimates; Boosts FY22 Outlook  General Mills Q3 Profit Increases, beats estimates",1
+15,CTAS,2022-03-23,08:30:00," Cintas Increases Financial Guidance  Cintas Corporation Reveals Rise In Q3 Bottom Line, Beats estimates Cintas Q3 22 Earnings Conference Call At 10:00 AM ET ",1
+16,FDS,2022-03-24,07:30:00," FactSet Q2 Adj. Profit Rises, Organic Revenue Up 9.9%; Updates FY22 Outlook ",1
+17,DRI,2022-03-24,07:00:00," Darden Restaurants Q3 Results Miss Estimates  Darden Restaurants Inc. Q3 Profit Advances, but misses estimates Darden Restaurants Q3 22 Earnings Conference Call At 8:30 AM ET ",0
+18,MKC,2022-03-29,06:30:00," McCormick Reiterates FY22 Outlook  McCormick & Co. Q1 Profit Decreases, but beats estimates McCormick & Co. Q1 22 Earnings Conference Call At 8:00 AM ET ",0.5
+19,PAYX,2022-03-30,08:30:00," Paychex Adjusts Full Year Guidance Upward  Paychex Inc. Q3 Profit Increases, beats estimates Paychex Q3 22 Earnings Conference Call At 9:30 AM ET ",1
+0,WBA,2022-03-31,07:00:00," Walgreens Boots Alliance, Inc. Q2 Profit Decreases, but beats estimates Walgreens Boots Alliance Q2 22 Earnings Conference Call At 8:30 AM ET ",0.5
+1,STZ,2022-04-07,07:30:00," Constellation Brands Q4 Earnings Improve, Above Estimates  Constellation Brands Inc Q4 Profit Increases, beats estimates Constellation Brands Q4 22 Earnings Conference Call At 10:30 AM ET ",1.0
+2,CAG,2022-04-07,07:30:00," Conagra Brands Guides Q4 Adj. EPS Below View; Cuts FY22 Adj. EPS Outlook  Conagra Brands Inc. Q3 Profit Drops, Inline With Estimates Conagra Brands Q3 22 Earnings Conference Call At 9:30 AM ET ",0.0
+3,LW,2022-04-07,08:30:00," Lamb Weston Affirms FY22 Sales Growth Outlook; Q3 Results Top Estimates  Lamb Weston Holdings, Inc. Reveals Advance In Q3 Profit, Beats estimates",1.0
+4,KMX,2022-04-12,06:50:00," CarMax Declines In Pre-market As Quarterly Earnings Drop Below Estimates  CarMax Raises Long-Term Targets  CarMax Inc. Q4 Income Drops, misses estimates CarMax Q4 22 Earnings Conference Call At 9:00 AM ET ",0.0
+5,DAL,2022-04-13,06:30:00, Delta Air Lines Posts Adj. Loss In Q1; Revenue Recovery To Accelerate To 93-97% In Q2  Delta Air Lines Posts Loss In Q1  Delta Air Lines Q1 22 Earnings Conference Call At 10:00 AM ET ,0.0
+6,BLK,2022-04-13,06:16:00," Blackrock Inc. Q1 Profit Increases, beats estimates Blackrock Q1 22 Earnings Conference Call At 8:30 AM ET ",1.0
+7,JPM,2022-04-13,06:45:00," JPMorgan Chase Q1 Profit Falls, EPS Misses View  JPMorgan Chase & Co. Q1 Income Drops, misses estimates JPMorgan Chase & Co. Q1 22 Earnings Conference Call At 8:30 AM ET ",0.0
+8,FAST,2022-04-13,06:50:00," Fastenal Co. Q1 Income Rises, Beats estimates Fastenal Q1 22 Earnings Conference Call At 10:00 AM ET ",1.0
+9,WFC,2022-04-14,06:48:00, Wells Fargo & Company Q1 Net Income Declines  Wells Fargo & Co Q1 22 Earnings Conference Call At 10:00 AM ET ,0.0
+10,MS,2022-04-14,07:30:00, Morgan Stanley Announces Drop In Q1 Profit Morgan Stanley Q1 22 Earnings Conference Call At 8:30 AM ET ,0.0
+11,GS,2022-04-14,07:30:00," Goldman Sachs Q1 Results Down, Yet Top Consensus  Goldman Sachs Group Inc. Profit Retreats In Q1, but beats estimates Goldman Sachs Group Q1 22 Earnings Conference Call At 9:30 AM ET ",0.5
+12,C,2022-04-14,08:00:00," Citigroup Q1 Net Income Declines; Revenues Down 2%  Citigroup Inc. Bottom Line Drops In Q1, but beats estimates Citigroup Q1 22 Earnings Conference Call At 11:00 AM ET ",0.0
+13,USB,2022-04-14,06:45:00," US Bancorp Reports Fall In Q1 Profit, but beats estimates US Bancorp Q1 22 Earnings Conference Call At 9:00 AM ET ",0.5
+14,UNH,2022-04-14,05:55:00," Unitedhealth Group Q1 22 Earnings Conference Call At 8:45 AM ET  UnitedHealth Group Raises Full Year Earnings Outlook - Quick Facts  Unitedhealth Group, Inc. Q1 Profit Increases, beats estimates",1.0
+15,PNC,2022-04-14,06:45:00," PNC Financial Services Group Inc. Q1 Profit Decreases, but beats estimates PNC Financial Services Group Q1 22 Earnings Conference Call At 11:00 AM ET ",0.5
+16,STT,2022-04-14,07:30:00, State Street Corp. Profit Climbs In Q1,1.0
+17,PGR,2022-04-14,08:25:00, Progressive Corp. Profit Falls In Q1,0.0
+18,BAC,2022-04-18,06:45:00," Bank Of America Q1 Profit Beats Estimates; Revenue Up 2%  Bank of America Corporation Reports Drop In Q1 Income, but beats estimates Bank Of America Q1 22 Earnings Conference Call At 8:30 AM ET ",0.5
+19,BK,2022-04-18,06:30:00," The Bank of New York Mellon Corp. Announces Fall In Q1 Bottom Line, but beats estimates The Bank Of New York Mellon Q1 22 Earnings Conference Call At 8:00 AM ET ",0.5
+0,SYF,2022-04-18,06:00:00, Synchrony Financial Board Approves Incremental Share Repurchase Program Of Up To $2.8 Bln  Synchrony Financial Q1 Profit  beats estimates Synchrony Financial Q1 22 Earnings Conference Call At 8:00 AM ET ,1.0
+1,SCHW,2022-04-18,08:45:00,,0.5
+2,JNJ,2022-04-19,06:30:00," Johnson & Johnson Suspends Guidance On Its COVID-19 Vaccine Sales  Johnson & Johnson Q1 Profit Decreases, but beats estimates Johnson & Johnson Q1 22 Earnings Conference Call At 8:30 AM ET ",0.0
+3,TRV,2022-04-19,06:57:00," The Travelers Companies  Inc. Q1 Profit Increases, beats estimates The Travelers Companies Q1 22 Earnings Conference Call At 9:00 AM ET ",1.0
+4,LMT,2022-04-19,07:30:00," Lockheed Martin Reaffirms FY22 Guidance  Lockheed Martin Corp. Profit Falls In Q1, but beats estimates Lockheed Martin Q1 22 Earnings Conference Call At 11:00 AM ET ",1.0
+5,HAL,2022-04-19,06:45:00," Halliburton Company Q1 Profit Increases, beats estimates Halliburton Q1 22 Earnings Conference Call At 9:00 AM ET ",1.0
+6,FITB,2022-04-19,06:30:00," Fifth Third Bancorp Q1 Profit Retreats, misses estimates",0.0
+7,CFG,2022-04-19,06:20:00," Citizens Financial Group Q1 22 Earnings Conference Call At 9:00 AM ET  Citizens Financial Group, Inc. Reveals Decline In Q1 Profit, but beats estimates",1.0
+8,PLD,2022-04-19,08:00:00," Prologis Updates FY22 Earnings Guidance  ProLogis Q1 Profit Increases, beats estimates Prologis Q1 22 Earnings Conference Call At 12:00 PM ET ",1.0
+9,HAS,2022-04-19,06:30:00," Hasbro Now Targets Mid-single Digit Adj. Operating Profit Growth In FY22  Hasbro Inc. Q1 Profit Decreases, misses estimates Hasbro Q1 22 Earnings Conference Call At 8:30 AM ET ",0.0
+10,TFC,2022-04-19,05:45:00, Truist Financial Q1 22 Earnings Conference Call At 8:00 AM ET  Truist Financial Corporation Q1 sales decline,0.0
+11,PG,2022-04-20,07:00:00," P&G Q3 Results Top View; Backs FY22 Core EPS Outlook  Procter & Gamble Co. Bottom Line Advances In Q3, Beats estimates Procter & Gamble Q3 22 Earnings Conference Call At 8:30 AM ET ",1.0
+12,CMA,2022-04-20,06:40:00," Comerica Inc. Q1 Profit Retreats, misses estimates Comerica Q1 22 Earnings Conference Call At 8:00 AM ET ",0.0
+13,ELV,2022-04-20,06:00:00,,0.5
+14,ABT,2022-04-20,07:30:00," Abbott: FY22 Adj. EPS Guidance Remains Unchanged  Abbott Laboratories Q1 Profit Increases, beats estimates Abbott Laboratories Q1 22 Earnings Conference Call At 9:00 AM ET ",1.0
+15,NDAQ,2022-04-20,07:00:00," Nasdaq Q1 Results Top Estimates, Boosts Dividend 11%  Nasdaq Raises Quarterly Dividend By 11%, Plans A 3-For-1 Stock Split  Nasdaq Inc. Q1 Profit Decreases, but beats estimates Nasdaq Q1 22 Earnings Conference Call At 8:00 AM ET ",1.0
+16,MTB,2022-04-20,06:40:00," M&T Bank Corp. Announces Decline In Q1 Bottom Line, but beats estimates",1.0
+17,BKR,2022-04-20,07:00:00, Baker Hughes Company Q1 Earnings Summary Baker Hughes Q1 22 Earnings Conference Call At 8:30 AM ET ,1.0
+18,MKTX,2022-04-20,06:30:00," MarketAxess Q1 Profit Declines But Tops Estimates  MarketAxess Holdings Inc. Q1 Income Declines, but beats estimates",1.0
+19,T,2022-04-21,06:30:00," AT&T Q1 Profit Down, But Tops Market View; To Meet FY Outlook  AT&T Q1 Profit Down, Adj. EPS Tops Estimates - Quick Facts  AT&T Inc. Q1 Profit Decreases, but beats estimates AT&T Q1 22 Earnings Conference Call At 8:30 AM ET ",1.0
+0,PM,2022-04-21,07:00:00," Philip Morris International Q1 Profit Decreases, but beats estimates Philip Morris International Q1 22 Earnings Conference Call At 9:00 AM ET ",0.0
+1,FCX,2022-04-21,08:00:00," Freeport-McMoRan Inc. Q1 Profit Increases, beats estimates",1.0
+2,BX,2022-04-21,06:50:00," Blackstone Q1 Profit Down, Distributable EPS Tops View; AUM Rises ",0.0
+3,AAL,2022-04-21,07:00:00," American Airlines Expects To Be Profitable In Q2 Based On Current Fuel Price Assumptions  American Airlines Group Inc Q1 Loss Decreases, beats estimates American Airlines Group Q1 22 Earnings Conference Call At 8:30 AM ET ",1.0
+4,UNP,2022-04-21,07:45:00," Union Pacific Corp. Reveals Climb In Q1 Bottom Line, Beats estimates Union Pacific Q1 22 Earnings Conference Call At 8:45 AM ET ",1.0
+5,NUE,2022-04-21,08:00:00, Nucor Corp. Q1 Income Climbs Nucor Q1 22 Earnings Conference Call At 2:00 PM ET ,1.0
+6,NEE,2022-04-21,07:30:00," NextEra Energy Affirms FY22 Adj. EPS Guidance  NextEra Energy Q1 22 Earnings Conference Call At 9:00 AM ET  NextEra Energy, Inc. Q1 Earnings Summary",1.0
+7,MMC,2022-04-21,07:00:00," Marsh & McLennan Companies Q1 22 Earnings Conference Call At 8:30 AM ET  Marsh & McLennan Companies Inc. Q1 Profit Increases, Beats Estimates ",1.0
+8,HBAN,2022-04-21,07:00:00," Huntington Bancshares Q1 22 Earnings Conference Call At 9:00 AM ET  Huntington Bancshares Inc. Reveals Fall In Q1 Bottom Line, misses estimates",0.0
+9,GPC,2022-04-21,08:30:00," Genuine Parts Boosts FY22 Outlook - Update  Genuine Parts Co Q1 Profit Increases, beats estimates",1.0
+10,DOW,2022-04-21,06:00:00," Dow Inc. Q1 22 Earnings Conference Call At 8:00 AM ET  Dow To Boost Alkoxylation Capacity In US, Europe  Dow Inc. Q1 Profit Increases, beats estimates",1.0
+11,DOV,2022-04-21,06:30:00," Dover Corp. Q1 22 Earnings Conference Call At 9:00 AM ET  Dover Maintains FY22 Adj. EPS And Revenue Growth Outlook - Update  Dover Corp Q1 Profit Decreases, but beats estimates",0.5
+12,DHR,2022-04-21,06:00:00," Danaher Q1 22 Earnings Conference Call At 8:00 AM ET  Danaher Sees Growth In Adj. Base Business Core Revenue In Q2, FY22 - Update  Danaher Corp. Q1 Profit Increases, beats estimates",1.0
+13,TSCO,2022-04-21,06:15:00," Tractor Supply Company Q1 Earnings And Revenue Up, Above Estimates; Backs Annual View  Tractor Supply Q1 Profit Rises, Beats estimates Tractor Supply Q1 22 Earnings Conference Call At 10:00 AM ET ",1.0
+14,SNA,2022-04-21,06:30:00," Snap-On Inc. Reveals Increase In Q1 Profit, Beats estimates Snap-On Q1 22 Earnings Conference Call At 10:00 AM ET ",1.0
+15,POOL,2022-04-21,07:00:00, Pool Corp Boosts FY22 Outlook As Q1 Results Top Estimates ,1.0
+16,PNR,2022-04-21,06:55:00, Pentair Sees Annual Sales Growth Better Than Estimates - Update  Pentair Q1 22 Earnings Conference Call At 9:00 AM ET ,1.0
+17,KEY,2022-04-21,06:30:00," KeyCorp Q1 22 Earnings Conference Call At 8:00 AM ET  KeyCorp Announces Decline In Q1 Income, misses estimates",0.0
+18,DGX,2022-04-21,06:45:00," Quest Diagnostics Q1 22 Earnings Conference Call At 8:30 AM ET  Quest Diagnostics Boosts FY22 Outlook - Update  Quest Diagnostics Q1 Profit Decreases, but beats estimates",0.5
+19,VZ,2022-04-22,07:30:00, Verizon Q1 Adj. Profit Declines; Now Sees FY22 Adj. EPS At Lower End Of Guidance Range  Verizon Communications Q1 Profit Falls Verizon Communications Q1 22 Earnings Conference Call At 8:30 AM ET ,0.0
+0,SLB,2022-04-22,06:50:00, Schlumberger Ltd. Q1 Income Advances Schlumberger Q1 22 Earnings Conference Call At 9:30 AM ET ,1.0
+1,NEM,2022-04-22,07:00:00, Newmont Mining Corp. Bottom Line Falls In Q1,0.0
+2,KMB,2022-04-22,07:30:00," Kimberly-Clark Boosts FY22 Sales Growth Outlook - Update  Kimberly-Clark Corp Q1 Profit Decreases, but beats estimates Kimberly-Clark Q1 22 Earnings Conference Call At 10:00 AM ET ",0.5
+3,HCA,2022-04-22,07:30:00," HCA Healthcare Lowers FY22 Outlook - Update  HCA Healthcare, Inc. Q1 Profit Misses Estimates HCA Healthcare Q1 22 Earnings Conference Call At 10:00 AM ET ",0.0
+4,AXP,2022-04-22,07:00:00," American Express Reaffirms Full-year Guidance  American Express Co. Q1 Profit Falls, but beats estimates American Express Q1 22 Earnings Conference Call At 8:30 AM ET ",0.5
+5,RF,2022-04-22,06:00:00," Regions Financial Q1 22 Earnings Conference Call At 10:00 AM ET  Regions Financial Corp. Bottom Line Retreats In Q1, but beats estimates",0.5
+6,KO,2022-04-25,06:55:00," Coca-Cola Q1 Profit Increases 24%, Results Top Estimates  The Coca-Cola Company Q1 Profit Increases, beats estimates The Coca-Cola Q1 22 Earnings Conference Call At 8:30 AM ET ",1.0
+7,OTIS,2022-04-25,06:00:00," Otis Worldwide Q1 Profit Up, Tops Estimates; Revises FY22 View - Quick Facts ",1.0
+8,UPS,2022-04-26,06:00:00, United Parcel Service Reaffirms 2022 Guidance; To Double Share Repurchases For 2022  United Parcel Service Q1 22 Earnings Conference Call At 8:30 AM ET ,1.0
+9,PEP,2022-04-26,06:00:00," Pepsico Q1 22 Earnings Conference Call At 8:15 AM ET  PepsiCo Q1 Results Climb, Top Estimates; Backs FY22 Core EPS Growth View, Lifts Revenue Growth View  Pepsico Inc Q1 Profit Increases, beats estimates",1.0
+10,VLO,2022-04-26,06:30:00, Valero Energy Corp. Q1 Earnings Summary,1.0
+11,MMM,2022-04-26,06:30:00," 3M Cuts FY22 Reported EPS View; Backs Adj. EPS Forecast Above Market - Update  3M Co. Q1 Profit Decreases, but beats estimates 3M Co. Q1 22 Earnings Conference Call At 9:00 AM ET ",0.5
+12,GE,2022-04-26,06:30:00," GE Q1 Loss Narrows, Results Top Estimates  General Electric Co Q1 Earnings Summary General Electric Q1 22 Earnings Conference Call At 8:00 AM ET ",1.0
+13,CNC,2022-04-26,06:00:00," Centene Q1 22 Earnings Conference Call At 8:30 AM ET  Centene Raises Revenue, Adj. EPS Guidance - Quick Facts  Centene Corporation Q1 Profit Beats Estimates; Ups Annual Outlook Above View - Update ",1.0
+14,WM,2022-04-26,07:00:00," Waste Management Inc Q1 Profit Increases, beats estimates Waste Management Q1 22 Earnings Conference Call At 10:00 AM ET ",1.0
+15,SHW,2022-04-26,07:00:00," Sherwin-Williams Co Q1 Profit Decreases, but beats estimates",0.5
+16,RTX,2022-04-26,06:55:00," Raytheon Technologies Q1 22 Earnings Conference Call At 8:30 AM ET  Raytheon Confirms 2022 Adj. EPS Guidance  Raytheon Technologies Corporation Q1 Profit Increases, beats estimates",1.0
+17,ROP,2022-04-26,06:55:00, Roper Technologies Q2 Profit Rises Above Estimates; Lifts Annual Outlook  Roper Technologies Q1 22 Earnings Conference Call At 8:30 AM ET  Roper Technologies Inc. Q1 Profit Climbs,1.0
+18,PCAR,2022-04-26,08:00:00," Paccar Inc. Q1 Profit Climbs, Beats estimates",1.0
+19,NTRS,2022-04-26,08:00:00," Northern Trust Corp. Reports Increase In Q1 Income, Beats estimates",1.0
+0,IVZ,2022-04-26,07:00:00, Invesco Q1 22 Earnings Conference Call At 9:00 AM ET  Invesco Ltd. Profit Falls In Q1,0
+1,HUBB,2022-04-26,07:30:00,, 
+2,GLW,2022-04-26,07:15:00, Corning Sees Profitability Growing Faster Than Sales  Corning Inc. Q1 Profit Beats Estimates Corning Q1 22 Earnings Conference Call At 8:30 AM ET ,1
+3,DHI,2022-04-26,06:30:00," D R Horton Q2 22 Earnings Conference Call At 8:30 AM ET  D.R. Horton Q2 Profit Beats Estimates; Raises 2022 Revenue Outlook  D R Horton Inc. Q2 Income Climbs, Beats estimates",1
+4,AVY,2022-04-26,06:45:00," Avery Dennison Raises 2022 Outlook  Avery Dennison Corp. Q1 Profit Decreases, but beats estimates",1
+5,ADM,2022-04-26,07:00:00," Archer-Daniels-Midland Q1 22 Earnings Conference Call At 9:00 AM ET  Archer-Daniels-Midland Q1 Profit Increases, beats estimates",1
+6,NVR,2022-04-26,09:00:00,, 
+7,MSCI,2022-04-26,06:45:00," MSCI Inc. Q1 Profit Increases, beats estimates",1
+8,ECL,2022-04-26,08:30:00," Ecolab Continues To Expect Strong Earnings Growth In H2  Ecolab Inc. Q1 Profit Drops, Inline With Estimates Ecolab Q1 22 Earnings Conference Call At 1:00 PM ET ",1
+9,ALLE,2022-04-26,05:30:00," Allegion Q1 22 Earnings Conference Call At 8:00 AM ET  Allegion Backs FY22 Earnings View; Lifts Revenue Growth Forecast - Update  Allegion Q1 Profit Decreases, but beats estimates",1
+10,WBD,2022-04-26,07:00:00,, 
+11,BA,2022-04-27,07:30:00, Boeing Q1 Loss Sharply Widens  The Boeing Co. Q1 Loss Rises The Boeing Q1 22 Earnings Conference Call At 10:30 AM ET ,0
+12,STX,2022-04-27,07:00:00, Seagate Guides Q4 In Line With Estimates - Update  Seagate Technology PLC Q3 Profit Climbs Seagate Technology Q3 22 Earnings Conference Call At 9:00 AM ET ,1
+13,GD,2022-04-27,07:00:00," General Dynamics Q1 22 Earnings Conference Call At 9:00 AM ET  General Dynamics Corp. Bottom Line Climbs In Q1, Beats estimates",1
+14,WAB,2022-04-27,06:30:00," Wabtec Q1 22 Earnings Conference Call At 8:30 AM ET  Wabtec Corporation Q1 Profit Increases, beats estimates",1
+15,TMUS,2022-04-27,07:00:00, T-Mobile US Q1 Profit Beats Estimates; Service Revenues Up 7%  T-Mobile US Q1 22 Earnings Conference Call At 8:00 AM ET ,1
+16,TEL,2022-04-27,06:00:00, TE Connectivity Q2 22 Earnings Conference Call At 8:30 AM ET  TE Connectivity Bottom Line Advances In Q2 - Update ,1
+17,TDY,2022-04-27,06:55:00," Teledyne Technologies Lifts Annual Earnings Outlook  Teledyne Technologies Inc Q1 Profit Increases, beats estimates",1
+18,ROL,2022-04-27,07:30:00," Rollins, Inc. Q1 Profit Decreases, but beats estimates",1
+19,ODFL,2022-04-27,07:00:00," Old Dominion Freight Line Q1 Profit Surges, Results Top Estimates ",1
+0,NSC,2022-04-27,08:00:00," Norfolk Southern Corp Profit Climbs In Q1, Beats estimates Norfolk Southern Q1 22 Earnings Conference Call At 8:45 AM ET ",1
+1,KHC,2022-04-27,08:00:00," The Kraft Heinz Q1 22 Earnings Conference Call At 9:00 AM ET  The Kraft Heinz Company Q1 Profit Increases, Beats Estimates ",1
+2,IQV,2022-04-27,07:00:00," IQVIA Holdings Inc. Q1 Profit Increases, beats estimates IQVIA Holdings Q1 22 Earnings Conference Call At 9:00 AM ET  IQVIA Updates 2022 Revenue Guidance ",1
+3,HUM,2022-04-27,06:30:00," Humana Q1 22 Earnings Conference Call At 9:00 AM ET  Humana Boosts FY22 Adj. EPS Outlook - Update  Humana Inc Q1 Profit Increases, beats estimates",1
+4,HES,2022-04-27,07:30:00," Hess Corporation Q1 Profit Increases, beats estimates",1
+5,ETR,2022-04-27,06:30:00," Entergy Corp Q1 Profit Decreases, misses estimates",0
+6,CME,2022-04-27,07:00:00," CME Group Q1 22 Earnings Conference Call At 8:30 AM ET  CME Group, Inc. Q1 Profit Increases, beats estimates",1
+7,BSX,2022-04-27,06:30:00," Boston Scientific Corp Q1 Profit Drops, Inline With Estimates - Update  Boston Scientific Q1 22 Earnings Conference Call At 8:00 AM ET ",0
+8,BG,2022-04-27,06:00:00, Bunge Limited Q1 Adj. Profit Rises; Increases Full-year Adj. EPS Outlook ,1
+9,APH,2022-04-27,08:00:00," Amphenol Guides Q2 Sales Above Estimates - Update  Amphenol Corp. Q1 Profit Increases, beats estimates",1
+10,AMT,2022-04-27,07:00:00," American Tower Corp. Profit Rises In Q1, Beats estimates American Tower Q1 22 Earnings Conference Call At 8:30 AM ET ",1
+11,ADP,2022-04-27,08:00:00," Automatic Data Processing Inc. Q3 Profit Increases, beats estimates Automatic Data Processing Q3 22 Earnings Conference Call At 8:30 AM ET ",1
+12,MAS,2022-04-27,07:00:00," Masco Raises 2022 Adj. Earnings Guidance  Masco Corp. Q1 Profit Increases, beats estimates Masco Q1 22 Earnings Conference Call At 8:00 AM ET ",1
+13,GRMN,2022-04-27,07:00:00, Garmin Ltd Bottom Line Drops In Q1,0
+14,MRK,2022-04-28,06:30:00," Merck Raises, Narrows Full-year Guidance ",1
+15,MCD,2022-04-28,07:00:00," McDonalds Corp. Q1 Profit Decreases, but beats estimates McDonald's Q1 22 Earnings Conference Call At 8:30 AM ET ",0
+16,CAT,2022-04-28,06:30:00," Caterpillar Inc. Q1 Profit Increases, beats estimates Caterpillar Q1 22 Earnings Conference Call At 8:30 AM ET ",1
+17,NOC,2022-04-28,06:40:00," Northrop Grumman Corp. Q1 Profit Decreases, but beats estimates",0
+18,MO,2022-04-28,07:00:00, Altria Group Q1 Profit Beats Estimates; Affirms Guidance ,1
+19,MA,2022-04-28,08:00:00," Mastercard Incorporated Q1 Profit Increases, beats estimates Mastercard Q1 22 Earnings Conference Call At 9:00 AM ET ",1
+0,LUV,2022-04-28,06:45:00, Southwest Airlines Inc. Q1 Earnings Summary Southwest Airlines Q1 22 Earnings Conference Call At 12:30 PM ET ,0.5
+1,LLY,2022-04-28,06:25:00, Lilly: Tirzepatide In SURMOUNT-1 Trial Delivers Superior Weight Loss In Adults  Eli Lilly Q1 Results Top Estimates; Boosts FY22 Revenue Outlook  Eli Lilly And Co. Reveals Increase In Q1 Profit Eli Lilly Q1 22 Earnings Conference Call At 9:00 AM ET ,1.0
+2,CMCSA,2022-04-28,07:00:00," Comcast Corp. Q1 Profit Increases, beats estimates Comcast Q1 22 Earnings Conference Call At 8:30 AM ET ",1.0
+3,XEL,2022-04-28,06:00:00," Xcel Energy Inc Profit Rises In Q1, Beats Estimates - Update ",1.0
+4,TXT,2022-04-28,06:30:00, Textron Q1 22 Earnings Conference Call At 8:00 AM ET  Textron Inc. Q1 Income Climbs,1.0
+5,TMO,2022-04-28,06:00:00," Thermo Fisher Scientific Q1 Profit Decreases, but beats estimates",0.5
+6,SWK,2022-04-28,06:00:00," Stanley Black & Decker Cuts Earnings Guidance  Stanley Black & Decker, Inc. Q1 Income Declines",0.0
+7,SO,2022-04-28,07:30:00," Southern Co. Q1 Profit Decreases, but beats estimates Southern Co. Q1 22 Earnings Conference Call At 1:00 PM ET ",0.5
+8,PHM,2022-04-28,06:30:00," PulteGroup, Inc. Q1 Earnings Summary",0.5
+9,PCG,2022-04-28,08:00:00," PG&E Corp. Reaffirms FY22 Adj. EPS Outlook  PG&E Corp. Q1 Profit Increases, beats estimates PG&E Q1 22 Earnings Conference Call At 11:00 AM ET ",1.0
+10,LKQ,2022-04-28,06:00:00," LKQ Corp. Q1 Profit Climbs Above Street View; Ups Annual Guidance  LKQ Corp Q1 Profit Increases, beats estimates",1.0
+11,IP,2022-04-28,07:00:00, International Paper Announces Rise In Q1 Profit International Paper Q1 22 Earnings Conference Call At 10:00 AM ET ,1.0
+12,HSY,2022-04-28,07:00:00," Hershey Boosts FY22 Outlook - Update  Hershey Co. Q1 Profit Increases, beats estimates",1.0
+13,GWW,2022-04-28,08:00:00," Grainger (W.W.) Bottom Line Climbs In Q1, Beats Estimates; Lifts Outlook Above View - Update ",1.0
+14,DTE,2022-04-28,07:00:00, DTE Energy Co Q1 Income Drops,0.0
+15,CHD,2022-04-28,06:55:00," Church & Dwight Co Inc. Q1 Profit Decreases, but beats estimates",0.5
+16,BAX,2022-04-28,07:15:00," Baxter International Lowers FY22 Outlook - Update  Baxter International Inc. Q1 Profit Decreases, but beats estimates Baxter International Q1 22 Earnings Conference Call At 8:30 AM ET ",0.0
+17,AOS,2022-04-28,06:00:00," A.O. Smith Q1 Profit Increases, Beats Estimates; Confirms Annual Guidance - Update ",1.0
+18,WTW,2022-04-28,06:00:00," Willis Towers Watson Q1 Profit Declines, But Beats Consensus ",0.0
+19,WST,2022-04-28,06:00:00,,0.5
+0,TROW,2022-04-28,07:00:00," T. Rowe Price Group Q1 Profit Decreases, misses estimates",0
+1,TFX,2022-04-28,06:30:00," Teleflex Inc Q1 Profit Increases, Beats Estimates - Update  Teleflex Q1 22 Earnings Conference Call At 8:00 AM ET ",1
+2,LH,2022-04-28,06:45:00," Labcorp Updates Full-Year Guidance  Laboratory Corporation Of America Holdings Q1 Profit Decreases, but beats estimates",0.5
+3,IRM,2022-04-28,06:00:00," Iron Mountain Inc Q1 Profit Decreases, but beats estimates",0.5
+4,IPG,2022-04-28,07:00:00," Interpublic Group Of Companies Inc. Q1 Profit Increases, beats estimates",1
+5,DPZ,2022-04-28,07:30:00," Dominos Pizza Inc. Q1 Profit Retreats, misses estimates",0
+6,LIN,2022-04-28,06:30:00, Linde Plc Increases Full Year Earnings Guidance ,1
+7,KIM,2022-04-28,07:00:00," Kimco Realty Corp. Announces Increase In Q1 Income, Beats estimates",1
+8,KDP,2022-04-28,06:30:00," Keurig Dr Pepper Inc. Q1 Profit Increases, Inline With Estimates Keurig Dr Pepper Q1 22 Earnings Conference Call At 8:00 AM ET ",1
+9,FTV,2022-04-28,08:00:00," Fortive Raises FY22 Guidance - Update  Fortive Corporation Q1 Profit Increases, beats estimates",1
+10,CARR,2022-04-28,06:30:00,, 
+11,AEP,2022-04-28,06:57:00," American Electric Power Co Inc Q1 Profit Increases, beats estimates American Electric Power Co Q1 22 Earnings Conference Call At 9:00 AM ET ",1
+12,XOM,2022-04-29,07:30:00," Exxon Mobil Q1 22 Earnings Conference Call At 9:30 AM ET  Exxon Mobil Corp. Q1 Profit Increases, but misses estimates",0.5
+13,BMY,2022-04-29,06:59:00," Bristol-Myers Squibb Slashes FY22 EPS, Adj. EPS Outlook; Q1 Results Top Estimates ",0
+14,HON,2022-04-29,06:30:00," Honeywell Boosts FY22 Adj. EPS, Sales Outlook - Update  Honeywell International Inc. Q1 Profit Decreases, but beats estimates",0.5
+15,CVX,2022-04-29,06:00:00," Chevron Corp. Q1 Profit Increases, beats estimates",1
+16,ABBV,2022-04-29,07:44:00, AbbVie Q1 Income Rises AbbVie Trims FY22 Adj. EPS Outlook - Update ,0.5
+17,PSX,2022-04-29,07:00:00, Phillips 66 To Resume Share Repurchase Program In Q2 - Quick Facts  Phillips 66 Q1 Earnings Summary Phillips 66 Q1 22 Earnings Conference Call At 12:00 PM ET ,1
+18,LYB,2022-04-29,06:30:00," LyondellBasell Industries N.V. Q1 Profit Climbs, Beats estimates",1
+19,CL,2022-04-29,08:30:00," Colgate-Palmolive Maintains FY22 Earnings, Sales Growth Outlook - Update  Colgate-Palmolive Co. Q1 Profit Drops, Inline With Estimates Colgate-Palmolive Q1 22 Earnings Conference Call At 8:30 AM ET ",0.5
+0,CHTR,2022-04-29,07:00:00," Charter Communications, Inc. Reports Advance In Q1 Income, Beats estimates",1.0
+1,AON,2022-04-29,06:00:00," Aon plc Q1 Profit Increases, beats estimates",1.0
+2,WY,2022-04-29,03:05:00, Weyerhaeuser Q1 Profit Tops Estimates ,1.0
+3,CBOE,2022-04-29,07:00:00," CBOE Global Markets, Inc. Q1 Profit Decreases, but beats estimates",0.5
+4,ON,2022-05-02,08:00:00," ON Semiconductor Guides Q2 Well Above Estimates - Update  ON Semiconductor Corp. Q1 Profit Increases, beats estimates ON Semiconductor Q1 22 Earnings Conference Call At 9:00 AM ET ",1.0
+5,MCO,2022-05-02,07:00:00," Moody's Corp. Q1 Profit Decreases, Misses Estimates; Cuts Earnings Outlook - Update  Moody's Q1 22 Earnings Conference Call At 11:30 AM ET ",0.0
+6,WEC,2022-05-02,07:00:00," WEC Energy Group Q1 Income Climbs, Beats Estimates; Ups Outlook - Update  WEC Energy Group Q1 22 Earnings Conference Call At 2:00 PM ET ",1.0
+7,GPN,2022-05-02,06:55:00," Global Payments Q1 Profit Increases, Beats Estimates; Reaffirms Annual Outlook - Update  Global Payments Q1 22 Earnings Conference Call At 8:00 AM ET ",1.0
+8,L,2022-05-02,06:00:00, Loews Corp. Announces Climb In Q1 Profit Loews Q1 22 Earnings Conference Call At 10:00 AM ET ,1.0
+9,PFE,2022-05-03,06:45:00," Pfizer Q1 Profit Rises; Cuts Adj. EPS Outlook To Reflect Impact For Accounting Policy Change  Pfizer Inc. Q1 Profit Increases, beats estimates Pfizer Q1 22 Earnings Conference Call At 10:00 AM ET ",0.5
+10,BIIB,2022-05-03,07:00:00, Biogen Reaffirms FY22 Outlook; Q1 Adj. EPS Misses Estimates  Biogen Q1 22 Earnings Conference Call At 8:00 AM ET ,0.0
+11,PARA,2022-05-03,07:00:00,,0.5
+12,DD,2022-05-03,06:00:00, DuPont Issues Q2 Outlook; Cuts FY22 View - Update  EI DuPont De Nemours & Co. Q1 Income Drops EI DuPont De Nemours & Co. Q1 22 Earnings Conference Call At 8:00 AM ET ,0.0
+13,CMI,2022-05-03,07:30:00," Cummins  Inc. Q1 Income Falls, misses estimates Cummins Q1 22 Earnings Conference Call At 10:00 AM ET ",0.0
+14,WAT,2022-05-03,06:50:00, Waters Corp. Bottom Line Climbs In Q1 Waters Corp. Q1 22 Earnings Conference Call At 8:00 AM ET ,1.0
+15,TAP,2022-05-03,07:00:00," Molson Coors Brewing Company Q1 Profit Increases, beats estimates",1.0
+16,SPGI,2022-05-03,07:15:00, S&P Global Inc. Reports Advance In Q1 Profit S&P Global Q1 22 Earnings Conference Call At 8:30 AM ET ,1.0
+17,ROK,2022-05-03,07:00:00," Rockwell Automation Cuts FY22 Earnings View Below Market Estimates - Update  Rockwell Automation  Inc. Q2 Profit Decreases, misses estimates Rockwell Automation Q2 22 Earnings Conference Call At 8:30 AM ET ",0.0
+18,MPC,2022-05-03,06:05:00, Marathon Petroleum Corporation Q1 Earnings Summary Marathon Petroleum Q1 22 Earnings Conference Call At 11:00 AM ET ,1.0
+19,MLM,2022-05-03,06:00:00," Martin Marietta Materials, Inc. Q1 Profit Falls, misses estimates Martin Marietta Materials, Inc. Profit Declines In Q1",0.0
+0,ITW,2022-05-03,08:00:00, Illinois Tool Works Raises Full Year Guidance  Illinois Tool Works Inc Q1 sales increase Illinois Tool Works Q1 22 Earnings Conference Call At 10:00 AM ET ,1.0
+1,HWM,2022-05-03,07:00:00,,0.5
+2,HSIC,2022-05-03,06:30:00," Henry Schein Inc. Q1 Profit Increases, beats estimates",1.0
+3,HLT,2022-05-03,06:00:00," Hilton Worldwide Holdings, Inc. Q1 Earnings Summary",0.5
+4,EXPD,2022-05-03,08:00:00," Expeditors International of Washington Inc. Q1 Income Advances, Beats estimates",1.0
+5,ETN,2022-05-03,06:30:00," Eaton Boosts FY22 Outlook; Guides Q2 Adj. EPS In Line With Estimates  Eaton Corp. Q1 Profit Increases, beats estimates",1.0
+6,EL,2022-05-03,06:45:00," The Estée Lauder Companies Inc. Q3 Profit Increases, beats estimates The Estée Lauder Companies Q3 22 Earnings Conference Call At 9:30 AM ET ",1.0
+7,CTLT,2022-05-03,07:00:00,,0.5
+8,CNP,2022-05-03,06:00:00," CenterPoint Energy Backs FY22 Adj. EPS Outlook - Update  CenterPoint Energy Inc Q1 Profit Increases, but misses estimates CenterPoint Energy Q1 22 Earnings Conference Call At 8:00 AM ET ",0.5
+9,CMS,2022-05-03,08:00:00," CMS Energy Backs Earnings View For FY22, Long Term - Update  CMS Energy Q1 22 Earnings Conference Call At 9:00 AM ET  CMS Energy Corp. Q1 Profit Beats Estimates",1.0
+10,BR,2022-05-03,07:00:00," Broadridge Financial Solutions Inc. Q3 Profit Increases, beats estimates Broadridge Financial Solutions Q3 22 Earnings Conference Call At 8:30 AM ET ",1.0
+11,BEN,2022-05-03,08:30:00," Franklin Resources Inc. Q2 Profit Decreases, but beats estimates",0.5
+12,AME,2022-05-03,06:55:00," Ametek Sees Higher Q2 Earnings, Sales; Lifts FY22 Earnings View - Update  Ametek Inc. Q1 Profit Increases, beats estimates Ametek Q1 22 Earnings Conference Call At 8:30 AM ET ",1.0
+13,ZBRA,2022-05-03,06:30:00," Zebra Technologies Corporation Q1 Profit Decreases, but beats estimates Zebra Technologies Q1 22 Earnings Conference Call At 8:30 AM ET  Zebra Technologies Guides Q2 Adj. EPS Below Estimates - Quick Facts ",0.5
+14,ZBH,2022-05-03,06:30:00," Zimmer Biomet Holdings Q1 22 Earnings Conference Call At 8:30 AM ET  Zimmer Biomet Raises, Tightens Full Year Outlook Range  Zimmer Biomet Holdings Inc. Profit Declines In Q1",0.5
+15,PEG,2022-05-03,07:30:00, Public Service Enterprise Q1 Earnings Surpass Estimates; Reiterates Annual Guidance  Public Service Enterprise Group Q1 22 Earnings Conference Call At 11:00 AM ET ,1.0
+16,LDOS,2022-05-03,06:00:00," Leidos Holdings Q1 22 Earnings Conference Call At 8:00 AM ET  Leidos Holdings Q1 Profit Down, But Beats Estimates; Backs Annual Outlook Above View - Update ",0.5
+17,J,2022-05-03,06:40:00," Jacobs Engineering Updates FY22 Adj. EPS Outlook With Mid-point Of Range Unchanged  Jacobs Engineering Group Inc. Q2 Profit Increases, beats estimates",1.0
+18,IT,2022-05-03,06:00:00," Gartner Q1 22 Earnings Conference Call At 8:00 AM ET  Gartner, Inc. Profit Advances In Q1",1.0
+19,INCY,2022-05-03,07:00:00, Incyte Q1 Results Miss Estimates  Incyte Q1 22 Earnings Conference Call At 8:00 AM ET ,0.0
+0,FIS,2022-05-03,07:00:00," Fidelity National Information Services Issues Q2, FY22 Outlook  Fidelity National Information Services Q1 22 Earnings Conference Call At 8:30 AM ET  Fidelity National Information Services Q1 Earnings Summary", 
+1,CVS,2022-05-04,06:30:00," CVS Health Boosts FY22 Adj. EPS Outlook As Q1 Results Top Estimates  CVS Health Corp. Q1 Profit Increases, beats estimates CVS Health Q1 22 Earnings Conference Call At 8:00 AM ET ",1
+2,YUM,2022-05-04,07:00:00," Yum! Brands Inc. Q1 Profit Increases, but misses estimates",0
+3,UBER,2022-05-04,07:00:00," Uber Posts Significant Loss In Q1, But Revenue Surges ",0
+4,XYL,2022-05-04,06:55:00," Xylem Inc. Q1 Profit Decreases, but beats estimates",0.5
+5,TT,2022-05-04,06:30:00,, 
+6,REGN,2022-05-04,06:00:00," Regeneron Pharmaceuticals Q1 22 Earnings Conference Call At 8:30 AM ET  Regeneron Pharmaceuticals Q1 Profit Decreases, but beats estimates",1
+7,PNW,2022-05-04,08:40:00," Pinnacle West Capital Corp. Announces Fall In Q1 Profit, but beats estimates",0.5
+8,NI,2022-05-04,06:30:00," NiSource Inc. Q1 Profit Increases, but misses estimates NiSource Q1 22 Earnings Conference Call At 11:00 AM ET ",0
+9,MAR,2022-05-04,07:00:00, Marriott International Reports Q1 Profit; Resumes Dividend - Update  Marriott International Q1 22 Earnings Conference Call At 8:30 AM ET ,1
+10,JCI,2022-05-04,07:00:00, Johnson Controls Issues Q3 Outlook; Cuts FY22 Adj. EPS View Below Market - Update  Johnson Controls Inc Profit Retreats In Q2 Johnson Controls Q2 22 Earnings Conference Call At 8:30 AM ET ,0
+11,EMR,2022-05-04,06:55:00, Emerson Electric Q2 22 Earnings Conference Call At 9:00 AM ET  Emerson Electric Co. Profit Advances In Q2,1
+12,CRL,2022-05-04,07:00:00, Charles River Labs Boosts FY22 Revenue Growth Outlook; Q1 Results Top Estimates ,1
+13,CDW,2022-05-04,07:00:00," CDW Corp. Q1 22 Earnings Conference Call At 8:30 AM ET  CDW Corporation Q1 Profit Increases, Beats Estimates; Sets Dividend Of $0.50/shr - Update ",1
+14,BWA,2022-05-04,06:30:00," BorgWarner Q1 Net Jumps On Lower Investment Losses, Beats Estimates  Borg Warner Inc. Q1 Profit Increases, beats estimates Borg Warner Q1 22 Earnings Conference Call At 9:30 AM ET ",1
+15,VMC,2022-05-04,07:00:00," Vulcan Materials Co. Q1 Profit Decreases, but beats estimates",0.5
+16,IDXX,2022-05-04,06:30:00," IDEXX Laboratories Q1 22 Earnings Conference Call At 8:30 AM ET  IDEXX Labs Cuts FY22 Earnings, Sales Growth View - Update  IDEXX Laboratories Inc Q1 Income Drops, but beats estimates",0.5
+17,GNRC,2022-05-04,06:00:00,, 
+18,TECH,2022-05-04,06:30:00, Bio-Techne Corp. Q3 Adj. Profit Rises ,1
+19,MRNA,2022-05-04,06:30:00, Moderna Q1 Results Top Estimates ,1
+0,DOC,2022-05-04,07:55:00,,0
+1,CAH,2022-05-05,06:45:00, Cardinal Health Cuts FY22 Adj. EPS View Below Market - Update  Cardinal Health Inc Q3 Earnings Summary Cardinal Health Q3 22 Earnings Conference Call At 8:30 AM ET ,0
+2,ZTS,2022-05-05,07:00:00, Zoetis Guides Trims FY22 Outlook; Q1 Results Top Estimates ,0
+3,WRK,2022-05-05,06:30:00," WestRock Q2 22 Earnings Conference Call At 8:30 AM ET  WestRock Company Q2 Profit Decreases, but beats estimates",0
+4,SRE,2022-05-05,07:00:00," Sempra Energy Q1 Profit Decreases, but beats estimates",0
+5,RCL,2022-05-05,08:00:00, Royal Caribbean Targets Net Profit In H2  Royal Caribbean Cruises Ltd. Q1 Loss Misses Estimates,1
+6,PPL,2022-05-05,08:00:00, PPL Corporation Q1 Earnings Summary PPL Corp. Q1 22 Earnings Conference Call At 11:00 AM ET ,0
+7,PH,2022-05-05,07:30:00, Parker Hannifin Boosts FY22 Adj. EPS Outlook As Q3 Results Top Estimates ,1
+8,K,2022-05-05,08:00:00," Kellogg Boosts FY22 Sales Growth Outlook - Update  Kellogg Company Q1 Profit Increases, beats estimates Kellogg Q1 22 Earnings Conference Call At 9:30 AM ET ",1
+9,ICE,2022-05-05,07:30:00," IntercontinentalExchange Group Inc. Q1 Profit Increases, beats estimates IntercontinentalExchange Group Q1 22 Earnings Conference Call At 8:30 AM ET ",1
+10,HII,2022-05-05,07:15:00," Huntington Ingalls Industries, Inc. Reports Decline In Q1 Bottom Line, but beats estimates",0
+11,D,2022-05-05,07:30:00," Dominion Energy Q1 Profit Decreases, But Beats Estimates; Sees Q2 Profit Shy Of Estimates - Update ",0
+12,COP,2022-05-05,07:00:00," ConocoPhillips Updates FY22 Production View; Lifts 2022 Returns Of Capital; Declares Dividend  ConocoPhillips Q1 Profit Increases, beats estimates ConocoPhillips Q1 22 Earnings Conference Call At 12:00 PM ET ",1
+13,CBRE,2022-05-05,06:55:00," CBRE Group Q1 22 Earnings Conference Call At 8:30 AM ET  CBRE Group, Inc. Profit Rises In Q1",1
+14,BDX,2022-05-05,06:30:00," Becton, Dickinson And Co. Lifts FY22 Outlook - Update  Becton, Dickinson and Company Q2 Profit Increases, beats estimates Becton, Dickinson And Co. Q2 22 Earnings Conference Call At 8:00 AM ET ",1
+15,APD,2022-05-05,06:00:00," Air Products And Chemicals Q2 Profit Up, Beats Estimates; Sees Q3 Earnings Above View - Update  Air Products And Chemicals Q2 22 Earnings Conference Call At 8:30 AM ET ",1
+16,TRMB,2022-05-05,07:00:00," Trimble Inc. Q1 Profit Decreases, but beats estimates",0
+17,TRGP,2022-05-05,06:00:00,,0
+18,PWR,2022-05-05,06:55:00," Quanta Services Q1 22 Earnings Conference Call At 9:00 AM ET  Quanta Services Inc. Q1 Profit Decreases, but beats estimates",0
+19,EPAM,2022-05-05,06:00:00,,0
+0,FRT,2022-05-05,08:00:00," Federal Rlty Inv Trust Q1 Profit Advances, Beats estimates",1
+1,EVRG,2022-05-05,06:00:00," Evergy Q1 22 Earnings Conference Call At 9:00 AM ET  Evergy, Inc. Q1 Profit Decreases, But Beats Estimates; Affirms Full-year Earnings Guidance - Update ",0.5
+2,BALL,2022-05-05,07:01:58," Ball Corp. Q1 22 Earnings Conference Call At 11:00 AM ET  Ball Corporation Q1 Profit Increases, but misses estimates",0
+3,APTV,2022-05-05,06:45:00, Aptiv PLC Q1 22 Earnings Conference Call At 8:00 AM ET  Aptiv PLC Profit Falls In Q1,0
+4,CI,2022-05-06,06:00:00," Cigna Raises Q1 Adj. EPS View Above Market; Backs Sales Forecast Below Estimates - Update  Cigna Corp. Q1 Profit Increases, beats estimates Cigna Q1 22 Earnings Conference Call At 8:30 AM ET ",1
+5,NRG,2022-05-06,07:00:00, NRG Energy Q1 22 Earnings Conference Call At 9:00 AM ET  NRG Energy Inc Q1 Earnings Summary,0.5
+6,TSN,2022-05-09,07:30:00," Tyson Foods Boosts FY22 Sales Outlook As Q2 Results Top Estimates  Tyson Foods Inc. Q2 Profit Increases, beats estimates Tyson Foods Q2 22 Earnings Conference Call At 9:00 AM ET ",1
+7,EXC,2022-05-09,08:30:00, Exelon Corp Q1 Income Drops Exelon Corp Announces Drop In Q1 Profit Exelon Q1 22 Earnings Conference Call At 10:00 AM ET ,0
+8,DUK,2022-05-09,06:50:00," Duke Energy Reaffirms Forecast For FY22 Adj. Earnings, Long Term Growth  Duke Energy Corp Q1 Profit Decreases, misses estimates Duke Energy Q1 22 Earnings Conference Call At 10:00 AM ET ",0
+9,VTRS,2022-05-09,06:00:00," Viatris Stock Gains 6% After Quarterly Results  Viatris Maintains FY22 Revenue Outlook, Declares Dividend - Update  Viatris Inc. Q1 Earnings Summary Viatris Q1 22 Earnings Conference Call At 8:30 AM ET ",0.5
+10,FOXA,2022-05-10,08:00:00, Fox Corp. Q3 Profit Misses Estimates; Revenues Up 7%  Fox Corporation Reports Drop In Q3 Bottom Line Fox Corp. Q3 22 Earnings Conference Call At 8:30 AM ET ,0
+11,SYY,2022-05-10,08:00:00," Sysco Raises FY22 Adj. EPS Outlook - Update  Sysco Corp. Q3 Profit Increases, beats estimates Sysco Q3 22 Earnings Conference Call At 10:00 AM ET ",1
+12,FOX,2022-05-10,08:00:00, Fox Corp. Q3 Profit Misses Estimates; Revenues Up 7%  Fox Corporation Reports Drop In Q3 Bottom Line Fox Corp. Q3 22 Earnings Conference Call At 8:30 AM ET ,0
+13,BLDR,2022-05-10,06:30:00,, 
+14,XRAY,2022-05-10,06:00:00," Dentsply Sirona Slashes FY22 Outlook; Stock Down 13% - Update  Dentsply Sirona Inc Q1 Profit Decreases, misses estimates Dentsply Sirona Q1 22 Earnings Conference Call At 8:30 A ET ",0
+15,TDG,2022-05-10,08:00:00," TransDigm Group Incorporated Q2 Profit Increases, beats estimates",1
+16,NCLH,2022-05-10,07:00:00," Norwegian Cruise Line Holdings Ltd. Q1 Loss Increases, misses estimates",0
+17,TPR,2022-05-12,07:45:00," Tapestry Modifies FY22 Guidance; Sees Earnings Ahead Of Prior Outlook Excl. External Factors  Tapestry Q3 22 Earnings Conference Call At 8:00 AM ET  Tapestry, Inc. Bottom Line Rises In Q3",0.5
+18,WMT,2022-05-17,07:00:00," Walmart Q1 Profit Declines, Misses Estimates  Walmart Inc. Q1 Profit Decreases, misses estimates Walmart Q1 23 Earnings Conference Call At 8:00 AM ET ",0
+19,HD,2022-05-17,06:00:00," Home Depot Raises FY22 Earnings, Sales Growth View - Update  The Home Depot, Inc. Profit Rises In Q1, Beats estimates The Home Depot Q1 22 Earnings Conference Call At 9:00 AM ET ",1
+0,TGT,2022-05-18,06:30:00," TJX Q1 Profit Beats Estimates; Target Stock Falls As Profit Came In Well Below Expectations  Target Q1 Profit Misses Estimates, Comps. Up 3.3%  Target Corp. Q1 Profit Decreases, misses estimates Target Q1 22 Earnings Conference Call At 8:00 AM ET ",0.0
+1,TJX,2022-05-18,07:30:00," TJX Q1 Profit Beats Estimates; Target Stock Falls As Profit Came In Well Below Expectations  The TJX Companies, Inc. Profit Rises In Q1, but misses estimates The TJX Companies Q1 23 Earnings Conference Call At 11:00 AM ET ",1.0
+2,LOW,2022-05-18,06:00:00," Lowe's Cos. Announces Increase In Q1 Income, Beats Estimates - Update  Lowe's Companies Q1 22 Earnings Conference Call At 9:00 AM ET ",1.0
+3,ADI,2022-05-18,07:00:00," Analog Devices Guides Q3 Above Estimates, Declares Dividend  Analog Devices Q2 Profit Increases, beats estimates Analog Devices Q2 22 Earnings Conference Call At 10:00 AM ET ",1.0
+4,DE,2022-05-20,06:45:00," Deere & Co. Boosts FY22 Net Income Outlook- Update  Deere And Co Q2 Profit Rises, Beats estimates Deere And Co Q2 22 Earnings Conference Call At 10:00 AM ET ",1.0
+5,RL,2022-05-24,08:00:00, Ralph Lauren Corp. Q4 Earnings Summary Ralph Lauren Q4 22 Earnings Conference Call At 9:00 AM ET ,0.5
+6,BBY,2022-05-24,07:00:00," Best Buy Revises Outlook  Best Buy Co Inc. Q1 Profit Decreases, misses estimates Best Buy Co Q1 23 Earnings Conference Call At 8:00 AM ET ",0.0
+7,AZO,2022-05-24,06:55:00," AutoZone Q3 Net Profit Edges Down, EPS Tops Estimates On Higher Same Store Sales - Update  AutoZone Inc. Q3 Profit  beats estimates AutoZone Q3 22 Earnings Conference Call At 10:00 AM ET ",1.0
+8,AVGO,2022-05-26,07:01:00," Broadcom Sees Higher Q3 Revenue, Above Market; Plans Up To $10 Bln Share Buyback - Update  Broadcom Acquisition Conference Call At 8:00 AM ET  Broadcom To Acquire Vmware In $61 Bln Cash And Stock Deal - Quick Facts  Broadcom Limited Q2 Profit Increases, beats estimates",1.0
+9,MDT,2022-05-26,06:45:00," Medtronic Issues FY23 Guidance; Plans To Form Independent Kidney Care-focused Medical Device Company  Medtronic plc Q4 Profit Increases, but misses estimates Medtronic Q4 22 Earnings Conference Call At 8:00 AM ET ",0.0
+10,DLTR,2022-05-26,07:30:00," Dollar Tree Sees Higher Q2 Results; Lifts FY22 Forecast - Update  Dollar Tree Inc. Q1 Profit Rises, Beats estimates Dollar Tree Q1 22 Earnings Conference Call At 9:00 AM ET ",1.0
+11,DG,2022-05-26,06:55:00," Dollar General Boosts FY22 Sales Outlook; Declares Dividend - Update  Dollar General Corporation Profit Falls In Q1, but beats estimates Dollar General Q1 22 Earnings Conference Call At 10:00 AM ET ",1.0
+12,HRL,2022-06-02,06:30:00," Hormel Foods Corp Reports Advance In Q2 Profit, Beats estimates Hormel Foods Q2 22 Earnings Conference Call At 8:00 AM ET ",1.0
+13,SJM,2022-06-07,07:00:00," J. M. Smucker Guides FY23 Well Below Estimates - Update  The J. M. Smucker Company Q4 Profit Increases, beats estimates The J. M. Smucker Q4 22 Earnings Conference Call At 9:00 AM ET  Peanut Butter Cup Ice Cream Recalled ",0.0
+14,CPB,2022-06-08,07:15:00," Campbell Soup Q3 Adj. Profit Rises, Organic Net Sales Up 9%; Reaffirms FY22 Adj. EPS Guidance  Campbell Soup Co. Announces Advance In Q3 Profit Campbell Soup Q3 22 Earnings Conference Call At 8:00 AM ET ",1.0
+15,KR,2022-06-16,08:00:00," Kroger Boosts FY22 Outlook - Update  Kroger Co. Q1 Profit Increases, beats estimates Kroger Q1 22 Earnings Conference Call At 10:00 AM ET ",1.0
+16,JBL,2022-06-16,07:30:00," Jabil Again Boosts FY22 Outlook - Update  Jabil Inc. Q3 Profit Increases, beats estimates Jabil Q3 22 Earnings Conference Call At 8:30 AM ET ",1.0
+17,LEN,2022-06-21,06:00:00, Lennar Q2 Profit Rises; Total Revenues Up 30%  Lennar Q2 22 Earnings Conference Call At 11:00 AM ET ,1.0
+18,FDS,2022-06-23,07:00:00," Factset Research Systems Inc. Q3 Profit Decreases, but beats estimates",0.5
+19,DRI,2022-06-23,07:00:00, Darden Restaurants Issues FY23 Guidance; Increases Dividend  Darden Restaurants Inc. Q4 Earnings Summary Darden Restaurants Q4 22 Earnings Conference Call At 8:30 AM ET ,1.0
+0,ACN,2022-06-23,06:45:00, Accenture Trims FY22 EPS Outlook; Raises Dividend 10% - Update  Accenture plc Q3 Profit Rises Accenture Q3 22 Earnings Conference Call At 8:00 AM ET ,0
+1,CCL,2022-06-24,09:15:00,, 
+2,KMX,2022-06-24,06:50:00," CarMax Inc. Q1 Income Drops, but beats estimates CarMax Q1 23 Earnings Conference Call At 9:00 AM ET ",0
+3,GIS,2022-06-29,07:00:00," General Mills Initiates FY23 Outlook; Boosts Qtly Dividend 6% - Update  General Mills Q4 Profit Increases, beats estimates General Mills Q4 22 Earnings Conference Call At 9:00 AM ET ",1
+4,MKC,2022-06-29,06:30:00," McCormick & Co. Q2 22 Earnings Conference Call At 8:00 AM ET  McCormick Slashes FY22 Earnings Outlook - Update  McCormick & Co. Q2 Profit Decreases, misses estimates",0
+5,PAYX,2022-06-29,08:30:00, Paychex Q4 22 Earnings Conference Call At 9:30 AM ET , 
+6,WBA,2022-06-30,07:00:00," Walgreens Boots Alliance Maintains FY22 Adj. EPS Growth Outlook - Update  Walgreens Boots Alliance, Inc. Q3 Profit Decreases, but beats estimates Walgreens Boots Alliance Q3 22 Earnings Conference Call At 8:30 AM ET ",0
+7,STZ,2022-06-30,07:00:00, Constellation Brands Inks Deal With Sands Family To Eliminate Class B Common Stock  Constellation Brands Maintains FY22 Comparable EPS Outlook; Q1 Results Top Estimates  Constellation Brands Inc Q1 Earnings Summary Constellation Brands Q1 23 Earnings Conference Call At 10:30 AM ET ,1
+8,PEP,2022-07-12,06:00:00," Pepsico Q2 22 Earnings Conference Call At 8:15 AM ET  Pepsico Q2 Adj. Profit, Revenue Top View; Lifts FY22 Revenue Forecast  Pepsico Q2 Profit Down, Adj. EPS Tops View; Lifts FY22 Organic Revenue View ",1
+9,DAL,2022-07-13,06:30:00," Delta Air Lines Q2 Profit Declines, Miss Estimates  Delta Air Lines Q2 22 Earnings Conference Call At 10:00 AM ET ",0
+10,FAST,2022-07-13,06:50:00, Fastenal Co. Q2 income increases in line with estimates Fastenal Q2 22 Earnings Conference Call At 10:00 AM ET ,1
+11,MS,2022-07-14,07:30:00, Morgan Stanley Bottom Line Declines In Q2 Morgan Stanley Q2 22 Earnings Conference Call At 9:30 AM ET ,0
+12,JPM,2022-07-14,06:45:00," JPMorgan Q2 Profit Down 28%; Results Miss Estimates  JPMorgan Chase & Co. Reveals Decline In Q2 Income, misses estimates JPMorgan Chase Q2 22 Earnings Conference Call At 8:30 AM ET ",0
+13,CAG,2022-07-14,07:30:00," Conagra Brands Guides FY23 Adj. EPS Below Estimates - Update  Conagra Brands Inc. Q4 Profit Decreases, but beats estimates Conagra Brands Q4 22 Earnings Conference Call At 9:30 AM ET ",0
+14,CTAS,2022-07-14,09:22:00, Cintas Q4 22 Earnings Conference Call At 10:00 AM ET , 
+15,WFC,2022-07-15,07:00:00," Wells Fargo & Co Q2 Profit Falls, misses estimates Wells Fargo & Co Q2 22 Earnings Conference Call At 10:00 AM ET ",0
+16,C,2022-07-15,08:00:00," Citigroup Shares Surge As Q2 Profit Beats Estimates  Citigroup Inc. Q2 Profit Falls, but beats estimates Citigroup Q2 22 Earnings Conference Call At 11:00 AM ET ",1
+17,USB,2022-07-15,06:45:00," US Bancorp Q2 Profit Down, Misses Market View; Revenues Rise  US Bancorp Q2 Income Retreats, misses estimates US Bancorp Q2 22 Earnings Conference Call At 9:00 AM ET ",0
+18,UNH,2022-07-15,05:55:00," UnitedHealth Lifts FY22 Earnings View On Higher Q2 Results  Unitedhealth Group, Inc. Announces Rise In Q2 Income Unitedhealth Group Q2 22 Earnings Conference Call At 8:45 AM ET ",1
+19,BLK,2022-07-15,06:00:00, Blackrock Inc. Reveals Retreat In Q2 Profit Blackrock Q2 22 Earnings Conference Call At 8:30 AM ET ,0
+0,BK,2022-07-15,06:30:00," BNY Mellon Q2 Profit Declines 16%, Miss Estimates  The Bank of New York Mellon Corp. Reveals Drop In Q2 Bottom Line, misses estimates The Bank Of New York Mellon Q2 22 Earnings Conference Call At 8:00 AM ET ",0
+1,STT,2022-07-15,08:48:00, State Street Corp. Reports Fall In Q2 Profit State Street Q2 22 Earnings Conference Call At 12:00 PM ET ,0
+2,PGR,2022-07-15,08:25:00, Progressive Corp. Slips To Q2 Loss ,0
+3,PNC,2022-07-15,06:30:00, PNC Financial Services Group Inc. Q2 Income Rises,1
+4,GS,2022-07-18,07:30:00," Amended: Goldman Sachs Q2 Profit, Revenue Beat Estimates  Goldman Sachs Group Inc. Profit Retreats In Q2, but beats estimates Goldman Sachs Group Q2 22 Earnings Conference Call At 9:30 AM ET ",1
+5,BAC,2022-07-18,06:45:00," Bank Of America Q2 Profit Declines, Miss Estimates  Bank of America Corporation Q2 Profit Declines, misses estimates Bank Of America Q2 22 Earnings Conference Call At 8:30 AM ET ",0
+6,SYF,2022-07-18,06:00:00, Synchrony Financial Q2 22 Earnings Conference Call At 8:00 AM ET  Synchrony Financial Announces Drop In Q2 Bottom Line,0
+7,SCHW,2022-07-18,08:45:00,,0.5
+8,PLD,2022-07-18,08:00:00," Prologis Raises FY22 Earnings Guidance  ProLogis Q2 Profit Increases, beats estimates ProLogis Q2 22 Earnings Conference Call At 12:00 PM ET ",1
+9,JNJ,2022-07-19,06:45:00, Johnson & Johnson Q2 22 Earnings Conference Call At 8:30 AM ET  Johnson & Johnson Q2 Beats Estimates; Cuts Full-year Outlook - Update ,1
+10,LMT,2022-07-19,07:30:00," Lockheed Martin Slashes FY22 Outlook - Update  Lockheed Martin Corp. Q2 Profit Decreases, misses estimates Lockheed Martin Q2 22 Earnings Conference Call At 11:00 AM ET ",0
+11,HAL,2022-07-19,06:45:00," Halliburton Company Q2 Profit Decreases, but beats estimates Halliburton Q2 22 Earnings Conference Call At 9:00 AM ET ",1
+12,CFG,2022-07-19,06:20:00," Citizens Financial Group Q2 22 Earnings Conference Call At 9:00 AM ET  Citizens Financial Q2 Underlying Net Income Declines  Citizens Financial Group, Inc. Profit Drops In Q2, misses estimates",0
+13,HAS,2022-07-19,06:30:00, Hasbro Q2 Profit Beats Estimates; Issues Guidance  Hasbro Inc. Q2 Earnings Summary Hasbro Q2 22 Earnings Conference Call At 8:30 AM ET ,1
+14,TFC,2022-07-19,05:45:00, Truist Financial Q2 22 Earnings Conference Call At 8:00 AM ET  Truist Financial Corporation Reveals Fall In Q2 Profit,0
+15,CMA,2022-07-20,06:00:00," Comerica Inc. Profit Declines In Q2, but beats estimates Comerica Q2 22 Earnings Conference Call At 8:00 AM ET ",1
+16,BIIB,2022-07-20,07:00:00, Biogen Boosts FY22 Outlook As Q2 Results Top Estimates  Biogen Q2 22 Earnings Conference Call At 8:00 AM ET ,1
+17,ELV,2022-07-20,06:00:00,,0.5
+18,ABT,2022-07-20,07:30:00," Abbott Q2 Profit Tops Estimates; Raises 2022 Earnings Guidance  Abbott Laboratories Q2 Profit Increases, beats estimates Abbott Laboratories Q2 22 Earnings Conference Call At 9:00 AM ET ",1
+19,NTRS,2022-07-20,08:00:00," Northern Trust Corp. Q2 Profit Advances, but misses estimates",0.5
+0,NDAQ,2022-07-20,07:00:00," Nasdaq Board Approves 3-for-1 Stock Split; Declares Quarterly Dividend  Nasdaq Inc. Q2 Profit Decreases, but beats estimates Nasdaq Q2 22 Earnings Conference Call At 8:00 AM ET ",1.0
+1,MTB,2022-07-20,06:40:00," M&T Bank Corp. Q2 Income Declines, misses estimates",0.0
+2,BKR,2022-07-20,07:00:00, Baker Hughes Company Q2 Earnings Summary Baker Hughes Q2 22 Earnings Conference Call At 8:30 AM ET ,1.0
+3,MKTX,2022-07-20,06:30:00, MarketAxess Holdings Inc. Q2 Profit  beats estimates,1.0
+4,T,2022-07-21,06:30:00, AT&T Q2 Income From Cont. Opns Down On Weak Revenues  AT&T Inc. Q2 Profit Falls AT&T Q2 22 Earnings Conference Call At 8:30 AM ET ,0.0
+5,TRV,2022-07-21,06:57:00," The Travelers Companies  Inc. Q2 Profit Decreases, but beats estimates The Travelers Companies Q2 22 Earnings Conference Call At 9:00 AM ET ",0.5
+6,PM,2022-07-21,07:00:00," Philip Morris International Q2 Profit Increases, beats estimates Philip Morris International Q2 22 Earnings Conference Call At 9:00 AM ET ",1.0
+7,FCX,2022-07-21,08:00:00," Freeport-McMoRan Inc. Q2 Profit Decreases, misses estimates",0.0
+8,BX,2022-07-21,06:50:00, Blackstone Logs Q2 Loss On Decreased Revenue ,0.0
+9,AAL,2022-07-21,07:00:00, American Airlines Q2 Profit Matches Estimates; Expects To Be Profitable In Q3  American Airlines Group Inc Q2 Earnings Summary American Airlines Group Q2 22 Earnings Conference Call At 8:30 AM ET ,1.0
+10,UNP,2022-07-21,07:45:00," Union Pacific Corp. Reveals Climb In Q2 Profit, Beats estimates Union Pacific Q2 22 Earnings Conference Call At 8:45 AM ET ",1.0
+11,NUE,2022-07-21,08:00:00, Nucor Corp. Bottom Line Climbs In Q2 Nucor Q2 22 Earnings Conference Call At 2:00 PM ET ,1.0
+12,MMC,2022-07-21,07:00:00," Marsh & McLennan Companies Q2 22 Earnings Conference Call At 8:30 AM ET  Marsh & McLennan Companies Inc Q2 Profit Increases, beats estimates",1.0
+13,IQV,2022-07-21,07:00:00," IQVIA Holdings Q2 22 Earnings Conference Call At 9:00 AM ET  IQVIA Holdings Adjusts FY22 Outlook To Reflect FX Impact - Update  IQVIA Holdings Inc. Q2 Profit Increases, beats estimates",1.0
+14,HBAN,2022-07-21,07:00:00, Huntington Bancshares Q2 Profit Beats Estimates ,1.0
+15,FITB,2022-07-21,06:30:00," Fifth Third Bancorp Q2 Income Falls, misses estimates",0.0
+16,DOW,2022-07-21,06:00:00," Dow Inc. Q2 Profit Decreases, but beats estimates Dow Q2 22 Earnings Conference Call At 8:00 AM ET ",0.5
+17,DHR,2022-07-21,06:00:00," Danaher Q2 22 Earnings Conference Call At 8:00 AM ET  Danaher Backs FY22 Adj. Business Core Revenue Growth View - Update  Danaher Corp. Q2 Profit Decreases, but beats estimates",0.5
+18,DHI,2022-07-21,06:30:00," D R Horton Slashes FY22 Outlook - Update  D R Horton Inc. Bottom Line Climbs In Q3, Beats estimates",1.0
+19,DGX,2022-07-21,06:45:00," Quest Diagnostics Raises 2022 Guidance  Quest Diagnostics Q2 Profit Decreases, but beats estimates",0.5
+0,TSCO,2022-07-21,06:15:00," Tractor Supply Company Q2 Net Jumps, Above View; Revenue Inline; Ups Annual Guidance  Tractor Supply Q2 Income Rises, Beats estimates Tractor Supply Q2 22 Earnings Conference Call At 10:00 AM ET ",1
+1,SNA,2022-07-21,06:30:00," Snap-On Inc. Announces Increase In Q2 Profit, Beats estimates Snap-On Q2 22 Earnings Conference Call At 10:00 AM ET ",1
+2,POOL,2022-07-21,07:00:00, Pool Corp Boosts FY22 Outlook As Q2 Adj. EPS Tops Estimates ,1
+3,KEY,2022-07-21,06:30:00," KeyCorp Profit Retreats In Q2, but beats estimates",0.5
+4,IPG,2022-07-21,07:00:00," Interpublic Group Of Companies Inc. Reports Retreat In Q2 Profit Interpublic Group Of Companies Inc. Q2 Profit Decreases, but beats estimates",0
+5,DPZ,2022-07-21,07:30:00, Dominos Pizza Inc. Q2 Profit Retreats,0
+6,DOV,2022-07-21,07:00:00," Dover Lifts FY22 Earnings, Organic Growth View; Backs Adj. Earnings Forecast Above Market Estimate  Dover Corp Q2 Profit Increases, beats estimates",1
+7,VZ,2022-07-22,07:30:00," Verizon Cuts FY22 Outlook For Adj. EPS Below Market View - Update  Verizon Communications Q2 Profit Decreases, misses estimates Verizon Communications Q2 22 Earnings Conference Call At 8:30 AM ET ",0
+8,SLB,2022-07-22,07:00:00, Schlumberger Lifts FY22 Forecast - Update  Schlumberger Ltd. Profit Climbs In Q2,1
+9,ROP,2022-07-22,06:55:00, Roper Technologies Boosts FY22 Adj. EPS Outlook; Q2 Profit Top Estimates  Roper Technologies Inc. Q2 Profit Retreats Roper Technologies Q2 22 Earnings Conference Call At 8:00 AM ET ,1
+10,NEE,2022-07-22,07:30:00," NextEra Energy, Inc. Q2 Profit Increases, beats estimates",1
+11,HCA,2022-07-22,07:30:00," HCA Healthcare, Inc. Q2 Profit Retreats, but beats estimates HCA Healthcare Q2 22 Earnings Conference Call At 9:00 AM ET ",0.5
+12,AXP,2022-07-22,07:00:00," American Express Backs FY22 EPS View Below Market; Lifts Revenue Growth View - Update  American Express Co. Q2 Profit Retreats, but beats estimates American Express Q2 22 Earnings Conference Call At 8:30 AM ET ",0.5
+13,RF,2022-07-22,06:00:00," Regions Financial Corp. Q2 Profit Falls, but beats estimates Regions Financial Corp. Q2 Income Retreats, but beats estimates",0.5
+14,NEM,2022-07-25,07:00:00, Newmont Mining Corp. Reveals Fall In Q2 Bottom Line Newmont Mining Q2 22 Earnings Conference Call At 10:00 AM ET ,0
+15,UPS,2022-07-26,06:00:00, UPS Q2 Earnings Improve ,1
+16,MCD,2022-07-26,07:00:00," McDonalds Corp. Q2 Profit Decreases, but beats estimates",0.5
+17,KO,2022-07-26,06:55:00," The Coca-Cola Q2 22 Earnings Conference Call At 8:30 AM ET  Coca-Cola Boost FY22 Organic Revenue Growth Outlook  The Coca-Cola Company Q2 Profit Decreases, but beats estimates",0.5
+18,GM,2022-07-26,06:00:00," General Motors Q2 22 Earnings Conference Call At 8:30 AM ET  Livent To Supply Battery-grade Lithium Hydroxide To GM  GM Q2 Profit Misses Estimates; Confirms FY22 View  General Motors Company Q2 Profit Decreases, misses estimates",0
+19,MMM,2022-07-26,06:30:00," 3M Co. Q2 22 Earnings Conference Call At 9:00 AM ET  3M Subsidiary Aearo Technologies, Related Entities Initiate Chapter 11 Proceedings  3M Co. Cuts FY22 Earnings, Sales Outlook - Update  3M Co. Q2 Profit Decreases, but beats estimates",0
+0,GE,2022-07-26,06:30:00," GE Q2 Loss Narrows, Results Top Estimates  General Electric Co Q2 Earnings Summary",1
+1,CNC,2022-07-26,06:00:00, Centene Raises Earnings Guidance  Centene Corporation Q2 Earnings Summary,1
+2,RTX,2022-07-26,06:55:00, Raytheon Technologies Corporation Q2 Profit Beats Estimates; Confirms Annual Outlook - Update ,1
+3,PNR,2022-07-26,06:55:00," Pentair Plc Q2 Profit Increases, Beats Estimates - Update ",1
+4,PHM,2022-07-26,06:30:00," PulteGroup, Inc. Q2 Profit Increases, beats estimates",1
+5,PCAR,2022-07-26,08:00:00," Paccar Inc. Q2 Profit Rises, Beats estimates",1
+6,MSCI,2022-07-26,06:45:00," MSCI Inc. Q2 Profit Increases, beats estimates",1
+7,MCO,2022-07-26,07:00:00," Moody's Q2 22 Earnings Conference Call At 12:00 PM ET  Moody's Trims FY22 Earnings View Below Market Estimates - Update  Moodys Corp. Q2 Profit Decreases, misses estimates",0
+8,KMB,2022-07-26,07:30:00," Kimberly-Clark Corp Q2 Profit Increases, Beats Estimates - Update ",1
+9,HUBB,2022-07-26,07:30:00,,0.5
+10,GLW,2022-07-26,07:10:00, Corning Trims FY22 Outlook; Guides Q3 Below Estimates ,0
+11,ADM,2022-07-26,07:00:00," Archer-Daniels-Midland Q2 Profit Increases, beats estimates",1
+12,NVR,2022-07-26,09:00:00,,0.5
+13,ECL,2022-07-26,08:30:00, Ecolab Q2 22 Earnings Conference Call At 1:00 PM ET ,0.5
+14,BMY,2022-07-27,07:00:00, Bristol-Myers Squibb Reaffirms FY22 Adj. EPS Outlook; Q2 Results Top Estimates ,1
+15,BA,2022-07-27,07:30:00," The Boeing Q2 22 Earnings Conference Call At 10:30 AM ET  Boeing Q2 Profit Declines, Results Miss Estimates  The Boeing Co. Reports Fall In Q2 Profit",0
+16,GD,2022-07-27,07:00:00," General Dynamics Q2 22 Earnings Conference Call At 9:00 AM ET  General Dynamics Corp. Q2 Profit Advances, Beats estimates",1
+17,WM,2022-07-27,07:00:00," Waste Management Boosts FY22 Revenue Growth Outlook - Update  Waste Management Inc Q2 Profit Increases, beats estimates",1
+18,TMUS,2022-07-27,07:00:00," T-Mobile US, Inc. Q2 Earnings Summary",0.5
+19,TEL,2022-07-27,06:00:00," TE Connectivity Sees Weak Profit In Q4; Adj. EPS, Revenues To Top Market View - Update  TE Connectivity Ltd. Q3 Profit Increases, beats estimates",1
+0,TDY,2022-07-27,06:55:00," Teledyne Technologies Sees Q3 Earnings Below Market; Cuts FY22 Outlook - Update  Teledyne Technologies Inc Q2 Profit Increases, beats estimates",0
+1,ROL,2022-07-27,07:30:00," Rollins, Inc. Q2 Profit Inline With Estimates",0.5
+2,ROK,2022-07-27,07:00:00," Rockwell Automation Q3 22 Earnings Conference Call At 8:30 AM ET  Rockwell Automation Tightens FY22 Forecast - Update  Rockwell Automation  Inc. Q3 Profit Increases, beats estimates",1
+3,ODFL,2022-07-27,07:00:00, Old Dominion Freight Line Q2 Profit Beats Estimates ,1
+4,NSC,2022-07-27,08:00:00, Norfolk Southern Q2 Income From Railway Ops. Rises; Railway Operating Revenues Up 16%  Norfolk Southern Corp Q2 Profit  misses estimates,0
+5,KHC,2022-07-27,07:00:00, The Kraft Heinz Q2 22 Earnings Conference Call At 9:00 AM ET  The Kraft Heinz Company Q2 Earnings Summary,1
+6,IVZ,2022-07-27,07:00:00, Invesco Q2 22 Earnings Conference Call At 9:00 AM ET  Invesco Ltd. Bottom Line Retreats In Q2,0
+7,HUM,2022-07-27,06:30:00," Humana Q2 22 Earnings Conference Call At 9:00 AM ET  Humana Boosts FY22 Adj. EPS Outlook - Update  Humana Inc Q2 Profit Increases, beats estimates",1
+8,HLT,2022-07-27,06:00:00," Hilton Worldwide Raises Full Year Guidance  Hilton Worldwide Holdings, Inc. Q2 Profit Increases, beats estimates",1
+9,HES,2022-07-27,07:30:00, Hess Corporation Q2 Earnings Summary,0.5
+10,CME,2022-07-27,07:00:00," CME Group Q2 22 Earnings Conference Call At 8:30 AM ET  CME Group, Inc. Q2 Profit Increases, beats estimates",1
+11,BSX,2022-07-27,06:30:00," Boston Scientific Issues Q3 Outlook; Cuts FY22 Earnings, Sales Growth View - Update  Boston Scientific Corp Q2 Profit Increases, beats estimates",0
+12,BG,2022-07-27,06:00:00, Bunge Q2 Profit Down; Lifts FY Adj. EPS Outlook ,0.5
+13,AVY,2022-07-27,06:45:00, Avery Dennison Q2 Profit Beats Estimates; Ups Full-year Earning Outlook Above View - Update ,1
+14,APH,2022-07-27,08:00:00," Amphenol Corp. Q2 Profit Increases, beats estimates",1
+15,ADP,2022-07-27,07:00:00," Automatic Data Processing Q4 22 Earnings Conference Call At 8:30 AM ET  Automatic Data Processing Inc. Q4 Profit Increases, beats estimates",1
+16,SHW,2022-07-27,07:00:00," Sherwin-Williams Co Q2 Profit Decreases, misses estimates",0
+17,GRMN,2022-07-27,07:00:00," Garmin Cuts FY22 Earnings, Revenue View Below Market - Update  Garmin Ltd Q2 Profit Retreats",0
+18,GPC,2022-07-27,07:00:00," Genuine Parts Raises 2022 Outlook  Genuine Parts Co Q2 Profit Increases, beats estimates",1
+19,OTIS,2022-07-27,06:00:00,,0.5
+0,LW,2022-07-27,08:30:00," Lamb Weston Guides FY23 Earnings In Line As Q4 Results Top Estimates  Amended: Lamb Weston Holdings Profit Retreats In Q4, But Beats Street ",1
+1,AEP,2022-07-27,06:57:00," AEP Q2 Earnings Down, Yet Beats Estimates; Provides Outlook For FY22  American Electric Power Co Inc Q2 Profit Decreases, but beats estimates",1
+2,PFE,2022-07-28,06:45:00," Pfizer Q2 Results Climb, Beat Estimates; Lifts Low-end Of FY22 Adj. EPS View  Pfizer Inc. Q2 Profit Increases, Beats Estimates; 2022 Outlook Below View - Update  Pfizer Q2 22 Earnings Conference Call At 10:00 AM ET ",1
+3,MRK,2022-07-28,06:30:00, Merck Updates FY22 Guidance ,0.5
+4,VLO,2022-07-28,06:30:00, Valero Energy Corp. Q2 Income Climbs,1
+5,NOC,2022-07-28,06:40:00, Northrop Grumman Q2 Results Miss Estimates; Affirms FY22 Outlook ,0.5
+6,MO,2022-07-28,07:00:00," Altria Group Q2 Adj. Profit Beats Estimates, Reaffirms FY22 EPS Guidance ",1
+7,MA,2022-07-28,08:00:00," Mastercard Incorporated Q2 Profit Increases, beats estimates",1
+8,LUV,2022-07-28,06:45:00," Southwest Airlines Expects To Be Solidly Profitable For Remaining Two Quarters, And For 2022  Southwest Airlines Inc. Q2 Earnings Summary",1
+9,HON,2022-07-28,06:30:00," Honeywell Updates FY22 Outlook; Names Vimal Kapur President And COO - Update  Honeywell International Inc. Q2 Profit Decreases, but beats estimates Honeywell International Q2 22 Earnings Conference Call At 8:30 AM ET ",0
+10,CMCSA,2022-07-28,07:00:00," Comcast Corp. Q2 Profit Decreases, but beats estimates",1
+11,XEL,2022-07-28,06:05:00," Xcel Energy Bottom Line Advances In Q2, But Misses Estimates; Backs 2022 Outlook - Update ",0
+12,TXT,2022-07-28,06:30:00, Textron Reiterates FY EPS Outlook  Textron Inc. Reports Increase In Q2 Income,1
+13,TROW,2022-07-28,07:00:00," T. Rowe Price Group Q2 Profit Decreases, misses estimates",0
+14,TMO,2022-07-28,06:00:00," Thermo Fisher Scientific Q2 Profit Decreases, but beats estimates",1
+15,SWK,2022-07-28,06:00:00, Stanley Black & Decker Reveals Fall In Q2 Bottom Line; Trims 2022 Earnings Outlook - Update  Stanley Black & Decker Q2 22 Earnings Conference Call At 8:00 AM ET ,0
+16,SO,2022-07-28,07:30:00," Southern Co. Q2 Profit Increases, beats estimates Southern Co. Q2 22 Earnings Conference Call At 1:00 PM ET ",1
+17,RCL,2022-07-28,08:00:00," Royal Caribbean Cruises Ltd. Q2 Loss Increases, but beats estimates",1
+18,PCG,2022-07-28,08:00:00," PG&E Corp. Again Reaffirms FY22 Adj. EPS Outlook - Update  PG&E Corp. Q2 Profit Decreases, misses estimates",0.5
+19,MLM,2022-07-28,06:00:00," Martin Marietta Materials Q2 Bottom Line Up, Beats Estimates - Update ",1
+0,LKQ,2022-07-28,06:00:00," LKQ Q2 Profit Rises, Adj. EPS Tops View; Tightens FY22 View For Adj. EPS  LKQ Corp Q2 Profit Increases, beats estimates",1
+1,IP,2022-07-28,07:00:00, International Paper Reveals Rise In Q2 Bottom Line International Paper Q2 22 Earnings Conference Call At 10:00 AM ET ,1
+2,HSY,2022-07-28,07:00:00," Hershey Raises FY22 Outlook; Boosts Dividend 15% - Update  Hershey Co. Q2 Profit Increases, beats estimates",1
+3,DTE,2022-07-28,07:00:00,,0.5
+4,CMS,2022-07-28,08:00:00," CMS Energy Q2 Profit Decreases, But Beats Estimates; Backs 2022 Profit Outlook - Update  CMS Energy Q2 22 Earnings Conference Call At 9:30 AM ET ",1
+5,BEN,2022-07-28,08:30:00," Franklin Resources Inc. Q3 Profit Decreases, but beats estimates",1
+6,BAX,2022-07-28,07:15:00," Baxter International Again Slashes FY22 Outlook - Update  Baxter International Inc. Q2 Profit Drops, Inline With Estimates",0
+7,AOS,2022-07-28,06:00:00," A. O. Smith Reaffirms FY22 Earnings View; Lowers Sales Forecast - Update  A.O. Smith Corp Q2 Profit Increases, beats estimates",0.5
+8,AMT,2022-07-28,07:00:00," American Tower Trims FY22 Property Revenue Outlook - Update  American Tower Corp. Reveals Rise In Q2 Bottom Line, Beats estimates",0.5
+9,WTW,2022-07-28,06:00:00, Willis Towers Watson Public Limited Company Bottom Line Declines In Q2,0
+10,WST,2022-07-28,06:00:00,,0.5
+11,TFX,2022-07-28,06:30:00," Teleflex Q2 Profit Climbs, Above Street View; Revenue Down; Cuts Annual Outlook ",0
+12,MAS,2022-07-28,07:00:00, Masco Corp. Q2 Earnings Summary,0.5
+13,LH,2022-07-28,06:45:00," Labcorp To Spin Off Its Clinical Development Business  Laboratory Corporation Of America Holdings Q2 Profit Decreases, but beats estimates",0.5
+14,KIM,2022-07-28,07:00:00,,0.5
+15,ALLE,2022-07-28,05:30:00," Allegion Cuts FY22 Adj. EPS Outlook Below Market; Lifts Revenue Growth View  Allegion Q2 Profit Decreases, but beats estimates",0.5
+16,LIN,2022-07-28,06:20:00, Linde Plc Raises 2022 Adj. EPS Guidance  Linde plc Reports Retreat In Q2 Bottom Line,1
+17,KDP,2022-07-28,07:00:00," Keurig Dr Pepper Boosts FY Sales Guidance  Keurig Dr Pepper Inc. Q2 Profit Drops, Inline With Estimates",1
+18,FTV,2022-07-28,08:00:00, Fortive Corporation Q2 Profit Beats Estimates,1
+19,CARR,2022-07-28,06:30:00,,0.5
+0,XOM,2022-07-29,07:30:00," Exxon Mobil Reports Nearly 4 Fold Jump In Q2 Profit  Exxon Mobil Q2 22 Earnings Conference Call At 9:30 AM ET  Exxon Mobil Corp. Q2 Profit Increases, beats estimates",1.0
+1,PG,2022-07-29,07:00:00," P&G Q4 Profit Up 5%, But Misses View; Provides Weak Outlook  Procter & Gamble Co. Q4 Income Rises, but misses estimates Procter & Gamble Q4 22 Earnings Conference Call At 9:00 AM ET ",0.0
+2,CVX,2022-07-29,06:15:00," Chevron Q2 22 Earnings Conference Call 11:00 AM ET  Chevron Corp. Q2 Profit Increases, beats estimates",1.0
+3,ABBV,2022-07-29,07:44:00," AbbVie Confirms FY22 Adj. EPS Outlook - Update  AbbVie Q2 22 Earnings Conference Call At 9:00 AM ET  AbbVie Q2 Profit Increases, beats estimates AbbVie: RINVOQ Approved In EU To Treat Adults With Active Non-Radiographic Axial Spondyloarthritis ",1.0
+4,WY,2022-07-29,03:05:00, Weyerhaeuser Q2 Profit Beats Estimates ,1.0
+5,PSX,2022-07-29,07:00:00," Phillips 66 Q2 22 Earnings Conference Call At 12:00 PM ET  Phillips 66 Q2 Profit Increases, beats estimates",1.0
+6,LYB,2022-07-29,06:30:00," LyondellBasell Industries N.V. Q2 Profit Decreases, but beats estimates",0.5
+7,GWW,2022-07-29,08:00:00," Grainger (W.W.) Inc. Q2 Income Climbs, Beats estimates",1.0
+8,CL,2022-07-29,06:55:00," Colgate-Palmolive Backs FY22 Earnings, Net Sales View; Lifts Organic Sales Growth Forecast - Update  Colgate-Palmolive Co. Q2 Profit Decreases, but beats estimates",0.5
+9,CHTR,2022-07-29,07:00:00," Charter Communications Q2 22 Earnings Conference Call At 8:30 AM ET  Charter Communications, Inc. Reports Climb In Q2 Income, Beats estimates",1.0
+10,CHD,2022-07-29,06:55:00," Church & Dwight Co Inc. Q2 Profit Decreases, but beats estimates",0.5
+11,AON,2022-07-29,06:00:00," Aon plc Q2 Profit Increases, beats estimates",1.0
+12,CBOE,2022-07-29,07:00:00," CBOE Global Markets, Inc. Q2 Earnings Summary CBOE Global Markets Q2 22 Earnings Conference Call At 8:30 AM ET ",1.0
+13,ON,2022-08-01,08:00:00," ON Semiconductor Guides Q3 Revenues Well Above Estimates - Update  ON Semiconductor Corp. Q2 Profit Increases, beats estimates ON Semiconductor Q2 22 Earnings Conference Call At 9:00 AM ET ",1.0
+14,J,2022-08-01,06:40:00," Jacobs Engineering Guides Q4 Adj. EPS Below Estimates - Update  Jacobs Engineering Group Inc. Q3 Profit Increases, beats estimates Jacobs Engineering Group Q3 22 Earnings Conference Call At 8:00 AM ET ",0.5
+15,RVTY,2022-08-01,06:12:00," New Mountain To Acquire PerkinElmer's Applied, Food Services Businesses For $2.45 Bln  PerkinElmer Q2 Profit Down, But Beats Estimates; Ups Annual Guidance Above Estimates - Update ",0.5
+16,L,2022-08-01,06:00:00, Loews Corp. Announces Decline In Q2 Income Loews Q2 22 Earnings Conference Call At 10:00 AM ET ,0.0
+17,GPN,2022-08-01,06:55:00, Global Payments To Acquire EVO For $34.00/shr  Global Payments Inc. Q2 Earnings Summary;  Expects FY'22 Earnings Above Consensus  Global Payments Q2 22 Earnings Conference Call At 8:00 AM ET ,1.0
+18,BLDR,2022-08-01,07:00:00,,0.0
+19,CAT,2022-08-02,06:30:00," Amended: Caterpillar Inc. Q2 Profit Increases, Beats Estimates  Caterpillar Q2 22 Earnings Conference Call At 8:30 AM ET ",1.0
+0,UBER,2022-08-02,07:00:00," Uber Posts Q2 Loss, Adj. EBITDA Improves; Sees Sequentially Higher Adj. EBITDA In Q3  Uber Slips To Loss In Q2, Revenues Surge; Issues Q3 Adj. EBITDA View - Quick Facts ",0
+1,DD,2022-08-02,06:00:00, DuPont Reveals Increase In Q2 Bottom Line; Narrows FY22 Guidance - Update  EI DuPont De Nemours & Co. Reveals Increase In Q2 Bottom Line EI DuPont De Nemours & Co. Q2 22 Earnings Conference Call At 8:00 AM ET ,1
+2,CMI,2022-08-02,07:30:00," Cummins  Inc. Bottom Line Advances In Q2, Beats Estimates; Maintains FY22 View - Update ",1
+3,XYL,2022-08-02,06:55:00, Xylem Inc. Q2 Profit Beats Estimates,1
+4,TAP,2022-08-02,07:00:00," Molson Coors Brewing Company Q2 Profit Drops, Inline With Estimates",0
+5,SPGI,2022-08-02,07:15:00, S&P Global Inc. Q2 sales increase,1
+6,MPC,2022-08-02,06:05:00," Marathon Petroleum Corporation Q2 Profit Increases, beats estimates Marathon Petroleum Q2 22 Earnings Conference Call At 11:00 AM ET ",1
+7,MAR,2022-08-02,07:00:00," Marriott International Inc. Q2 Profit Decreases, but beats estimates Marriott International Q2 22 Earnings Conference Call At 8:30 AM ET ",0.5
+8,ITW,2022-08-02,08:00:00," Illinois Tool Works Maintains FY22 Outlook - Update  Illinois Tool Works Inc Bottom Line Declines In Q2, but beats estimates",0.5
+9,IT,2022-08-02,06:00:00," Gartner Q2 22 Earnings Conference Call At 8:00 AM ET  Gartner Q2 Profit Down, Adj. Results Beat Estimates  Gartner, Inc. Q2 Profit Increases, beats estimates",0.5
+10,INCY,2022-08-02,07:00:00, Incyte Q1 Results Top Estimates  Incyte Q2 22 Earnings Conference Call At 8:00 AM ET ,1
+11,HSIC,2022-08-02,06:30:00," Henry Schein Lowers 2022 Sales Growth Outlook; Announces Restructuring Plan  Henry Schein Inc. Q2 Profit Increases, Inline With Estimates",0.5
+12,EXPD,2022-08-02,08:30:00," Expeditors International of Washington Inc. Reports Advance In Q2 Profit, Beats estimates",1
+13,ETN,2022-08-02,06:30:00," Amended: Eaton Q2 Net Profit Increases, Beats Estimates; Raises FY22 Outlook - Update ",1
+14,CNP,2022-08-02,06:00:00, CenterPoint Raises FY22 EPS Guidance ,1
+15,AME,2022-08-02,06:55:00," AMETEK Raises Earnings Guidance  Ametek Inc. Q2 Profit Decreases, but beats estimates Ametek Q2 22 Earnings Conference Call At 8:30 AM ET ",0.5
+16,ZBRA,2022-08-02,06:30:00, Zebra Technologies Q2 22 Earnings Conference Call At 8:30 AM ET  Zebra Technologies Guides Q3 Below Estimates; Q2 Results Top Estimates ,0.5
+17,ZBH,2022-08-02,06:30:00, Zimmer Biomet Bottom Line Rises In Q2; Ups Annual Earnings Guidance - Update ,1
+18,WEC,2022-08-02,07:00:00," WEC Energy Group Q2 22 Earnings Conference Call At 2:00 PM ET  WEC Energy Boosts FY22 EPS Guidance  WEC Energy Group Announces Rise In Q2 Bottom Line, Beats estimates",1
+19,WAT,2022-08-02,06:50:00," Waters Corp. Q2 Profit, Sales Surpass Street View; Ups Annual Sales Outlook  Waters Corp. Q2 22 Earnings Conference Call At 8:00 AM ET ",1
+0,PEG,2022-08-02,07:30:00, Public Service Enterprise Reaffirms FY22 Operating Earnings Outlook - Update  Public Service Enterprise Group Inc Q2 Earnings Summary,1
+1,LDOS,2022-08-02,06:00:00," Leidos Holdings Q2 22 Earnings Conference Call At 8:00 AM ET  Leidos Holdings Q2 Profit Decreases, But Beats Estimates; Backs FY'22 Outlook - Update ",1
+2,IDXX,2022-08-02,06:30:00," IDEXX Laboratories Slashes FY22 Outlook - Update  IDEXX Laboratories Inc Q2 Income Drops, misses estimates",0
+3,CVS,2022-08-03,06:30:00, CVS Health Raises 2022 Earnings Guidance  CVS Health Q2 22 Earnings Conference Call At 8:00 AM ET ,1
+4,YUM,2022-08-03,07:00:00, Yum! Brands Q2 Profit Misses Estimates; Worldwide Same-store Sales Ex-China Up 6%  Yum! Brands Q2 22 Earnings Conference Call At 8:15 AM ET ,0
+5,TT,2022-08-03,06:30:00,,0
+6,REGN,2022-08-03,06:30:00," Regeneron Pharmaceuticals Q2 22 Earnings Conference Call At 8:30 AM ET  Regeneron Q2 Profit Down On Weak Revenues; Revises FY22 Margin, R&D Outlook  Regeneron's REGN5678 Shows Encouraging Anti-tumor Activity When Combined With Libtayo ",0
+7,PPL,2022-08-03,08:00:00, PPL Corp. Q2 Profit Tops Estimates; Reaffirms 2022 Ongoing Earnings Forecast  PPL Corp. Q2 22 Earnings Conference Call At 11:00 AM ET ,1
+8,PNW,2022-08-03,08:40:00," Pinnacle West Capital Corp. Q2 Income Drops, but beats estimates",1
+9,NI,2022-08-03,06:30:00, NiSource Reaffirms FY22 Outlook ,1
+10,EXC,2022-08-03,08:35:00, Exelon Reaffirms FY22 Outlook; Q2 Results Top Estimates  Exelon Q2 22 Earnings Conference Call At 10:00 AM ET ,1
+11,CRL,2022-08-03,07:00:00," Charles River Labs Slashes FY22 Outlook; Q2 Adj. EPS Tops Estimates, Revenues Miss ",0
+12,CDW,2022-08-03,07:00:00," CDW Q2 Profit Rises, Tops Estimates; Declares Dividend - Quick Facts  CDW Corp. Q2 22 Earnings Conference Call At 8:30 AM ET ",1
+13,BWA,2022-08-03,06:30:00, Borg Warner Q2 22 Earnings Conference Call At 9:00 AM ET  BorgWarner Q2 Profit Tops Estimates  BorgWarner Buys Rhombus Energy For Up To $185 Mln ,1
+14,GNRC,2022-08-03,06:00:00,,0
+15,ETR,2022-08-03,06:30:00," Entergy Q2 Adj. Profit Beats Estimates, Reaffirms FY22 EPS ",1
+16,MRNA,2022-08-03,06:52:00, Moderna Q2 Results Top Estimates ,1
+17,PARA,2022-08-04,07:00:00,,0
+18,LLY,2022-08-04,06:25:00, Eli Lilly Reduces FY22 Earnings Guidance; Revenue Outlook Remains Unchanged  Eli Lilly And Co. Profit Declines In Q2 Eli Lilly And Co. Q2 22 Earnings Conference Call At 9:00 AM ET ,0
+19,CI,2022-08-04,06:00:00," Cigna Corp. Raises 2022 Outlook  Cigna Corp. Q2 Profit Increases, beats estimates Cigna Q2 22 Earnings Conference Call At 8:30 AM ET ",1
+0,ZTS,2022-08-04,07:00:00, Zoetis Guides Trims FY22 Outlook; Q2 Profit Down 3% ,0
+1,WRK,2022-08-04,06:30:00, WestRock Q3 22 Earnings Conference Call At 8:30 AM ET  WestRock Company Bottom Line Rises In Q3,1
+2,SRE,2022-08-04,07:00:00, Sempra Energy Profit Rises In Q2,1
+3,PH,2022-08-04,07:30:00, Parker Hannifin Initiates FY23 Outlook; Q3 Profit Plunges ,0
+4,NRG,2022-08-04,07:00:00," NRG Energy Q2 22 Earnings Conference Call At 9:00 AM ET  NRG Energy Inc Q2 Income Drops, but beats estimates",1
+5,K,2022-08-04,08:00:00," Kellogg Q2 Profit Declines, Yet Beats Estimates; Raises FY22 Growth Outlook  Kellogg Company Q2 Profit Decreases, but beats estimates Kellogg Q2 22 Earnings Conference Call At 9:30 AM ET ",1
+6,JCI,2022-08-04,07:00:00, Johnson Controls Bottom Line Retreats In Q3; Narrows 2022 Earnings Outlook - Update  Johnson Controls Q3 22 Earnings Conference Call At 8:30 AM ET ,0
+7,ICE,2022-08-04,07:30:00," IntercontinentalExchange Group Inc. Q2 Profit Decreases, but beats estimates",1
+8,HWM,2022-08-04,07:00:00,,0.5
+9,HII,2022-08-04,07:15:00,,0.5
+10,DUK,2022-08-04,07:00:00," Duke Energy Q2 Profit Rises, Above Estimates; Reiterates 2022 Earnings Outlook - Update ",1
+11,COP,2022-08-04,07:00:00," ConocoPhillips Issues Q3 Production View, Cuts FY22 Outlook; Declares Dividend - Update  ConocoPhillips Reports Climb In Q2 Profit ConocoPhillips Q2 22 Earnings Conference Call At 12:00 PM ET ",0
+12,CBRE,2022-08-04,06:55:00," CBRE Group Q2 22 Earnings Conference Call At 8:30 AM ET  CBRE Group, Inc. Q2 Profit Increases, beats estimates",1
+13,BDX,2022-08-04,06:30:00," Becton, Dickinson And Co. Q3 Profit Down, But Beats Estimates; Ups 2022 Guidance Above View - Update  Becton, Dickinson And Co. Q3 22 Earnings Conference Call At 8:00 AM ET ",1
+14,APD,2022-08-04,06:00:00," Air Products And Chemicals Q3 Profit Increases, Beats Estimates; Backs FY22 Outlook - Update  Air Products And Chemicals Q3 22 Earnings Conference Call At 8:30 AM ET ",1
+15,VMC,2022-08-04,07:00:00, Vulcan Materials Co. Q2 Profit Declines,0
+16,TRGP,2022-08-04,06:00:00,,0.5
+17,IRM,2022-08-04,06:45:00, Iron Mountain FFO Rises; Backs FY22 View  Iron Mountain Q2 22 Earnings Conference Call At 8:30 AM ET ,1
+18,FIS,2022-08-04,07:00:00," Fidelity National Information Services Q2 22 Earnings Conference Call At 8:30 AM ET  Fidelity National Q2 Profit Down, But Beats Estimates; Cuts Annual Outlook - Update ",0
+19,EPAM,2022-08-04,06:00:00,,0.5
+0,TECH,2022-08-04,06:30:00, Bio-Techne Q4 Adj. Profit Rises ,1
+1,FRT,2022-08-04,08:00:00," Federal Rlty Inv Trust Bottom Line Advances In Q2, Beats Estimates; Lifts FY22 View - Update ",1
+2,PWR,2022-08-04,06:55:00, Quanta Services Q2 22 Earnings Conference Call At 9:00 AM ET  Quanta Services Tightens FY22 Adj. EPS View; Lifts Revenue Forecast - Update  Quanta Services Inc. Reports Drop In Q2 Profit,0
+3,EVRG,2022-08-04,06:00:00," Evergy Q2 22 Earnings Conference Call At 9:00 AM ET  Evergy, Inc. Q2 Profit Rises; Confirms 2022 EPS Guidance - Update ",1
+4,DOC,2022-08-04,08:00:00,,0
+5,CEG,2022-08-04,06:50:00, Constellation Energy Posts Wider Q2 Loss ,0
+6,BALL,2022-08-04,08:00:00, Ball Corporation Q2 Earnings Summary,0
+7,APTV,2022-08-04,06:45:00," Aptiv PLC Q2 Earnings Summary; Shares Down On Quarterly Results, Outlook - Update ",0
+8,WDC,2022-08-05,08:00:00, Western Digital Guides Q1 Well Below Estimates - Update  Western Digital Corp Bottom Line Declines In Q4 Western Digital Q4 22 Earnings Conference Call At 8:30 AM ET ,0
+9,WAB,2022-08-05,06:30:00, Wabtec Q2 22 Earnings Conference Call At 8:30 AM ET  Wabtec Updates 2022 Guidance  Wabtec Corporation Announces Climb In Q2 Bottom Line,1
+10,TRMB,2022-08-05,06:55:00, Trimble Inc. Bottom Line Advances In Q2 ,1
+11,TSN,2022-08-08,07:00:00, Tyson Foods Affirms FY22 Sales Outlook As Q2 Net Profit Edges Up ,1
+12,D,2022-08-08,07:30:00," Dominion Energy Affirms Full-year Operating Earnings Guidance  Dominion Energy, Inc. Q2 Earnings Summary",1
+13,VTRS,2022-08-08,06:00:00," Viatris Trims FY22 Revenue Outlook, Declares Dividend - Update  Viatris Inc. Q2 Earnings Summary",0
+14,SYY,2022-08-09,08:00:00," Sysco Q4 Profit Surges, Looks Ahead To Adj. Earnings Growth In FY23  Sysco Q4 22 Earnings Conference Call At 10:00 AM ET ",1
+15,RL,2022-08-09,08:01:00, Ralph Lauren Affirms FY23 Revenue Growth Outlook - Update  Ralph Lauren Corp. Q1 Profit Retreats,1
+16,EMR,2022-08-09,06:55:00, Emerson Electric Q3 22 Earnings Conference Call At 9:00 AM ET  Emerson Updates 2022 Outlook  Emerson Electric Co. Bottom Line Rises In Q3,1
+17,TDG,2022-08-09,08:00:00, TransDigm Group Incorporated Q3 Profit Falls,0
+18,NCLH,2022-08-09,07:30:00," Norwegian Cruise Line Holdings Ltd. Q2 Loss Decreases, but misses estimates",0
+19,FOXA,2022-08-10,08:00:00," Fox Corporation Q4 Profit Increases, but misses estimates",0
+0,FOX,2022-08-10,08:00:00," Fox Corporation Q4 Profit Increases, but misses estimates",0
+1,CAH,2022-08-11,06:45:00," Cardinal Health Inc Q4 Profit Increases, but misses estimates Cardinal Health Promotes CFO Jason Hollar To Succeed Mike Kaufmann As CEO ",0
+2,BR,2022-08-12,07:00:00, Broadridge Financial Solutions Q4 Profit Tops Estimates ,1
+3,WMT,2022-08-16,07:00:00, Walmart Q2 Profit Up 20%; Revenues Top Estimates  Walmart Inc. Profit Advances In Q2 Walmart Q2 23 Earnings Conference Call At 8:00 AM ET  Walmart+ Members To Get Free Paramount+ Subscription ,1
+4,HD,2022-08-16,06:00:00," Home Depot Maintains FY22 Outlook - Update  The Home Depot, Inc. Q2 Profit Climbs, Beats estimates The Home Depot Q2 22 Earnings Conference Call At 9:00 AM ET ",1
+5,TGT,2022-08-17,06:30:00," Target Q2 Profit Misses Estimates  Target Corp. Q2 Profit Decreases, misses estimates Target Q2 22 Earnings Conference Call At 8:00 AM ET ",0
+6,TJX,2022-08-17,07:30:00," TJX Companies Slashes FY23 Outlook - Update  The TJX Companies, Inc. Reports Advance In Q2 Profit The TJX Companies Q2 23 Earnings Conference Call At 11:00 AM ET ",0
+7,LOW,2022-08-17,06:00:00, Lowe's Updates Outlook; Q2 Profit  Beats Estimates - Update  Loews Q2 22 Earnings Conference Call At 9:00 AM ET ,1
+8,ADI,2022-08-17,07:00:00," Analog Devices Guides Q4 In Line With Estimates, Declares Dividend - Update  Analog Devices Q3 Profit Increases, beats estimates Analog Devices Q3 22 Earnings Conference Call At 10:00 AM ET ",1
+9,TPR,2022-08-18,06:45:00," Tapestry Sees Higher FY23 Results, Above Market; Plans Dividend - Update  Tapestry, Inc. Q4 Profit Beats Estimates",1
+10,EL,2022-08-18,06:45:00," The Estée Lauder Companies Q4 22 Earnings Conference Call At 9:30 AM ET  The Estée Lauder Companies Inc. Q4 Profit Decreases, misses estimates",0
+11,DE,2022-08-19,06:15:00," Deere Q3 Profit Rises, But Misses Estimates; Cuts FY22 Earnings View  Deere And Co Q3 22 Earnings Conference Call At 10:00 AM ET ",0
+12,SJM,2022-08-23,07:00:00, The J. M. Smucker Company Reveals Retreat In Q1 Profit The J. M. Smucker Q1 23 Earnings Conference Call At 9:00 AM ET ,0
+13,MDT,2022-08-23,06:45:00, Medtronic Reiterates FY23 Outlook - Update  Medtronic plc Announces Rise In Q1 Bottom Line Medtronic Q1 23 Earnings Conference Call At 8:00 AM ET ,1
+14,DLTR,2022-08-25,07:30:00," Dollar Tree Appoints Jeffrey Davis To Succeed Kevin Wampler As CFO  Dollar Tree Q2 Income Rises, Beats Estimates; Cuts Annual Earnings Outlook Below View - Update  Dollar Tree Q2 22 Earnings Conference Call At 9:00 AM ET ",1
+15,DG,2022-08-25,06:55:00," Dollar General Corporation Q2 Income Advances, Beats estimates Dollar General Q2 22 Earnings Conference Call At 10:00 AM ET ",1
+16,CTLT,2022-08-29,07:00:00,, 
+17,BBY,2022-08-30,07:00:00," Best Buy Slashes FY23 Comp Sales Outlook - Update  Best Buy Co Inc. Q2 Profit Decreases, but beats estimates Best Buy Co Q2 23 Earnings Conference Call At 8:00 AM ET ",0
+18,HRL,2022-09-01,06:30:00," Hormel Foods Cuts FY22 Earnings View Below Market, Raises Sales Forecast - Update  Hormel Foods Corp Q3 Earnings Summary Hormel Foods Q3 22 Earnings Conference Call At 9:00 AM ET ",0
+19,CPB,2022-09-01,07:15:00, Campbell Issues FY23 Guidance; Projects Organic Net Sales Growth In Range Of 4%-6%  Campbell Soup Co. Q4 Profit Declines Campbell Soup Q4 22 Earnings Conference Call At 8:00 AM ET ,0
+0,KR,2022-09-09,08:00:00," Kroger Again Boosts FY22 Outlook - Update  Kroger Co. Q2 Profit Increases, beats estimates Kroger Q2 22 Earnings Conference Call At 10:00 AM ET ",1.0
+1,ADBE,2022-09-15,08:00:00," Adobe Sees Q4 Earnings Above Market; To Buy Figma In $20 Bln Cash, Stock Deal - Update  Adobe Systems Inc. Q3 Profit Decreases, but beats estimates Amended: Adobe Systems Q3 22 Earnings Conference Call At 10:00 AM ET ",0.5
+2,AZO,2022-09-19,06:55:00, AutoZone Up In Pre-market On Upbeat Quarterly Results  Amended: AutoZone Q4 Results Top Estimates ,1.0
+3,GIS,2022-09-21,07:00:00," General Mills Raises FY23 Outlook  General Mills Q1 Profit Increases, beats estimates",1.0
+4,FDS,2022-09-22,07:00:00, Correction: FactSet Guides FY23 Adj. EPS In Line With Estimates; Q4 Adj. EPS Misses View ,0.5
+5,DRI,2022-09-22,07:00:00, Darden Restaurants Q1 23 Earnings Conference Call At 8:30 AM ET  Darden Restaurants Backs FY23 Outlook; Declares Dividend - Update  Darden Restaurants Inc. Q1 income drops in line with estimates,0.5
+6,ACN,2022-09-22,06:45:00, RLH Equity Partners: Inspirage To Be Acquired By Accenture  Accenture Guides FY23 EPS Below Estimates; Raises Dividend 15%  Accenture plc Announces Advance In Q4 Profit,0.5
+7,JBL,2022-09-27,08:00:00," Jabil Inc. Q4 Profit Increases, beats estimates Jabil Q4 22 Earnings Conference Call At 8;30 AM ET ",1.0
+8,CTAS,2022-09-28,08:30:00," Cintas Corporation Q1 Profit Increases, beats estimates Cintas Q1 23 Earnings Conference Call At 10:00 AM ET ",1.0
+9,PAYX,2022-09-28,08:30:00," Paychex Q1 Profit Increases, Beats Estimates; Ups FY23 Earnings View  Paychex Q1 23 Earnings Conference Call At 9:30 AM ET ",1.0
+10,KMX,2022-09-29,06:50:00, CarMax Inc. Q2 Income Falls CarMax Q2 23 Earnings Conference Call At 9:00 AM ET ,0.0
+11,CCL,2022-09-30,09:15:00,,0.0
+12,LW,2022-10-05,08:30:00," Lamb Weston Holdings, Inc. Q1 Profit Increases, beats estimates Lamb Weston Holdings Q1 23 Earnings Conference Call At 10:00 AM ET ",1.0
+13,STZ,2022-10-06,07:30:00," Constellation Brands Q2 23 Earnings Conference Call AT 10:30 AM ET  Constellation Brands To Sell Portion Of Mainstream, Premium Wine Portfolio  Constellation Brands Inc Q2 Earnings Summary",0.5
+14,CAG,2022-10-06,07:30:00, Conagra Brands Q1 23 Earnings Conference Call AT 9:30 AM ET  Conagra Brands Reaffirms FY23 Outlook - Update  Conagra Brands Inc. Q1 Earnings Summary,0.5
+15,MKC,2022-10-06,06:30:00," McCormick & Co. Q3 22 Earnings Conference Call At 8:00 AM ET  McCormick & Co. Q3 Profit Increases, but misses estimates",0.5
+16,PEP,2022-10-12,06:00:00," PepsiCo Lifts FY22 View As Q3 Results Top Estimates  PepsiCo Q3 Results Rise, Top Estimates; Lifts FY22 Forecast Above Market - Quick Facts ",1.0
+17,DAL,2022-10-13,06:30:00, Delta Air Lines Posts Q3 Profit; Sees Q4 Earnings Above Market  Delta Air Lines Q3 Profit Down On 2-year Basis; Sees Q4 Earnings Above Market  Delta Air Lines Q3 22 Earnings Conference Call At 10:00 AM ET ,0.5
+18,WBA,2022-10-13,07:00:00," Walgreens Boots Alliance Q4 Adj. Profit Beats Estimates; Sales Down 5.3%  Walgreens Boots Alliance, Inc. Q4 Earnings Summary Walgreens Boots Alliance Q4 22 Earnings Conference Call At 8:30 AM ET ",0.5
+19,BLK,2022-10-13,06:15:00, BlackRock Q3 Profit Declines; Revenue Down 15%  Blackrock Inc. Q3 Income Falls Blackrock Q3 22 Earnings Conference Call At 8:30 AM ET ,0.0
+0,FAST,2022-10-13,07:00:00," Fastenal Co. Reports Advance In Q3 Profit, Beats estimates Fastenal Q3 22 Earnings Conference Call At 10:00 AM ET ",1
+1,DPZ,2022-10-13,07:30:00," Dominos Pizza Inc. Profit Declines In Q3, misses estimates Domino's Pizza Q3 22 Earnings Conference Call At 10:00 AM ET ",0
+2,PGR,2022-10-13,08:25:00,,0.5
+3,WFC,2022-10-14,06:45:00," Wells Fargo & Co Reveals Fall In Q3 Profit, misses estimates Wells Fargo Q3 22 Earnings Conference Call At 10:00 AM ET ",0
+4,MS,2022-10-14,07:30:00, Morgan Stanley Q3 Net Profit Down 29%  Morgan Stanley Q3 Income Declines Morgan Stanley Q3 22 Earnings Conference Call At 9:30 AM ET ,0
+5,JPM,2022-10-14,06:45:00," JPMorgan Q3 Profit Down 17%, But Results Top Estimates  JPMorgan Chase & Co. Q3 Profit Declines, but beats estimates JPMorgan Chase Q3 22 Earnings Conference Call At 8:30 AM ET ",1
+6,C,2022-10-14,08:00:00," Citigroup Q3 Net Income Declines  Citigroup Inc. Reveals Retreat In Q3 Profit, but beats estimates Citigroup Q3 22 Earnings Conference Call At 11:00 AM ET ",1
+7,USB,2022-10-14,06:45:00," US Bancorp Q3 22 Earnings Conference Call At 9:00 AM ET  US Bancorp Q3 Earnings Down; Adj. EPS, Revenues Beat Estimates  Amended: US Bancorp Profit Declines In Q3, But Beats Estimates ",1
+8,UNH,2022-10-14,05:55:00," UnitedHealth Lifts FY22 Outlook As Q3 Profit Tops Estimates - Update  Unitedhealth Group, Inc. Q3 Profit Increases, beats estimates Unitedhealth Group Q3 22 Earnings Conference Call At 8:45 AM ET ",1
+9,PNC,2022-10-14,06:37:00," PNC Financial Services Group Inc. Q3 Profit Increases, beats estimates",1
+10,BAC,2022-10-17,06:45:00," Bank Of America Q3 Profit Down 8%, But Results Top Estimates  Bank of America Corporation Q3 Income Retreats, but beats estimates Bank Of America Q3 22 Earnings Conference Call At 8:30 AM ET ",1
+11,BK,2022-10-17,06:30:00," The Bank of New York Mellon Corp. Q3 Profit Decreases, but beats estimates The Bank Of New York Mellon Q3 22 Earnings Conference Call At 8:00 AM ET ",1
+12,SCHW,2022-10-17,08:45:00,,0.5
+13,JNJ,2022-10-18,06:25:00," Johnson & Johnson Q3 Profit Beats Estimates; Adj. Operational Sales Up 8.2%; Increases Guidance  Johnson & Johnson Q3 Profit Increases, beats estimates Johnson & Johnson Q3 22 Earnings Conference Call AT 8:30 AM ET ",1
+14,GS,2022-10-18,07:26:00," Goldman Sachs Q3 Profit Down 44%, But Results Top Estimates ",1
+15,LMT,2022-10-18,07:30:00," Lockheed Martin Backs FY22 Outlook Below Market; Plans $14 Bln Addl. Share Buyback - Update  Lockheed Martin Corp. Q3 Profit Increases, beats estimates Lockheed Martin Q3 22 Earnings Conference Call At 11:00 AM ET ",1
+16,STT,2022-10-18,07:32:00, State Street Corp. Bottom Line Drops In Q3 State Street Q3 22 Earnings Conference Call At 11:00 AM ET ,0
+17,HAS,2022-10-18,06:30:00," Hasbro Sees Flat CC Revenue In Q4; Backs FY22 View - Update  Hasbro Inc. Q3 Profit Decreases, misses estimates Hasbro Q3 22 Earnings Conference Call AT 8:30 AM ET ",0
+18,TFC,2022-10-18,05:45:00, Truist Financial Q3 22 Earnings Conference Call At 8:00 AM ET  Truist Financial Corporation Bottom Line Falls In Q3,0
+19,PG,2022-10-19,06:55:00," P&G Q1 Profit Down 4%, But Results Top Estimates; Cuts FY23 Sales Outlook  Procter & Gamble Now Sees FY23 EPS Towards Low End Of Guidance On Increased Foreign Procter & Gamble Co. Q1 Income Declines, but beats estimates Procter & Gamble Q1 23 Earnings Conference Call At 8:30 AM ET ",1
+0,TRV,2022-10-19,06:57:00," The Travelers Companies Q3 22 Earnings Conference Call At 9:00 AM ET  The Travelers Companies  Inc. Q3 Profit Decreases, but beats estimates",0
+1,ELV,2022-10-19,06:00:00,, 
+2,CMA,2022-10-19,06:35:00," Comerica Inc. Q3 Income Rises, Beats estimates Comerica Q3 22 Earnings Conference Call At 8:00 AM ET ",1
+3,ABT,2022-10-19,07:30:00," Abbott Laboratories Boosts FY22 Outlook - Update  Abbott Laboratories Q3 Profit Decreases, but beats estimates Abbott Laboratories Q3 22 Earnings Conference Call At 9:00 AM ET ",1
+4,NTRS,2022-10-19,07:25:00," Northern Trust Q3 EPS Flat, Misses Estimates - Quick Facts ",0
+5,NDAQ,2022-10-19,07:00:00," Nasdaq Inc. Q3 Profit Increases, beats estimates",1
+6,MTB,2022-10-19,06:11:00, M&T Bank Corp. Q3 Profit  misses estimates,0
+7,CFG,2022-10-19,06:20:00," Citizens Financial Group Q3 22 Earnings Conference Call At 9:00 AM ET  Citizens Financial Group, Inc. Profit Advances In Q3, Beats estimates",1
+8,BKR,2022-10-19,07:00:00, Baker Hughes Company Q3 Earnings Summary Baker Hughes Q3 22 Earnings Conference Call At 8;30 AM ET , 
+9,MKTX,2022-10-19,06:30:00," MarketAxess Q3 Profit Rises, Tops Estimates; Declares Dividend ",1
+10,PLD,2022-10-19,08:00:00," Prologis Trims FY22 Outlook - Update  ProLogis Reports Climb In Q3 Profit, Beats estimates ProLogis Q3 22 Earnings Conference Call At 12:00 PM ET ",1
+11,T,2022-10-20,06:30:00," AT&T Q3 Profit Rises, Revenues Down; Lifts FY22 Earnings View  AT&T Q3 Profit Edges Up, EPS Flat; Revenues Down  AT&T Q3 22 Earnings Conference Call At 8:30 AM ET ",1
+12,PM,2022-10-20,07:00:00," Philip Morris Q3 Pro Forma Adj. Operating Income Rises On Organic Basis; Adj. Net Revenues Up 6.9%  Philip Morris International Q3 Profit Decreases, but beats estimates Philip Morris International Q3 22 Earnings Conference Call At 9:00 AM ET  Philip Morris Sweetens Takeover Offer For Swedish Match ",1
+13,FCX,2022-10-20,08:00:00," Freeport-McMoRan Inc. Q3 Profit Decreases, but beats estimates",1
+14,BX,2022-10-20,06:50:00, Blackstone Q3 Net Profit Plunges; AUM Improves ,0
+15,AAL,2022-10-20,07:00:00, American Airlines Q3 Results Top Estimates; Guides Q4 Adj. EPS Well Above View  American Airlines Group Q3 22 Earnings Conference Call At 8:30 AM ET ,1
+16,UNP,2022-10-20,07:45:00," Union Pacific Corp. Q3 Profit Increases, beats estimates",1
+17,NUE,2022-10-20,08:00:00," Nucor Q3 Earnings Down, Misses View  Nucor Corp. Reveals Drop In Q3 Income, misses estimates",0
+18,MMC,2022-10-20,07:00:00," Marsh & McLennan Companies Inc Q3 Profit Increases, beats estimates",1
+19,KEY,2022-10-20,06:30:00," KeyCorp Q3 Profit Drops, Misses View ",0
+0,FITB,2022-10-20,06:30:00," Fifth Third Bancorp Reports Fall In Q3 Bottom Line, misses estimates",0
+1,DOW,2022-10-20,06:00:00," Dow Inc. Q3 Profit Decreases, but beats estimates",0
+2,DHR,2022-10-20,06:00:00," Danaher Q3 22 Earnings Conference Call At 8:00 AM ET  Danaher Sees Core Revenue Growth In Q4; Lifts FY22 View - Update  Danaher Corp. Q3 Profit Increases, beats estimates",1
+3,TSCO,2022-10-20,06:05:00, Tractor Supply Company Raises Earnings Guidance - Quick Facts  Tractor Supply Q3 22 Earnings Conference Call At 10:00 AM ET ,1
+4,SNA,2022-10-20,06:30:00," Snap-On Inc. Announces Rise In Q3 Bottom Line, Beats estimates",1
+5,POOL,2022-10-20,07:00:00, Pool Corp Boosts FY22 Outlook As Q3 Results Top Estimates - Quick Facts ,1
+6,GPC,2022-10-20,06:55:00," Genuine Parts Raises 2022 Outlook For Revenue Growth, Adjusted EPS  Genuine Parts Co Q3 Profit Increases, beats estimates",1
+7,DOV,2022-10-20,06:30:00," Dover Corp Q3 Profit Increases, beats estimates",1
+8,DGX,2022-10-20,06:45:00," Quest Diagnostics Boosts FY22 Outlook - Update  Quest Diagnostics Q3 Profit Decreases, but beats estimates",0.5
+9,VZ,2022-10-21,07:30:00," Verizon Q3 Adj. Profit Declines; Reaffirms 2022 Guidance  Verizon Communications Q3 Profit Decreases, but beats estimates Verizon Communications Q3 22 Earnings Conference Call At 8:30 AM ET ",0
+10,SLB,2022-10-21,07:00:00, Schlumberger Q3 22 Earnings Conference Call AT 9:30 AM ET  Schlumberger Ltd. Q3 Profit Climbs,1
+11,HCA,2022-10-21,07:30:00," HCA Healthcare Q3 22 Earnings Conference Call At 9:00 AM ET  HCA Healthcare, Inc. Q3 Profit Decreases, but beats estimates",0
+12,HBAN,2022-10-21,07:00:00," Huntington Bancshares Q3 22 Earnings Conference Call At 9:00 AM ET  Huntington Bancshares Inc. Announces Climb In Q3 Bottom Line, Beats estimates",1
+13,AXP,2022-10-21,07:00:00," American Express Q3 Profit Up 3%, Tops Estimates  American Express Co. Announces Advance In Q3 Profit, Beats estimates American Express Q3 22 Earnings Conference Call At 8:30 AM ET ",1
+14,RF,2022-10-21,06:00:00," Regions Financial Corp. Reports Drop In Q3 Income, misses estimates",0
+15,IPG,2022-10-21,07:00:00," Interpublic Group Of Companies Q3 22 Earnings Conference Call At 8:30 AM ET  Interpublic Group Q3 Results Up, Beat Estimates ",1
+16,UPS,2022-10-25,06:00:00, UPS Reaffirms 2022 Outlook ,1
+17,KO,2022-10-25,06:55:00," Coca-Cola Lifts FY22 Forecast - Update  The Coca-Cola Company Q3 Profit Increases, beats estimates The Coca-Cola Q3 22 Earnings Conference Call At 8:30 AM ET ",1
+18,GM,2022-10-25,06:30:00," GM Q3 Profit Tops Estimates; Confirms FY22 View  GM Backs FY22 Earnings View - Update  General Motors Company Q3 Profit Increases, beats estimates General Motors Q3 22 Earnings Conference Call AT 8:30 AM ET ",1
+19,BIIB,2022-10-25,07:00:00, Biogen Raises 2022 Guidance ,1
+0,VLO,2022-10-25,06:33:00, Valero Energy Corp. Profit Advances In Q3,1
+1,MMM,2022-10-25,06:30:00," 3M Trims FY22 Outlook Range - Update  3M Co. Q3 Profit Increases, beats estimates 3M Co. Q3 22 Earnings Conference Call At 9:00 AM ET ",1
+2,GE,2022-10-25,06:30:00, General Electric Q3 Adj. Organic Profit Excl. Renewable Energy Reserves Rises; Revenue Growth At 7%  General Electric Q3 22 Earnings Conference Call AT 8:00 AM ET ,1
+3,CNC,2022-10-25,06:00:00," Centene Corporation Q3 Profit Increases, beats estimates",1
+4,SYF,2022-10-25,06:00:00," Synchrony Financial Q3 22 Earnings Conference Call At 8:00 AM ET  Synchrony Financial Reveals Decline In Q3 Bottom Line, but beats estimates",0.5
+5,RTX,2022-10-25,06:55:00, Raytheon Technologies Boosts FY22 Adj. EPS Outlook ,1
+6,PHM,2022-10-25,06:30:00," PulteGroup, Inc. Announces Rise In Q3 Profit, but misses estimates PulteGroup Appoints Brandon Jones To Succeed John Chadwick As COO - Quick Facts ",0.5
+7,PCAR,2022-10-25,08:00:00," Paccar Inc. Bottom Line Advances In Q3, Beats estimates",1
+8,MCO,2022-10-25,07:00:00," Moody's Slashes FY22 Outlook - Update  Moodys Corp. Q3 Profit Decreases, misses estimates Moody's Q3 22 Earnings Conference Call At 12:30 PM ET ",0
+9,KMB,2022-10-25,07:30:00," Kimberly-Clark Corp Q3 Profit Decreases, misses estimates",0
+10,IVZ,2022-10-25,06:55:00," Invesco Ltd. Q3 Profit Decreases, misses estimates",0
+11,ITW,2022-10-25,08:00:00, Illinois Tool Works Q3 Results Top Estimates; Lifts FY22 View Above Market ,1
+12,HUBB,2022-10-25,07:30:00,, 
+13,HAL,2022-10-25,06:45:00," Halliburton Company Q3 Profit Increases, beats estimates Halliburton Q3 22 Earnings Conference Call At 9:00 AM ET ",1
+14,GLW,2022-10-25,07:10:00, Corning Reports In-line Q3 Results ,0.5
+15,ADM,2022-10-25,07:00:00," Archer-Daniels-Midland Q3 Profit Increases, beats estimates",1
+16,SHW,2022-10-25,07:00:00," Sherwin-Williams Co Q3 Profit Increases, beats estimates",1
+17,PNR,2022-10-25,06:55:00," Pentair Q3 Profit Down, But Beats View; Cuts Annual Earnings Guidance ",0.5
+18,NVR,2022-10-25,09:00:00,, 
+19,MSCI,2022-10-25,06:45:00," MSCI Inc. Q3 Profit Increases, beats estimates",1
+0,BA,2022-10-26,07:30:00, Boeing Announces Order For 52 Airplanes From Alaska Airlines - Quick Facts  Boeing Q3 Loss Sharply Widens; Results Misses Estimates  The Boeing Co. Q3 Earnings Summary The Boeing Q3 22 Earnings Conference Call At 10:30 AM ET ,0
+1,STX,2022-10-26,08:00:00, Seagate Technology Q1 23 Earnings Conference Call AT 9:00 AM ET , 
+2,GD,2022-10-26,07:00:00," General Dynamics Corp. Q3 Profit Advances, Beats estimates General Dynamics Q3 22 Earnings Conference Call At 9:00 AM ET ",1
+3,WM,2022-10-26,07:00:00," Waste Management Inc Q3 Profit Increases, beats estimates",1
+4,TMO,2022-10-26,06:00:00, Thermo Fisher Scientific Q3 22 Earnings Conference Call AT 8:30 AM ET  Thermo Fisher Scientific Q3 Income Falls Despite Revenue Growth ,0.5
+5,TDY,2022-10-26,06:55:00," Teledyne Technologies Issues Q4 View; Lifts FY22 Forecast Above Market - Update  Teledyne Technologies Inc Q3 Profit Increases, beats estimates Teledyne To Buy ETM-Electromatic For Undisclosed Terms ",1
+6,ROP,2022-10-26,06:55:00," Roper Technologies Q3 Profit Rises; Sees Q4 Adj. EPS Above Market, Lifts FY22 Forecast ",1
+7,ROL,2022-10-26,08:00:00," Rollins, Inc. Q3 Profit Increases, beats estimates",1
+8,ODFL,2022-10-26,07:00:00," Old Dominion Freight Line Q3 Profit Climbs, Tops Estimates ",1
+9,NSC,2022-10-26,08:15:00," Norfolk Southern Corp Profit Advances In Q3, Beats estimates Norfolk Southern Q3 22 Earnings Conference Call At 8:45 AM ET ",1
+10,KHC,2022-10-26,07:01:00," The Kraft Heinz Q3 22 Earnings Conference Call At 9:00 AM ET  Kraft Heinz Q3 Profit Drops, But Beats Estimates - Updates ",0.5
+11,IQV,2022-10-26,07:00:00," IQVIA Holdings Q3 22 Earnings Conference Call AT 9:00 AM ET  IQVIA Holdings Inc. Q3 Profit Increases, beats estimates",1
+12,HLT,2022-10-26,06:00:00," Hilton Worldwide Issues Q4 Outlook; Lifts FY22 Earnings View Above Market - Update  Hilton Worldwide Holdings, Inc. Q3 Profit Increases, beats estimates",1
+13,HES,2022-10-26,07:30:00," Hess Corporation Q3 Profit Increases, beats estimates",1
+14,CME,2022-10-26,07:00:00," CME Group, Inc. Q3 Profit Decreases, but beats estimates CME Group Q3 22 Earnings Conference Call At 8:30 AM ET ",0.5
+15,BSX,2022-10-26,06:30:00, Boston Scientific Q3 Profit Declines Below Street View; Cuts Annual Guidance  Boston Scientific Q3 22 Earnings Conference Call At 8:00 AM ET ,0
+16,BG,2022-10-26,06:00:00," Bunge Limited Q3 Profit Decreases, but beats estimates",0.5
+17,AVY,2022-10-26,06:45:00," Avery Dennison Trims FY22 Adj. EPS Outlook - Update  Avery Dennison Corp. Q3 Profit Increases, Inline With Estimates Avery Dennison Q3 22 Earnings Conference Call At 1:00 PM ET ",0.5
+18,APH,2022-10-26,08:00:00," Amphenol Guides FY22 Above Estimates; Boosts Dividend 5% - Update  Amphenol Corp. Q3 Profit Increases, beats estimates",1
+19,ADP,2022-10-26,07:00:00," ADP Raises Full Year Guidance; Appoints Maria Black To Succeed Carlos Rodriguez As CEO  Automatic Data Processing Inc. Q1 Profit Increases, beats estimates Automatic Data Processing Q1 23 Earnings Conference Call At 8:30 AM ET ",1
+0,MAS,2022-10-26,07:00:00, Masco Slashes FY22 Adj. EPS Outlook As Q3 Results Miss Estimates - Update  Masco Q3 22 Earnings Conference Call At 8:00 AM ET ,0
+1,GRMN,2022-10-26,07:00:00," Garmin Q3 Income Down, But Beats Estimates; Revenue Misses; Ups EPS Guidance ",0.5
+2,OTIS,2022-10-26,06:10:00, Otis Worldwide Corp Q3 Profit Beats Estimates,1
+3,FTV,2022-10-26,07:30:00," Fortive Corporation Q3 Profit Increases, beats estimates",1
+4,MRK,2022-10-27,06:30:00, Merck Boosts Outlook As Q3 Results Top Estimates ,1
+5,MCD,2022-10-27,07:00:00," McDonald's Q3 22 Earnings Conference Call AT 8:30 AM ET  McDonalds Corp. Q3 Profit Decreases, but beats estimates",0.5
+6,CAT,2022-10-27,06:30:00," Caterpillar Q3 22 Earnings Conference Call At 8:30 AM ET  Cat Financial Q3 Profit Rises  Caterpillar Inc. Q3 Profit Increases, beats estimates",1
+7,NOC,2022-10-27,06:40:00," Northrop Grumman Reports Lower Q3 Profit, But Sales Improve ",0.5
+8,MO,2022-10-27,07:00:00," Altria Group  Inc. Q3 Earnings Summary Altria Back To Profit In Q3, But Misses Estimates; Narrows Annual Earnings Outlook ",0
+9,MA,2022-10-27,08:00:00," Mastercard Incorporated Q3 Profit Increases, beats estimates Mastercard Q3 22 Earnings Conference Call At 9:00 AM ET ",1
+10,LUV,2022-10-27,06:45:00, Southwest Airlines Q3 Profit Beats Estimates  Southwest Airlines Inc. Q3 Earnings Summary Southwest Airlines Q3 22 Earnings Conference Call At 12:30 PM ET ,1
+11,HON,2022-10-27,06:30:00," Honeywell International Q3 22 Earnings Conference Call At 8:30 AM ET  Honeywell Q3 Profit Rises, Above Estimates; Ups Annual Earnings Guidance Better Than View - Update ",1
+12,CMCSA,2022-10-27,07:00:00, Comcast Corp. Q3 Earnings Summary Comcast Q3 22 Earnings Conference Call At 8:30 AM ET ,0.5
+13,XEL,2022-10-27,06:05:00," Xcel Energy Q3 Profit Up, But Misses Estimates; Narrows Full-year EPS Guidance - Update ",0
+14,WDC,2022-10-27,08:00:00," Western Digital Corp Q1 Profit Decreases, misses estimates Western Digital Q1 23 Earnings Conference Call At 8:30 AM ET ",0
+15,TXT,2022-10-27,06:30:00, Textron Q3 22 Earnings Conference Call At 8:00 AM ET  Textron Profit Up In Q3; Narrows Full-year EPS Outlook - Update ,0.5
+16,SWK,2022-10-27,06:00:00, Stanley Black & Decker Q3 22 Earnings Conference Call At 8:00 AM ET  Stanley Black & Decker Profit Down In Q3; Cuts Outlook Below View - Update ,0
+17,SPGI,2022-10-27,07:11:00," S&P Global Inc. Q3 Profit Decreases, but beats estimates S&P Global Q3 22 Earnings Conference Call At 8:30 AM ET ",0.5
+18,SO,2022-10-27,06:45:00," Southern Co. Q3 Profit Increases, but misses estimates",0
+19,PCG,2022-10-27,08:00:00, PG&E Updates FY22 Earnings View; Sees FY23 Earnings In Line Or Below Market - Update  PG&E Corp. Q3 Earnings Summary PG&E Q3 22 Earnings Conference Call At 11:00 AM ET ,0
+0,LKQ,2022-10-27,06:00:00," LKQ Corp Q3 Profit Decreases, But Beats Estimates ",0
+1,IP,2022-10-27,07:00:00," International Paper Q3 Profit Advances, Beats estimates International Paper Q3 22 Earnings Conference Call At 10:00 AM ET ",1
+2,DTE,2022-10-27,07:00:00," DTE Energy Q3 Earnings Surge, Beat Street View ",1
+3,CMS,2022-10-27,07:00:00," CMS Energy Q3 22 Earnings Conference Call At 9:30 AM ET  CMS Energy Raises Adjusted Earnings Guidance  CMS Energy Corp. Q3 Profit Decreases, but beats estimates",0.5
+4,CBRE,2022-10-27,06:42:00," CBRE Group, Inc. Q3 Profit Increases, but misses estimates CBRE Group Q3 22 Earnings Conference Call At 8:30 AM ET ",0
+5,BWA,2022-10-27,06:37:00, BorgWarner Q3 Results Top Estimates; Lifts FY22 Earnings View Above Market  Borg Warner Q3 22 Earnings Conference Call At 9:30 AM ET ,1
+6,BAX,2022-10-27,07:15:00," Baxter Sees Q4 Earnings Below Market; Cuts FY22 View, Now Sees Net Loss - Update  Baxter International Inc. Q3 Earnings Summary Baxter International Q3 22 Earnings Conference Call At 8:30 AM ET ",0
+7,AOS,2022-10-27,06:55:00," A.O. Smith Corp Q3 Profit Drops, Inline With Estimates",0
+8,AMT,2022-10-27,07:00:00," American Tower Cuts FY22 AFFO View; Lifts Net Income, Adj. EBITDA Targets - Update  American Tower Q3 22 Earnings Conference Call At 8:30 AM ET  American Tower Corp. Announces Rise In Q3 Bottom Line, Beats estimates",0.5
+9,WTW,2022-10-27,06:00:00, WTW Recasts 2024 Financial Targets ,0.5
+10,WST,2022-10-27,06:00:00,,0
+11,TFX,2022-10-27,06:30:00," Teleflex Q3 Profit Slides, But Beats Street; Trims Annual Outlook Below View ",0
+12,ALLE,2022-10-27,05:30:00," Allegion Q3 Profit Down, But Beats Estimates; Revises Annual Guidance Above View ",0.5
+13,TROW,2022-10-27,07:00:00," T. Rowe Price Group Q3 Profit Falls  T. Rowe Price Group Q3 Profit Decreases, but beats estimates",0
+14,LIN,2022-10-27,06:20:00," Linde Q3 Profit Higher, Above Estimates; Ups Annual Outlook Better Than View ",1
+15,LH,2022-10-27,06:45:00," Laboratory Corporation Of America Holdings Q3 Profit Decreases, but beats estimates",0
+16,KIM,2022-10-27,07:00:00, Kimco Realty Q3 FFO Rises; Increases 2022 Outlook  Kimco Realty Q3 22 Earnings Conference Call At 8:30 AM ET ,1
+17,KDP,2022-10-27,06:30:00," Keurig Dr Pepper Q3 22 Earnings Conference Call AT 8:00 AM ET  Keurig Dr Pepper Inc. Q3 Profit Drops, Inline With Estimates",0
+18,CARR,2022-10-27,06:30:00,,0
+19,AEP,2022-10-27,06:57:00," American Electric Power Co Q3 22 Earnings Conference Call At 9:00 AM ET  American Electric Power Co Inc Q3 Profit Decreases, but beats estimates",0
+0,XOM,2022-10-28,06:30:00," ExxonMobil Q3 Profit Soars, Tops Estimates  Exxon Mobil Corp. Q3 Profit Increases, beats estimates",1
+1,CVX,2022-10-28,06:15:00," Chevron Q3 22 Earnings Conference Call 11:00 AM ET  Chevron Stock Rises As Q3 Profit Beats Estimates  Chevron Corp. Q3 Profit Increases, beats estimates",1
+2,ABBV,2022-10-28,07:44:00," AbbVie Q3 22 Earnings Conference Call At 9:00 AM ET  AbbVie Q3 Profit Up, Beats Estimates; Narrows Full-year Earnings Outlook - Update ",1
+3,NEE,2022-10-28,07:30:00, NextEra Energy Maintains FY22 Adj. EPS Outlook - Update  NextEra Energy Partners Boosts Quarterly Distribution 15% - Update  NextEra Energy Q3 22 Earnings Conference Call At 9:00 AM ET  NextEra Energy Q3 Profit Rises Above Estimates; Backs Annual Earnings Guidance - Update ,1
+4,LYB,2022-10-28,06:30:00," LyondellBasell Industries N.V. Q3 Profit Decreases, misses estimates",0
+5,GWW,2022-10-28,08:00:00, Grainger Increases Full Year 2022 Guidance ,1
+6,DVA,2022-10-28,06:30:00," DaVita Q3 22 Earnings Conference Call At 8:30 AM ET  DaVita Q3 Profit Tumbles, Cuts FY22 Outlook  DaVita Q3 Profit Down, Misses Estimates; Cuts Annual Profit Outlook Below View - Update ",0
+7,CL,2022-10-28,06:55:00," Colgate-Palmolive Revises FY22 Adj. Earnings, Sales View - Update  Colgate-Palmolive Co. Q3 Profit Decreases, but beats estimates Colgate-Palmolive Co. Q3 22 Earnings Conference Call At 8:30 AM ET ",0.5
+8,CHTR,2022-10-28,07:00:00," Charter Communications, Inc. Q3 Profit  misses estimates",0
+9,CHD,2022-10-28,06:55:00," Church & Dwight Issues Q4 & FY22 Outlook  Church & Dwight Co Inc. Q3 Profit Decreases, but beats estimates",0.5
+10,AON,2022-10-28,06:00:00, Aon plc Q3 Earnings Summary,0.5
+11,ON,2022-10-31,08:00:00," Onsemi Issues Q4 Earnings, Revenue View- Update  ON Semiconductor Corp. Q3 Profit Beats Estimates ON Semiconductor Q3 22 Earnings Conference Call At 9:00 AM ET ",1
+12,HWM,2022-10-31,07:00:00," Howmet Q3 Adj. EPS Meets Estimates, But Revenues Miss; Doubles Dividend ",0.5
+13,EMR,2022-10-31,06:35:00," Emerson To Sell Majority Stake In Climate Technologies Business - Quick Facts  Emerson Electric Q4 Profit Dips, Misses Estimates - Update ",0
+14,PEG,2022-10-31,07:30:00, Public Service Enterprise Narrows FY22 Operating Earnings Outlook Range - Update  Public Service Enterprise Group Inc Q3 Earnings Summary Public Service Enterprise Group Q3 22 Earnings Conference Call At 11:00 AM ET ,0
+15,L,2022-10-31,06:00:00," Loews: Loews Hotels Names Alex Tisch President And CEO, Jonathan Tisch Exe. Chairman  Loews Corp. Reports Retreat In Q3 Income Loews Q3 22 Earnings Conference Call At 10:00 AM ET ",0
+16,GPN,2022-10-31,06:55:00," Global Payments Q3 Profit Weak, Adj. EPS Meets View; Backs FY22 Forecast  Global Payments Q3 Profit Down, Adj. EPS Meets View; Backs FY22 Outlook Above Market  Global Payments Q3 22 Earnings Conference Call At 8:00 AM ET ",0
+17,PFE,2022-11-01,06:45:00, Pfizer Reports Positive Top-Line Trial Data For Bivalent RSV Vaccine Candidate  Pfizer Boosts FY22 Outlook As Q3 Results Top Estimates  Pfizer Inc. Reveals Advance In Q3 Income Pfizer Q3 22 Earnings Conference Call At 10:00 AM ET ,1
+18,UBER,2022-11-01,06:55:00, Uber Technologies Q3 Loss Narrows As Revenue Spikes 72% ,1
+19,LLY,2022-11-01,06:25:00, Lilly Cuts FY22 Earnings Outlook Again - Update  Eli Lilly And Co. Q3 Income Rises Eli Lilly And Co. Q3 22 Earnings Conference Call At 9:00 AM ET ,0
+0,FOXA,2022-11-01,08:00:00," Fox Corporation Q1 Profit Decreases, but beats estimates Fox Corp. Q1 23 Earnings Conference Call At 8:30 AM ET ",0.5
+1,XYL,2022-11-01,06:55:00," Xylem Q3 Profit Down , But Beats Estimates; Improves Annual Profit Outlook Above View - Update ",0.5
+2,WAB,2022-11-01,06:30:00," Wabtec Corporation Q3 Profit Increases, beats estimates",1
+3,TAP,2022-11-01,07:00:00," Molson Coors Brewing Company Q3 Profit Decreases, misses estimates",0
+4,SYY,2022-11-01,08:00:00," Sysco Q1 Adj. EPS Miss Estimates, But Sales Top; Reaffirms FY22 Outlook  Sysco Q1 23 Earnings Conference Call AT 10:00 AM ET ",0.5
+5,PSX,2022-11-01,07:00:00, Philips 66 Q3 Profit Leaps On Growth In Refining Income; Beats View  Phillips 66 Q3 22 Earnings Conference Call AT 12:00 PM ET ,1
+6,NEM,2022-11-01,07:00:00,, 
+7,MPC,2022-11-01,06:05:00," Marathon Petroleum Corporation Q3 Profit Increases, beats estimates Marathon Petroleum Q3 22 Earnings Conference Call At 11:00 AM ET ",1
+8,HSIC,2022-11-01,06:30:00," Henry Schein Q3 Profit Declines, But Above View - Update ",0.5
+9,FOX,2022-11-01,08:00:00," Fox Corporation Q1 Profit Decreases, but beats estimates Fox Corp. Q1 23 Earnings Conference Call At 8:30 AM ET ",0.5
+10,ETN,2022-11-01,06:30:00," Eaton Issues Q4 Outlook, Backs FY22 Adj. Earnings View - Update  Eaton Corp. Q3 Profit Decreases, but beats estimates",0.5
+11,CTLT,2022-11-01,07:00:00,, 
+12,CNP,2022-11-01,06:25:00," CenterPoint Energy Q3 Profit Down, But Beats Estimates; Backs Full-year EPS Outlook - Update  CenterPoint Energy Promotes Jason Wells To COO ",0.5
+13,BEN,2022-11-01,08:30:00," Franklin Resources Inc. Q4 Profit Decreases, but beats estimates",0.5
+14,AME,2022-11-01,06:55:00," Ametek Q3 Profit Rises, Above Estimates: Ups Annual Earnings Outlook  - Update  Ametek Q3 22 Earnings Conference Call At 8:30 AM ET ",1
+15,WEC,2022-11-01,07:00:00," WEC Energy Group Reveals Rise In Q3 Income, Beats estimates",1
+16,WAT,2022-11-01,06:50:00, Waters Corp. Q3 Profit Beats Estimates ,1
+17,LDOS,2022-11-01,06:00:00," Leidos Holdings Profit Slips, Yet Beats Estimates; Updates FY22 Outlook  Leidos Holdings Q3 Profit Drops, But Beats Estimates; Ups Annual Revenue Outlook - Update ",0.5
+18,IT,2022-11-01,06:00:00," Gartner, Inc. Q3 Profit Increases, beats estimates",1
+19,IDXX,2022-11-01,06:30:00," IDEXX Laboratories Q3 Earnings Rise, Revenue Beats  IDEXX Laboratories Inc Profit Climbs In Q3, Beats estimates",1
+0,ECL,2022-11-01,08:30:00, Ecolab Inc. Bottom Line Rises In Q3 Ecolab Q3 22 Earnings Conference Call At 1:00 PM ET ,1
+1,ZBRA,2022-11-01,06:30:00, Zebra Technologies Guides Q4 Well Below View As Q3 Results Miss Estimates ,0
+2,TECH,2022-11-01,06:30:00,,0.5
+3,SPG,2022-11-01,07:00:00," Simon Property Lifts FY22 Outlook, Q4 Dividend - Update  Simon Property Group  Inc Q3 Income Drops, but beats estimates",1
+4,INCY,2022-11-01,07:00:00," Incyte Corporation Q3 Profit Decreases, misses estimates Incyte Q3 22 Earnings Conference Call AT 8:00 AM ET ",0
+5,CVS,2022-11-02,06:30:00," CVS Health Posts Q3 Loss, Adj. EPS Tops View; Lifts FY22 Adj. EPS Forecast  CVS Health Q3 22 Earnings Conference Call At 8:00 AM ET  CVS Health Raises FY22 Adj. EPS View Above Market - Update  CVS Health To Resolve All Opioid Lawsuits, Claims; To Pay Approx. $5 Bln Over Ten Years  CVS Health Corp. Q3 Earnings Summary",1
+6,YUM,2022-11-02,07:00:00," Yum! Brands Inc. Q3 Profit Decreases, misses estimates Yum! Brands Q3 22 Earnings Conference Call AT 8:15 AM ET ",0
+7,PARA,2022-11-02,07:00:00,,0.5
+8,TT,2022-11-02,06:30:00,,0.5
+9,TEL,2022-11-02,06:00:00," TE Connectivity Q4 22 Earnings Conference Call At 8:30 AM ET  TE Connectivity Sees Q1 Earnings, Net Sales Below Market - Update  TE Connectivity Ltd. Q4 Profit Drops, Inline With Estimates",0
+10,ROK,2022-11-02,07:00:00," Rockwell Automation Sees Higher Earnings, Sales In FY23 - Update  Rockwell Automation  Inc. Q4 Profit Increases, beats estimates Rockwell Automation Q4 22 Earnings Conference Call At 8:30 AM ET ",1
+11,HUM,2022-11-02,06:30:00," Humana Q3 22 Earnings Conference Call AT 9:00 AM ET  Humana Affirms FY22 Adj. EPS Outlook - Update  Humana Q3 Profit Slides, But Beats Estimates; Backs Full-year Earnings Guidance - Update ",1
+12,EL,2022-11-02,06:45:00," The Estée Lauder Companies Q1 23 Earnings Conference Call At 9:30 AM ET  Estée Lauder Slashes FY23 Outlook; Boosts Dividend 10% - Update  The Estée Lauder Companies Inc. Q1 Profit Decreases, but beats estimates",0
+13,CRL,2022-11-02,07:00:00," Charles River Labs Q3 Profit Down, Beats Estimates; Revises FY22 View; To Sell Avian Vaccine Unit ",1
+14,CHRW,2022-11-02,07:30:00, C.H. Robinson Q3 Adj. Gross Profit Rises; Total Revenues Down 4.0% ,0.5
+15,CDW,2022-11-02,07:00:00," CDW Corp. Q3 22 Earnings Conference Call At 8:30 AM ET  CDW Corporation Q3 Profit Increases, beats estimates",1
+16,BR,2022-11-02,07:00:00," Broadridge Q1 Earnings Drop Despite Revenue Growth; Misses Street View; Backs Outlook - Update  Broadridge Financial Solutions Inc. Q1 Profit Decreases, misses estimates",0
+17,ZBH,2022-11-02,06:30:00, Zimmer Biomet Holdings Q3 22 Earnings Conference Call At 8:30 AM ET  Zimmer Biomet Holdings Inc. Q3 Income Advances,1
+18,VMC,2022-11-02,07:00:00," Vulcan Materials Co. Q3 Profit Increases, beats estimates",1
+19,TRMB,2022-11-02,06:55:00," Trimble Inc. Q3 Profit Drops, Inline With Estimates",0
+0,GNRC,2022-11-02,06:00:00,,0
+1,MLM,2022-11-02,06:55:00," Martin Marietta Q3 Profit Rises, Beats View; Cuts Earnings Outlook - Update ",0
+2,ETR,2022-11-02,06:30:00," Entergy Q3 Profit Up, Beats View; Narrows Annual Earnings Guidance - Update ",1
+3,CMI,2022-11-03,07:30:00," Cummins Backs FY22 Revenue View; Cuts EBITDA Margin Forecast - Update  Cummins  Inc. Profit Falls In Q3, misses estimates",0
+4,CI,2022-11-03,06:00:00," Cigna Raises 2022 Outlook  Cigna Corp. Q3 Profit Increases, beats estimates Cigna Q3 22 Earnings Conference Call At 8:30 AM ET ",1
+5,ZTS,2022-11-03,07:00:00, Zoetis Again Slashes FY22 Outlook As Q3 Results Miss Estimates; Stock Down 11% ,0
+6,SRE,2022-11-03,06:55:00, ONCOR Q3 Net Income Rises  Sempra Energy Q3 Earnings; Lifts Full-year Earnings Outlook Above Estimates - Update ,1
+7,REGN,2022-11-03,06:30:00," Regeneron Pharmaceuticals Q3 22 Earnings Conference Call AT 8:30 AM ET  Regeneron Pharmaceuticals Q3 Profit Decreases, but beats estimates",0
+8,RCL,2022-11-03,08:21:00, Royal Caribbean Cruises Ltd. Q3 Earnings Summary,0
+9,PNW,2022-11-03,08:40:00," Pinnacle West Capital Corp. Reports Fall In Q3 Income, but beats estimates",0
+10,PH,2022-11-03,07:30:00, Parker Hannifin Q1 Profit Slips ,0
+11,MAR,2022-11-03,06:30:00," Marriott International Issues Q4 View; Lifts FY22 Earnings Forecast - Update  Marriott International Inc. Q3 Profit Increases, beats estimates Marriott International Q3 22 Earnings Conference Call At 8:00 AM ET ",1
+12,K,2022-11-03,08:00:00," Kellogg	Q3 Profit Beats Estimates, Sales Up 13% On Organic Basis; Raises Guidance  Kellogg Company Q3 Profit Increases, beats estimates Kellogg Q3 22 Earnings Conference Call At 9:30 AM ET ",1
+13,JCI,2022-11-03,07:00:00, Johnson Controls Inc Q4 Profit Climbs Johnson Controls Initiates Guidance  Johnson Controls Q4 22 Earnings Conference Call At 8:30 AM ET ,1
+14,ICE,2022-11-03,07:30:00, IntercontinentalExchange Group Inc. Q3 Earnings Summary,0
+15,HII,2022-11-03,07:15:00," Huntington Ingalls Industries, Inc. Q3 Income Retreats, but beats estimates",0
+16,EXC,2022-11-03,06:50:00,,0
+17,COP,2022-11-03,07:00:00, ConocoPhillips Q3 Profit Tops Estimates; Lifts Dividend; Plans Addl. $20 Bln Share Repurchase  ConocoPhillips Q3 22 Earnings Conference Call At 12:00 PM ET ,1
+18,APD,2022-11-03,06:00:00," Air Products Sees Higher Earnings In Q1, FY23 - Update  Air Products And Chemicals Inc. Q4 Profit Decreases, but beats estimates Air Products And Chemicals Q4 22 Earnings Conference Call AT 8:30 AM ET ",1
+19,TRGP,2022-11-03,06:00:00,,0
+0,PWR,2022-11-03,06:55:00," Quanta Services Inc. Q3 Profit Drops, Inline With Estimates",0
+1,IRM,2022-11-03,06:45:00," Iron Mountain Q3 22 Earnings Conference Call AT 8:30 AM ET  Iron Mountain Inc Q3 Profit Increases, beats estimates",1
+2,EPAM,2022-11-03,06:00:00,,0.5
+3,MRNA,2022-11-03,07:00:00, Moderna Stock Plunges 12% As Q3 Results Miss Estimates ,0
+4,FIS,2022-11-03,07:00:00," Fidelity National Information Services Q3 Profit Increases, but misses estimates Fidelity National Information Services Q3 22 Earnings Conference Call AT 8:30 AM ET ",0
+5,DOC,2022-11-03,07:50:00,,0.5
+6,BALL,2022-11-03,06:00:00," Ball Corporation Q3 Profit Increases, but misses estimates Ball Q3 Profit Spikes ",0
+7,APTV,2022-11-03,06:45:00," Aptiv Q3 Profit Rises, Beats Estimates - Update ",1
+8,CAH,2022-11-04,06:55:00," Cardinal Health Reaffirms FY23 Outlook - Update  Cardinal Health Inc Q1 Profit Decreases, but beats estimates",1
+9,PPL,2022-11-04,08:00:00," PPL Corporation Q3 Profit Decreases, misses estimates",0
+10,HSY,2022-11-04,07:00:00," Hershey Lifts FY22 Earnings Outlook Above Market - Update  Hershey Co. Q3 22 Earnings Conference Call At 8:30 AM ET  Hershey Co. Q3 Profit Decreases, but beats estimates",1
+11,DUK,2022-11-04,06:38:00," Duke Energy Slashes FY22 Outlook As Q3 Adj. EPS Miss Estimates  Duke Energy Q3 22 Earnings Conference Call At 9:00 AM ET  Duke Energy Corp Q3 Profit Increases, but misses estimates",0
+12,D,2022-11-04,07:30:00," Dominion Energy, Inc. Q3 Profit Increases, beats estimates",1
+13,AES,2022-11-04,06:00:00," AES Sees 2022 Adj. EPS Near High End Of Guidance - Update  The AES Corporation Q3 Profit Increases, beats estimates",1
+14,EVRG,2022-11-04,06:00:00," Everg Q3 Profit Down, But Beats Estimates; Raises Dividend - Update ",1
+15,CBOE,2022-11-04,07:30:00," Cboe Global Markets Lifts FY Organic Net Revenue Growth View  CBOE Global Markets, Inc. Q3 Profit Increases, beats estimates CBOE Global Markets Q3 22 Earnings Conference Call At 8:30 AM ET ",1
+16,NI,2022-11-07,06:30:00," NiSource Plans To Sell Minority Interest In NIPSCO, Advances Net Zero Goal  NiSource Narrows FY22 Adj. EPS Outlook Range; Q3 Adj. EPS Misses Estimates  NiSource Inc. Q3 Profit Misses Estimates",0
+17,XRAY,2022-11-07,06:00:00,,0.5
+18,NRG,2022-11-07,06:35:00," NRG Energy Inc Q3 Income Drops, misses estimates",0
+19,VTRS,2022-11-07,06:50:00," Viatris Stock Gains 15% On Quarterly Results, Two Acquisitions  Viatris To Acquire Oyster Point And Famy Life Sciences To Create Ophthalmology Franchise  Viatris Reaffirms FY22 Revenue Outlook, Declares Dividend - Update  Viatris Inc. Profit Climbs In Q3",1
+0,DD,2022-11-08,06:00:00, DuPont Board Approves $5.0 Bln Share Repurchase - Quick Facts  EI DuPont De Nemours & Co. Announces Decline In Q3 Bottom Line,0
+1,EXPD,2022-11-08,08:30:00," Expeditors International of Washington Inc. Profit Climbs In Q3, Beats estimates",1
+2,RVTY,2022-11-08,06:00:00, PerkinElmer Boosts FY22 Adj. EPS Outlook As Q3 Results Top Estimates  PerkinElmer Bottom Line Falls In Q3,0
+3,NCLH,2022-11-08,07:30:00," Norwegian Cruise Line Posts Narrower Loss In Q3, Beats Estimates ",1
+4,CEG,2022-11-08,06:50:00,,0.5
+5,BLDR,2022-11-08,07:00:00,,0.5
+6,DHI,2022-11-09,06:30:00," D R Horton Inc. Q4 Income Rises, but misses estimates",0
+7,WRK,2022-11-10,06:30:00," WestRock Company Q4 Profit Increases, beats estimates WestRock Q4 22 Earnings Conference Call At 8:30 AM ET ",1
+8,TPR,2022-11-10,06:45:00," Tapestry Updates FY23 Earnings Outlook; Reiterates 2025 Financial Targets  Tapestry, Inc. Q1 Earnings Summary",1
+9,RL,2022-11-10,08:01:00," Ralph Lauren Maintains FY23 Revenue Growth Outlook - Update  Ralph Lauren Corp. Q2 Profit Decreases, but beats estimates Ralph Lauren Q2 23 Earnings Conference Call At 9:00 AM ET ",0.5
+10,BDX,2022-11-10,06:30:00," Becton, Dickinson Guides FY23 Below Estimates; Boosts Dividend 4.6% - Update  Becton, Dickinson and Company Q4 Profit Increases, beats estimates Becton, Dickinson And Co. Q4 22 Earnings Conference Call At 8:00 AM ET ",0.5
+11,TDG,2022-11-10,07:15:00," TransDigm Re-initiates Guidance  TransDigm Group Incorporated Q4 Profit Increases, beats estimates",1
+12,TSN,2022-11-14,06:55:00, Tyson Foods Q4 Profit Misses Estimates; Productivity Program Ahead Of Schedule ,0
+13,XRAY,2022-11-14,06:00:00, Dentsply Sirona Slips To Loss In Q3; Cuts FY22 Outlook - Quick Facts ,0
+14,WMT,2022-11-15,07:08:00, Walmart Q3 Results Top Estimates; Raises Full-year Outlook  Walmart Inc. Q3 Earnings Summary Walmart Agrees $3.1 Bln Nationwide Opioid Settlement ,1
+15,HD,2022-11-15,06:00:00," Home Depot Q3 Results Rise, Top Estimates; Backs FY22 Outlook ",1
+16,TGT,2022-11-16,06:30:00," Target Q3 Results Miss Estimates, While TJX Adj. EPS Top Estimates  Target Corp. Q3 22 Earnings Conference Call At 8:00 AM ET  Target Corp. Cuts Q4 Topline And Bottom Line Expectations  Target Corp. Q3 Profit Decreases, misses estimates",0
+17,TJX,2022-11-16,07:30:00," TJX Cos. Promotes John Klinger To Succeed Scott Goldenberg As CFO  Target Q3 Results Miss Estimates, While TJX Adj. EPS Top Estimates  TJX Companies Boosts FY23 Earnings Outlook - Update  The TJX Companies, Inc. Reports Rise In Q3 Bottom Line, Beats estimates The TJX Companies Q3 23 Earnings Conference Call At 11:00 AM ET ",1
+18,LOW,2022-11-16,06:00:00," Loews Q3 22 Earnings Conference Call At 9:00 AM ET  Lowe's Raises 2022 Outlook  Lowe's Cos. Q3 Profit Decreases, but beats estimates",1
+19,SJM,2022-11-21,07:00:00," J. M. Smucker Boosts FY23 Outlook As Q2 Results Top Estimates  The J. M. Smucker Company Q2 Profit Decreases, but beats estimates",1
